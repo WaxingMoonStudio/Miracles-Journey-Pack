@@ -1,0 +1,92 @@
+version = 2.3.1
+# Note: Please restart minecraft to apply changes in config
+
+[Steel Tools And Weapons]
+
+# Wood:0 Stone:1 Iron:2 Diamond:3 Netherite:4
+# Default:2
+steel_item_harvest_level = 2
+
+# Default:484
+steel_item_durability = 484
+
+# Wood:2 Stone:4 Iron:6 Diamond:8 Netherite:9 Gold:12
+# Default:6.5
+steel_item_efficiency = 6.5
+
+# Wood:15 Stone:5 Iron:14 Diamond:10 Netherite:15 Gold:22
+# Default:16
+steel_item_enchantability = 16
+
+# Default:6
+steel_sword_damage = 6
+
+# Default:1.6
+steel_sword_attack_speed = 1.6
+
+# Default:9
+steel_axe_damage = 9.0
+
+# Default:0.9
+steel_axe_attack_speed = 0.9
+
+# Default:460
+steel_shears_durability = 460
+
+# Default:88
+quartz_and_steel_durability = 88
+
+
+[Steel Armors]
+
+# Determines durability
+# Leather:5 Chain:15 Iron:15 Diamond:33 Netherite:37 Gold:7
+# Default:20
+steel_armor_maxDamageFactor = 20
+
+# Leather:15 Chain:12 Iron:9 Diamond:10 Netherite:15 Gold:25
+# Default:11
+steel_armor_enchantability = 11
+
+# Leather:1 Chain:2 Iron:2 Diamond:3 Netherite:3 Gold:2
+# Default:2
+steel_armor_helmet_armor = 2
+
+# Leather:3 Chain:5 Iron:6 Diamond:8 Netherite:8 Gold:5
+# Default:6
+steel_armor_chestplate_armor = 6
+
+# Leather:2 Chain:4 Iron:5 Diamond:6 Netherite:6 Gold:3
+# Default:5
+steel_armor_leggings_armor = 5
+
+# Leather:1 Chain:1 Iron:2 Diamond:3 Netherite:3 Gold:1
+# Default:2
+steel_armor_boots_armor = 2
+
+# Leather:0 Chain:0 Iron:0 Diamond:2 Netherite:3 Gold:0
+# Default:1
+steel_armor_toughness = 1.0
+
+# Leather:0 Chain:0 Iron:0 Diamond:0 Netherite:0.1 Gold:0
+# Default:0
+steel_armor_knockbackResistance = 0.0
+
+
+[Steel Golem]
+
+# Max health is capped at 1024 by minecraft
+# Default:150
+steel_golem_max_health = 150.0
+
+# Default:15
+steel_golem_attack_damage = 15.0
+
+# Using steel ingots to steel golem heals it by this value
+# Default:37.5
+steel_golem_use_ingot_heal = 37.5
+
+# Movement speed seems only apply to newly created golem after changing config
+# Default:0.25
+steel_golem_movement_speed = 0.25
+

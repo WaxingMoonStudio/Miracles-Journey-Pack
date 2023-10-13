@@ -1,0 +1,12 @@
+
+[plane_info]
+	enabled = true
+	#Range: 0.1 ~ 2.0
+	scale = 0.75
+	#Allowed Values: KILOMETERS_PER_HOUR, BLOCKS_PER_SECOND
+	speed_type = "KILOMETERS_PER_HOUR"
+
+[plane]
+	#Range: 1.0 ~ 20.0
+	third_person_zoom = 6.0
+

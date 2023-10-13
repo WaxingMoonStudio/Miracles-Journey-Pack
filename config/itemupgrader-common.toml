@@ -1,0 +1,20 @@
+
+[performance]
+	#Allows upgrades to search for items in a sphere rather than a cube if specified.
+	#Disabling this COULD help performance.
+	#Requires datapack reload to take effect.
+	#[Default: true]
+	allowMagneticSphere = true
+	#Allows the mod to run per-tick actions for any living entity besides a player
+	#Disabling this COULD help performance.
+	#Also note that players will still run per-tick events.
+	#[Default: true]
+	allowLivingTick = true
+
+[compatibility]
+	#Blacklist filter for which items can have upgrades.
+	#This is a regular expression. Feel free to use https://regex101.com/ to test these.
+	#>> If this doesn't fully apply to JEI or something after one /reload just do it again to finish the job.
+	#[Default: tconstruct
+	upgradeItemBlacklist = "tconstruct"
+

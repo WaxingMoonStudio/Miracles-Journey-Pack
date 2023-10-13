@@ -1,0 +1,60 @@
+
+["Default Map Behavior"]
+	#Decides what behavior vanilla maps follow in cave dimensions.
+	#FIXED: map scans at a fixed configurable y-value
+	#SNAP: map scans at the nearest of several configurable y-values
+	#VARIABLE: map scans at the y-value it was created at
+	#Default: FIXED
+	#Allowed Values: FIXED, SNAP, VARIABLE
+	"Default Behavior" = "FIXED"
+
+["Fixed-Height Map Settings"]
+	#If true, will add fixed-height maps to the game, craftable with a normal map and an iron nugget.
+	#These maps always use the configurable fixed heights.
+	#If false, the maps will still be craftable, but will not work. Default: false
+	"Enable Fixed Maps" = false
+	#Add dimensions' fixed scan heights.
+	#Note that in the Nether, values under 22 allow for Ancient Debris cheese.
+	#Example: ["minecraft:the_nether,70","undergarden:undergarden,120"]
+	"dimension list" = ["minecraft:the_nether,70"]
+
+["Snap-Height Map Settings"]
+	#If true, will add snap-height maps to the game, craftable with a normal map and redstone.
+	#These maps always use the configurable snap heights.
+	#If false, the maps will still be craftable, but will not work. Default: false
+	"Enable Snap Maps" = false
+	#Add dimensions' snap scan heights.
+	#You can specify multiple heights per dimension.
+	#This is good for mapping a dimension in multiple fixed layers.
+	#Note that in the Nether, values under 22 allow for Ancient Debris cheese.
+	#Example: ["minecraft:the_nether,40,70,100","undergarden:undergarden,60,120,180"]
+	"dimension list" = ["minecraft:the_nether,40,70,100"]
+
+["Variable-Height Map Settings"]
+	#If true, will add variable-height maps to the game, craftable with a normal map and lapis.
+	#These maps always use the height they are created at.
+	#If false, the maps will still be craftable, but will not work. Default: false
+	"Enable Variable Maps" = false
+	#Add minimum allowed y-values for variable-height maps.
+	#It is recommended to set this to at least 22 in the Nether to avoid Ancient Debris cheese.
+	#Minima can never be less than -64.
+	#Example: ["minecraft:the_nether,22"]
+	"dimension list" = ["minecraft:the_nether,22"]
+	#Modifier to place on variable-height maps' y-value. 0 produces a map at your feet's y-value, 2 at your head. Default: 2
+	#Range: -100 ~ 100
+	"Variable Height Modifier" = 2
+
+["Enable Overworld Cave Mapping"]
+	#If true, the alternate map types will use their cave functionality in the Overworld and other non-cave dimensions. Vanilla maps will still use vanilla behavior.
+	#This therefore requires alternate maps to be enabled.
+	#This requires entering the overworld into the above config settings, e.g. "minecraft:overworld,-30,0,30".
+	"Enable Overworld Maps" = false
+
+["Disable Spinning Indicator"]
+	#If true, the location indicator on Nether maps will be accurate rather than spinning. Default: true
+	"Disable Spin" = true
+
+["Enable Debug Messages"]
+	#Displays the Y-level a map is linked to in the chat when you create it. Default: false
+	"Enable Debug" = false
+

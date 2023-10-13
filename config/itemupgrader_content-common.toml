@@ -1,0 +1,28 @@
+
+#Strangely buggy when in server config so this is in common config instead.
+[datapack]
+	#Is the mod's default upgrade datapack enabled?
+	#Disable this if you only want to use custom upgrade datapacks.
+	#[Default: true]
+	basePackEnabled = true
+	#Should the mod's default upgrade datapack recipes be enabled?
+	#Disable this to easily use your own recipes.
+	#[Default: true]
+	basePackRecipes = true
+
+[functionality]
+	#How long it takes a shield to activate and block damage.
+	#[Vanilla: 5]
+	#[Default: 0]
+	#Range: 0 ~ 20
+	shieldRaiseSpeed = 0
+	#Defines the duration after putting up a shield the parry upgrade will be functional for.
+	#[Default: 10]
+	#Range: 5 ~ 100
+	shieldParryDuration = 10
+	#How many charges each echo shard adds to the echoing (soulbound) upgrade.
+	#A value of -1 will make the upgrade permanent.
+	#[Default: 3]
+	#Range: -1 ~ 255
+	soulboundCharges = 5
+
