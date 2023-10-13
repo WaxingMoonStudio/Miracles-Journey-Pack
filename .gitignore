@@ -53,6 +53,10 @@
 
 /wd_filehost
 
+# /wiki
+
+# /.gitignore
+
 /.qmenu_opened.marker
 
 # /\[奇迹之旅\] - \[Miracles Journey\].jar
