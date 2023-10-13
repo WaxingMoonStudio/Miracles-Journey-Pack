@@ -1,3 +1,77 @@
-mods/cinemamod-libraries
-OpenJDK17
-PCL
+/\[奇迹之旅\] - \[Miracles Journey\]-natives
+
+/armourers_workshop
+
+/caxton_cache
+
+# /config
+
+/debug
+
+/defaultconfigs
+
+/ESM
+
+/jcef
+
+# /kubejs
+
+/local
+
+/localconfigs
+
+/logs
+
+/modernfix
+
+# /mods
+
+/music_sheets
+
+/OpenJDK17
+
+/patchouli_books
+
+/PCL
+
+/potionblender
+
+# /resourcepacks 部分
+/resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.19.2.zip
+/resourcepacks/Quark Programmer Art.zip
+
+/saves
+
+/schematics
+
+/screenshots
+
+/tlm_custom_pack
+
+/tmp
+
+/wd_filehost
+
+/.qmenu_opened.marker
+
+# /\[奇迹之旅\] - \[Miracles Journey\].jar
+
+# /\[奇迹之旅\] - \[Miracles Journey\].json
+
+/caxton_impl.dll
+
+# /LICENSE
+
+# /options.txt
+
+/patchouli_data.json
+
+# /README.md
+
+/rhino.local.properties
+
+/usercache.json
+
+/usernamecache.json
+
+/wd_next.txt
