@@ -47,11 +47,9 @@
 
 /screenshots
 
-/tlm_custom_pack
+# /shaderpacks
 
 /tmp
-
-/wd_filehost
 
 # /wiki
 
@@ -80,5 +78,3 @@
 /usercache.json
 
 /usernamecache.json
-
-/wd_next.txt
