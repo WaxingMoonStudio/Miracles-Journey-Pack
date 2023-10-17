@@ -51,6 +51,8 @@
 
 /tmp
 
+/wd_filehost
+
 # /wiki
 
 # /.gitignore
@@ -78,3 +80,5 @@
 /usercache.json
 
 /usernamecache.json
+
+/wd_next.txt
