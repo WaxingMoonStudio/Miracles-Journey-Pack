@@ -1,2 +1,6 @@
-# \[奇迹之旅] - \[Miracles Journey]
+---
+description: 奇迹之旅
+---
+
+# Miracles Journey
 
