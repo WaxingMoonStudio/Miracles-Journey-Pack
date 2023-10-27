@@ -5,3 +5,7 @@
 	#Display equipment attributes in tooltips
 	"Equipment Icons" = true
 
+[General]
+	#Allowed Values: DISPLAY_ALL, DISPLAY_MY, DISPLAY_OTHERS, HIDE
+	"Pet Mode" = "DISPLAY_ALL"
+
