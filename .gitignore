@@ -1,3 +1,7 @@
+/.mixin.out
+
+/A Journey of Miracles-natives
+
 /armourers_workshop
 
 /caxton_cache
@@ -13,6 +17,10 @@
 /defaultconfigs
 
 /ESM
+
+/fancymenu_data
+
+/fancymenu_setups
 
 /jcef
 
@@ -30,8 +38,6 @@
 /localconfigs
 
 /logs
-
-/Miracles Journey-natives
 
 /modernfix
 
@@ -56,7 +62,7 @@
 
 /screenshots
 
-# /shaderpacks
+/thingpacks
 
 /tmp
 
@@ -68,15 +74,15 @@
 
 /.qmenu_opened.marker
 
+# /A Journey of Miracles.jar
+
+# /A Journey of Miracles.json
+
 /caxton_impl.dll
 
 /hmclversion.cfg
 
 # /LICENSE
-
-# /Miracles Journey.jar
-
-# /Miracles Journey.json
 
 # /options.txt
 
