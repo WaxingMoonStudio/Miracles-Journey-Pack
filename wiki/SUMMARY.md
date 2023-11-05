@@ -1,3 +1,7 @@
 # Table of contents
 
-* [\[奇迹之旅\] - \[Miracles Journey\]](README.md)
+* [主页](README.md)
+
+## 游玩须知
+
+* [Page 1](you-wan-xu-zhi/page-1.md)
