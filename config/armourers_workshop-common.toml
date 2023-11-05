@@ -77,9 +77,7 @@
 	#Required permission level 5 or higher.
 	allowManageSkins = false
 	#We priority use https for the access token APIs.
-	customGlobalServerURLs = []
-	#For the private global servers, will have special handling for caching.
-	privateGlobalServer = false
+	skinServerURLs = []
 
 #Enable/disable holiday events.
 [holiday-events]

@@ -1,0 +1,27 @@
+#enchantsmith Config
+#Config for the Enchantsmith
+#When changing the costs, keep the gold and emerald cost under 64 otherwise the player cant obtain it.
+#The experience costs can be changed to be above 64
+#Base cost for enchants
+enchant_base_cost = 6
+#Cost for common enchants
+enchant_common_cost = 2
+#Cost for uncommon enchants
+enchant_uncommon_cost = 4
+#Cost for rare enchants
+enchant_rare_cost = 6
+#Cost for very rare enchants
+enchant_very_rare_cost = 8
+#Extra cost for treasure only enchants
+treasure_only_cost = 5
+#Cost for discoverable enchants
+is_discoverable_cost = -1
+#Cost for curse enchants
+is_curse_cost = -2
+#Cost for tradeable enchants
+is_tradeable_cost = -1
+#Multiplier for emerald cost
+emerald_cost_multp = 1
+#Multiplier for experience cost
+experience_cost_multp = 4
+

@@ -1470,8 +1470,8 @@
 		#Knockback resistance [default: 0.3]
 		#Range: 0.0 ~ 4.0
 		diamethystNetheriteArmorKnockbackResistance = 0.3
-		#Enable regeneration [default: true]
-		diamethystNetheriteArmorEnableRegeneration = true
+		#Enable regeneration [default: false]
+		diamethystNetheriteArmorEnableRegeneration = false
 		#Enable fire resistance [default: true]
 		diamethystNetheriteArmorEnableFireResistance = true
 		#Enable damage resistance [default: true]

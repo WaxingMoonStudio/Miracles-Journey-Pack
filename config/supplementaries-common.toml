@@ -194,6 +194,7 @@
 	sconce = true
 	sconce_lever = true
 	sconce_green = false
+	altimeter = false
 	pancake = true
 	netherite_door = true
 	netherite_trapdoor = true
@@ -310,6 +311,7 @@
 			show_distance_text = true
 
 [tools]
+	altimeter = true
 	antique_ink = true
 	candy = true
 	stasis = true
@@ -328,6 +330,12 @@
 		only_works_in_curio = false
 		#Arrows you pickup will try to go in a quiver if available provided it has some arrow of the same type
 		quiver_pickup = true
+
+	[tools.slice_map]
+		enabled = true
+		#Multiplier that will be applied by slice maps to lower their range compared to normal maps
+		#Range: 0.0 ~ 1.0
+		range_multiplier = 0.25
 
 	[tools.bubble_blower]
 		enabled = true
@@ -511,10 +519,14 @@
 		random_adventurer_maps = true
 		#Enables beacons, lodestones, respawn anchors, beds, conduits, portals to be displayed on maps by clicking one of them with a map
 		block_map_markers = true
+		#Shows a death marker on your map when you die. Requires a recovery compass in player inventory or similar
+		#Allowed Values: OFF, WITH_COMPASS, ALWAYS
+		death_marker = "WITH_COMPASS"
+		colored_map = true
 		#If Quark is installed adventurer maps will be replaced by adventurer quills. These will not lag the server when generating
 		quill_adventurer_maps = true
 		#If Quark is installed replaces buried treasure and mansion maps with their equivalent quill form. This removes the lag spike they create when generating
-		quill_vanilla_maps = true
+		quill_vanilla_maps = false
 		#These maps will roll a difference structure every time. Increase their price to balance them
 		#Range: 1.0 ~ 10.0
 		map_trade_price_multiplier = 2.0
