@@ -1,9 +1,0 @@
-
-["weapons to kill shark"]
-	"weapons to kill shark" = "placeholder"
-	"not weapons to kill shark" = "placeholder"
-
-[damage]
-	min = 2.0
-	max = 9.0
-

@@ -59,11 +59,7 @@
     "block_face": false,
     "coordinates": false,
     "registry_name": "OFF",
-    "mod_name": true
-  },
-  "refinedcooking": {
-    "kitchen_access_point": true,
-    "kitchen_station": true
+    "mod_name": false
   },
   "utilitix": {
     "experience_crystal": true,
@@ -90,9 +86,9 @@
   },
   "create": {
     "filter": true,
+    "backtank_capacity": true,
     "goggles.requires_goggles": true,
-    "goggles": true,
-    "copper_backtank": true,
+    "goggles": false,
     "blaze_burner": true,
     "exact_block": true,
     "crafting_blueprint": true,
@@ -107,13 +103,6 @@
   },
   "corpse": {
     "corpse": true
-  },
-  "cookingforblockheads": {
-    "fridge": true,
-    "oven": true,
-    "sink": true,
-    "milk_jar": true,
-    "toaster": true
   },
   "storagedrawers": {
     "display.stacklimit": true,

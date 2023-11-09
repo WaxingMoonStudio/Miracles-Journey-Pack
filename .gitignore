@@ -1,8 +1,8 @@
+# /.github
+
 /.mixin.out
 
 /A Journey of Miracles-natives
-
-/armourers_workshop
 
 /caxton_cache
 
@@ -24,7 +24,7 @@
 
 /jcef
 
-# /journeymap 部分
+# /journeymap - 部分
 /journeymap/data
 /journeymap/icon
 /journeymap/server
@@ -41,7 +41,7 @@
 
 /modernfix
 
-# /mods 部分
+# /mods - 部分
 /mods/cinemamod-libraries
 
 /music_sheets
@@ -52,7 +52,7 @@
 
 /PCL
 
-# /resourcepacks 部分
+# /resourcepacks - 部分
 /resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.19.2.zip
 /resourcepacks/Quark Programmer Art.zip
 
@@ -62,9 +62,9 @@
 
 /screenshots
 
-/thingpacks
+# /shaderpacks
 
-/tmp
+/thingpacks
 
 /wd_filehost
 
