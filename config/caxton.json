@@ -4,5 +4,5 @@
   "sortTextRenderLayers": false,
   "reuseTextRendererDrawer": false,
   "fatalOnBrokenMethodCall": false,
-  "debugRefcountChanges": false
+  "debugRefcountChanges": true
 }
