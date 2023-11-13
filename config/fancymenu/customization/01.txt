@@ -24,6 +24,11 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = bottom-centered
   x = -107
@@ -86,11 +91,6 @@ customization {
   action = setbuttontexture
   backgroundhovered = config/fancymenu_custom/buttom_background_2_1.png
   backgroundnormal = config/fancymenu_custom/buttom_background_2_0.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
-  action = hidebutton
 }
 
 customization {
@@ -263,5 +263,20 @@ customization {
   actionid = 09151501-ef19-4cb0-b4cb-03d12dfd90991699194075340
   y = 0
   height = 30
+}
+
+customization {
+  identifier = %id=976411%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=9764%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=97641%
+  action = hidebutton
 }
 

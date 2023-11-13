@@ -23,8 +23,6 @@
 	enableQuote = false
 
 [Utilities]
-	#List of classes to dump all the functions
-	listDumpClass = []
 	#Set true to print verbose debug message
 	enableVerbose = false
 

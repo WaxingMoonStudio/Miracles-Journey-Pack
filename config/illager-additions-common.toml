@@ -1,0 +1,45 @@
+#Raids Configurations
+#Controls whether the Shogun spawns in raids, usually set to true
+"Shogun Raid Spawning" = true
+#Controls whether the Samurai spawns in raids, usually set to true
+"Samurai Raid Spawning" = true
+#Controls whether the Guard spawns in raids, usually set to true
+"Guard Raid Spawning" = true
+#Controls whether the Blastioner spawns in raids, usually set to true
+"Blastioner Raid Spawning" = true
+#Controls whether the Royal Longaxe Guards spawns in raids, usually set to false
+"Royal Longaxe Guards Raid Spawning" = false
+#Controls whether the Cowboy spawns in raids, usually set to true
+"Cowboy Raid Spawning" = true
+
+[Config]
+	#Controls the Shogun Attack Damage Multiplier, usually set to 1 
+	#0 = easy, 1 = normal, 2 = hard, 3 = hardest
+	"Samurai ai strength" = 1
+
+["Raid Wave Member Configuration"]
+	#    Shogun Wave Counts
+	#    Requires a list of no more and no less than 8 integers, each corresponding to its respective wave.
+	#
+	"Shogun Wave Count" = [0, 0, 0, 0, 0, 0, 0, 1]
+	#    Samurai Wave Counts
+	#    Requires a list of no more and no less than 8 integers, each corresponding to its respective wave.
+	#
+	"Samurai Wave Counts" = [0, 0, 1, 1, 0, 1, 1, 2]
+	#    Guard Wave Counts
+	#    Requires a list of no more and no less than 8 integers, each corresponding to its respective wave.
+	#
+	"Guard Wave Counts" = [0, 0, 0, 1, 1, 0, 1, 1]
+	#    Blastioner Wave Counts
+	#    Requires a list of no more and no less than 8 integers, each corresponding to its respective wave.
+	#
+	"Blastioner Wave Counts" = [0, 0, 0, 0, 0, 1, 0, 1]
+	#    Knights Wave Counts
+	#    Requires a list of no more and no less than 8 integers, each corresponding to its respective wave.
+	#
+	"Knights Wave Counts" = [0, 0, 0, 0, 1, 0, 1, 1]
+	#    Cowboy Wave Counts
+	#    Requires a list of no more and no less than 8 integers, each corresponding to its respective wave.
+	#
+	"Cowboy Wave Counts" = [0, 1, 0, 1, 0, 1, 0, 1]
+

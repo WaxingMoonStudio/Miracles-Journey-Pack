@@ -59,7 +59,7 @@
     "block_face": false,
     "coordinates": false,
     "registry_name": "OFF",
-    "mod_name": false
+    "mod_name": true
   },
   "utilitix": {
     "experience_crystal": true,
@@ -83,6 +83,9 @@
   },
   "delightful": {
     "crop_progress": true
+  },
+  "twilightforest": {
+    "quest_ram_wool": true
   },
   "create": {
     "filter": true,

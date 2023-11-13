@@ -1,8 +1,0 @@
-{
-  "rustTarget": null,
-  "tweakExpText": true,
-  "sortTextRenderLayers": false,
-  "reuseTextRendererDrawer": false,
-  "fatalOnBrokenMethodCall": false,
-  "debugRefcountChanges": true
-}

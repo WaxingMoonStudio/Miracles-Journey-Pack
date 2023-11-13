@@ -1547,11 +1547,11 @@
 		"Date Format" = "MM/dd/yyyy"
 
 	[client.improved_tooltips]
-		"Attribute Tooltips" = false
-		"Food Tooltips" = false
+		"Attribute Tooltips" = true
+		"Food Tooltips" = true
 		"Shulker Tooltips" = true
 		"Map Tooltips" = true
-		"Enchanting Tooltips" = false
+		"Enchanting Tooltips" = true
 		"Fuel Time Tooltips" = true
 		"Shulker Box Use Colors" = true
 		"Shulker Box Require Shift" = false

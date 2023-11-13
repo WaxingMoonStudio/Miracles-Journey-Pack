@@ -26,6 +26,11 @@ Version = 6
 #Workers Config:
 [Workers]
 	#
+	#Should Owners receive info's about the worker through text?
+	#	(takes effect after restart)
+	#	default: true
+	OwnerReceiveInfo = true
+	#
 	#----WorkerChunkLoading----
 	#	(takes effect after restart)
 	#	
@@ -101,4 +106,14 @@ Version = 6
 	#	(takes effect after restart)
 	#	default: true
 	PillagerAttackWorkers = true
+
+#Recruit Village Config:
+[Villages]
+	#
+	#----Should Villager Workers that were created with Tables release the POI for other Villagers?----
+	#----True -> allows multiple villagers to become a worker with one table.----
+	#----False -> only one villager can become a recruit with one table.----
+	#	(takes effect after restart)
+	#	default: true
+	WorkersTablesPOIReleasing = true
 
