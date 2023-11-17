@@ -13,9 +13,13 @@
 "Cowboy Raid Spawning" = true
 
 [Config]
-	#Controls the Shogun Attack Damage Multiplier, usually set to 1 
+	#Combat Configurations
+	#Controls the Samurai ai strength, usually set to 1 
 	#0 = easy, 1 = normal, 2 = hard, 3 = hardest
 	"Samurai ai strength" = 1
+	#Controls the Shogun Attack Damage Multiplier, usually set to 1 
+	#0 = easy, 1 = normal, 2 = hard, 3 = hardest
+	"Shogun Attack Damage Multiplier" = 1
 
 ["Raid Wave Member Configuration"]
 	#    Shogun Wave Counts

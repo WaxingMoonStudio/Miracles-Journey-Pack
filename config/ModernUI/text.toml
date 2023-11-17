@@ -41,7 +41,7 @@
 	#Keep Other: Include providers in minecraft:font/default.json other than Keep ASCII and Unicode font.
 	#Keep All: Include all except Unicode font.
 	#Allowed Values: IGNORE_ALL, KEEP_ASCII, KEEP_OTHER, KEEP_ALL
-	defaultFontBehavior = "KEEP_ALL"
+	defaultFontBehavior = "KEEP_OTHER"
 	#Whether to use text component object as hash key to lookup in layout cache.
 	#If you find that Modern UI text rendering is not compatible with some mods,
 	#you can disable this option for compatibility, but this will decrease performance a bit.

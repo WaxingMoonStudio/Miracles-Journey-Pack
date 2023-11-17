@@ -1,5 +1,7 @@
 # /.github
 
+/.vscode
+
 /backups
 
 # /config
@@ -53,8 +55,6 @@
 /quests_structures
 
 # /resourcepacks - 部分
-/resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.19.2.zip
-/resourcepacks/Quark Programmer Art.zip
 
 /saves
 

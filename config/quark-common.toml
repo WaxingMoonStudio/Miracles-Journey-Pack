@@ -1547,19 +1547,19 @@
 		"Date Format" = "MM/dd/yyyy"
 
 	[client.improved_tooltips]
-		"Attribute Tooltips" = true
-		"Food Tooltips" = true
+		"Attribute Tooltips" = false
+		"Food Tooltips" = false
 		"Shulker Tooltips" = true
 		"Map Tooltips" = true
-		"Enchanting Tooltips" = true
+		"Enchanting Tooltips" = false
 		"Fuel Time Tooltips" = true
 		"Shulker Box Use Colors" = true
-		"Shulker Box Require Shift" = false
+		"Shulker Box Require Shift" = true
 		"Map Require Shift" = false
 		#The value of each shank of food.
 		#Tweak this when using mods like Hardcore Hunger which change that value.
 		"Food Divisor" = 2
-		"Show Saturation" = true
+		"Show Saturation" = false
 		"Food Compression Threshold" = 4
 		"Fuel Time Divisor" = 200
 		#Should item attributes be colored relative to your current equipped item?

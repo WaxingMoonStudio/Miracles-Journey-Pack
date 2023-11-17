@@ -1,4 +1,5 @@
 version:3120
+fastSeamless:false
 autoJump:false
 autoSuggestions:true
 chatColors:true
@@ -9,12 +10,12 @@ entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
 invertYMouse:false
-realmsNotifications:true
+realmsNotifications:false
 reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -37,8 +38,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","file/Minecraft-Mod-Language-Modpack-Converted-1.19.2.zip","Betterjukebox Generated Pack","Supplementaries Generated Pack","builtin/aether_ctm_fix","quark:emote_resources","file/C4Music_v3.0.zip","file/C4Discs.zip","file/+§bBetterGlint-Purple§8[v1.5].zip","file/EclecticTrove-noconfig-1.19-1.2.0.zip","file/Fancy Crops v1.0 pf5-18.zip","eatinganimations_compat","file/[1.19-1.20]+Yuushya+Release+0.18.1.zip","file/cubic-sun-moon-v1-6-1.zip","file/Better_grass_1.19.zip","file/GUIRC+1.5.1+(1.19).zip","file/guiretextures-1.7.6.zip","file/FreshAnimations_v1.8.1.zip","builtin/glass_pane_fix_resources","builtin/default_ctm_resources"]
-incompatibleResourcePacks:["quark:emote_resources","file/C4Discs.zip","file/+§bBetterGlint-Purple§8[v1.5].zip","file/Fancy Crops v1.0 pf5-18.zip","file/[1.19-1.20]+Yuushya+Release+0.18.1.zip","file/cubic-sun-moon-v1-6-1.zip","file/Better_grass_1.19.zip","file/FreshAnimations_v1.8.1.zip"]
+resourcePacks:["vanilla","mod_resources","file/Minecraft-Mod-Language-Modpack-Converted-1.19.2.zip","Betterjukebox Generated Pack","Supplementaries Generated Pack","builtin/aether_ctm_fix","quark:emote_resources","file/C4Music_v3.0.zip","file/C4Discs.zip","file/+§bBetterGlint-Purple§8[v1.5].zip","file/EclecticTrove-noconfig-1.19-1.2.0.zip","file/Fancy Crops v1.0 pf5-18.zip","eatinganimations_compat","file/[1.19-1.20]+Yuushya+Release+0.18.1.zip","file/cubic-sun-moon-v1-6-1.zip","file/Better_grass_1.19.zip","file/GUIRC+1.5.1+(1.19).zip","file/guiretextures-1.7.6.zip","builtin/glass_pane_fix_resources","builtin/default_ctm_resources"]
+incompatibleResourcePacks:["quark:emote_resources","file/C4Discs.zip","file/+§bBetterGlint-Purple§8[v1.5].zip","file/Fancy Crops v1.0 pf5-18.zip","file/[1.19-1.20]+Yuushya+Release+0.18.1.zip","file/cubic-sun-moon-v1-6-1.zip","file/Better_grass_1.19.zip"]
 lastServer:
 lang:zh_cn
 soundDevice:""
@@ -145,11 +146,11 @@ key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.sort:key.mouse.middle
-key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
 key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
+key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
 key_tooltipscroller.up:key.keyboard.page.up
 key_tooltipscroller.down:key.keyboard.page.down
 key_tooltipscroller.reset:key.keyboard.home
@@ -157,13 +158,11 @@ key_key.carry.desc:key.keyboard.left.shift
 key_webdisplays.key.toggle_mouse:key.keyboard.r
 key_key.rebornstorage.openWirelessCraftingGrid:key.keyboard.g:CONTROL
 key_key.rebornstorage.switchModeWirelessCraftingGrid:key.keyboard.g:CONTROL
-key_key.neutrality.followkey:key.keyboard.keypad.1
-key_key.neutrality.monsterkeyone:key.keyboard.keypad.2
-key_key.neutrality.monsterkeytwo:key.keyboard.keypad.3
 key_key.next_image:key.keyboard.down
 key_key.previous_image:key.keyboard.up
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
+key_Toggle Zoom:key.keyboard.z
 key_key.maenchants.excavate:key.keyboard.v
 key_keys.nyfsquiver.nextslot:key.keyboard.right.bracket
 key_keys.nyfsquiver.previousslot:key.keyboard.left.bracket
@@ -176,37 +175,35 @@ key_key.solsweetpotato.open_food_book:key.keyboard.unknown
 key_controls.open_command_screen:key.keyboard.x
 key_key.jetpack.toggle_active.description:key.keyboard.g
 key_key.jetpack.toggle_hover.description:key.keyboard.h
-key_key.createbigcannons.pitch_mode:key.keyboard.c
-key_key.createbigcannons.fire_controlled_cannon:key.mouse.left
-key_key.jei.toggleCheatModeConfigButton:key.mouse.left:CONTROL
-key_key.jei.recipeBack:key.keyboard.backspace
-key_key.jei.showUses2:key.mouse.right
-key_key.jei.toggleEditMode:key.keyboard.unknown
-key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
-key_key.jei.showRecipe2:key.mouse.left
+key_key.jei.toggleCheatMode:key.keyboard.unknown
+key_key.jei.nextSearch:key.keyboard.down
+key_key.jei.focusSearch:key.keyboard.f:CONTROL
+key_key.jei.closeRecipeGui:key.keyboard.escape
+key_key.jei.cheatOneItem:key.mouse.left
 key_key.jei.showRecipe:key.keyboard.r
-key_key.jei.toggleWildcardHideIngredient:key.mouse.right:CONTROL
-key_key.jei.cheatOneItem2:key.mouse.right
 key_key.jei.previousRecipePage:key.keyboard.page.up
+key_key.jei.previousCategory:key.keyboard.page.up:SHIFT
+key_key.jei.previousPage:key.keyboard.unknown
+key_key.jei.copy.recipe.id:key.keyboard.unknown
+key_key.jei.showRecipe2:key.mouse.left
+key_key.jei.showUses:key.keyboard.u
+key_key.jei.cheatOneItem2:key.mouse.right
 key_key.jei.clearSearchBar:key.mouse.right
 key_key.jei.nextCategory:key.keyboard.page.down:SHIFT
-key_key.jei.copy.recipe.id:key.keyboard.unknown
-key_key.jei.previousCategory:key.keyboard.page.up:SHIFT
-key_key.jei.previousSearch:key.keyboard.up
-key_key.jei.focusSearch:key.keyboard.f:CONTROL
-key_key.jei.showUses:key.keyboard.u
-key_key.jei.closeRecipeGui:key.keyboard.escape
-key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
-key_key.jei.nextRecipePage:key.keyboard.page.down
-key_key.jei.cheatOneItem:key.mouse.left
-key_key.jei.bookmark:key.keyboard.a
-key_key.jei.toggleCheatMode:key.keyboard.unknown
 key_key.jei.nextPage:key.keyboard.unknown
 key_key.jei.cheatItemStack:key.mouse.left:SHIFT
-key_key.jei.previousPage:key.keyboard.unknown
-key_key.jei.cheatItemStack2:key.mouse.middle
+key_key.jei.toggleCheatModeConfigButton:key.mouse.left:CONTROL
+key_key.jei.toggleEditMode:key.keyboard.unknown
+key_key.jei.showUses2:key.mouse.right
+key_key.jei.nextRecipePage:key.keyboard.page.down
+key_key.jei.toggleWildcardHideIngredient:key.mouse.right:CONTROL
+key_key.jei.recipeBack:key.keyboard.backspace
+key_key.jei.bookmark:key.keyboard.a
+key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
+key_key.jei.previousSearch:key.keyboard.up
 key_key.jei.toggleHideIngredient:key.mouse.left:CONTROL
-key_key.jei.nextSearch:key.keyboard.down
+key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
+key_key.jei.cheatItemStack2:key.mouse.middle
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_key.modernui.openCenter:key.keyboard.k:CONTROL
@@ -229,6 +226,10 @@ key_key.immersive_aircraft.multi_control_pull:key.keyboard.s
 key_key.immersive_aircraft.multi_control_push:key.keyboard.w
 key_key.immersive_aircraft.multi_dismount:key.keyboard.r
 key_key.immersive_aircraft.multi_boost:key.keyboard.b
+key_key.itemzoom.toggle:key.keyboard.z:SHIFT
+key_key.itemzoom.hold:key.keyboard.unknown
+key_key.itemzoom.zoom.in:key.keyboard.unknown
+key_key.itemzoom.zoom.out:key.keyboard.unknown
 key_key.dragonmounts.flight_descent:key.keyboard.z
 key_key.seasonhud.seasonhudOptions:key.keyboard.h
 key_key.ftbultimine:key.keyboard.grave.accent
@@ -329,7 +330,7 @@ key_key.entityculling.toggle:key.keyboard.unknown
 key_key.pickup.item:key.keyboard.unknown
 key_key.ingameime.hotkey:key.keyboard.home
 soundCategory_master:0.0
-soundCategory_music:1.0
+soundCategory_music:0.50998694
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
