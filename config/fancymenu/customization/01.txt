@@ -50,16 +50,17 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = config/fancymenu_custom/buttom_background_2_1.png
-  backgroundnormal = config/fancymenu_custom/buttom_background_2_0.png
+  identifier = %id=9764%
+  action = hidebutton
 }
 
 customization {
   identifier = %id=376322%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=97641%
   action = hidebutton
 }
 
@@ -85,15 +86,6 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = config/fancymenu_custom/buttom_background_2_1.png
-  backgroundnormal = config/fancymenu_custom/buttom_background_2_0.png
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   orientation = bottom-centered
   x = -75
@@ -109,21 +101,17 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = config/fancymenu_custom/buttom_background_1_1.png
-  backgroundnormal = config/fancymenu_custom/buttom_background_1_0.png
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
   action = hidebutton
 }
 
 customization {
   identifier = %id=604346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=976411%
   action = hidebutton
 }
 
@@ -151,15 +139,6 @@ customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   action = setbuttonlabel
   value = 选项
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = config/fancymenu_custom/buttom_background_2_1.png
-  backgroundnormal = config/fancymenu_custom/buttom_background_2_0.png
 }
 
 customization {
@@ -263,20 +242,5 @@ customization {
   actionid = 09151501-ef19-4cb0-b4cb-03d12dfd90991699194075340
   y = 0
   height = 30
-}
-
-customization {
-  identifier = %id=976411%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=9764%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=97641%
-  action = hidebutton
 }
 

@@ -67,6 +67,9 @@
     "crude_furnace": true,
     "advanced_brewery": true
   },
+  "ars_nouveau": {
+    "mob_jar": true
+  },
   "jadeaddons": {
     "equipment_requirement": ""
   },

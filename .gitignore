@@ -16,6 +16,8 @@
 
 /ESM
 
+/everbook
+
 /fancymenu_data
 
 /fancymenu_setups
@@ -29,7 +31,8 @@
 /journeymap/defaultconfig.json
 /journeymap/journeymap.log
 
-# /kubejs
+# /kubejs - 部分
+/kubejs/probe
 
 /local
 
