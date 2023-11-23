@@ -59,7 +59,7 @@
     "block_face": false,
     "coordinates": false,
     "registry_name": "OFF",
-    "mod_name": false
+    "mod_name": true
   },
   "utilitix": {
     "experience_crystal": true,
@@ -100,9 +100,6 @@
     "crafting_blueprint": true,
     "goggles.detailed": false,
     "placard": true
-  },
-  "waystones": {
-    "waystone": true
   },
   "camera": {
     "image_frame": true

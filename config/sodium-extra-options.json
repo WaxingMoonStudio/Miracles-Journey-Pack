@@ -27,9 +27,7 @@
     "fog_distance": 0,
     "fog_start": 100,
     "multi_dimension_fog_control": false,
-    "dimensionFogDistance": {
-      "minecraft:overworld": 0
-    },
+    "dimensionFogDistance": {},
     "use_linear_flat_color_blender": false,
     "light_updates": true,
     "item_frame": true,
@@ -45,7 +43,7 @@
     "overlay_corner": "TOP_LEFT",
     "text_contrast": "NONE",
     "show_fps": true,
-    "show_f_p_s_extended": true,
+    "show_f_p_s_extended": false,
     "show_coords": false,
     "reduce_resolution_on_mac": true,
     "use_adaptive_sync": false,

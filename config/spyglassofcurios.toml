@@ -1,0 +1,11 @@
+
+["Render Settings"]
+	#Disable Render for ALL
+	disableRenderAll = false
+	#Disable Render-Back waist
+	disableRenderBackWaist = false
+	#Disable Render-Head
+	disableRenderHead = false
+	#Disable Render-Indescribable
+	disableRenderIndescribable = false
+

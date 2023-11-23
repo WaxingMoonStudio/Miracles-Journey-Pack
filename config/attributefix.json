@@ -187,6 +187,17 @@
         "value": 10
       }
     },
+    "eidolon:persistent_soul_hearts": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2000,
+        "value": 2000
+      }
+    },
     "obscure_api:magic_resistance": {
       "enabled": false,
       "min": {
@@ -517,6 +528,17 @@
         "value": 10
       }
     },
+    "astral:generic.astral_attack_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "obscure_api:parry": {
       "enabled": false,
       "min": {
@@ -746,6 +768,17 @@
       "max": {
         "default": 10,
         "value": 10
+      }
+    },
+    "eidolon:max_soul_hearts": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2000,
+        "value": 2000
       }
     },
     "minecraft:generic.max_health": {

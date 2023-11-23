@@ -155,5 +155,13 @@ name = "minecraft:vanishing_curse"
 max_lvl = 1
 
 [[entries]]
+name = "scriptor:charged"
+max_lvl = 1
+
+[[entries]]
 name = "passablefoliage:leaf_walker"
 max_lvl = 1
+
+[[entries]]
+name = "mythicbotany:hammer_mobility"
+max_lvl = 5
