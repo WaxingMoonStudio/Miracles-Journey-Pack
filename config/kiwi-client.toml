@@ -5,5 +5,5 @@ suppressExperimentalSettingsWarning = false
 
 [debug]
 tagsTooltip = true
-debugTooltipMsg = true
+debugTooltipMsg = false
 NBTTooltip = true
