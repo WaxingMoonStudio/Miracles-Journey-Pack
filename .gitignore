@@ -22,8 +22,6 @@
 
 /fancymenu_setups
 
-/jcef
-
 # /journeymap - 部分
 /journeymap/data
 /journeymap/icon
@@ -46,6 +44,7 @@
 
 # /mods - 部分
 /mods/cinemamod-libraries
+/mods/panorama
 
 /music_sheets
 
@@ -69,8 +68,6 @@
 
 /thingpacks
 
-/wd_filehost
-
 # /wiki
 
 # /.gitignore
@@ -78,6 +75,8 @@
 /.qmenu_opened.marker
 
 /BTLib.dll
+
+# /Custom.xaml
 
 /hmclversion.cfg
 
@@ -98,5 +97,3 @@
 /usercache.json
 
 /usernamecache.json
-
-/wd_next.txt
