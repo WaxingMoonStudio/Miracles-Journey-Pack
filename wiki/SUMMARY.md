@@ -2,10 +2,14 @@
 
 * [主页](README.md)
 
-## 游玩须知
+## 游玩须知 <a href="#precautions" id="precautions"></a>
 
-* [Page 1](you-wan-xu-zhi/page-1.md)
+* [配置要求](precautions/requirements.md)
 
-## 内容整合
+## 安装教程 <a href="#installation" id="installation"></a>
 
-* [模组列表](nei-rong-zheng-he/mo-zu-lie-biao.md)
+* [如何下载](installation/download.md)
+
+## 内容整合 <a href="#content" id="content"></a>
+
+* [模组列表](content/modlist.md)

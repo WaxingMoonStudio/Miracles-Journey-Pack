@@ -1,5 +1,7 @@
 # 模组列表
 
+[\[Abnormals Delight\]](https://www.mcmod.cn/class/3585.html)
+
 [\[Additional Additions\]额外扩展](https://www.mcmod.cn/class/4964.html)
 
 [\[Additional Redstone\]](https://www.mcmod.cn/class/9821.html)
@@ -68,7 +70,11 @@
 
 [\[Better Days\]](https://www.mcmod.cn/class/11818.html)
 
+[\[Better Dogs X Doggy Talents Next\]](https://www.curseforge.com/minecraft/mc-mods/better-dogs-x-doggy-talents-next)
+
 [\[Better Jukeboxes\]](https://www.mcmod.cn/class/11376.html)
+
+[\[Better Statistics Screen\]更好的统计信息界面](https://www.mcmod.cn/class/8030.html)
 
 [\[Better Taskbar\]更好的任务栏](https://www.mcmod.cn/class/6332.html)
 
@@ -98,8 +104,6 @@
 
 [\[Caelus API\]](https://www.mcmod.cn/class/2458.html)
 
-[\[Camera Mod\]照相机](https://www.mcmod.cn/class/2848.html)
-
 [\[Canary\]](https://www.mcmod.cn/class/7598.html)
 
 [\[Carpeted Stairs & Slabs\]](https://www.mcmod.cn/class/11366.html)
@@ -113,6 +117,8 @@
 [\[Chef's Delight\]](https://www.mcmod.cn/class/8475.html)
 
 [\[Cherished Worlds\]存档置顶](https://www.mcmod.cn/class/4228.html)
+
+[\[Chess\]象棋](https://www.mcmod.cn/class/6109.html)
 
 [\[Chimes\]](https://www.mcmod.cn/class/6988.html)
 
@@ -155,8 +161,6 @@
 [\[Cozy Foods: Milk Tea\]](https://www.mcmod.cn/class/11596.html)
 
 [\[Crabber's Delight\]蟹农乐事](https://www.mcmod.cn/class/11415.html)
-
-[\[Create : Misc & Things\]机械动力：实用物件](https://www.mcmod.cn/class/7464.html)
 
 [\[Create Big Cannons\]机械动力：火炮](https://www.mcmod.cn/class/7178.html)
 
@@ -250,7 +254,7 @@
 
 [\[Does Potato Tick?\]远物停载：土豆版](https://www.mcmod.cn/class/9249.html)
 
-[\[Doggy Talents\]小狗天才](https://www.mcmod.cn/class/206.html)
+[\[Doggy Talents Next\]](https://www.curseforge.com/minecraft/mc-mods/doggy-talents-next)
 
 [\[Dragon Mounts: Legacy\]龙骑士重置版](https://www.mcmod.cn/class/2415.html)
 
@@ -304,9 +308,13 @@
 
 [\[Euphoria Patches\]](https://www.mcmod.cn/class/12160.html)
 
+[\[Every Compat: Wood Good\]泛用兼容：木材](https://www.mcmod.cn/class/7096.html)
+
 [\[Exotic Birds\]珍奇鸟类](https://www.mcmod.cn/class/1570.html)
 
 [\[ExpandAbility\]](https://www.mcmod.cn/class/4985.html)
+
+[\[Exposure\]](https://www.mcmod.cn/class/12905.html)
 
 [\[Exquisito\]末域奇馔](https://www.mcmod.cn/class/10306.html)
 
@@ -355,6 +363,8 @@
 [\[FTB Quests\]FTB任务](https://www.mcmod.cn/class/1423.html)
 
 [\[FTB Teams\]FTB 团队](https://www.mcmod.cn/class/3179.html)
+
+[\[FTB XMod Compat\]](https://www.mcmod.cn/class/11414.html)
 
 [\[Galosphere\]](https://www.mcmod.cn/class/8291.html)
 
@@ -412,7 +422,11 @@
 
 [\[Immersive Posts\]沉浸长杆](https://www.mcmod.cn/class/4776.html)
 
+[\[Immersive Weathering\]沉浸式风化](https://www.mcmod.cn/class/6057.html)
+
 [\[Incendium\]](https://www.mcmod.cn/class/4064.html)
+
+[\[Infinite Music\]](https://www.mcmod.cn/class/4596.html)
 
 [\[Instrument++\]更多乐器](https://www.mcmod.cn/class/8416.html)
 
@@ -442,9 +456,9 @@
 
 [\[ItemZoom\]物品缩放](https://www.mcmod.cn/class/3048.html)
 
-[\[Jade\]玉](https://www.mcmod.cn/class/3482.html)
-
 [\[Jade Addons\]](https://www.mcmod.cn/class/5837.html)
+
+[\[Jade\]玉](https://www.mcmod.cn/class/3482.html)
 
 [\[JER Integration\]JER集成](https://www.mcmod.cn/class/5611.html)
 
@@ -487,6 +501,8 @@
 [\[L\_Ender 's Cataclysm\]灾变](https://www.mcmod.cn/class/5214.html)
 
 [\[L2 Library\]](https://www.mcmod.cn/class/7075.html)
+
+[\[Lan Server Properties\]自定义局域网联机](https://www.mcmod.cn/class/2754.html)
 
 [\[LazyDFU\]DFU载入优化](https://www.mcmod.cn/class/3407.html)
 
@@ -564,6 +580,8 @@
 
 [\[More Bows: Restrung!\]更多弓：重振旗鼓！](https://www.mcmod.cn/class/5084.html)
 
+[\[More Immersive Wires\]](https://www.mcmod.cn/class/11079.html)
+
 [\[More Minecarts and Rails\]](https://www.mcmod.cn/class/5645.html)
 
 [\[More Peripherals\]](https://www.mcmod.cn/class/5538.html)
@@ -596,8 +614,6 @@
 
 [\[Nether Depths Upgrade\]](https://www.mcmod.cn/class/7717.html)
 
-[\[Nether Skeletons\]](https://www.mcmod.cn/class/9161.html)
-
 [\[Nether's Delight\]下界乐事](https://www.mcmod.cn/class/4563.html)
 
 [\[Netherite Horse Armor CJ\]](https://www.mcmod.cn/class/11763.html)
@@ -611,6 +627,8 @@
 [\[Not Enough Animations\]更多动画](https://www.mcmod.cn/class/4378.html)
 
 [\[NotEnoughRecipeBook\]](https://www.mcmod.cn/class/8923.html)
+
+[\[Notes\]笔记](https://www.mcmod.cn/class/3240.html)
 
 [\[Nyctophobia\]](https://www.mcmod.cn/class/6895.html)
 
@@ -630,6 +648,8 @@
 
 [\[Overflowing Bars\]](https://www.mcmod.cn/class/10074.html)
 
+[\[Packet Fixer\]](https://www.mcmod.cn/class/12625.html)
+
 [\[Pam's HarvestCraft 2 - Crops\]潘马斯农场2 - 作物](https://www.mcmod.cn/class/2909.html)
 
 [\[Pam's HarvestCraft 2 - Food Core\]潘马斯农场2 - 食物核心](https://www.mcmod.cn/class/3249.html)
@@ -637,6 +657,8 @@
 [\[Pam's HarvestCraft 2 - Food Extended\]潘马斯农场2 - 食物拓展](https://www.mcmod.cn/class/2930.html)
 
 [\[Pam's HarvestCraft 2 - Trees\]潘马斯农场2 - 果树](https://www.mcmod.cn/class/2931.html)
+
+[\[Panorama\]全景图](https://www.mcmod.cn/class/3799.html)
 
 [\[Paragliders\]滑翔伞](https://www.mcmod.cn/class/1344.html)
 
@@ -649,6 +671,8 @@
 [\[PAUCAL\]](https://www.mcmod.cn/class/6447.html)
 
 [\[Peculiars\]独特风味](https://www.mcmod.cn/class/4653.html)
+
+[\[Pet Pass: Trade Your Pets!\]](https://www.mcmod.cn/class/11100.html)
 
 [\[Pick Up Notifier\]拾取提示](https://www.mcmod.cn/class/5216.html)
 
@@ -696,7 +720,11 @@
 
 [\[Reaper\]](https://www.mcmod.cn/class/8774.html)
 
+[\[REBIRTH: Paintings\]](https://www.mcmod.cn/class/12880.html)
+
 [\[Reborn Storage\]存储重置](https://www.mcmod.cn/class/792.html)
+
+[\[Redirector\]异引定址](https://www.mcmod.cn/class/11295.html)
 
 [\[Redstone Pen\]红石笔](https://www.mcmod.cn/class/6420.html)
 
@@ -732,6 +760,8 @@
 
 [\[Savage Ender Dragon\]更凶猛的末影龙](https://www.mcmod.cn/class/5034.html)
 
+[\[Screenshot Viewer\]截图查看器](https://www.mcmod.cn/class/8912.html)
+
 [\[Scriptor Magicae\]字符魔法师](https://www.mcmod.cn/class/8967.html)
 
 [\[Sculky Bit\]](https://www.mcmod.cn/class/10930.html)
@@ -760,6 +790,8 @@
 
 [\[Shield Expansion\]](https://www.mcmod.cn/class/9408.html)
 
+[\[Simple Voice Chat\]简单的语音聊天](https://www.mcmod.cn/class/3693.html)
+
 [\[Simply Swords\]简易刀剑](https://www.mcmod.cn/class/7736.html)
 
 [\[Sit\]席地而坐](https://www.mcmod.cn/class/1656.html)
@@ -780,9 +812,13 @@
 
 [\[Smooth Swapping\]平滑转移](https://www.mcmod.cn/class/5980.html)
 
+[\[Sneak Through Berries\]](https://www.mcmod.cn/class/7195.html)
+
 [\[Snow! Real Magic!\]雪！真实的魔法！](https://www.mcmod.cn/class/2106.html)
 
 [\[Snowmancy\]](https://www.mcmod.cn/class/9232.html)
+
+[\[Some Assembly Required\]](https://www.mcmod.cn/class/5801.html)
 
 [\[Sophisticated Backpacks\]精妙背包](https://www.mcmod.cn/class/3739.html)
 
@@ -830,6 +866,8 @@
 
 [\[SwingThroughGrass\]穿草攻击](https://www.mcmod.cn/class/1465.html)
 
+[\[Table Top Craft\]](https://www.mcmod.cn/class/8602.html)
+
 [\[Tectonic + Biomes O' Plenty compat\]Tectonic：超多生物群系兼容](https://www.mcmod.cn/class/11747.html)
 
 [\[Tectonic\]](https://www.mcmod.cn/class/8005.html)
@@ -856,8 +894,6 @@
 
 [\[The Graveyard\]墓园](https://www.mcmod.cn/class/4988.html)
 
-[\[The Twilight Forest\]暮色森林](https://www.mcmod.cn/class/61.html)
-
 [\[The Undergarden\]深暗之园](https://www.mcmod.cn/class/2870.html)
 
 [\[Thirdlife RTS\]](https://www.mcmod.cn/class/11300.html)
@@ -876,12 +912,6 @@
 
 [\[Traveler's Titles\]](https://www.mcmod.cn/class/4471.html)
 
-[\[Twilight Flavors & Delight\]暮色风味乐事](https://www.mcmod.cn/class/10610.html)
-
-[\[Twilight Forest Bosses Resurrection\]](https://www.mcmod.cn/class/12398.html)
-
-[\[Twilight Forest: The Lost Blocks\]](https://www.mcmod.cn/class/6856.html)
-
 [\[Ultimate Car Mod\]终极汽车](https://www.mcmod.cn/class/3523.html)
 
 [\[Undergarden/Tetra Patch\]深暗之园：Tetra兼容](https://www.mcmod.cn/class/8596.html)
@@ -893,6 +923,8 @@
 [\[Upgrade Aquatic\]碧海新生](https://www.mcmod.cn/class/2916.html)
 
 [\[Upgraded Core\]](https://www.mcmod.cn/class/7431.html)
+
+[\[Upgraded Mobs\]](https://www.mcmod.cn/class/11250.html)
 
 [\[Upgraded Netherite\]下界合金增强](https://www.mcmod.cn/class/2886.html)
 
@@ -922,9 +954,13 @@
 
 [\[Vitalize\]](https://www.mcmod.cn/class/8066.html)
 
+[\[Wares\]](https://www.mcmod.cn/class/10510.html)
+
 [\[Waxable Coral\]涂蜡珊瑚](https://www.mcmod.cn/class/9428.html)
 
 [\[When Dungeons Arise\]地牢浮现之时](https://www.mcmod.cn/class/3607.html)
+
+[\[When Was That Again\]聊天栏时间显示](https://www.mcmod.cn/class/3467.html)
 
 [\[Why Not Be One Item\]](https://www.mcmod.cn/class/11591.html)
 
