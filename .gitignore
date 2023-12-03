@@ -32,12 +32,12 @@
 # /kubejs - 部分
 /kubejs/probe
 
-# /Launcher - 部分
-/Launcher/PCL/Log1.txt
-/Launcher/PCL/Log2.txt
-/Launcher/PCL/Log3.txt
-/Launcher/PCL/Log4.txt
-/Launcher/PCL/Log5.txt
+# /launcher - 部分
+/launcher/PCL/Log1.txt
+/launcher/PCL/Log2.txt
+/launcher/PCL/Log3.txt
+/launcher/PCL/Log4.txt
+/launcher/PCL/Log5.txt
 
 /local
 
