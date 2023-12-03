@@ -72,16 +72,6 @@
 			crystal = true
 			glacia = true
 
-		[types.wood_type.twilightforest]
-			twilight_oak = true
-			canopy = true
-			mangrove = true
-			dark = true
-			time = true
-			transformation = true
-			mining = true
-			sorting = true
-
 		[types.wood_type.eidolon]
 			illwood = true
 
@@ -137,19 +127,6 @@
 			maple = true
 			cherry = true
 
-		[types.leaves_type.twilightforest]
-			beanstalk = true
-			thorn = true
-			twilight_oak = true
-			canopy = true
-			mangrove = true
-			dark = true
-			rainbow_oak = true
-			time = true
-			transformation = true
-			mining = true
-			sorting = true
-
 		[types.leaves_type.mythicbotany]
 			dreamwood = true
 
@@ -159,24 +136,10 @@
 			flowering_lychee = true
 			flowering_mango = true
 
-		[types.leaves_type.twilightdelight]
-			ironwood = true
-
 		[types.leaves_type.undergarden]
 			smogstem = true
 			wigglewood = true
 			grongle = true
-
-		[types.leaves_type.garnished]
-			nut = true
-			peanut = true
-			walnut = true
-			cashew = true
-			macadamia = true
-			pistachio = true
-			almond = true
-			pecan = true
-			hazelnut = true
 
 		[types.leaves_type.ecologics]
 			coconut = true
@@ -315,12 +278,6 @@
 			trapped_chest = true
 			bookshelf = true
 			stripped_post = true
-
-		[entries.wood_type.twilightforest]
-			banister = true
-			hollow_log_climbable = true
-			hollow_log_horizontal = true
-			hollow_log_vertical = true
 
 		[entries.wood_type.friendsandfoes]
 			beehive = true

@@ -1533,7 +1533,7 @@
 	"Buckets Show Inhabitants" = true
 	"Soul Candles" = true
 	"Auto Walk Keybind" = true
-	"Variant Animal Textures" = true
+	"Variant Animal Textures" = false
 	"Microcrafting Helper" = true
 	"Uses For Curses" = true
 	"Wool Shuts Up Minecarts" = true

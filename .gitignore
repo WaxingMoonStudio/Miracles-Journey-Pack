@@ -32,6 +32,13 @@
 # /kubejs - 部分
 /kubejs/probe
 
+# /Launcher - 部分
+/Launcher/PCL/Log1.txt
+/Launcher/PCL/Log2.txt
+/Launcher/PCL/Log3.txt
+/Launcher/PCL/Log4.txt
+/Launcher/PCL/Log5.txt
+
 /local
 
 /localconfigs
@@ -56,7 +63,7 @@
 
 /quests_structures
 
-# /resourcepacks - 部分
+# /resourcepacks
 
 /saves
 
@@ -65,6 +72,8 @@
 /screenshots
 
 # /shaderpacks
+
+/temp
 
 /thingpacks
 
@@ -76,8 +85,6 @@
 
 /BTLib.dll
 
-# /Custom.xaml
-
 /hmclversion.cfg
 
 # /LICENSE
@@ -87,6 +94,8 @@
 # /Miracles Journey.json
 
 # /options.txt
+
+/panorama.dat
 
 /patchouli_data.json
 
