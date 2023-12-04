@@ -14,3 +14,7 @@
 ## 内容整合 <a href="#content" id="content"></a>
 
 * [模组列表](content/modlist.md)
+
+## 开发进度 <a href="#development" id="development"></a>
+
+* [配置文件](development/configuration.md)
