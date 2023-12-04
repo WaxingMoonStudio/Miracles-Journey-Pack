@@ -5,6 +5,7 @@
 ## 游玩须知 <a href="#precautions" id="precautions"></a>
 
 * [配置要求](precautions/requirements.md)
+* [如何提问](precautions/question.md)
 
 ## 安装教程 <a href="#installation" id="installation"></a>
 
