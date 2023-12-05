@@ -2,7 +2,9 @@
 
 这个页面记录了整合包对是否对每个模组进行了配置文件的自定义，可以反映出开发进度和过程
 
-目前 0 / 507
+目前 `10 / 507` 已被自定义
+
+模组列表↓   &#x20;
 
 * [x] [\[Abnormals Delight\]](https://www.mcmod.cn/class/3585.html)
 * [x] [\[Additional Additions\]额外扩展](https://www.mcmod.cn/class/4964.html)
