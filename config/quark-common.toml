@@ -1528,7 +1528,7 @@
 [client]
 	Camera = true
 	"Elytra Indicator" = true
-	"Improved Tooltips" = true
+	"Improved Tooltips" = false
 	"Greener Grass" = true
 	"Buckets Show Inhabitants" = true
 	"Soul Candles" = true

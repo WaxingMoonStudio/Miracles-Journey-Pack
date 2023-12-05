@@ -1,0 +1,22 @@
+name: "优化建议"
+description: "对已有功能的优化或改进建议"
+labels: ["B: 优化建议"]
+body:
+- type: checkboxes
+  id: "yml-1"
+  attributes:
+    label: "检查项"
+    description: "在提交issue之前, 请检查以下两项内容:"
+    options:
+    - label: "**此建议不涉及模组的增删** 针对需要增删模组的建议, 请前往[新功能提案](https://github.com/Qian-F/QFserver-Wonder/issues/new?assignees=&labels=%C2%B7+%E6%96%B0%E5%8A%9F%E8%83%BD%2C%E5%8F%8D%E9%A6%88&template=feature.yml)"
+      required: true
+    - label: "**不存在重复的优化建议** 我已在[Issue页面](https://github.com/Qian-F/Miracles-Journey/issues)中搜索并确认, 确认了这一建议未被提交过"
+      required: true
+- type: textarea
+  id: "yml-2"
+  attributes:
+    label: 内容
+    description: "详细描述具体需要优化哪些地方, 要改成怎样的, 以及为什么需要这项优化?"
+    placeholder: "例如: 我想在主页增加一个单人游戏, 这样便于我测试模组内容"
+  validations:
+    required: true
