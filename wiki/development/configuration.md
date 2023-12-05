@@ -2,18 +2,20 @@
 
 这个页面记录了整合包对是否对每个模组进行了配置文件的自定义，可以反映出开发进度和过程
 
-目前 0 / 507
+目前 `10 / 507` 已被自定义
 
-* [ ] [\[Abnormals Delight\]](https://www.mcmod.cn/class/3585.html)
-* [ ] [\[Additional Additions\]额外扩展](https://www.mcmod.cn/class/4964.html)
-* [ ] [\[Additional Redstone\]](https://www.mcmod.cn/class/9821.html)
-* [ ] [\[Advanced Peripherals\]高级外设](https://www.mcmod.cn/class/4973.html)
-* [ ] [\[AeroBlender\]](https://www.mcmod.cn/class/11131.html)
-* [ ] [\[Alex's Delight\]](https://www.mcmod.cn/class/5565.html)
-* [ ] [\[Alex's Mobs\]Alex 的生物](https://www.mcmod.cn/class/3318.html)
-* [ ] [\[Ambient Environment\]](https://www.mcmod.cn/class/5258.html)
-* [ ] [\[Amplified Nether\]放大化下界](https://www.mcmod.cn/class/5205.html)
-* [ ] [\[AppleSkin\]苹果皮](https://www.mcmod.cn/class/744.html)
+模组列表↓   &#x20;
+
+* [x] [\[Abnormals Delight\]](https://www.mcmod.cn/class/3585.html)
+* [x] [\[Additional Additions\]额外扩展](https://www.mcmod.cn/class/4964.html)
+* [x] [\[Additional Redstone\]](https://www.mcmod.cn/class/9821.html)
+* [x] [\[Advanced Peripherals\]高级外设](https://www.mcmod.cn/class/4973.html)
+* [x] [\[AeroBlender\]](https://www.mcmod.cn/class/11131.html)
+* [x] [\[Alex's Delight\]](https://www.mcmod.cn/class/5565.html)
+* [x] [\[Alex's Mobs\]Alex 的生物](https://www.mcmod.cn/class/3318.html)
+* [x] [\[Ambient Environment\]](https://www.mcmod.cn/class/5258.html)
+* [x] [\[Amplified Nether\]放大化下界](https://www.mcmod.cn/class/5205.html)
+* [x] [\[AppleSkin\]苹果皮](https://www.mcmod.cn/class/744.html)
 * [ ] [\[Aquaculture 2\]水产业2/水产品2](https://www.mcmod.cn/class/281.html)
 * [ ] [\[Aquamirae Mod\]海灵物语](https://www.mcmod.cn/class/5011.html)
 * [ ] [\[Arboria\]](https://www.mcmod.cn/class/10498.html)
