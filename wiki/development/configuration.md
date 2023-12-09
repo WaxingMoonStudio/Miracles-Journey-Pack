@@ -2,7 +2,7 @@
 
 这个页面记录了整合包对是否对每个模组进行了配置文件的自定义，可以反映出开发进度和过程
 
-目前 `10 / 507` 已被自定义
+目前 `20 / 507` 已被自定义
 
 模组列表↓   &#x20;
 
@@ -16,16 +16,16 @@
 * [x] [\[Ambient Environment\]](https://www.mcmod.cn/class/5258.html)
 * [x] [\[Amplified Nether\]放大化下界](https://www.mcmod.cn/class/5205.html)
 * [x] [\[AppleSkin\]苹果皮](https://www.mcmod.cn/class/744.html)
-* [ ] [\[Aquaculture 2\]水产业2/水产品2](https://www.mcmod.cn/class/281.html)
-* [ ] [\[Aquamirae Mod\]海灵物语](https://www.mcmod.cn/class/5011.html)
-* [ ] [\[Arboria\]](https://www.mcmod.cn/class/10498.html)
-* [ ] [\[Architectury API\]](https://www.mcmod.cn/class/3434.html)
-* [ ] [\[Armor Statues\]](https://www.mcmod.cn/class/9911.html)
-* [ ] [\[Ars Creo\]](https://www.mcmod.cn/class/5617.html)
-* [ ] [\[Ars Elemental\]元素魔艺](https://www.mcmod.cn/class/6014.html)
-* [ ] [\[Ars Instrumentum\]](https://www.mcmod.cn/class/9348.html)
-* [ ] [\[Ars Nouveau\]新生魔艺](https://www.mcmod.cn/class/3468.html)
-* [ ] [\[Ars Omega\]](https://www.mcmod.cn/class/5912.html)
+* [x] [\[Aquaculture 2\]水产业2/水产品2](https://www.mcmod.cn/class/281.html)
+* [x] [\[Aquamirae Mod\]海灵物语](https://www.mcmod.cn/class/5011.html)
+* [x] [\[Arboria\]](https://www.mcmod.cn/class/10498.html)
+* [x] [\[Architectury API\]](https://www.mcmod.cn/class/3434.html)
+* [x] [\[Armor Statues\]](https://www.mcmod.cn/class/9911.html)
+* [x] [\[Ars Creo\]](https://www.mcmod.cn/class/5617.html)
+* [x] [\[Ars Elemental\]元素魔艺](https://www.mcmod.cn/class/6014.html)
+* [x] [\[Ars Instrumentum\]](https://www.mcmod.cn/class/9348.html)
+* [x] [\[Ars Nouveau\]新生魔艺](https://www.mcmod.cn/class/3468.html)
+* [x] [\[Ars Omega\]](https://www.mcmod.cn/class/5912.html)
 * [ ] [\[Art of Forging\]锻造之艺](https://www.mcmod.cn/class/6002.html)
 * [ ] [\[Artifacts\]奇异饰品](https://www.mcmod.cn/class/2821.html)
 * [ ] [\[AttributeFix\]属性修复](https://www.mcmod.cn/class/2264.html)
