@@ -59,7 +59,7 @@
     "block_face": false,
     "coordinates": false,
     "registry_name": "OFF",
-    "mod_name": true
+    "mod_name": false
   },
   "utilitix": {
     "experience_crystal": true,
@@ -87,9 +87,6 @@
   "delightful": {
     "crop_progress": true
   },
-  "twilightforest": {
-    "quest_ram_wool": true
-  },
   "create": {
     "filter": true,
     "backtank_capacity": true,
@@ -100,9 +97,6 @@
     "crafting_blueprint": true,
     "goggles.detailed": false,
     "placard": true
-  },
-  "camera": {
-    "image_frame": true
   },
   "corpse": {
     "corpse": true

@@ -33,6 +33,7 @@
 
 # /kubejs - 部分
 /kubejs/probe
+/kubejs/README.txt
 
 # /launcher - 部分
 /launcher/PCL/Log1.txt
@@ -86,6 +87,8 @@
 /.qmenu_opened.marker
 
 /BTLib.dll
+
+# /CHANGELOG.md
 
 # /Custom.xaml
 

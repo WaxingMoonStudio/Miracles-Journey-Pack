@@ -1547,7 +1547,7 @@
 		"Date Format" = "MM/dd/yyyy"
 
 	[client.improved_tooltips]
-		"Attribute Tooltips" = true
+		"Attribute Tooltips" = false
 		"Food Tooltips" = true
 		"Shulker Tooltips" = true
 		"Map Tooltips" = true

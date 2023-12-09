@@ -1,7 +1,7 @@
 #
 ###Version, do not change!##
 #Range: > 0
-Version = 6
+Version = 7
 
 #Workers Config Client Side:
 [WorkersClientSide]
@@ -116,4 +116,9 @@ Version = 6
 	#	(takes effect after restart)
 	#	default: true
 	WorkersTablesPOIReleasing = true
+	#
+	#----Should the profession tables drop when breaking?----
+	#	(takes effect after restart)
+	#	default: false
+	ProfessionBlocksDrop = false
 
