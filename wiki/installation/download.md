@@ -20,10 +20,26 @@
 {% endtab %}
 
 {% tab title="测试版(Beta)" %}
+1. 打开整合包的[发布页](https://github.com/Qian-F/Miracles-Journey/releases)
+2.  找到右侧显示"Pre-release"标识且版本名称包含"Beta"的预发布版本
 
+    ![示例图片 - 测试版整合特征](https://cdn.sa.net/2023/12/10/LzeYJpKr5gATxR7.png)
+3.  点击Assets下的Source code (zip)文件下载整合压缩包\
+
+
+    ![下载位置示例](https://cdn.sa.net/2023/12/10/bpgkelLFM4mn9hw.png)
 {% endtab %}
 
 {% tab title="开发版(Alpha)" %}
+1. 打开本项目的[主页](https://github.com/Qian-F/Miracles-Journey)
+2.  找到并点击靠右的绿色按钮"Code"
 
+    ![开发版整合包下载位置](https://cdn.sa.net/2023/12/10/M5JQbj6ZkqhYHCK.png)
+3.  点击"Download ZIP"下载开发版整合包\
+
+
+    ![下载按钮位置示例
+    ](https://cdn.sa.net/2023/12/10/p6f1Sb4FDs87kUX.png)
 {% endtab %}
 {% endtabs %}
+

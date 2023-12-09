@@ -2,7 +2,9 @@
 
 最新Release版模组列表↓ - (None)
 
-
+{% hint style="danger" %}
+Release版本暂未发布
+{% endhint %}
 
 最新Beta版模组列表↓ - (BetaV0.0.4)
 

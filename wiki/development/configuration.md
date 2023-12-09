@@ -2,9 +2,13 @@
 
 这个页面记录了整合包对是否对每个模组进行了配置文件的自定义，可以反映出开发进度和过程
 
-目前 `20 / 507` 已被自定义
+目前 `20 / 510` 已被自定义
 
-模组列表↓   &#x20;
+<details>
+
+<summary>模组列表 - 点击查看</summary>
+
+
 
 * [x] [\[Abnormals Delight\]](https://www.mcmod.cn/class/3585.html)
 * [x] [\[Additional Additions\]额外扩展](https://www.mcmod.cn/class/4964.html)
@@ -42,6 +46,7 @@
 * [ ] [\[Better Combat\]](https://www.mcmod.cn/class/7110.html)
 * [ ] [\[Better Days\]](https://www.mcmod.cn/class/11818.html)
 * [ ] [\[Better Dogs X Doggy Talents Next\]](https://www.curseforge.com/minecraft/mc-mods/better-dogs-x-doggy-talents-next)
+* [ ] [\[Better Flight\]](https://www.mcmod.cn/class/12980.html)
 * [ ] [\[Better Jukeboxes\]](https://www.mcmod.cn/class/11376.html)
 * [ ] [\[Better Statistics Screen\]更好的统计信息界面](https://www.mcmod.cn/class/8030.html)
 * [ ] [\[Better Taskbar\]更好的任务栏](https://www.mcmod.cn/class/6332.html)
@@ -170,10 +175,12 @@
 * [ ] [\[Extended Noteblock\]音符盒扩展](https://www.mcmod.cn/class/5281.html)
 * [ ] [\[Extra Disks\]更多磁盘](https://www.mcmod.cn/class/2394.html)
 * [ ] [\[ExtraDelight\]](https://www.mcmod.cn/class/10649.html)
+* [ ] [\[ExtraSounds\]](https://www.mcmod.cn/class/12944.html)
 * [ ] [\[ExtraStorage\]更多存储](https://www.mcmod.cn/class/3236.html)
 * [ ] [\[ExtremeSoundMuffler\]](https://www.mcmod.cn/class/5533.html)
 * [ ] [\[Falling Leaves\]落叶](https://www.mcmod.cn/class/4135.html)
 * [ ] [\[FancyMenu\]](https://www.mcmod.cn/class/4053.html)
+* [ ] [\[Farmer's Delight: CookBook Reforged\]农夫乐事：烹饪书重制版](https://www.mcmod.cn/class/12982.html)
 * [ ] [\[Farmer's Delight\]农夫乐事](https://www.mcmod.cn/class/2820.html)
 * [ ] [\[Farmer's Respite\]农夫暇事](https://www.mcmod.cn/class/6737.html)
 * [ ] [\[FastFurnace\]熔炉性能优化](https://www.mcmod.cn/class/1485.html)
@@ -513,3 +520,5 @@
 * [ ] [\[Yuushya Townscape\]方块小镇](https://www.mcmod.cn/class/4656.html)
 * [ ] [\[Zetter Gallery\]](https://www.mcmod.cn/class/8412.html)
 * [ ] [\[Zetter\]](https://www.mcmod.cn/class/4664.html)
+
+</details>

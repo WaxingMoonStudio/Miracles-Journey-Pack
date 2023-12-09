@@ -21,4 +21,4 @@
 
 ## 相关链接 <a href="#relatedlinks" id="relatedlinks"></a>
 
-* [111](relatedlinks/111.md)
+* [Github下载加速](relatedlinks/githubproxy.md)
