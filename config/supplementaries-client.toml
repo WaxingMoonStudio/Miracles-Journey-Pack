@@ -133,7 +133,7 @@
 	#Show some tooltip hints to guide players through the mod
 	tooltip_hints = true
 	#Show tooltips items that have been made placeable
-	placeable_tooltips = true
+	placeable_tooltips = false
 	#Enables custom Configured config screen
 	custom_configured_screen = true
 	#ignore this

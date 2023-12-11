@@ -8,7 +8,7 @@
 	"isShowingArmsInFirstPerson": false,
 	"isShowingOtherHandFirstPerson": true,
 	"isSweepingParticleEnabled": true,
-	"isTooltipAttackRangeEnabled": true,
+	"isTooltipAttackRangeEnabled": false,
 	"weaponSwingSoundVolume": 100,
 	"isDebugOBBEnabled": true,
 	"swingThruGrassBlacklist": "farmersdelight"

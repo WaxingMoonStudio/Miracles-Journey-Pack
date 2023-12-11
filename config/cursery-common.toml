@@ -1,7 +1,7 @@
 
 ["Cursery settings"]
 	#Should enchanted books show a hint for curse magic, default:true
-	showDesc = true
+	showDesc = false
 	#Add a curse id here to exclude it from beeing applied. To put multiple values seperate them by commas like this:  ["minecraft:curse", "mod:curse;"] 
 	excludedCUrses = ["minecraft:vanishing_curse"]
 	#Should applying treasure enchants be excluded, default:false

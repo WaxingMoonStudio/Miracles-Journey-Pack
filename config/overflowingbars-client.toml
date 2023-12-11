@@ -2,7 +2,7 @@
 [toughness]
 	#Render a separate armor bar for the armor toughness attribute (from diamond and netherite armor).
 	#Having only this option active will make the toughness bar behave just like vanilla's armor bar without any colorful stacking or so.
-	armor_toughness_bar = true
+	armor_toughness_bar = false
 	#Render row count to indicate total amount of rows since not all may be visible at once due to the stacked rendering.
 	allow_count = true
 	#Show colorful icons on the front row, not just on all subsequent rows.

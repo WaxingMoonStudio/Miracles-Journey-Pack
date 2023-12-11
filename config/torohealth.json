@@ -1,7 +1,7 @@
 {
   "watchForChanges": true,
   "hud": {
-    "distance": 60,
+    "distance": 0,
     "x": 4.0,
     "y": 4.0,
     "scale": 1.0,

@@ -1528,7 +1528,7 @@
 [client]
 	Camera = true
 	"Elytra Indicator" = true
-	"Improved Tooltips" = false
+	"Improved Tooltips" = true
 	"Greener Grass" = true
 	"Buckets Show Inhabitants" = true
 	"Soul Candles" = true
@@ -1547,15 +1547,15 @@
 		"Date Format" = "MM/dd/yyyy"
 
 	[client.improved_tooltips]
-		"Attribute Tooltips" = false
-		"Food Tooltips" = true
+		"Attribute Tooltips" = true
+		"Food Tooltips" = false
 		"Shulker Tooltips" = true
 		"Map Tooltips" = true
-		"Enchanting Tooltips" = true
+		"Enchanting Tooltips" = false
 		"Fuel Time Tooltips" = true
 		"Shulker Box Use Colors" = true
-		"Shulker Box Require Shift" = false
-		"Map Require Shift" = false
+		"Shulker Box Require Shift" = true
+		"Map Require Shift" = true
 		#The value of each shank of food.
 		#Tweak this when using mods like Hardcore Hunger which change that value.
 		"Food Divisor" = 2
@@ -1565,8 +1565,8 @@
 		#Should item attributes be colored relative to your current equipped item?
 		#e.g. if wearing an Iron Helmet, the armor value in a Diamond Helmet will show as green, and vice versa would be red.
 		#If set to false, item attributes will show in white or red if they're negative values.
-		"Show Upgrade Status" = true
-		"Animate Up Down Arrows" = true
+		"Show Upgrade Status" = false
+		"Animate Up Down Arrows" = false
 		"Enchanting Stacks" = ["minecraft:diamond_sword", "minecraft:diamond_pickaxe", "minecraft:diamond_shovel", "minecraft:diamond_axe", "minecraft:diamond_hoe", "minecraft:diamond_helmet", "minecraft:diamond_chestplate", "minecraft:diamond_leggings", "minecraft:diamond_boots", "minecraft:shears", "minecraft:bow", "minecraft:fishing_rod", "minecraft:crossbow", "minecraft:trident", "minecraft:elytra", "minecraft:shield", "quark:pickarang", "supplementaries:slingshot", "supplementaries:bubble_blower", "farmersdelight:diamond_knife"]
 		#A list of additional stacks to display on each enchantment
 		#The format is as follows:
