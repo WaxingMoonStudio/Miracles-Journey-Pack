@@ -12,9 +12,6 @@
 	<a href="https://github.com/Qian-F/Miracles-Journey/pulls?q=is%3Apr+is%3Aclosed"><img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/Qian-F/Miracles-Journey?style=for-the-badge"></a>
 </div>
 <div align="center">
-	<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-	<a href="https://github.com/Qian-F/Miracles-Journey#%E8%B4%A1%E7%8C%AE%E8%80%85"><img alt="GitHub contributors from allcontributors.org" src="https://img.shields.io/github/all-contributors/Qian-F/Miracles-Journey?style=for-the-badge&label=Contributors">
-	<!-- ALL-CONTRIBUTORS-BADGE:END -->
 	<a href="https://github.com/Qian-F/Miracles-Journey/commits/main"><img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/Qian-F/Miracles-Journey?style=for-the-badge"></a>
 	<a href="https://github.com/Qian-F/Miracles-Journey/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Qian-F/Miracles-Journey?style=for-the-badge"></a>
 	<a href="https://github.com/Qian-F/Miracles-Journey"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Qian-F/Miracles-Journey?style=for-the-badge"></a>
