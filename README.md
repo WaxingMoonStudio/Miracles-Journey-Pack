@@ -1,7 +1,4 @@
 <h1 align="center">Miracles Journey - 奇迹之旅</h1>
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 <h2 align="center">Minecraft 1.19.2 Forge</h2>
 <h3 align="center">🎯积极维护 - 积极开发🥰</h3>
 <div align="center">
@@ -15,7 +12,9 @@
 	<a href="https://github.com/Qian-F/Miracles-Journey/pulls?q=is%3Apr+is%3Aclosed"><img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/Qian-F/Miracles-Journey?style=for-the-badge"></a>
 </div>
 <div align="center">
-	<a href="https://github.com/Qian-F/Miracles-Journey/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Qian-F/Miracles-Journey?style=for-the-badge"></a>
+	<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+	<a href="https://github.com/Qian-F/Miracles-Journey#%E8%B4%A1%E7%8C%AE%E8%80%85"><img alt="GitHub contributors from allcontributors.org" src="https://img.shields.io/github/all-contributors/Qian-F/Miracles-Journey?style=for-the-badge&label=Contributors">
+	<!-- ALL-CONTRIBUTORS-BADGE:END -->
 	<a href="https://github.com/Qian-F/Miracles-Journey/commits/main"><img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/Qian-F/Miracles-Journey?style=for-the-badge"></a>
 	<a href="https://github.com/Qian-F/Miracles-Journey/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Qian-F/Miracles-Journey?style=for-the-badge"></a>
 	<a href="https://github.com/Qian-F/Miracles-Journey"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Qian-F/Miracles-Journey?style=for-the-badge"></a>
@@ -41,7 +40,6 @@
 6. 解释权与争议解决：本声明的解释权归仓库维护者所有。任何因使用本仓库内容产生的争议应通过友好协商解决。
 
 # 贡献者
-
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -52,21 +50,6 @@
     </tr>
   </tbody>
 </table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
