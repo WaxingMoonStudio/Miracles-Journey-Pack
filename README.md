@@ -18,6 +18,8 @@
 	<a href="https://www.gnu.org/licenses/gpl-3.0.html"><img alt="GitHub License" src="https://img.shields.io/github/license/Qian-F/Miracles-Journey?style=for-the-badge"></a>
 </div>
 
+------
+
 > ❗本项目处于开发阶段, 遇到任何问题请及时提交Issue或者与开发组取得联系! 我们会尽快处理并解决问题!
 
 # 版权与模组分发免责声明
