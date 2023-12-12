@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Qian-F",
+      "name": "Qian-F",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111696321?v=4",
+      "profile": "https://github.com/Qian-F",
+      "contributions": [
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "Miracles-Journey",
+  "projectOwner": "Qian-F"
+}
