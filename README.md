@@ -36,3 +36,14 @@
 5. 变更通知：本声明的条款可能会不时更新，恕不另行通知。维护者保留随时更改本免责声明条款的权利。每次使用仓库时，请您审视任何可能的变更。继续使用本仓库将被视为您接受了这些更改。
 
 6. 解释权与争议解决：本声明的解释权归仓库维护者所有。任何因使用本仓库内容产生的争议应通过友好协商解决。
+
+# 贡献者
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
