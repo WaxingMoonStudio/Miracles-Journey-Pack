@@ -20,7 +20,7 @@
 
 		[itemzoom.show.help]
 			#Display name "Item Zoom" and the hotkey to toggle this mod below the zoomed item.
-			text = true
+			text = false
 
 		[itemzoom.show.damage]
 			#Display the item's durability bar when zoomed.

@@ -30,7 +30,7 @@
 		enable_show_tropical_season = true
 		#Show the default SeasonHUD when the Minimap is hidden 
 		# (true/false)
-		enable_show_minimap_hidden = false
+		enable_show_minimap_hidden = true
 		#Show above the Journeymap map, instead of below. 
 		# (true/false)
 		enable_above_map = false

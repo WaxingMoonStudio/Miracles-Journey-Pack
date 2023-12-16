@@ -1,6 +1,6 @@
 {
   "general": {
-    "customThrow": true,
+    "customThrow": false,
     "fallSounds": true,
     "swimmingItems": {
       "entries": [

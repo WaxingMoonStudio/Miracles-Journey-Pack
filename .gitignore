@@ -18,6 +18,8 @@
 
 /ESM
 
+/etched-sounds
+
 /everbook
 
 /fancymenu_data
@@ -82,6 +84,8 @@
 
 # /wiki
 
+# /.all-contributorsrc
+
 # /.gitignore
 
 /.qmenu_opened.marker
@@ -91,6 +95,8 @@
 # /CHANGELOG.md
 
 # /Custom.xaml
+
+/emi.json
 
 /hmclversion.cfg
 

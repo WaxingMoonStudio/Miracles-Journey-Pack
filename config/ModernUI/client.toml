@@ -26,14 +26,14 @@
 	#Framerate limit on window minimized, 0 = same as framerate inactive.
 	#This value will be no greater than framerate inactive.
 	#Range: 0 ~ 255
-	framerateMinimized = 0
+	framerateMinimized = 10
 	#Master volume multiplier on window inactive (out of focus or minimized), 1 = no change.
 	#Range: 0.0 ~ 1.0
-	masterVolumeInactive = 0.5
+	masterVolumeInactive = 0.30000001192092896
 	#Master volume multiplier on window minimized, 1 = same as master volume inactive.
 	#This value will be no greater than master volume inactive.
 	#Range: 0.0 ~ 1.0
-	masterVolumeMinimized = 0.25
+	masterVolumeMinimized = 0.15000000596046448
 
 #Tooltip Config
 [tooltip]
@@ -74,7 +74,7 @@
 	ding = true
 	#Press 'C' key (by default) to zoom 4x, the same as OptiFine's.
 	#This is auto disabled when OptiFine is installed.
-	zoom = true
+	zoom = false
 	#Control the window mode, normal mode does nothing.
 	#Allowed Values: NORMAL, FULLSCREEN, FULLSCREEN_BORDERLESS, MAXIMIZED, MAXIMIZED_BORDERLESS, WINDOWED, WINDOWED_BORDERLESS
 	windowMode = "NORMAL"
