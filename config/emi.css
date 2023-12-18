@@ -146,7 +146,7 @@
 	/**
 	 * The pages in the left sidebar
 	 */
-	left-sidebar-pages: favorites;
+	left-sidebar-pages: none;
 
 	/**
 	 * The subpanels in the left sidebar
@@ -405,6 +405,11 @@
 	 * Delete the stack in the cursor when hovering the index
 	 */
 	delete-cursor-stack: "key.mouse.left";
+
+	/**
+	 * Copies the hovered recipe's ID to the clipboard
+	 */
+	copy-recipe-id: "key.keyboard.unknown";
 
 	/**
 	 * In edit mode, hide the hovered stack
