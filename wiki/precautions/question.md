@@ -1,29 +1,5 @@
 # 提问的智慧
 
-**How To Ask Questions The Smart Way**
-
-Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
-
-本指南英文版版权为 Eric S. Raymond, Rick Moen 所有。
-
-原文网址：[http://www.catb.org/\~esr/faqs/smart-questions.html](http://www.catb.org/\~esr/faqs/smart-questions.html)
-
-Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu
-
-本中文指南是基于原文 3.10 版以及 2010 年由 [Gasolin](https://github.com/gasolin) 所翻译版本的最新翻译；
-
-协助指出翻译问题，**请**[**发 issue**](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/issues/new)**，或直接**[**发 pull request**](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/compare) **给我。**
-
-## 声明 <a href="#statement" id="statement"></a>
-
-许多项目在他们网站的帮助文档中链接了本指南。这很好，这正是我们想要的用途。但如果你是该项目管理员并试图创建指向本指南的超链接，请在超链接附近的显著位置注明：
-
-**本指南不提供此项目的实际支持服务！**
-
-我们已经深刻领教到缺少上述声明所带来的痛苦：我们将不停地被那些认为发布这本指南就意味着有责任解决世上所有技术问题的傻瓜苦苦纠缠。
-
-如果你因寻求某些帮助而阅读本指南，并在离开时还觉得可以从本文作者这里得到直接帮助，那你就是我们之前说的那些傻瓜之一。别问我们问题，我们只会忽略你。我们在这本指南中想教你如何从那些真正懂得你所遇到的软件或硬件问题的人处取得协助，而 99% 的情况下那不会是我们。除非你确定本指南的作者之一刚好是你所遇到的问题领域的专家，否则请不要打扰我们，这样大家都会开心一点。
-
 ## 简介 <a href="#introduction" id="introduction"></a>
 
 在[黑客](http://www.catb.org/\~esr/faqs/hacker-howto.html)的世界里，当你拋出一个技术问题时，最终是否能得到有用的回答，往往取决于你所提问和追问的方式。本指南将教你如何正确地提问以获得你满意的答案。

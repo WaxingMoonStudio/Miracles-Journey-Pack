@@ -6,21 +6,21 @@
 Release版本暂未发布
 {% endhint %}
 
-最新Beta版模组列表↓ - (BetaV0.0.4)
+最新Beta版模组列表↓ - (BetaV0.0.6)
 
-{% embed url="https://github.com/Qian-F/Miracles-Journey/tree/Beta-0.0.4/mods" %}
-每次发布新Beta版本时更新
-{% endembed %}
+{% embed url="https://github.com/Qian-F/Miracles-Journey/tree/Beta-0.0.6/mods" %}
 
 最新Alpha版模组列表↓
 
 {% embed url="https://github.com/Qian-F/Miracles-Journey/tree/main/mods" %}
-最新的模组列表, 与开发组客户端实时更新
-{% endembed %}
 
 <details>
 
 <summary>历史版本模组列表(全版本)</summary>
+
+[\[奇迹之旅\]Miracles Journey BetaV0.0.5](https://github.com/Qian-F/Miracles-Journey/tree/Beta-0.0.5/mods)
+
+[\[奇迹之旅\]Miracles Journey BetaV0.0.4](https://github.com/Qian-F/Miracles-Journey/tree/Beta-0.0.4/mods)
 
 [\[奇迹之旅\]Miracles Journey BetaV0.0.3](https://github.com/Qian-F/Miracles-Journey/tree/Beta-0.0.3/mods)
 
