@@ -35,7 +35,7 @@
 	#will make DTN directly reference the in-game texture.
 	use_vanilla_res_for_classical = false
 	#Show a fun icon on world loading screen.
-	world_load_icon = true
+	world_load_icon = false
 	#Determine if dogs will render their armor.
 	render_armor = true
 	#Determine if dogs still render with a red overlay upon hurt like they usually do.

@@ -56,14 +56,14 @@
 	Oddities = true
 
 [automation]
-	"Pistons Move Tile Entities" = true
+	"Pistons Move Tile Entities" = false
 	"Ender Watcher" = true
 	"Redstone Randomizer" = true
 	"Feeding Trough" = true
 	"Metal Buttons" = true
 	"Iron Rod" = true
 	"Obsidian Plate" = true
-	"Chains Connect Blocks" = true
+	"Chains Connect Blocks" = false
 	Gravisand = true
 	"Jukebox Automation" = true
 	"Dispensers Place Blocks" = true
@@ -132,7 +132,7 @@
 	"Vertical Slabs" = true
 	Shingles = true
 	"Sturdy Stone" = true
-	Stools = true
+	Stools = false
 	"Raw Metal Bricks" = true
 	"More Mud Blocks" = true
 	Grate = true
@@ -285,10 +285,10 @@
 [management]
 	"Quick Armor Swapping" = true
 	"Item Sharing" = true
-	"Automatic Tool Restock" = true
+	"Automatic Tool Restock" = false
 	"Expanded Item Interactions" = true
 	"Inventory Sorting" = true
-	"Hotbar Changer" = true
+	"Hotbar Changer" = false
 	"Easy Transfering" = true
 
 	[management.quick_armor_swapping]
@@ -316,10 +316,10 @@
 		"Ignored Items" = ["botania:exchange_rod", "botania:dirt_rod", "botania:skydirt_rod", "botania:cobble_rod"]
 
 	[management.expanded_item_interactions]
-		"Enable Armor Interaction" = true
+		"Enable Armor Interaction" = false
 		"Enable Shulker Box Interaction" = true
 		"Enable Lava Interaction" = true
-		"Allow Opening Shulker Boxes" = true
+		"Allow Opening Shulker Boxes" = false
 		"Allow Rotating Bundles" = true
 
 	[management.inventory_sorting]
@@ -341,7 +341,7 @@
 	"Parrot Eggs" = true
 	Trowel = true
 	Abacus = true
-	"Bottled Cloud" = true
+	"Bottled Cloud" = false
 	"Torch Arrow" = true
 	"Bundle Recipe" = true
 	"Ancient Tomes" = true
@@ -532,11 +532,11 @@
 		"Pike Range" = 5.0
 
 [tweaks]
-	"Gold Tools Have Fortune" = true
-	"Automatic Recipe Unlock" = true
-	"Utility Recipes" = true
+	"Gold Tools Have Fortune" = false
+	"Automatic Recipe Unlock" = false
+	"Utility Recipes" = false
 	"Poison Potato Usage" = true
-	"Better Elytra Rocket" = true
+	"Better Elytra Rocket" = false
 	"Renewable Spore Blossoms" = true
 	"Coral On Cactus" = true
 	"Glass Shard" = true
@@ -546,31 +546,31 @@
 	"Slabs To Blocks" = true
 	"Map Washing" = true
 	"Enhanced Ladders" = true
-	"Reacharound Placing" = true
+	"Reacharound Placing" = false
 	"Horses Swim" = true
 	"Sponge On Water Placement" = true
-	"Armed Armor Stands" = true
+	"Armed Armor Stands" = false
 	"Double Door Opening" = true
-	"Zombie Villagers On Normal" = true
-	"Hoe Harvesting" = true
+	"Zombie Villagers On Normal" = false
+	"Hoe Harvesting" = false
 	Emotes = true
 	"Slimes To Magma Cubes" = true
 	"Snow Golem Player Heads" = true
 	"Vexes Die With Their Masters" = true
 	"More Note Block Sounds" = true
 	"Pat The Dogs" = true
-	"Grab Chickens" = true
+	"Grab Chickens" = false
 	"More Banner Layers" = true
 	"Replace Scaffolding" = true
 	"Diamond Repair" = true
 	"Safer Creatures" = true
-	"Lock Rotation" = true
+	"Lock Rotation" = false
 	"Villagers Follow Emeralds" = true
-	"Compasses Work Everywhere" = true
+	"Compasses Work Everywhere" = false
 	"No Durability On Cosmetics" = true
 	"Sponges Better" = true
 	"Sign Editing" = true
-	"Simple Harvest" = true
+	"Simple Harvest" = false
 	"Dragon Scales" = true
 	"Shulker Packing" = true
 
@@ -795,7 +795,7 @@
 	"Monster Box" = true
 	"Azalea Wood" = true
 	"No More Lava Pockets" = true
-	Corundum = true
+	Corundum = false
 	"Chorus Vegetation" = true
 
 	[world.nether_obsidian_spikes]
@@ -1526,21 +1526,21 @@
 					"Is Blacklist" = true
 
 [client]
-	Camera = true
-	"Elytra Indicator" = true
+	Camera = false
+	"Elytra Indicator" = false
 	"Improved Tooltips" = true
-	"Greener Grass" = true
+	"Greener Grass" = false
 	"Buckets Show Inhabitants" = true
 	"Soul Candles" = true
 	"Auto Walk Keybind" = true
 	"Variant Animal Textures" = false
 	"Microcrafting Helper" = true
-	"Uses For Curses" = true
+	"Uses For Curses" = false
 	"Wool Shuts Up Minecarts" = true
 	"Back Button Keybind" = true
-	"Chest Searching" = true
+	"Chest Searching" = false
 	"Long Range Pick Block" = true
-	"Usage Ticker" = true
+	"Usage Ticker" = false
 
 	[client.camera]
 		#Date format that will be displayed in screenshots. Must be a valid one (i.e. MM/dd/yyyy)
@@ -1783,10 +1783,10 @@
 
 [oddities]
 	Pipes = true
-	Backpack = true
+	Backpack = false
 	"Tiny Potato" = true
 	"Matrix Enchanting" = true
-	"Totem Of Holding" = true
+	"Totem Of Holding" = false
 	Crate = true
 	Magnets = true
 

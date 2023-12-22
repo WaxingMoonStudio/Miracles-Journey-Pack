@@ -21,7 +21,7 @@
 	#.
 	#Whether to actually apply the dev cape (ignored for non-devs)
 	#This setting may require a relog to take effect
-	useDevCape = true
+	useDevCape = false
 
 	#.
 	#Smoke Settings

@@ -9,7 +9,7 @@
 	inventory_count = false
 	#Where to display the amount of items picked up. 'SPRITE' will render the amount on the item sprite like in inventories, 'TEXT' will add a dedicated text including the amount to the item name display.
 	#Allowed Values: OFF, SPRITE, TEXT, BOTH
-	display_amount = "TEXT"
+	display_amount = "SPRITE"
 	#Show a small sprite next to the name of each entry showing its contents.
 	draw_sprites = true
 	#Color of the entry name text.
@@ -28,7 +28,7 @@
 	offset_y = 4
 	#Percentage of relative screen height entries are allowed to fill at max.
 	#Range: 0.0 ~ 1.0
-	max_height = 0.5
+	max_height = 0.4
 	#Scale of entries. A lower scale will make room for more rows to show. Works together with "GUI Scale" option in "Video Settings".
 	#Range: 1 ~ 24
 	scale = 5
@@ -54,12 +54,12 @@
 	combine_entries = true
 	#Amount of ticks each entry will be shown for. Set to 0 to only remove entries when space for new ones is needed.
 	#Range: > 0
-	display_time = 80
+	display_time = 60
 	#Make outdated entries slowly move out of the screen instead of disappearing in place.
 	move_out_of_screen = true
 	#Amount of ticks it takes for an entry to move out of the screen. Value cannot be larger than "Display Time".
 	#Range: > 0
-	move_time = 20
+	move_time = 10
 	#Make outdated entry names slowly fade away instead of simply vanishing.
 	fade_away = true
 

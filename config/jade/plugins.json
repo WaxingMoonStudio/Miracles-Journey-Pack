@@ -87,6 +87,9 @@
   "delightful": {
     "crop_progress": true
   },
+  "touhou_little_maid": {
+    "maid": true
+  },
   "create": {
     "filter": true,
     "backtank_capacity": true,
