@@ -1,14 +1,8 @@
 # GNU GENERAL PUBLIC LICENSE
 
-# GNU通用公共许可协议
-
 Version 3, 29 June 2007
 
-第三版，2007年6月29日
-
 Copyright (C) 2007 Free Software Foundation, Inc.
-
-版权所有 © 2007 自由软件基金会
 
 https://fsf.org/
 
