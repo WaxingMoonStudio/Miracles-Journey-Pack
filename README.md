@@ -15,7 +15,7 @@
 	<a href="https://github.com/Qian-F/Miracles-Journey/commits/main"><img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/Qian-F/Miracles-Journey?style=for-the-badge"></a>
 	<a href="https://github.com/Qian-F/Miracles-Journey/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Qian-F/Miracles-Journey?style=for-the-badge"></a>
 	<a href="https://github.com/Qian-F/Miracles-Journey"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Qian-F/Miracles-Journey?style=for-the-badge"></a>
-	<a href="https://github.com/Qian-F/Miracles-Journey?tab=License-1-ov-file#readme"><img alt="License" src="./.github/license-cc-by-nc-nd-4.0-deed.svg" height="28"/></a>
+	<a href="https://github.com/Qian-F/Miracles-Journey/blob/main/LICENSE.MD"><img alt="License" src="./.github/license-cc-by-nc-nd-4.0-deed.svg" height="28"/></a>
 </div>
 
 ------
