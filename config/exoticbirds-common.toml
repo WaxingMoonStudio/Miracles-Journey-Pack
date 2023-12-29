@@ -43,7 +43,7 @@
 		allowNestEggRegen = true
 		#How many nests, on average, should appear per chunk when generated. (0 = disabled; 1 = few; 10 = many). Default = 5
 		#Range: 0 ~ 10
-		nestGenRate = 5
+		nestGenRate = 1
 
 	[general.birdbook]
 		#Allow experience to be obtained by logging birds. Default = true

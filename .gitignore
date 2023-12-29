@@ -4,20 +4,36 @@
 
 /.vscode
 
+/armourers_workshop
+
 /backups
 
 # /config - 部分
 /config/starterkit/starterkit-old*.txt
+/config/jei/world
 
 /crash-reports
-
-/CustomSkinLoader
 
 /debug
 
 /defaultconfigs
 
 /ESM
+
+# /essential - 部分
+/essential/avatar-cache
+/essential/cosmetic-cache
+/essential/image-cache
+/essential/libraries
+/essential/loader
+/essential/lwjgl3-natives
+/essential/screenshot-cache
+/essential/screenshot-metadata
+/essential/Essential (forge_1.19.2).jar
+/essential/essential-loader.properties
+/essential/onboarding.json
+/essential/screenshot-checksum-caches.json
+/essential/version.json
 
 /etched-sounds
 
@@ -27,7 +43,19 @@
 
 /fancymenu_setups
 
-# /JRE17
+# /GraalvmJDK17 - 部分
+/GraalvmJDK17/bin
+/GraalvmJDK17/conf
+/GraalvmJDK17/include
+/GraalvmJDK17/jmods
+/GraalvmJDK17/languages
+/GraalvmJDK17/legal
+/GraalvmJDK17/lib
+/GraalvmJDK17/tools
+/GraalvmJDK17/GRAALVM-README.md
+/GraalvmJDK17/license-information-user-manual.zip
+/GraalvmJDK17/LICENSE.txt
+/GraalvmJDK17/release
 
 # /kubejs - 部分
 /kubejs/probe
@@ -54,9 +82,11 @@
 
 /music_sheets
 
+/natives-windows-x86_64
+
 /patchouli_books
 
-/PCL
+# /PCL
 
 /quests_structures
 
@@ -74,6 +104,8 @@
 
 /thingpacks
 
+/thumbnails
+
 /tlm_custom_pack
 
 # /wiki
@@ -83,6 +115,8 @@
 /XaeroWaypoints_BACKUP*
 
 /XaeroWorldMap
+
+/.abnormal
 
 # /.all-contributorsrc
 
@@ -98,15 +132,21 @@
 
 # /CONTRIBUTING.md
 
+/Custom_Backup.xaml
+
 # /Custom.xaml
 
 /hmclversion.cfg
 
 # /LICENSE.MD
 
+/log4j2.xml
+
 # /Miracles Journey.jar
 
 # /Miracles Journey.json
+
+/ops.json
 
 # /options.txt
 

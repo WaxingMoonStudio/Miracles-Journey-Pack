@@ -34,4 +34,7 @@
 		#Show above the Journeymap map, instead of below. 
 		# (true/false)
 		enable_above_map = false
+		#Toggle for macOS retina display scaling. 
+		# (true/false)
+		enable_macOS = false
 
