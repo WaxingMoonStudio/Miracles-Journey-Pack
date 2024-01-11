@@ -11,22 +11,3 @@
 	#Range: 0 ~ 400
 	spaceSpawnHeight = 64
 
-[dimensionAccess]
-
-	#.
-	#Configure which dimension are a planet
-	[dimensionAccess.v1]
-		#.
-		#.
-		#which dimensions are a planet
-		planets = ["creatingspace:the_moon", "minecraft:overworld"]
-		#.
-		#which dimensions are an orbit
-		orbits = ["creatingspace:moon_orbit", "creatingspace:earth_orbit"]
-		#.
-		#which dimensions doesn't have O2
-		no_O2 = ["creatingspace:moon_orbit", "creatingspace:earth_orbit", "creatingspace:the_moon"]
-		#.
-		#which dimensions are accessible from where
-		accessibility_matrix = ["minecraft:overworld->{creatingspace:earth_orbit->1500}", "creatingspace:earth_orbit->{creatingspace:moon_orbit->600,minecraft:overworld->200}", "creatingspace:moon_orbit->{creatingspace:the_moon->300,creatingspace:earth_orbit->200}", "creatingspace:the_moon->{creatingspace:moon_orbit->300}"]
-

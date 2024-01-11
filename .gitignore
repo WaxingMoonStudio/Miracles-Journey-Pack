@@ -14,26 +14,13 @@
 
 /crash-reports
 
+/CustomSkinLoader
+
 /debug
 
 /defaultconfigs
 
 /ESM
-
-# /essential - 部分
-/essential/avatar-cache
-/essential/cosmetic-cache
-/essential/image-cache
-/essential/libraries
-/essential/loader
-/essential/lwjgl3-natives
-/essential/screenshot-cache
-/essential/screenshot-metadata
-/essential/Essential (forge_1.19.2).jar
-/essential/essential-loader.properties
-/essential/onboarding.json
-/essential/screenshot-checksum-caches.json
-/essential/version.json
 
 /etched-sounds
 
@@ -82,8 +69,6 @@
 
 /music_sheets
 
-/natives-windows-x86_64
-
 /patchouli_books
 
 # /PCL
@@ -116,8 +101,6 @@
 
 /XaeroWorldMap
 
-/.abnormal
-
 # /.all-contributorsrc
 
 # /.gitignore
@@ -140,11 +123,11 @@
 
 # /LICENSE.MD
 
-/log4j2.xml
-
 # /Miracles Journey.jar
 
 # /Miracles Journey.json
+
+/o_prof
 
 /ops.json
 
@@ -159,6 +142,8 @@
 /rhino.local.properties
 
 # /SECURITY.md
+
+# /TODO.md
 
 /usercache.json
 

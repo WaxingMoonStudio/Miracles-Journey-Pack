@@ -1,5 +1,5 @@
 
 [logbegone]
-	phrases = ["invincibilityTime", "Debug1011", "Registering S2C", "Found Quark module class", "Loading Module", "Failed to fetch dev cape data", "Registry entry", "Registered variant", "Register Block", "Registering model", "Using missing texture", "Sound event", "Key mapping", "Exception loading blockstate definition", "Unable to load model", "suppressed exception", "Remote host terminated the handshake", "Could not load contributor+special revolver list", "Unable to resolve texture", "Registering config factory", "Unable to parse language metadata section", "Skipped language file", "Missing sound for event", "using the deprecated loader", "apply petrification layer to type", "Could not apply rainbow color layer", "Error while parsing the block ID map entry", "has no property with the name", "Injection warning", "Reference map", "@Redirect conflict", "Error loading class", "@ModifyConstant conflict", "Assets URL", "Loaded json painting", "Registering C2S", "Connection reset", "Failed to load patreon information", "using the deprecated", "could not find sampler"]
+	phrases = []
 	regex = []
 

@@ -1,4 +1,4 @@
-# AlphaV0.0.6
+# AlphaV0.0.7
 
 ## 更新内容
 
@@ -15,8 +15,6 @@ Quark 的配置全自定义 --- Quark
 汉化文件更新和修复 --- I18N / Sparkles
 
 光影配置文件更新 --- ComplementaryReimagined_r5.1.1+EuphoriaPatches_1.1
-
-日志过滤配置 --- LogBeGone
 
 画渲染以及操作优化 --- Paintings++ / FastPainting
 
@@ -50,8 +48,6 @@ Quark 的配置全自定义 --- Quark
 
 调整鸟巢生成率 --- ExoticBrids
 
-开启背景模糊配置 --- ModernUI
-
 新增时装工坊, 可自由定制武器与护甲皮肤 --- ArmourersWorkshop
 
 优化村庄结构 --- BetterVillage
@@ -60,7 +56,7 @@ Quark 的配置全自定义 --- Quark
 
 丰富机械动力相关装饰及功能方块 --- CreateConnected
 
-为Embeddium附加更多功能 --- Embeddium++
+为 Embeddium 附加更多功能 --- Embeddium++
 
 为精致存储添加了一个三合一的便携终端 --- UniversalGrid
 
@@ -70,14 +66,36 @@ Quark 的配置全自定义 --- Quark
 
 增加信息安全性 --- NoChatReport
 
-提供更便捷的联机和交流方式 --- EssentialMod
-
-修复相关Assets和Libraries环境文件 --- Launcher
-
-删除万用皮肤补丁改用Essential内置皮肤上传器 --- CustomSkinLoader
+修复相关 Assets 和 Libraries 环境文件 --- Launcher
 
 删除红石显示资源包 --- RedStoneTweaks
 
-添加一些Incendium的自定义材质 --- Sparkles
+添加一些 Incendium 的自定义材质 --- Sparkles
 
-模组常规更新 --- 暂不列出
+隐藏主界面那些"烦人"的按钮 --- Aether
+
+隐藏选项菜单和主界面被替换的背景 --- BlueSkies
+
+调整备份时间 --- FtbBackup
+
+添加代办清单(虽然什么都没写) --- TODO.md
+
+优化甜浆果的行为 --- BerryGood
+
+扩展仙人掌, 竹子和粘液球等食品用途 --- GreenDelight
+
+优化成就系统性能 --- Lcterine
+
+添加可视性能监控帮助性能检测 --- Observable
+
+丰富多人联机体验 --- Watut
+
+光影更新 --- EuphoriaPatches
+
+更新 Quark 汉化文件 --- ModLanguagePack
+
+移除更卡顿的 F3 --- BetterF3
+
+移除沉浸式风化提高性能和生存体验 --- ImmersiveWeathering
+
+常规 Mod 更新 --- 暂不列出
