@@ -1,6 +1,9 @@
 <h1 align="center">Miracles Journey - 奇迹之旅</h1>
 <h2 align="center">Minecraft 1.19.2 Forge</h2>
 <h3 align="center">🎯积极维护 - 积极开发🥰</h3>
+
+------
+
 <div align="center">
 	<a href="https://github.com/Qian-F/Miracles-Journey/releases"><img alt="GitHub Release Date - Published_At" src="https://img.shields.io/github/release-date/Qian-F/Miracles-Journey?display_date=published_at&style=for-the-badge"></a>
 	<a href="https://github.com/Qian-F/Miracles-Journey/commits/main"><img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/Qian-F/Miracles-Journey?style=for-the-badge"></a>
