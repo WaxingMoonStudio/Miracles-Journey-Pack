@@ -24,9 +24,7 @@
 
 ------
 
-> ❗本项目处于开发阶段, 遇到任何问题请及时提交Issue或者与开发组取得联系! 我们会尽快处理并解决问题!
-
-------
+<center>本项目处于开发阶段, 遇到任何问题请及时提交Issue或者与开发组取得联系! 我们会尽快处理并解决问题!</center>
 
 <div align="center">
     <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/main/DISCLAIMER.md">免责声明</a> - </strong>
