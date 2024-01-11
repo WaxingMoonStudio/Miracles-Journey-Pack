@@ -10,6 +10,7 @@
 ## 安装教程 <a href="#installation" id="installation"></a>
 
 * [如何下载](installation/download.md)
+* [如何安装](installation/install.md)
 
 ## 内容整合 <a href="#content" id="content"></a>
 
