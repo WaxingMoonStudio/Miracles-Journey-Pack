@@ -1,5 +1,3 @@
-# /.github
-
 /.mixin.out
 
 /.vscode
@@ -93,15 +91,11 @@
 
 /tlm_custom_pack
 
-# /wiki
-
 /XaeroWaypoints
 
 /XaeroWaypoints_BACKUP*
 
 /XaeroWorldMap
-
-# /.all-contributorsrc
 
 # /.gitignore
 
@@ -111,13 +105,11 @@
 
 # /CHANGELOG.md
 
-# /CODE_OF_CONDUCT.md
-
-# /CONTRIBUTING.md
-
 /Custom_Backup.xaml
 
 # /Custom.xaml
+
+# /DISCLAIMER.md
 
 /hmclversion.cfg
 
@@ -137,11 +129,7 @@
 
 /patchouli_data.json
 
-# /README.md
-
 /rhino.local.properties
-
-# /SECURITY.md
 
 # /TODO.md
 
