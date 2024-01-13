@@ -1,4 +1,4 @@
-name: "Bug反馈"
+name: "Bug 反馈"
 description: "遇见了正常游戏内容预期外的Bug"
 labels: ["B: BUGGGG"]
 body:
