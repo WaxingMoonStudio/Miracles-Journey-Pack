@@ -31,14 +31,14 @@
 <br/>
 
 <div align="center">
-    <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/main/DISCLAIMER.md">免责声明</a> - </strong>
+    <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/pack/DISCLAIMER.md">免责声明</a> - </strong>
     <strong><a href="https://miraclesjourney.qianf.fun/">帮助文档</a> - </strong>
-    <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/main/CHANGELOG.md">更新日志</a> - </strong>
+    <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/pack/CHANGELOG.md">更新日志</a> - </strong>
     <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/main/CONTRIBUTING.md">贡献列表</a> - </strong>
     <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/main/CODE_OF_CONDUCT.md">贡献者公约</a> - </strong>
     <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/main/LICENSE.md">开放协议</a> - </strong>
     <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/main/SECURITY.md">安全政策</a> - </strong>
-    <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/main/TODO.md">待办事项</a></strong>
+    <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/pack/TODO.md">待办事项</a></strong>
 </div>
 
 ------
