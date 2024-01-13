@@ -53,7 +53,7 @@
       "--launchTarget",
       "forgeclient",
       "--fml.forgeVersion",
-      "43.3.5",
+      "43.3.7",
       "--fml.mcVersion",
       "1.19.2",
       "--fml.forgeGroup",
@@ -1787,12 +1787,12 @@
       }
     },
     {
-      "name": "net.minecraftforge:fmlloader:1.19.2-43.3.5",
+      "name": "net.minecraftforge:fmlloader:1.19.2-43.3.7",
       "downloads": {
         "artifact": {
-          "path": "net/minecraftforge/fmlloader/1.19.2-43.3.5/fmlloader-1.19.2-43.3.5.jar",
-          "url": "https://maven.minecraftforge.net/net/minecraftforge/fmlloader/1.19.2-43.3.5/fmlloader-1.19.2-43.3.5.jar",
-          "sha1": "6c2c277bb01f4307dce958576b97132cf276507e",
+          "path": "net/minecraftforge/fmlloader/1.19.2-43.3.7/fmlloader-1.19.2-43.3.7.jar",
+          "url": "https://maven.minecraftforge.net/net/minecraftforge/fmlloader/1.19.2-43.3.7/fmlloader-1.19.2-43.3.7.jar",
+          "sha1": "3fe99c14bf274690356367c2e9400b4c40357eb3",
           "size": 261212
         }
       }

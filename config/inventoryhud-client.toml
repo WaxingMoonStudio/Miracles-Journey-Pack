@@ -34,9 +34,9 @@
 	showInv = false
 	#Armor HUD durability view (PERCENTAGE, DAMAGE, DAMAGE LEFT)
 	#Allowed Values: PERCENTAGE, DAMAGE, DAMAGE_LEFT, OFF
-	armView = "PERCENTAGE"
+	armView = "OFF"
 	#Show item durability bar
-	armBars = false
+	armBars = true
 	#Move all items at once or each one
 	moveAll = true
 	#Show/Hide empty slot icon
@@ -58,9 +58,9 @@
 	#Range: -5 ~ 5
 	potGap = 0
 	#Potion HUD mini mode
-	potMini = false
+	potMini = true
 	#Potion HUD horizontal mode
-	potHor = false
+	potHor = true
 	#Full bar duration
 	#Range: > 1
 	barDuration = 300
@@ -78,19 +78,19 @@
 	xPos = 0
 	#Inventory HUD position (Y)
 	#Range: -9999 ~ 9999
-	yPos = 150
+	yPos = 148
 	#Armor HUD vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	armValign = "BOTTOM"
 	#Armor HUD horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	armHalign = "LEFT"
+	armHalign = "RIGHT"
 	#Armor HUD position (X)
 	#Range: -9999 ~ 9999
-	xArmPos = 1
+	xArmPos = 93
 	#Armor HUD position (Y)
 	#Range: -9999 ~ 9999
-	yArmPos = 70
+	yArmPos = 73
 	#Potion HUD vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	potValign = "TOP"
@@ -99,10 +99,10 @@
 	potHalign = "RIGHT"
 	#Potion HUD position (X)
 	#Range: -9999 ~ 9999
-	xPotionPos = 62
+	xPotionPos = 19
 	#Potion HUD position (Y)
 	#Range: -9999 ~ 9999
-	yPotionPos = 2
+	yPotionPos = 15
 	#Helmet position (X)
 	#Range: -9999 ~ 9999
 	helmPosX = 103
