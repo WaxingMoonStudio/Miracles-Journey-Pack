@@ -74,6 +74,8 @@
 
 ## 调整内容
 
+移除了世界加载屏幕中的小狗图标 --- DoggyTalentsNext
+
 Quark 的配置全自定义 --- Quark
 
 拾取物品提示的条目速度配置 --- PickupNotifier
@@ -99,8 +101,6 @@ Quark 的配置全自定义 --- Quark
 开启背景模糊配置 --- ModernUI
 
 ## 删除内容
-
-移除了世界加载屏幕中的小狗图标 --- DoggyTalentsNext
 
 禁用一些模组的国内无法访问的 Patreon / Dev / Contribution 信息 --- CreateSteamRails
 
