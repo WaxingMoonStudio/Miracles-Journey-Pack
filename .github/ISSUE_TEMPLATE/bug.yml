@@ -1,5 +1,5 @@
 name: "Bug 反馈"
-description: "遇见了正常游戏内容预期外的Bug"
+description: "遇见了正常游戏内容预期外的 Bug"
 labels: ["B: BUGGGG"]
 body:
 - type: checkboxes
