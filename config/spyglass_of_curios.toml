@@ -37,5 +37,5 @@ deBug = false
 ["动画设置 Animation Settings"]
 	#
 	#是否当不持有望远镜时按下按键也能使用望远镜动作 Whether the spyglass Anim can be used by pressing the key when not holding the spyglass.
-	disableAimingAnim = false
+	disableAimingAnim = true
 

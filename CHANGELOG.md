@@ -2,118 +2,130 @@
 
 ## 新增内容
 
-汉化文件更新和修复 --- I18N / Sparkles
+1. 汉化文件更新和修复 --- I18N / Sparkles
 
-画渲染以及操作优化 --- Paintings++ / FastPainting
+2. 画渲染以及操作优化 --- Paintings++ / FastPainting
 
-新增温泉机制 --- SimplyHotSprings
+3. 新增温泉机制 --- SimplyHotSprings
 
-新增女仆 --- TouhouLittleMaid
+4. 新增女仆 --- TouhouLittleMaid
 
-新增月相显示器 --- UrkazMoonTools
+5. 新增月相显示器 --- UrkazMoonTools
 
-新增可在地图上查看截图的功能 --- GeotaggedScreenshots
+6. 新增可在地图上查看截图的功能 --- GeotaggedScreenshots
 
-新增两种扩展音符盒 --- ExtendedNoteblock
+7. 新增两种扩展音符盒 --- ExtendedNoteblock
 
-更换地图为 Xaero 系列 --- XaeroMinimap / XaeroWorldMap
+8. 更换地图为 Xaero 系列 --- XaeroMinimap / XaeroWorldMap
 
-优化游戏内气泡显示 --- MakeBubblesPop
+9. 优化游戏内气泡显示 --- MakeBubblesPop
 
-新增旷野之息高塔 --- TowersOfTheWildModded
+10. 新增旷野之息高塔 --- TowersOfTheWildModded
 
-新增结构丰富冒险体验 --- WabiSabiStructures
+11. 新增结构丰富冒险体验 --- WabiSabiStructures
 
-优化启动参数和 JVM 环境配置以带来更好的内置服务器性能 --- GraalVM
+12. 优化启动参数和 JVM 环境配置以带来更好的内置服务器性能 --- GraalVM
 
-提供 Java 环境一键下载脚本 --- GraalVM
+13. 提供 Java 环境一键下载脚本 --- GraalVM
 
-新增时装工坊, 可自由定制武器与护甲皮肤 --- ArmourersWorkshop
+14. 新增时装工坊, 可自由定制武器与护甲皮肤 --- ArmourersWorkshop
 
-优化村庄结构 --- BetterVillage
+15. 优化村庄结构 --- BetterVillage
 
-优化放置体验 --- BridgingMod
+16. 优化放置体验 --- BridgingMod
 
-丰富机械动力相关装饰及功能方块 --- CreateConnected
+17. 丰富机械动力相关装饰及功能方块 --- CreateConnected
 
-为 Embeddium 附加更多功能 --- Embeddium++
+18. 为 Embeddium 附加更多功能 --- Embeddium++
 
-为精致存储添加了一个三合一的便携终端 --- UniversalGrid
+19. 为精致存储添加了一个三合一的便携终端 --- UniversalGrid
 
-添加随处随笔以丰富联机体验 --- WorldComment
+20. 添加随处随笔以丰富联机体验 --- WorldComment
 
-为新生魔艺添加自动化的宝石和饰品 --- ArsArtifice
+21. 为新生魔艺添加自动化的宝石和饰品 --- ArsArtifice
 
-增加信息安全性 --- NoChatReport
+22. 增加信息安全性 --- NoChatReport
 
-添加一些 Incendium 的自定义材质 --- Sparkles
+23. 添加一些 Incendium 的自定义材质 --- Sparkles
 
-添加代办清单(虽然什么都没写) --- TODO.md
+24. 添加代办清单(虽然什么都没写) --- TODO.md
 
-优化甜浆果的行为 --- BerryGood
+25. 优化甜浆果的行为 --- BerryGood
 
-扩展仙人掌, 竹子和粘液球等食品用途 --- GreenDelight
+26. 扩展仙人掌, 竹子和粘液球等食品用途 --- GreenDelight
 
-优化成就系统性能 --- Lcterine
+27. 优化成就系统性能 --- Lcterine
 
-添加可视性能监控帮助性能检测 --- Observable
+28. 添加可视性能监控帮助性能检测 --- Observable
 
-丰富多人联机体验 --- Watut
+29. 丰富多人联机体验 --- Watut
 
-更新 Quark 汉化文件 --- ModLanguagePack
+30. 更新 Quark 汉化文件 --- ModLanguagePack
 
-更新 Forge 版本到43.3.7 --- Forge
+31. 更新 Forge 版本到43.3.7 --- Forge
 
-增加部分配方增强游戏体验 --- FormulaAddition-SaltBlock
+32. 增加部分配方增强游戏体验 --- FormulaAddition-SaltBlock
 
-增加进度牌匾并更改材质及声音 --- AdvancementPlaques / VanillaAdvancement
+33. 增加进度牌匾并更改材质及声音 --- AdvancementPlaques / VanillaAdvancement
 
-丰富农夫乐事的存储系统 --- Farmer'sUtils
+34. 丰富农夫乐事的存储系统 --- Farmer'sUtils
 
-光影配置文件更新 --- ComplementaryReimagined / EuphoriaPatches
+35. 光影配置文件更新 --- ComplementaryReimagined / EuphoriaPatches
+36. 自定义简陋的 PCL 主页(后续会美化) --- PCL
+37. 添加部分模组和农夫乐事之间的联动食材 --- AetherDelight / AquacultureDelight / UndergardenDelight / GalosphereDelight
+38. 添加超100种类型的搏鱼 --- Bettas
+39. 重置钓鱼机制 --- FishingOverhaul
+40. 为咒法学新增多种可选法杖 --- HextendedStaves
+41. 部分 Mod 和资源包更新 --- 暂不列出
 
 ## 调整内容
 
-移除了世界加载屏幕中的小狗图标 --- DoggyTalentsNext
+1. 移除了世界加载屏幕中的小狗图标 --- DoggyTalentsNext
 
-Quark 的配置全自定义 --- Quark
+2. Quark 的配置全自定义 --- Quark
 
-拾取物品提示的条目速度配置 --- PickupNotifier
+3. 拾取物品提示的条目速度配置 --- PickupNotifier
 
-初始物品调整 --- StarterKit
+4. 初始物品调整 --- StarterKit
 
-调整结构生成距离 --- SpareStructuRereforged
+5. 调整结构生成距离 --- SpareStructuRereforged
 
-调整鸟巢生成率 --- ExoticBrids
+6. 调整鸟巢生成率 --- ExoticBrids
 
-修复相关 Assets 和 Libraries 环境文件 --- Launcher
+7. 修复相关 Assets 和 Libraries 环境文件 --- Launcher
 
-隐藏主界面那些"烦人"的按钮 --- Aether
+8. 隐藏主界面那些"烦人"的按钮 --- Aether
 
-隐藏选项菜单和主界面被替换的背景 --- BlueSkies
+9. 隐藏选项菜单和主界面被替换的背景 --- BlueSkies
 
-调整备份时间 --- FtbBackup
+10. 调整备份时间 --- FtbBackup
 
-调整游戏界面部分 Hud 位置 --- InventoryHud / PickUpNotifier
+11. 调整游戏界面部分 Hud 位置 --- InventoryHud / PickUpNotifier
 
-调整移动物品时的动画速度 --- SmoothSwapping
+12. 调整移动物品时的动画速度 --- SmoothSwapping
 
-开启背景模糊配置 --- ModernUI
+13. 开启背景模糊配置 --- ModernUI
+14. 禁用滑稽的抬手动作 --- SpyglassOfCurios
+15. 禁用敌对女仆生成, 调整部分影响原版游戏体验的设置 --- TouhouLittleMaid
+16. 调整地图的部分设置使其正确显示其他维度地形 --- XaeroWorldMap
 
 ## 删除内容
 
-禁用一些模组的国内无法访问的 Patreon / Dev / Contribution 信息 --- CreateSteamRails
+1. 禁用一些模组的国内无法访问的 Patreon / Dev / Contribution 信息 --- CreateSteamRails
 
-移除 EMI 以优化 GUI 体验 - EMI
+2. 移除 EMI 以优化 GUI 体验 - EMI
 
-移除 PrimitiveStart 以优化前期体验 --- PrimitiveStart
+3. 移除 PrimitiveStart 以优化前期体验 --- PrimitiveStart
 
-删除红石显示资源包 --- RedStoneTweaks
+4. 删除红石显示资源包 --- RedStoneTweaks
 
-移除更卡顿的 F3 --- BetterF3
+5. 移除更卡顿的 F3 --- BetterF3
 
-移除沉浸式风化提高性能和生存体验 --- ImmersiveWeathering
+6. 移除沉浸式风化提高性能和生存体验 --- ImmersiveWeathering
+
 
 ## 错误修复
 
-修复 CreateConnected 导致的崩溃 Bug (Issue #9) --- CreateConnected
+1. 修复 CreateConnected 导致的崩溃 Bug (Issue #9) --- CreateConnected
+2. 成功解决 3DSkinLayers 与 EntityTextureFeatures 的兼容性问题(详见: [Traben-0/Entity_Texture_Features#230](https://github.com/Traben-0/Entity_Texture_Features/issues/230)) --- 3DSkinLayers / EntityTextureFeatures
+

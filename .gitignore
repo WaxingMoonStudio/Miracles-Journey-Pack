@@ -62,8 +62,7 @@
 
 /modernfix
 
-# /mods - 部分
-/mods/panorama
+# /mods
 
 /music_sheets
 
@@ -123,8 +122,6 @@
 
 # /options.txt
 
-/panorama.dat
-
 /patchouli_data.json
 
 /rhino.local.properties
@@ -134,3 +131,5 @@
 /usercache.json
 
 /usernamecache.json
+
+# /Version.txt
