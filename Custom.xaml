@@ -1,4 +1,4 @@
-<local:MyCard Title="纯文本" Margin="0,0,0,15" CanSwap="false" IsSwaped="false">
+<local:MyCard Title="主页" Margin="0,0,0,15" CanSwap="false" IsSwaped="false">
 	<StackPanel Margin="25,40,23,15">
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" HorizontalAlignment="Center" FontSize="30" FontWeight="Bold"
                     Text="Miracles Journey - 奇迹之旅" />
