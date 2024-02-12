@@ -35,7 +35,7 @@
 	#Set to false to stop quark from adding its own advancements
 	"Enable Quark Advancements" = true
 	#Set to false to disable the popup message telling you that you can config quark in the q menu
-	"Enable Onboarding" = true
+	"Enable Onboarding" = false
 	#Set to false to disable the behavior where quark will automatically hide any disabled items
 	"Hide Disabled Content" = true
 	#Set to false to disable Quark's item info when viewing recipe/uses for an item in JEI
@@ -550,7 +550,7 @@
 	"Horses Swim" = true
 	"Sponge On Water Placement" = true
 	"Armed Armor Stands" = false
-	"Double Door Opening" = true
+	"Double Door Opening" = false
 	"Zombie Villagers On Normal" = false
 	"Hoe Harvesting" = false
 	Emotes = true
@@ -1532,14 +1532,14 @@
 	"Greener Grass" = false
 	"Buckets Show Inhabitants" = true
 	"Soul Candles" = true
-	"Auto Walk Keybind" = true
+	"Auto Walk Keybind" = false
 	"Variant Animal Textures" = false
 	"Microcrafting Helper" = true
 	"Uses For Curses" = false
 	"Wool Shuts Up Minecarts" = true
 	"Back Button Keybind" = true
 	"Chest Searching" = false
-	"Long Range Pick Block" = true
+	"Long Range Pick Block" = false
 	"Usage Ticker" = false
 
 	[client.camera]
@@ -1550,7 +1550,7 @@
 		"Attribute Tooltips" = true
 		"Food Tooltips" = false
 		"Shulker Tooltips" = true
-		"Map Tooltips" = true
+		"Map Tooltips" = false
 		"Enchanting Tooltips" = false
 		"Fuel Time Tooltips" = true
 		"Shulker Box Use Colors" = true
@@ -1592,7 +1592,7 @@
 			B = [0.0, 0.0, 1.22]
 
 	[client.buckets_show_inhabitants]
-		"Show Axolotls" = true
+		"Show Axolotls" = false
 		"Show Crabs" = true
 		"Show Tropical Fish" = true
 		"Show Shiny Slime" = true

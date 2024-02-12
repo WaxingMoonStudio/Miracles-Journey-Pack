@@ -9,6 +9,7 @@
 # /config - 部分
 /config/starterkit/starterkit-old*.txt
 /config/jei/world
+/config/spark/activity.json
 
 /crash-reports
 
@@ -16,13 +17,15 @@
 
 /debug
 
-/defaultconfigs
+# /defaultconfigs
 
 /ESM
 
 /etched-sounds
 
 /everbook
+
+/exports
 
 /fancymenu_data
 
@@ -41,6 +44,8 @@
 /GraalvmJDK17/license-information-user-manual.zip
 /GraalvmJDK17/LICENSE.txt
 /GraalvmJDK17/release
+
+/hammerlib/improvableskills
 
 # /kubejs - 部分
 /kubejs/probe
@@ -104,6 +109,8 @@
 
 # /CHANGELOG.md
 
+/cherishedworlds-favorites.dat
+
 /Custom_Backup.xaml
 
 # /Custom.xaml
@@ -127,6 +134,8 @@
 /rhino.local.properties
 
 # /TODO.md
+
+# /TrashSlotSaveState.json
 
 /usercache.json
 

@@ -1,131 +1,81 @@
-# BetaV0.0.7 更新日志
+# BetaV0.0.8 更新日志
 
 ## 新增内容
 
-1. 汉化文件更新和修复 --- I18N / Sparkles
-
-2. 画渲染以及操作优化 --- Paintings++ / FastPainting
-
-3. 新增温泉机制 --- SimplyHotSprings
-
-4. 新增女仆 --- TouhouLittleMaid
-
-5. 新增月相显示器 --- UrkazMoonTools
-
-6. 新增可在地图上查看截图的功能 --- GeotaggedScreenshots
-
-7. 新增两种扩展音符盒 --- ExtendedNoteblock
-
-8. 更换地图为 Xaero 系列 --- XaeroMinimap / XaeroWorldMap
-
-9. 优化游戏内气泡显示 --- MakeBubblesPop
-
-10. 新增旷野之息高塔 --- TowersOfTheWildModded
-
-11. 新增结构丰富冒险体验 --- WabiSabiStructures
-
-12. 优化启动参数和 JVM 环境配置以带来更好的内置服务器性能 --- GraalVM
-
-13. 提供 Java 环境一键下载脚本 --- GraalVM
-
-14. 新增时装工坊, 可自由定制武器与护甲皮肤 --- ArmourersWorkshop
-
-15. 优化村庄结构 --- BetterVillage
-
-16. 优化放置体验 --- BridgingMod
-
-17. 丰富机械动力相关装饰及功能方块 --- CreateConnected
-
-18. 为 Embeddium 附加更多功能 --- Embeddium++
-
-19. 为精致存储添加了一个三合一的便携终端 --- UniversalGrid
-
-20. 添加随处随笔以丰富联机体验 --- WorldComment
-
-21. 为新生魔艺添加自动化的宝石和饰品 --- ArsArtifice
-
-22. 增加信息安全性 --- NoChatReport
-
-23. 添加一些 Incendium 的自定义材质 --- Sparkles
-
-24. 添加代办清单(虽然什么都没写) --- TODO.md
-
-25. 优化甜浆果的行为 --- BerryGood
-
-26. 扩展仙人掌, 竹子和粘液球等食品用途 --- GreenDelight
-
-27. 优化成就系统性能 --- Lcterine
-
-28. 添加可视性能监控帮助性能检测 --- Observable
-
-29. 丰富多人联机体验 --- Watut
-
-30. 更新 Quark 汉化文件 --- ModLanguagePack
-
-31. 更新 Forge 版本到43.3.7 --- Forge
-
-32. 增加部分配方增强游戏体验 --- FormulaAddition-SaltBlock
-
-33. 增加进度牌匾并更改材质及声音 --- AdvancementPlaques / VanillaAdvancement
-
-34. 丰富农夫乐事的存储系统 --- Farmer'sUtils
-
-35. 光影配置文件更新 --- ComplementaryReimagined / EuphoriaPatches
-36. 自定义简陋的 PCL 主页(后续会美化) --- PCL
-37. 添加部分模组和农夫乐事之间的联动食材 --- AetherDelight / AquacultureDelight / UndergardenDelight / GalosphereDelight
-38. 添加超100种类型的搏鱼 --- Bettas
-39. 重置钓鱼机制 --- FishingOverhaul
-40. 为咒法学新增多种可选法杖 --- HextendedStaves
-41. 部分 Mod 和资源包更新 --- 暂不列出
+1. 优化快速方块放置体验 --- AccurateBlockPlacement
+2. 为机械动力添加了多种装饰方块与实用功能 --- BellsAndWhistles
+3. 添加了一双泡泡靴 --- BubbleBoots
+4. 美化模组目录 --- Catalogue
+5. 优化矿洞生成 --- CaveOverHaul
+6. 美化控制界面 --- Controlling
+7. 添加了更多伪装方块衍生物 --- CopiesCats
+8. 为 Iron's Spells 'n Spellbooks 和机械动力添加联动 --- Wizardry
+9. 添加了一些荷兰小吃 --- Bitterballen
+10. 修复玩家的视角不会向伤害的方向倾斜的 Bug --- DamageTilt
+11. 扩展了机械动力的基本装饰能力 --- DesignDecor
+12. 添加了蔚蓝浩空和 Tetra 的联动 --- DimensionalAscension
+13. 丰富了铁砧的使用体验 --- EasyAnvils
+14. 添加了一些既可搭配原版也与模组良好适配的魔咒 --- Ensorcellation
+15. 使装备的比较更加便捷 --- EquipmentCompare
+16. 让玩家手动收获作物时掉落经验球 --- ExperiencedCrops
+17. 添加大量新功能来增强游戏体验, 包括生物, 结构和利用奥术力量的方法 --- Goety
+18. 添加巫师方面的魔法内容 --- Hexerei
+19. 允许玩家使用经验和技能来升级自己 --- ImprovableSkills3
+20. 添加了货币系统用于后期魔改 --- JacksEconomy
+21. 添加了简易刀剑对更多模组的支持 --- KnavesNeeds
+22. 便利加载模组导出, 为后续整合包发布奠基 --- LoadedModsExporter
+23. 添加了几个可被召唤的 Boss --- MeetYourFight
+24. 允许玩家快速设计建筑并打印为蓝图 --- TheMightyArchitectury
+25. 使玩家发送聊天文本时显示相应的聊天气泡并兼容光影 --- NotableBubbleText
+26. 丰富了切洋葱的神奇效果 --- OnionOnion
+27. 添加了多态合成与精致存储的兼容性 --- RefinedPolymorphism
+28. 更换生活调味料版本为苹果派版以增强体验 --- SpiceOfLifeApplePieEdition
+29. 提供了通过简单的小游戏制作寿司的途径 --- SushiGoCrafting
+30. 为 Tetra 添加了更多来自其他 Mod 的材料 --- TetraExtras
+31. 拓展了 Tetra 的内容, 增加了更多的武器类型以及来自其他模组的材料 --- TetraNicheMaterials
+32. 添加了染色营火 --- TintedCampfires
+33. 添加了结合苦力怕&史莱姆特性的 TNTSlime --- TNTSlimes
+34. 添加了关于豆腐的种种内容 --- TofuCraftReload
+35. 为豆腐工艺重制版与农夫乐事添加了联动内容 --- TofuDelight
+36. 为豆腐工艺重制版添加了基于机械动力的豆腐与豆奶配方 --- TofuCreate
+37. 添加了方便实用的垃圾桶 --- TrashSlot
+38. 加回指路石 --- Waystones
+39. 在玩家激活指路石时, 会在 Xaero 的世界地图和 Xaero 的小地图中创建一个路标点 --- XaerosMinimap&WorldMapWaystonesCompability
 
 ## 调整内容
 
-1. 移除了世界加载屏幕中的小狗图标 --- DoggyTalentsNext
-
-2. Quark 的配置全自定义 --- Quark
-
-3. 拾取物品提示的条目速度配置 --- PickupNotifier
-
-4. 初始物品调整 --- StarterKit
-
-5. 调整结构生成距离 --- SpareStructuRereforged
-
-6. 调整鸟巢生成率 --- ExoticBrids
-
-7. 修复相关 Assets 和 Libraries 环境文件 --- Launcher
-
-8. 隐藏主界面那些"烦人"的按钮 --- Aether
-
-9. 隐藏选项菜单和主界面被替换的背景 --- BlueSkies
-
-10. 调整备份时间 --- FtbBackup
-
-11. 调整游戏界面部分 Hud 位置 --- InventoryHud / PickUpNotifier
-
-12. 调整移动物品时的动画速度 --- SmoothSwapping
-
-13. 开启背景模糊配置 --- ModernUI
-14. 禁用滑稽的抬手动作 --- SpyglassOfCurios
-15. 禁用敌对女仆生成, 调整部分影响原版游戏体验的设置 --- TouhouLittleMaid
-16. 调整地图的部分设置使其正确显示其他维度地形 --- XaeroWorldMap
+1. 调整状态效果显示位置 --- InventoryHud
+2. 重新配置日志过滤项 --- LogBeGone
+3. 关闭部分模组加载贡献者的选项 --- Paucal
+4. 关闭自动行走, 远距选择, 地图提示和美西螈桶提示等配置 --- Quark
+5. 调整默认洞穴模式为"关闭" --- XaeroWorldMap
+6. 重制主菜单布局 --- FancyMenu
+7. 调整高亮显示提示框样式 --- Jade
+8. 关闭快捷 Emoji 代码 --- ModernUI
+9. 调整安全策略 --- NoChatReports
+10. 调整物品栏材质 --- GuiReTextures - 改
+11. 更换主世界群系模组 Arboria 为 Terralith --- Terralith
+12. 换回优化版 BetterDogs 材质包 --- BetterDogsOptimized
+13. 替换 OpenLoader 为功能更全面的 Paxi --- Paxi
+14. 换用更好的伤害显示模组 --- TslatEntityStatus
 
 ## 删除内容
 
-1. 禁用一些模组的国内无法访问的 Patreon / Dev / Contribution 信息 --- CreateSteamRails
-
-2. 移除 EMI 以优化 GUI 体验 - EMI
-
-3. 移除 PrimitiveStart 以优化前期体验 --- PrimitiveStart
-
-4. 删除红石显示资源包 --- RedStoneTweaks
-
-5. 移除更卡顿的 F3 --- BetterF3
-
-6. 移除沉浸式风化提高性能和生存体验 --- ImmersiveWeathering
-
+1. 删除红石优化模组以一点点的性能代价增强可玩性和与其他模组增加的红石元件的兼容性 --- AlternateCurrent
+2. 删除更好的鞘翅飞行以还原原汁原味的鞘翅飞行体验 --- BetterFlight
+3. 删除更好的标签模组(没啥用) --- BetterTags
+4. 删除更好的任务栏模组(冗余&用处不大) --- BetterTaskBar
+5. 删除不美观的花丛 --- BushierFlowers
+6. 删除多余的汽车模组 --- UltimateCarMod
+7. 删除半成品&少内容的机械动力太空附属 --- CreatingSpace
+8. 删除死亡调侃语(英文且很多梗国人无法理解, 有国内大佬翻译或自创语句后考虑加回) --- DeathQuotes
+9. 删除农夫乐事烹饪书(用处不大) --- FarmersDelight:CookBookReforged
+10. 删除受伤修正(Bug 较多) --- HurtFix
+11. 删除可视性能监测(用处不大) --- Observable
+12. 删除多重烟花火箭(用处不大) --- ReusableRockets
+13. 删除更智能的树叶腐烂判定(和树叶速腐不兼容) --- SeparatedLeaves
+14. 删除冗余的兼容内容 --- UnderGarden-TetraPatch
 
 ## 错误修复
 
-1. 修复 CreateConnected 导致的崩溃 Bug (Issue #9) --- CreateConnected
-2. 成功解决 3DSkinLayers 与 EntityTextureFeatures 的兼容性问题(详见: [Traben-0/Entity_Texture_Features#230](https://github.com/Traben-0/Entity_Texture_Features/issues/230)) --- 3DSkinLayers / EntityTextureFeatures
-
+无

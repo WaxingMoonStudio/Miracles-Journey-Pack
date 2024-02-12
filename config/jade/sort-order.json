@@ -66,6 +66,7 @@
   "car:car": null,
   "enderchests:hud": null,
   "touhou_little_maid:maid": null,
+  "waystones:waystone": null,
   "corpse:corpse": null,
   "touhou_little_maid:maid": null,
   "shetiphiancore:hud": null,
@@ -83,6 +84,7 @@
   "utilitix:crude_furnace": null,
   "utilitix:experience_crystal": null,
   "utilitix:linked_repeater": null,
+  "waystones:waystone": null,
   "minecraft:fluid": null,
   "immersiveengineering:hemp": null,
   "immersiveengineering:multiblock_icon": null,
@@ -126,9 +128,5 @@
   "jade:mod_name": null,
   "jade:distance": null,
   "jade:block_face": null,
-  "car:tank": null,
-  "car:generator": null,
-  "car:fluid_extractor": null,
-  "car:car": null,
   "enderchests:hud": null
 }

@@ -2,5 +2,5 @@
 allowPats = true
 #Whether to load contributor info from the internet.
 #If false, no one will appear as a contributor.
-loadContributors = true
+loadContributors = false
 

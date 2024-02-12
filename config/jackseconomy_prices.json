@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "item": "minecraft:diamond",
+      "sellPrice": 50.0,
+      "importerBuyPrice": 100.0,
+      "adminShopBuyPrice": 150.0,
+      "category": "General:Gems",
+      "adminShopSlot": 0
+    }
+  ],
+  "categories": [
+    {
+      "item": "minecraft:dirt",
+      "name": "General",
+      "categories": [
+        {
+          "item": "minecraft:diamond",
+          "name": "Gems"
+        }
+      ]
+    }
+  ]
+}

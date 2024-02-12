@@ -1,0 +1,3 @@
+#A list of Tetra material IDs that you would like to have not nerfed in Blue Skies dimensions
+blue_skies_materials = ["falsite", "ventium", "horizonite", "diopside", "charoite", "moonstone", "pyrope", "aquite", "turquoise_stone", "lunar_stone", "bluebright", "lunar_wood", "frostbright", "maple", "starlit", "dusk", "cherry"]
+
