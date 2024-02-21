@@ -1,0 +1,33 @@
+<local:MyCard Title="主页" Margin="0,0,0,15" CanSwap="false" IsSwaped="false">
+	<StackPanel Margin="25,40,23,15">
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" HorizontalAlignment="Center" FontSize="30" FontWeight="Bold"
+                    Text="Miracles Journey - 奇迹之旅" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" HorizontalAlignment="Center" FontSize="20"
+                    Text="1.19.2 Forge" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" HorizontalAlignment="Center" FontSize="15"
+                    Text="🎯积极维护 - 积极开发🥰" />
+        <local:MyHint Margin="0,0,0,4" IsWarn="False"
+                    Text="本项目处于开发阶段, 遇到任何问题请及时提交Issue或者与开发组取得联系! 我们会尽快处理并解决问题!" />
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,4,0,4">
+                <local:MyButton Margin="4,0,4,0" Width="120" Height="35"
+                Text="免责声明" EventType="打开网页" EventData="https://github.com/Qian-F/Miracles-Journey/blob/pack/DISCLAIMER.md" />
+                <local:MyButton Margin="4,0,4,0" Width="120" Height="35"
+                Text="帮助文档" EventType="打开网页" EventData="https://miraclesjourney.qianf.fun/" />
+                <local:MyButton Margin="4,0,4,0" Width="120" Height="35"
+                Text="更新日志" EventType="打开网页" EventData="https://github.com/Qian-F/Miracles-Journey/blob/pack/CHANGELOG.md" />
+                <local:MyButton Margin="4,0,4,0" Width="120" Height="35"
+                Text="贡献列表" EventType="打开网页" EventData="https://github.com/Qian-F/Miracles-Journey/blob/main/CONTRIBUTING.md" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,4,0,4">
+                <local:MyButton Margin="4,0,4,0" Width="120" Height="35"
+                Text="贡献者公约" EventType="打开网页" EventData="https://github.com/Qian-F/Miracles-Journey/blob/main/CODE_OF_CONDUCT.md" />
+                <local:MyButton Margin="4,0,4,0" Width="120" Height="35"
+                Text="开放协议" EventType="打开网页" EventData="https://github.com/Qian-F/Miracles-Journey/blob/main/LICENSE.md" />
+                <local:MyButton Margin="4,0,4,0" Width="120" Height="35"
+                Text="安全政策" EventType="打开网页" EventData="https://github.com/Qian-F/Miracles-Journey/blob/main/SECURITY.md" />
+                <local:MyButton Margin="4,0,4,0" Width="120" Height="35"
+                Text="待办事项" EventType="打开网页" EventData="https://github.com/Qian-F/Miracles-Journey/blob/pack/TODO.md" />
+        </StackPanel>
+
+	</StackPanel>
+</local:MyCard>

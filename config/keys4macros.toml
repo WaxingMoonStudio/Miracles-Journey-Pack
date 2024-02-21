@@ -1,0 +1,16 @@
+
+[LocalMacros]
+
+	[[LocalMacros.Macro]]
+		id = "0ad3fff5-750b-41df-8747-b2fdfd6dda8b"
+		command = ""
+		key = -1
+		modifier = 0
+		process_mode = "SEND"
+
+[LocatedMacros]
+	Macro = []
+
+[ForcedMacros]
+	Macro = []
+

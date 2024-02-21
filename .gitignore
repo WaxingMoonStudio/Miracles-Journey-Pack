@@ -29,8 +29,6 @@
 
 /fancymenu_data
 
-/fancymenu_setups
-
 # /GraalvmJDK17 - 部分
 /GraalvmJDK17/bin
 /GraalvmJDK17/conf
@@ -44,8 +42,6 @@
 /GraalvmJDK17/license-information-user-manual.zip
 /GraalvmJDK17/LICENSE.txt
 /GraalvmJDK17/release
-
-/hammerlib/improvableskills
 
 # /kubejs - 部分
 /kubejs/probe
@@ -87,8 +83,6 @@
 
 # /shaderpacks
 
-/temp
-
 /thingpacks
 
 /thumbnails
@@ -103,10 +97,6 @@
 
 # /.gitignore
 
-/.qmenu_opened.marker
-
-/BTLib.dll
-
 # /CHANGELOG.md
 
 /cherishedworlds-favorites.dat
@@ -117,23 +107,15 @@
 
 # /DISCLAIMER.md
 
-/hmclversion.cfg
-
 # /Miracles Journey.jar
 
 # /Miracles Journey.json
-
-/o_prof
-
-/ops.json
 
 # /options.txt
 
 /patchouli_data.json
 
 /rhino.local.properties
-
-# /TODO.md
 
 # /TrashSlotSaveState.json
 

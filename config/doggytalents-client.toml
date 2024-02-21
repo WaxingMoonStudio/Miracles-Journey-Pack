@@ -66,4 +66,8 @@
 	#DTN will use its own helmet armor model designed for DTN Dog to
 	#render it on the Dog's head. Enable this to make DTN reuse the player's Helmet Model instead.
 	use_player_helmet_model_by_default = false
+	#Enable this to allow every World which is running on this Minecraft
+	#instance's Integrated Server to provide new players with a Starter Bundle
+	#regardless of the world's serverconfig.
+	enable_starter_bundle_by_default = false
 

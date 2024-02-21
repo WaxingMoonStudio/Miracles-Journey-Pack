@@ -1,0 +1,44 @@
+#Destroy item, when it inserted in grinder with wrong recipe speed
+destroyOnWrongGrinderSpeed = false
+#Low speed value for grinder crafts, speed_limits = 1
+#Range: 1 ~ 256
+lowSpeedValue = 16
+#Medium speed value for grinder crafts, speed_limits = 2
+#Range: 1 ~ 256
+mediumSpeedValue = 64
+#Belt Grinder
+#Allows sandpaper crafts on belt grinder, when recipes collides belt grinder recipe have priority
+allowSandpaperPolishingOnGrinder = true
+#Works only when "allowSandpaperPolishingOnGrinder" is true. Defines speed limits for sandpaper recipes on belt grinder
+#Range: 0 ~ 3
+speedLimitsForSandpaperPolishingRecipes = 1
+#Value of stress impact for Belt Grinder
+#Range: 0.0 ~ 1024.0
+beltGrinderStressImpact = 4.0
+#Spring Coiling Machine
+#Value of stress impact for Spring Coiling Machine
+#Range: 0.0 ~ 1024.0
+coilingMachineStressImpact = 4.0
+#Vacuum Chamber
+#Value of stress impact for Vacuum Chamber
+#Range: 0.0 ~ 1024.0
+vacuumChamberStressImpact = 4.0
+#Vibration Table
+#Value of stress impact for Vibration Table
+#Range: 0.0 ~ 1024.0
+VibratingTableStressImpact = 2.0
+#Allows unpacking storage blocks crafts on vibrating table
+allowUnpackingOnVibratingTable = true
+#Allows vibrating leaves on vibrating table to get matching drops
+allowVibratingLeaves = true
+#Centrifuge
+#Value of stress impact for Centrifuge
+#Range: 0.0 ~ 1024.0
+CentrifugeStressImpact = 2.0
+#Curving Press
+#Value of stress impact for Curving Press
+#Range: 0.0 ~ 1024.0
+CurvingPressStressImpact = 8.0
+#Allows automatic recognize recipes for curving press
+allowAutoCurvingRecipes = true
+
