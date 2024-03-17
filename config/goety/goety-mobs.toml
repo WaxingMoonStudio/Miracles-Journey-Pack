@@ -94,12 +94,18 @@
 		undeadServantSunlightBurn = true
 		#Whether Undead Servants' helmet take damage when in Sunlight. Only takes effect if undeadServantSunlightBurn is enabled, Default: true
 		undeadServantSunlightHelmet = true
+		#Whether owned Necromancers drop Soul Jars, Default: true
+		necromancerSoulJar = true
+		#Whether Necromancer's summons have limited lifespans, Default: true
+		necromancerSummonsLife = true
 
 [Illagers]
 	#Whether Illague Effect can spread from non Conquillagers that has the effect, Default: true
 	illagueSpread = true
 	#Whether Enviokers, Inquillagers and Conquillagers can steal Totems of Souls or Totems of Undying, Default: true
 	illagerSteal = true
+	#Whether Cryologers can summon Ice Chunks on Hard Difficulty, Default: false
+	cryologerIceChunk = false
 
 	[Illagers."Illager Assaults"]
 		#Modded Illagers Spawning based of Player's Soul Energy amount, Default: true
@@ -140,6 +146,12 @@
 		armoredRavagerRaid = true
 		#Whether Warlocks appear in Raids, Default: true
 		warlockRaid = true
+		#Whether Crushers appear in Raids, Default: true
+		crusherRaid = true
+		#Whether Storm Casters appear in Raids, Default: true
+		stormCasterRaid = true
+		#Whether Cryologers appear in Raids, Default: true
+		cryologerRaid = true
 
 [Villagers]
 	#Wearing a Dark Robe, along with variants, causes Villagers around the Player to have a negative Reputation unless said Player has 25 or more reputation among them, Default: false

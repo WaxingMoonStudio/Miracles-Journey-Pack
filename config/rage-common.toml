@@ -1,0 +1,30 @@
+
+[Rage]
+	#Range: 0.0 ~ 1.7976931348623157E308
+	BasicDamageBonus = 3.0
+	#Range: 0.0 ~ 1.7976931348623157E308
+	MaxDamageBonus = 5.0
+	#Range: > 0
+	FullRageValue = 150
+	#Range: > 0
+	GainedRagePerHurtOrAttack = 50
+	OnlyPlayersHaveRage = false
+
+	[Rage.Notify]
+		ShowParticleOnFullRage = true
+		NotifyPlayerOnRageChange = false
+		NotifyPlayerOnFullRage = true
+
+	[Rage.Sound]
+		PlayDingOnFullRageAttack = true
+		#Range: 0.0 ~ 1.7976931348623157E308
+		DingVolume = 1.0
+		#Range: 0.0 ~ 1.7976931348623157E308
+		DingPitch = 1.0
+
+	[Rage.Decrease]
+		#Range: > 0
+		DecreaseIntervalTicks = 40
+		#Range: > 0
+		RageThatEntityLosesEveryInterval = 5
+

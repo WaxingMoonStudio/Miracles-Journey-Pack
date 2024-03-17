@@ -101,6 +101,9 @@
   "corpse": {
     "corpse": true
   },
+  "multibeds": {
+    "hud": true
+  },
   "storagedrawers": {
     "display.stacklimit": true,
     "display.content": true,

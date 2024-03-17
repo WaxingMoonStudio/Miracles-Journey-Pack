@@ -28,6 +28,9 @@
 	#Controls the Guard ai strength, usually set to 1 
 	#0 = easy, 1 = normal, 2 = hard, 3 = hardest
 	"Guard ai strength" = 1
+	#Controls the Shogun ai strength, usually set to 1 
+	#0 = easy, 1 = normal, 2 = hard, 3 = hardest
+	"Shogun ai strength" = 1
 
 ["Raid Wave Member Configuration"]
 	#    Shogun Wave Counts

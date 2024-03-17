@@ -82,6 +82,30 @@
 			#Range: 1.0 ~ 1.7976931348623157E308
 			preacherHeal = 6.0
 
+		[Attributes.Illagers.Crusher]
+			#How much Max Health Crushers have, Default: 24.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			crusherHealth = 24.0
+			#How much damage Crushers deals, Default: 10.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			crusherDamage = 10.0
+
+		[Attributes.Illagers."Storm Caster"]
+			#How much Max Health Storm Casters have, Default: 24.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			stormCasterHealth = 24.0
+			#How much damage Storm Casters deals, Default: 5.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			stormCasterDamage = 5.0
+
+		[Attributes.Illagers.Cryologer]
+			#How much Max Health Cryologers have, Default: 24.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			cryologerHealth = 24.0
+			#How much damage Cryologers deals, Default: 5.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			cryologerDamage = 5.0
+
 	[Attributes.General]
 
 		[Attributes.General.Wraith]
@@ -269,6 +293,11 @@
 			#How much damage Redstone Golems deals, Default: 16.0
 			#Range: 1.0 ~ 1.7976931348623157E308
 			squallGolemDamage = 16.0
+
+		[Attributes."Summoned Mobs"."Bound Evoker"]
+			#How much Max Health Bound Evokers have, Default: 24.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			boundEvokerHealth = 24.0
 
 	[Attributes.Mini-Bosses]
 

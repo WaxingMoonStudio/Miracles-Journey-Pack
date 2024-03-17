@@ -169,6 +169,9 @@
 		#Time to cast Feasting Spell per second, Default: 20
 		#Range: 0 ~ 72000
 		feastTime = 20
+		#How many ticks the Feasting Spell much charge before casting, Default: 0
+		#Range: > 0
+		feastChargeUp = 0
 
 	[Spells."Teeth Spell"]
 		#Teeth Spell Cost, Default: 8
@@ -303,6 +306,9 @@
 		fireBreathDamage = 2.0
 		#Ring of the Dragon Fire Breath deals environmental damage, Default: true
 		dragonFireGriefing = true
+		#How many ticks the Fire Breath Spell much charge before casting, Default: 0
+		#Range: > 0
+		fireBreathChargeUp = 0
 
 	[Spells."Frost Breath Spell"]
 		#Frost Breath Spell Cost per second, Default: 2
@@ -313,6 +319,9 @@
 		frostBreathDamage = 1.0
 		#Ring of the Dragon Frost Breath deals environmental damage, Default: true
 		dragonFrostGriefing = true
+		#How many ticks the Frost Breath Spell much charge before casting, Default: 0
+		#Range: > 0
+		frostBreathChargeUp = 0
 
 	[Spells."Shocking Spell"]
 		#Shocking Spell Cost per second, Default: 4
@@ -321,6 +330,9 @@
 		#How much base damage Shocking Sparks deals, Default: 2.0
 		#Range: 1.0 ~ 1.7976931348623157E308
 		shockingDamage = 2.0
+		#How many ticks the Shocking Spell much charge before casting, Default: 0
+		#Range: > 0
+		shockingChargeUp = 0
 
 	[Spells."Soul Light Spell"]
 		#Soul Light Spell Cost, Default: 1
@@ -406,6 +418,9 @@
 		#Flight Spell Cost, Default: 4
 		#Range: > 0
 		flightCost = 4
+		#How many ticks the Flight Spell much charge before casting, Default: 0
+		#Range: > 0
+		flightChargeUp = 0
 
 	[Spells."Cushion Spell"]
 		#Cushion Spell Cost, Default: 16
@@ -425,7 +440,7 @@
 		#Time to cast Updraft Spell, Default: 0
 		#Range: 0 ~ 72000
 		updraftTime = 0
-		#Updraft Spell Cooldown, Default: 20
+		#Updraft Spell Cooldown, Default: 60
 		#Range: > 0
 		updraftCoolDown = 20
 		#How much base damage Updraft Blasts deals, Default: 5.0
@@ -439,7 +454,7 @@
 		#Time to cast Wind Blast Spell, Default: 0
 		#Range: 0 ~ 72000
 		windBlastTime = 0
-		#Wind Blast Spell Cooldown, Default: 20
+		#Wind Blast Spell Cooldown, Default: 60
 		#Range: > 0
 		windBlastCoolDown = 20
 
@@ -584,6 +599,9 @@
 		#Add mobs that Telekinesis Spell don't work on. 
 		#To do so, enter the namespace ID of the mob, like "minecraft:zombie, minecraft:skeleton".
 		telekinesisBlackList = []
+		#How many ticks the Telekinesis Spell much charge before casting, Default: 0
+		#Range: > 0
+		telekinesisChargeUp = 0
 
 	[Spells."Sonic Boom Spell"]
 		#Sonic Boom Spell Cost, Default: 16
@@ -603,9 +621,12 @@
 		#Corruption Spell Cost, Default: 2500
 		#Range: > 0
 		corruptionCost = 2500
-		#How much base damage Corrupted Beam Spell deals per tick, Default: 1.0
+		#How much base damage Corrupted Beam Spell deals per tick, Default: 10.0
 		#Range: 0.0 ~ 1.7976931348623157E308
 		corruptedBeamDamage = 1.0
+		#How many ticks the Corruption Spell much charge before casting, Default: 0
+		#Range: > 0
+		corruptionChargeUp = 0
 
 	[Spells."Eruption Spell"]
 		#Eruption Spell Cost, Default: 32
@@ -637,6 +658,45 @@
 		#Range: > 0
 		endWalkEffectDuration = 200
 
+	[Spells."Monsoon Spell"]
+		#Monsoon Spell Cost, Default: 8
+		#Range: > 0
+		monsoonCost = 8
+		#Time to cast Monsoon Spell, Default: 40
+		#Range: 0 ~ 72000
+		monsoonTime = 40
+		#Monsoon Spell Cooldown, Default: 100
+		#Range: > 0
+		monsoonCoolDown = 100
+
+	[Spells."Discharge Spell"]
+		#Discharge Spell Cost, Default: 40
+		#Range: > 0
+		dischargeCost = 40
+		#Time to cast Discharge Spell, Default: 0
+		#Range: 0 ~ 72000
+		dischargeTime = 0
+		#Discharge Spell Cooldown, Default: 80
+		#Range: > 0
+		dischargeCoolDown = 80
+		#How much base minimum damage Discharge Spell deals, Default: 6.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		dischargeMinDamage = 6.0
+		#How much base maximum damage Discharge Spell deals, Default: 12.0
+		#Range: 2.0 ~ 1.7976931348623157E308
+		dischargeMaxDamage = 12.0
+
+	[Spells."Tunnel Spell"]
+		#Tunnel Spell Cost, Default: 16
+		#Range: > 0
+		tunnelCost = 16
+		#Tunnel Spell Cooldown, Default: 100
+		#Range: > 0
+		tunnelCoolDown = 100
+		#The initial duration for the Tunnel lifespan in ticks, Default: 100
+		#Range: > 0
+		tunnelDefaultLifespan = 100
+
 ["Servant Limits"]
 	#Number of Skeleton/Vanguard/Necromancer Servants that can exist around the player without instantly dying, Default: 32
 	#Range: > 1
@@ -647,6 +707,9 @@
 	#Total number of Grave Golems a player can summon, Default: 2
 	#Range: > 0
 	graveGolemLimit = 2
+	#Number of Bound Evoker Servants that can exist around the player without instantly dying, Default: 32
+	#Range: > 1
+	boundIllagerLimit = 2
 
 [Enchantments]
 	#Soul Eater Maximum Enchantment Level, Default: 5

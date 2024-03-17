@@ -67,7 +67,7 @@ B:enable_ui_text_shadow = 'true';
 
 ##[debug_overlay]
 
-B:debug_overlay_show_basic_screen_category = 'true';
+B:debug_overlay_show_basic_screen_category = 'false';
 B:debug_overlay_show_system_category = 'true';
 B:debug_overlay_show_advanced_screen_category = 'true';
 B:show_debug_overlay = 'false';

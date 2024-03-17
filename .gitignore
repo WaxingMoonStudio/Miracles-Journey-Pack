@@ -2,6 +2,8 @@
 
 /.vscode
 
+/.persistent
+
 /armourers_workshop
 
 /backups
@@ -89,6 +91,8 @@
 
 /tlm_custom_pack
 
+# /versions
+
 /XaeroWaypoints
 
 /XaeroWaypoints_BACKUP*
@@ -96,6 +100,8 @@
 /XaeroWorldMap
 
 # /.gitignore
+
+/.qmenu_opened.marker
 
 # /CHANGELOG.md
 
@@ -107,6 +113,8 @@
 
 # /DISCLAIMER.md
 
+# /meta.json
+
 # /Miracles Journey.jar
 
 # /Miracles Journey.json
@@ -116,6 +124,8 @@
 /patchouli_data.json
 
 /rhino.local.properties
+
+# /TODO.md
 
 # /TrashSlotSaveState.json
 
