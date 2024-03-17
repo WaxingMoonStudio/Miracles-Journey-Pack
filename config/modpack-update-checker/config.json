@@ -1,10 +1,10 @@
 {
   "schemaVersion": 7,
-  "currentVersion": "1.0.0",
-  "modpackName": "Modpack Name Goes Here",
-  "modpackAuthor": "My Modpack Studio",
-  "modpackReleaseType": "stable",
-  "updateCheckerId": "https://raw.githubusercontent.com/Jab125/TestModpackUpdateChecker/simple/",
+  "currentVersion": "BetaV0.0.7",
+  "modpackName": "奇迹之旅 - MiraclesJourney",
+  "modpackAuthor": "盈月工作室",
+  "modpackReleaseType": "beta",
+  "updateCheckerId": "https://raw.githubusercontent.com/Qian-F/Miracles-Journey/pack/",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
