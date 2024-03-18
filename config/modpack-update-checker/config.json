@@ -7,7 +7,7 @@
   "updateCheckerId": "https://raw.githubusercontent.com/Qian-F/Miracles-Journey/pack/",
   "advanced": {
     "bccEnabled": false,
-    "expandButton": false,
+    "expandButton": true,
     "updateCheckerType": 2,
     "addButton": true,
     "mainMenuCreditsIntegration": true,
