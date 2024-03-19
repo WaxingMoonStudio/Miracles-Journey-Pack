@@ -3,65 +3,65 @@
     "hotfixesFormat": null,
     "versions": [
         {
-            "id": "BetaV0.0.1",
+            "id": "0.0.1",
             "releasedAt": 1698379200000,
             "promotions": {
                 "downloads": {
-                    "generic": "https://github.com/Qian-F/Miracles-Journey/archive/refs/tags/Beta-0.0.1.zip"
+                    "generic": "https://github.com/Qian-F/Miracles-Journey/releases/tag/Beta-0.0.1"
                 }
             }
         },
         {
-            "id": "BetaV0.0.2",
+            "id": "0.0.2",
             "releasedAt": 1699934400000,
             "promotions": {
                 "downloads": {
-                    "generic": "https://github.com/Qian-F/Miracles-Journey/releases/tag/Beta-0.0.2/"
+                    "generic": "https://github.com/Qian-F/Miracles-Journey/releases/tag/Beta-0.0.2"
                 }
             }
         },
         {
-            "id": "BetaV0.0.3",
+            "id": "0.0.3",
             "releasedAt": 1700539200000,
             "promotions": {
                 "downloads": {
-                    "generic": "https://github.com/Qian-F/Miracles-Journey/releases/tag/Beta-0.0.3/"
+                    "generic": "https://github.com/Qian-F/Miracles-Journey/releases/tag/Beta-0.0.3"
                 }
             }
         },
         {
-            "id": "BetaV0.0.4",
+            "id": "0.0.4",
             "releasedAt": 1701403200000,
             "promotions": {
                 "downloads": {
-                    "generic": "https://github.com/Qian-F/Miracles-Journey/releases/tag/Beta-0.0.4/"
+                    "generic": "https://github.com/Qian-F/Miracles-Journey/releases/tag/Beta-0.0.4"
                 }
             }
         },
         {
-            "id": "BetaV0.0.5",
+            "id": "0.0.5",
             "releasedAt": 1702180800000,
             "promotions": {
                 "downloads": {
-                    "generic": "https://github.com/Qian-F/Miracles-Journey/releases/tag/Beta-0.0.5/"
+                    "generic": "https://github.com/Qian-F/Miracles-Journey/releases/tag/Beta-0.0.5"
                 }
             }
         },
         {
-            "id": "BetaV0.0.6",
+            "id": "0.0.6",
             "releasedAt": 1702872000000,
             "promotions": {
                 "downloads": {
-                    "generic": "https://github.com/Qian-F/Miracles-Journey/releases/tag/Beta-0.0.6/"
+                    "generic": "https://github.com/Qian-F/Miracles-Journey/releases/tag/Beta-0.0.6"
                 }
             }
         },
         {
-            "id": "BetaV0.0.7",
+            "id": "0.0.7",
             "releasedAt": 1705464000000,
             "promotions": {
                 "downloads": {
-                    "generic": "https://github.com/Qian-F/Miracles-Journey/releases/tag/Beta-0.0.7/"
+                    "generic": "https://github.com/Qian-F/Miracles-Journey/releases/tag/Beta-0.0.7"
                 }
             }
         }
