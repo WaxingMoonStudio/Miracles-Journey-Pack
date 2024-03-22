@@ -1,147 +1,238 @@
-# BetaV0.0.8 更新日志
+# BetaV0.0.9 更新日志
 
 ## 新增内容
 
-1. 优化快速方块放置体验 --- AccurateBlockPlacement
 
-2. 为机械动力添加了多种装饰方块与实用功能 --- BellsAndWhistles
-
-3. 添加了一双泡泡靴 --- BubbleBoots
-
-4. 美化模组目录 --- Catalogue
-
-5. 优化矿洞生成 --- CaveOverHaul
-
-6. 美化控制界面 --- Controlling
-
-7. 添加了更多伪装方块衍生物 --- CopiesCats
-
-8. 为 Iron's Spells 'n Spellbooks 和机械动力添加联动 --- Wizardry
-
-9. 添加了一些荷兰小吃 --- Bitterballen
-
-10. 修复玩家的视角不会向伤害的方向倾斜的 Bug --- DamageTilt
-
-11. 扩展了机械动力的基本装饰能力 --- DesignDecor
-
-12. 添加了蔚蓝浩空和 Tetra 的联动 --- DimensionalAscension
-
-13. 丰富了铁砧的使用体验 --- EasyAnvils
-
-14. 添加了一些既可搭配原版也与模组良好适配的魔咒 --- Ensorcellation
-
-15. 使装备的比较更加便捷 --- EquipmentCompare
-
-16. 让玩家手动收获作物时掉落经验球 --- ExperiencedCrops
-
-17. 添加大量新功能来增强游戏体验, 包括生物, 结构和利用奥术力量的方法 --- Goety
-
-18. 添加巫师方面的魔法内容 --- Hexerei
-
-19. 允许玩家使用经验和技能来升级自己 --- ImprovableSkills3
-
-20. 添加了货币系统用于后期魔改 --- JacksEconomy
-
-21. 添加了简易刀剑对更多模组的支持 --- KnavesNeeds
-
-22. 便利加载模组导出, 为后续整合包发布奠基 --- LoadedModsExporter
-
-23. 添加了几个可被召唤的 Boss --- MeetYourFight
-
-24. 允许玩家快速设计建筑并打印为蓝图 --- TheMightyArchitectury
-
-25. 使玩家发送聊天文本时显示相应的聊天气泡并兼容光影 --- NotableBubbleText
-
-26. 丰富了切洋葱的神奇效果 --- OnionOnion
-
-27. 添加了多态合成与精致存储的兼容性 --- RefinedPolymorphism
-
-28. 更换生活调味料版本为苹果派版以增强体验 --- SpiceOfLifeApplePieEdition
-
-29. 提供了通过简单的小游戏制作寿司的途径 --- SushiGoCrafting
-
-30. 为 Tetra 添加了更多来自其他 Mod 的材料 --- TetraExtras
-
-31. 拓展了 Tetra 的内容, 增加了更多的武器类型以及来自其他模组的材料 --- TetraNicheMaterials
-
-32. 添加了染色营火 --- TintedCampfires
-
-33. 添加了结合苦力怕&史莱姆特性的 TNTSlime --- TNTSlimes
-
-34. 添加了关于豆腐的种种内容 --- TofuCraftReload
-
-35. 为豆腐工艺重制版与农夫乐事添加了联动内容 --- TofuDelight
-
-36. 为豆腐工艺重制版添加了基于机械动力的豆腐与豆奶配方 --- TofuCreate
-
-37. 添加了方便实用的垃圾桶 --- TrashSlot
-
-38. 加回指路石 --- Waystones
-
-39. 在玩家激活指路石时, 会在 Xaero 的世界地图和 Xaero 的小地图中创建一个路标点 --- XaerosMinimap&WorldMapWaystonesCompability
-
-## 调整内容
-
-1. 调整状态效果显示位置 --- InventoryHud
-
-2. 重新配置日志过滤项 --- LogBeGone
-
-3. 关闭部分模组加载贡献者的选项 --- Paucal
-
-4. 关闭自动行走, 远距选择, 地图提示和美西螈桶提示等配置 --- Quark
-
-5. 调整默认洞穴模式为"关闭" --- XaeroWorldMap
-
-6. 重制主菜单布局 --- FancyMenu
-
-7. 调整高亮显示提示框样式 --- Jade
-
-8. 关闭快捷 Emoji 代码 --- ModernUI
-
-9. 调整安全策略 --- NoChatReports
-
-10. 调整物品栏材质 --- GuiReTextures - 改
-
-11. 更换主世界群系模组 Arboria 为 Terralith --- Terralith
-
-12. 换回优化版 BetterDogs 材质包 --- BetterDogsOptimized
-
-13. 替换 OpenLoader 为功能更全面的 Paxi --- Paxi
-
-14. 换用更好的伤害显示模组 --- TslatEntityStatus
-
-15. 规范所有模组命名 --- ALL
 
 ## 删除内容
 
-1. 删除红石优化模组以一点点的性能代价增强可玩性和与其他模组增加的红石元件的兼容性 --- AlternateCurrent
 
-2. 删除更好的鞘翅飞行以还原原汁原味的鞘翅飞行体验 --- BetterFlight
-
-3. 删除更好的标签模组(没啥用) --- BetterTags
-
-4. 删除更好的任务栏模组(冗余&用处不大) --- BetterTaskBar
-
-5. 删除不美观的花丛 --- BushierFlowers
-
-6. 删除多余的汽车模组 --- UltimateCarMod
-
-7. 删除半成品&少内容的机械动力太空附属 --- CreatingSpace
-
-8. 删除死亡调侃语(英文且很多梗国人无法理解, 有国内大佬翻译或自创语句后考虑加回) --- DeathQuotes
-
-9. 删除农夫乐事烹饪书(用处不大) --- FarmersDelight:CookBookReforged
-
-10. 删除受伤修正(Bug 较多) --- HurtFix
-
-11. 删除可视性能监测(用处不大) --- Observable
-
-12. 删除多重烟花火箭(用处不大) --- ReusableRockets
-
-13. 删除更智能的树叶腐烂判定(和树叶速腐不兼容) --- SeparatedLeaves
-
-14. 删除冗余的兼容内容 --- UnderGarden-TetraPatch
 
 ## 错误修复
 
-无
+
+
+## 模组更新 (未翻译)
+
+### TheAetherRedux - V1.3.4 -> V2.0.7d
+
+**V2.0.7**
+
+1. Implemented a new alternative 'classic' variation of the Skyfields based on their implementation from before update 1.3, which can be enabled in the common config file
+2. Implemented a system making the Aether's music have a shorter delay
+3. Missing registries are now remapped, so updating from 1.3.4 to 2.0.7+ will no longer make you lose things (it is still recommended to reset the aether dimension however
+4. Added a new advancement sound for defeating the Sun Spirit
+5. Added two new flowers that spawn on the Gold Dungeon, called the Infernia and the Flareblossom
+6. Switched to the finished new music track, made by Wurlette/Shimmer
+7. Added Dark Swets
+8. Added Trapped Skyroot Chests
+9. Updated to the Aether version 1.3.1
+10. Gummy Swets can now be crafted in the 2x2 inventory crafting grid and require 3 gel rather than 4
+11. Renamed Xaelia Flowers to the Xaelia Patch and retextured them
+12. Improved Blightshade particles
+13. Wisdom ring now uses emerald pallete without Deep Aether, and uses skyjade in its recipe with Deep Aether installed
+14. Swet ball retextures now redirect the model texture
+15. Refactors to a few particles
+16. Corrupted Vines now properly spawn in the Blight
+17. Fix to the Theratip texture
+18. Fixed the Airbound Cape texture
+19. Fixed Sentrite Brick Wall model issue
+20. Arm now swings properly when using the Solar Emblem
+21. Made a few blocks mineable with hoes
+
+**V2.0.7b**
+
+1. Fixed boats and signs missing from creative tabs
+
+**V2.0.7c**
+
+1. Improved particle radius of the Flareblossom
+2. Cloud layer config should be implemented better now
+3. Sentrite should generate properly now
+4. Fixed crashing from Enchanted Aether Grass mixin
+5. Fixed crashing due to incorrect MixinExtras version
+
+**V2.0.7d**
+
+1. Removed the unfinished and disabled-by-default adrenaline shader effects which were causing crashes even with them disabled, these may be re-enabled in the future
+2. Added a tag for biomes with the cloud layer in them
+
+### SophisticatedStorage - V0.9.7.743 -> V0.9.7.765
+
+**V0.9.7.765**
+
+1. Updated Chinese translation (Thanks ZHAY10086)
+
+### SophisticatedBackpacks - V3.20.2.1025 -> V3.20.2.1035
+
+**V3.20.2.1035**
+
+1. Updated Chinese translation (Thanks ZHAY10086)
+
+### CreateVintageImprovements - V0.1.3.1 -> V0.1.3.2
+
+**V0.1.3.2**
+
+1. Added Netherite Spring & Rod
+2. Added multiple output for Hammering recipes
+3. Added hammer blows counter for hammering sequenced assembly
+4. Improved items tags
+5. Fixed Helve Hammer placing outline
+
+### CreateConnected - V0.7.3 -> V0.7.4
+
+**V0.7.4**
+
+1. Item Silo losing its content when being disassembled from a contraption (#57)
+2. Incorrect texture uv rotation on Brass and Parallel Gearboxes (#55)
+
+### IronsSpellsNSpellbooks - V3.0.1 -> V3.1.0
+
+**V3.1.0**
+
+1. Additions
+   - Added Shockwave Spell
+   - Added Pyromancer Tower Structure
+     - Pyromancer now lives here instead of the Mangrove Hut structure
+     - Added Fire Ale item
+   - Added the Apothecarist, Nature spellcasting mob
+     - Has taken over and refurbished the Mangrove Hut structure
+     - Neutral, and will trade with the player
+     - Uses Splash Potions in tandem with spells
+     - Added Netherward Tincture item, which can only be obtained by trading with the Apothecarist
+   - Added Boss Music to the Dead King boss fight, courtesy of Caner Crebes
+   - Added Hogskin -> Leather recipe
+   - Added blastwave particle to Starfall Comets
+2. Changes
+   - Pyromancer Rework
+     - Now Neutral
+     - Can be traded with
+     - Now Spawns in Pyromancer Tower instead of Mangrove Hut
+   - Dying entities can no longer be targeted by spells
+   - Reworked Spell Griefing Mechanics
+     - Instead of using mobGriefing gamerule, there is now a spellGriefing server config
+     - The default is off (no spell griefing)
+   - Reworked Fireball Spell
+     - Now has 5 levels (requires config reset)
+     - Minimum rarity is now rare (requires config reset)
+     - Explosion radius is larger at lower levels
+     - Damage is lower at higher levels
+     - Reworked explosion visuals
+     - Now requires spellGriefing to be enabled to break and ignite blocks
+   - Adjusted various ring textures
+   - Reworked Catacombs Throne Room
+   - Reworked Dead King melee animations
+   - Dead King Balance Changes
+     - Decreased projectile resistance from 25%->0%
+     - Increased based health by 25%
+     - Now immune to lava
+     - Now immune to fall damage
+   - Reworked all Casting Mobs' look control for better vertical spell casting
+3. Fixes
+   - Fixed Spell Bar configured Y offset applying to X and Y
+   - Fixed Dead King's legs improperly animating during phase transition animation
+   - Fixed Zap Particle rendering at many rotations
+   - Fixed Shriving Stones being able to remove the spells of unique items (Hither-Thither wand)
+   - Fixed client crash on the inscription table caused by JEI resetting the spellbook slot
+   - Fixed Arrow Volley entity not having an owner
+   - Fixed Evoker Fort cages having a gap, which pillagers could shoot and kill captive villagers through
+   - Fixed Apotheosis gem values
+   - Fixed scrolls with a count of more than 1 not displaying their school texture
+4. API
+   1. Added interface for easier use of ExtendedArmorMaterials
+
+### SophisticatedCore - V0.6.3.566 -> V0.6.4.587
+
+**V0.6.4.581**
+
+1. Fix swapping of stack upgrades for different tier when there's already max number of them in upgrade slots
+
+**V0.6.4.587**
+
+1. Updated Chinese translation (Thanks ZHAY10086)
+
+### XaerosWorldMap - V1.37.8 -> V1.38.1
+
+**V1.38.1**
+
+1. Compatible with Xaero's Minimap / Better PVP 24.0.1 or newer on Fabric. Version 24.0.1 is highly recommended on any mod loader.
+2. Restructured my development setup to make future updates faster to develop for multiple mod loaders. Mentioning this because it might have introduced new bugs. Unfortunately this also means that the new minimap/world map releases for Fabric no longer support older versions of the other mod (e.g. latest world map with older minimap).
+3. Added a small fix similar to the one recently made to the minimap mod for a bug where unrendered buffers from other mods affect how the map is rendered.
+4. Dimension types shouldn't ever be unknown in singleplayer anymore and require a visit.
+5. Fixed crash on game start when the mod isn't loaded but the code injections are.
+
+### XaerosMinimap - V23.9.7 -> V24.0.1
+
+**V24.0.1**
+
+1. Compatible with Xaero's World Map 1.38.1 or newer on Fabric. Version 1.38.1 is highly recommended on any mod loader.
+2. Restructured my development setup to make future updates faster to develop for multiple mod loaders. Mentioning this because it might have introduced new bugs. Unfortunately this also means that the new minimap/world map releases for Fabric no longer support older versions of the other mod (e.g. latest world map with older minimap). The same changes on Fabric should also break compatibility with most third party mods that reference this mod's code. (Neo)Forge should be fine but I'm planning to make much bigger structural changes in the future now that I'm finally able to. If you're developing a third party mod that fetches the minimap instance from the AXaeroMinimap class, you should now use HudMod.INSTANCE instead.
+3. Dimension types shouldn't ever be unknown in singleplayer anymore and require a visit.
+4. Fixed info displays conflicting with the F3 text.
+5. Fixed crash on game start when the mod isn't loaded but the code injections are.
+
+### SimpleVoiceChat - V2.5.8 -> V2.5.9
+
+**V2.5.9**
+
+1. Fixed a potential crash when launching the game
+2. Updated Mexican Spanish translation
+
+### SeasonHUD - V1.7.14 -> V1.7.15
+
+**V1.7.15**
+
+1. Changed
+   - Built against Xaero's Minimap 24.x.x and set that as the minimum version.
+2. Fixed
+   - Fixed the Fabric versions icon pointing to the wrong file for like a year now.
+   - Fixed the "enableMod" option not working correctly.
+
+### ModpackUpdateChecker - V0.12.1 -> V1.12.2
+
+**V1.12.2**
+
+1. Modpack Update Checker no longer crashes with FancyMenu v3.
+2. Modpack Update Checker now adds placeholders to the FancyMenu v3 editor.
+3. An issue with the markdown library not having a pack.mcmeta on Forge and NeoForge has been fixed.
+4. Readded text colors from 0.11 in the 0.12 changelog screen.
+5. Displayed more information on the changelog screen.
+6. The changelog button added to the title screen can now be offset in the Modpack Update Checker config.
+7. Modrinth, CurseForge and Generic downloads are now shown in the changelog screen.
+
+### ExtraSounds - V1.2c -> V1.2c-HotFix
+
+**V1.2c-HotFix**
+
+1. fix bow sometime got crush
+
+### BetterDays - V3.1.0.3 -> V3.1.0.4
+
+**V3.1.0.4**
+
+1. Release 1.19.4-3.1.0.4
+2. Update SpectreLib. Fixes #4 Fixes #6
+
+### TowersOfTheWildModded - V1.0.1 -> V1.0.4
+
+**V1.0.4**
+
+1. Fixed Waystone Naming Generation & Respecting Unbreakable Waystone Config
+2. removed bumblezone tower
+
+### TheAether - V1.2.0 -> V1.3.1
+
+**V1.3.0**
+
+1. Additions
+   - Added two new tags that are now used in relevant recipes: aether:gems/zanite and aether:processed/gravitite.
+   - Added a new registry aether:advancement_sound_override which makes it easier for addon developers to override advancement sounds like for dungeons.
+   - Added a new placed feature aether:aether_grass_bonemeal to use for bone meal on Aether Grass instead of using the Vanilla-equivalent placed feature.
+   - Added descriptions for the Inebriation and Remedy effects that can be viewed with mods like JEED.
+2. Fixes
+   - Fixed the fuel duration message for REI not being localized without JEI installed.
+
+**V1.3.1**
+
+1. Fixes
+   - Fixed Bronze and Silver advancement sounds not playing.

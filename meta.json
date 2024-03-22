@@ -64,6 +64,15 @@
                     "generic": "https://github.com/Qian-F/Miracles-Journey/releases/tag/Beta-0.0.7"
                 }
             }
+        },
+        {
+            "id": "0.0.8",
+            "releasedAt": 1711080000000,
+            "promotions": {
+                "downloads": {
+                    "generic": "https://github.com/Qian-F/Miracles-Journey/releases/tag/Beta-0.0.8"
+                }
+            }
         }
     ]
 }

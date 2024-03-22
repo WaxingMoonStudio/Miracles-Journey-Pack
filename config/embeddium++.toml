@@ -12,7 +12,7 @@
 		#Set Fullscreen mode
 		#Borderless let you change between screens more faster and move your mouse across monitors
 		#Allowed Values: WINDOWED, BORDERLESS, FULLSCREEN
-		fullscreen = "WINDOWED"
+		fullscreen = "FULLSCREEN"
 		#Configure FPS Display gravity
 		#Places counter on specified corner of your screen
 		#Allowed Values: LEFT, CENTER, RIGHT
@@ -48,7 +48,7 @@
 				cullingMaxDistanceX = 4096
 				#Toggles distance culling for entities
 				#Maybe you use another mod for that :(
-				enable = false
+				enable = true
 				#List of all Entities to be ignored by distance culling
 				#Uses ResourceLocation to identify it
 				#Example 1: "minecraft:bat" - Ignores bats only
@@ -66,7 +66,7 @@
 				cullingMaxDistanceX = 4096
 				#Toggles distance culling for Block Entities
 				#Maybe you use another mod for that :(
-				enable = false
+				enable = true
 				#List of all Block Entities to be ignored by distance culling
 				#Uses ResourceLocation to identify it
 				#Example 1: "minecraft:chest" - Ignores chests only
