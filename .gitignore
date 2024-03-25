@@ -12,6 +12,11 @@
 /config/starterkit/starterkit-old*.txt
 /config/jei/world
 /config/spark/activity.json
+/config/bettervillage_1.properties
+/config/jumpingnoteblock_1.properties
+/config/libraryferret_1.properties
+/config/reforgium-renderer.properties
+
 
 /crash-reports
 
