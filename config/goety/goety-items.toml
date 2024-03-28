@@ -70,6 +70,12 @@
 		#How much base damage Nameless Staffs deals, Default: 6.0
 		#Range: 1.0 ~ 1.7976931348623157E308
 		namelessStaffDamage = 6.0
+		#How much base damage Frost Staffs deals, Default: 4.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		frostStaffDamage = 4.0
+		#How much base damage Wild Staffs deals, Default: 4.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		wildStaffDamage = 4.0
 
 	["Tools & Weapons".Scythes]
 		#Amount of Soul Energy Dark Scythe gives when hitting mob(s), Default: 1

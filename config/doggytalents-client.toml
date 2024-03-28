@@ -51,8 +51,6 @@
 	#Provide a non positive integer to disable this. Value from 0 to 7 both inclusive will be defaulted to 7.
 	#Range: > -2147483648
 	max_animation_latency_allowed = 10
-	#Disable this if you prefer to have The Classical Skin rendered on all dog regardless.
-	always_render_classical_skin = true
 	#Currently, DTN is utilizing a new system for rendering Doggy Armor's Armor
 	#which allows DTN to directly use any texture which the armor item provided
 	#for the player, thus better replicating third-party armor. Set this to true
@@ -70,4 +68,14 @@
 	#instance's Integrated Server to provide new players with a Starter Bundle
 	#regardless of the world's serverconfig.
 	enable_starter_bundle_by_default = false
+	#Enable this if you prefer to have The Classical Skin rendered on all dog regardless.
+	always_render_classical = false
+	#Configure what will be displayed in the middle of
+	#each of the info section (e.g Hunger, Gender, Mode) when rendering 
+	#the Dog Status String located above the main Dog Name String.
+	dog_info_seperator = " · "
+	#Configure the format that will be used to display hunger value
+	#when rendering the Dog Status String located above the main
+	#Dog Name String.
+	dog_info_hunger_format = "%d"
 

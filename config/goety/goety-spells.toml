@@ -5,6 +5,8 @@
 	spellDamageMultiplier = 1
 	#Whether Servants change navigation modes by hitting them, put false to make them change by right-clicking on them, Default: true
 	ownerHitCommand = true
+	#Spells have their soul cost reduced or increased depending on the surroundings around the caster, Default: true
+	environmentalCost = true
 
 [Spells]
 
@@ -627,6 +629,8 @@
 		#How many ticks the Corruption Spell much charge before casting, Default: 0
 		#Range: > 0
 		corruptionChargeUp = 0
+		#Whether casting Corruption spell immobilizes the caster, Default: true
+		corruptionImmobile = true
 
 	[Spells."Eruption Spell"]
 		#Eruption Spell Cost, Default: 32
@@ -676,7 +680,7 @@
 		#Time to cast Discharge Spell, Default: 0
 		#Range: 0 ~ 72000
 		dischargeTime = 0
-		#Discharge Spell Cooldown, Default: 80
+		#Discharge Spell Cooldown, Default: 100
 		#Range: > 0
 		dischargeCoolDown = 80
 		#How much base minimum damage Discharge Spell deals, Default: 6.0
@@ -696,6 +700,59 @@
 		#The initial duration for the Tunnel lifespan in ticks, Default: 100
 		#Range: > 0
 		tunnelDefaultLifespan = 100
+		#The initial distance of the Tunnel, Default: 8
+		#Range: > 0
+		tunnelDefaultDistance = 8
+
+	[Spells."Swarm Spell"]
+		#Swarm Spell Cost per second, Default: 2
+		#Range: > 0
+		swarmCost = 2
+		#How many ticks the Swarm Spell much charge before casting, Default: 0
+		#Range: > 0
+		swarmChargeUp = 0
+		#How much base damage Swarm deals, Default: 2.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		swarmDamage = 2.0
+
+	[Spells."Overgrowth Spell"]
+		#Overgrowth Spell Cost, Default: 8
+		#Range: > 0
+		overgrowthCost = 8
+		#Time to cast Overgrowth Spell, Default: 0
+		#Range: 0 ~ 72000
+		overgrowthTime = 0
+		#Overgrowth Spell Cooldown, Default: 120
+		#Range: > 0
+		overgrowthCoolDown = 120
+
+	[Spells."Entangling Spell"]
+		#Entangling Spell Cost, Default: 8
+		#Range: > 0
+		entanglingCost = 8
+		#Time to cast Entangling Spell, Default: 0
+		#Range: 0 ~ 72000
+		entanglingTime = 0
+		#Entangling Spell Cooldown, Default: 400
+		#Range: > 0
+		entanglingCoolDown = 400
+
+	[Spells."Whispering Spell"]
+		#Whispering Spell Cost, Default: 16
+		#Range: > 0
+		whisperCost = 16
+		#Time to cast Whispering Spell, Default: 100
+		#Range: 0 ~ 72000
+		whisperTime = 100
+		#Whispering Spell Cooldown, Default: 1200
+		#Range: > 0
+		whisperCoolDown = 1200
+		#Whispering Spell Summon Down, Default: 300
+		#Range: 300 ~ 72000
+		whisperSummonDown = 300
+		#Number of Whisperers that can exist around the player, Default: 4
+		#Range: > 1
+		whisperLimit = 4
 
 ["Servant Limits"]
 	#Number of Skeleton/Vanguard/Necromancer Servants that can exist around the player without instantly dying, Default: 32

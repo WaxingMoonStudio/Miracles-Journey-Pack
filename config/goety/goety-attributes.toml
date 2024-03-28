@@ -299,6 +299,35 @@
 			#Range: 1.0 ~ 1.7976931348623157E308
 			boundEvokerHealth = 24.0
 
+		[Attributes."Summoned Mobs".Whisperer]
+			#How much Max Health Whisperers have, Default: 20.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			whispererHealth = 20.0
+			#How much damage Whisperer melee attack deals, Default: 2.5
+			#Range: 1.0 ~ 1.7976931348623157E308
+			whispererDamage = 2.5
+
+		[Attributes."Summoned Mobs".Leapleaf]
+			#How much Max Health Leapleaves have, Default: 70.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			leapleafHealth = 70.0
+			#How much damage Leapleaves deals, Default: 10.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			leapleafDamage = 10.0
+
+		[Attributes."Summoned Mobs"."Quick Growing Vine"]
+			#How much Max Health Quick Growing Vines have, Default: 10.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			quickGrowingVineHealth = 10.0
+
+		[Attributes."Summoned Mobs"."Poison-Quill Vine"]
+			#How much Max Health Poison-Quill Vines have, Default: 40.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			poisonQuillVineHealth = 40.0
+			#How much damage Poison-Quill Vines' quills deals, Default: 2.5
+			#Range: 1.0 ~ 1.7976931348623157E308
+			poisonQuillVineDamage = 2.5
+
 	[Attributes.Mini-Bosses]
 
 		[Attributes.Mini-Bosses.Crone]

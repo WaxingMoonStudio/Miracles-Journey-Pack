@@ -1,30 +1,43 @@
 
 [Rage]
+	#The entity's damage will be multiplied with this value when its rage is full
 	#Range: 0.0 ~ 1.7976931348623157E308
 	BasicDamageBonus = 3.0
+	#Extra rage value beyond the full rage will add extra damage bonus, here is the max limit (basic damage bonus included)
 	#Range: 0.0 ~ 1.7976931348623157E308
 	MaxDamageBonus = 5.0
+	#How much rage is considered as full
 	#Range: > 0
 	FullRageValue = 150
+	#How much rage will entity get when it attacks/is attacked
 	#Range: > 0
 	GainedRagePerHurtOrAttack = 50
+	#When enabled, only players will have rage, other entities' rage value will keep zero
 	OnlyPlayersHaveRage = false
 
 	[Rage.Notify]
+		#Show crit particle around the entity when its rage is full
 		ShowParticleOnFullRage = true
+		#Show a message including the players' currrent rage when it changes on their action bars
 		NotifyPlayerOnRageChange = false
+		#Tell players that their rage is full on theiur action bars
 		NotifyPlayerOnFullRage = true
 
 	[Rage.Sound]
+		#Play Ding sound when entities with full rage attack others
 		PlayDingOnFullRageAttack = true
+		#The volume of the sound
 		#Range: 0.0 ~ 1.7976931348623157E308
 		DingVolume = 1.0
+		#The pitch of the sound
 		#Range: 0.0 ~ 1.7976931348623157E308
 		DingPitch = 1.0
 
 	[Rage.Decrease]
+		#Between how many ticks the entities' rage will decrease
 		#Range: > 0
 		DecreaseIntervalTicks = 40
+		#How much rage will the entities lose every interval
 		#Range: > 0
 		RageThatEntityLosesEveryInterval = 5
 
