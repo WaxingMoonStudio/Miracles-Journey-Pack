@@ -501,7 +501,69 @@
 - 修复了有时候晕倒动画可能会中断的问题。
 - 在所有DTN库存菜单上加强快速移动。
 
-## 资源包更新 (未翻译)
+### BotanicalMachinery --- V2.0.4 -> V2.0.5
+
+**V2.0.5**
+
+- fix recipe detection on mechanical mana pool - MelanX
+
+### ImmersiveEngineering --- V9.2.3 -> V9.2.4
+
+**V9.2.4**
+
+- Add new excavator veins for decoration blocks (voidsong-dragonfly)
+  - Amethyst Crevasse, a geode vein
+  - Hardened Claypan, a red sand & terracotta vein
+  - Ancient Seabed, a dead coral & dripstone vein
+- Add cloche recipes to grow flowers (voidsong-dragonfly)
+- Add crusher recipes to make dyes (voidsong-dragonfly)
+- Add items directly to inventory when: (voidsong-dragonfly)
+  - Cutting wires
+  - Picking up fluorescent tubes, core samples or the toolbox
+- Add the plated shield to the "forge:tools/shields" tag (BluSunrize)
+- Change turrets to accept generic entity terms like "Villager" for their black/whitelist (BluSunrize)
+- Change text rendering in GUIs to be more readable (BluSunrize)
+- Change assembler to handle buckets in recipes better (BluSunrize)
+- Fix issues with multiblocks being accessed before being full formed (Malte)
+- Fix items with obj renders breaking in the AE2 inscriber
+- Fix drill overlay highlighting too many blocks (Malte)
+- Fix external heater breaking when dealing with faster furnace recipes (TeamSpen210)
+- Fix stairs and slabs not receiving item tags (BluSunrize)
+- Fix potential crash with the accumulator backpack (BluSunrize)
+- Fix output positions on the improved blastfurnace being swapped around (BluSunrize)
+- Fix synchronization errors in the garden clocke (voidsong-dragonfly, Malte)
+- Fix induction charging on the accumulator backpack not working (BluSunrize)
+- Fix multiblock sounds not triggering subtitles continuously (BluSunrize)
+- Fix hemp seeds being tagged as "rods" (BluSunrize)
+- Fix railgun rods applying damage like a normal arrow (BluSunrize)
+- Fix villager houses for structural engineer and machinist having the wrong workstation (BluSunrize)
+- Fix blueprint crafting with split up ingredients (BluSunrize)
+- Translations Added/Updated: cs_cz (RomanPlayer22)
+
+### Polymorph --- V0.46.5 -> V0.46.6
+
+**V0.46.6**
+
+- Changed
+  - Updated to SpectreLib 0.12.8
+- [Forge] Fixed mouse click events that caused click-through behavior on the Polymorph output selections
+- Fixed batch crafting not working properly when crafting remainders exist
+- Fixed duplicate outputs appearing in selections #240
+
+### AbnormalsDelight --- V4.1.1 -> V4.1.2
+
+**V4.1.2**
+
+- Fixed Pine Cabinet recipe not working
+- Fixed recipes with Passion Fruit not working
+
+### IllagerAdditions --- V0.1.8 -> V0.1.8.5
+
+**V0.1.8.5**
+
+- fixed some bugs and adjust something
+
+## 资源包更新
 
 > 下面的内容为 AI 翻译, 可能存在翻译错误, 请理性阅读
 
