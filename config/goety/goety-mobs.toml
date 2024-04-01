@@ -175,6 +175,8 @@
 		stormCasterRaid = true
 		#Whether Cryologers appear in Raids, Default: true
 		cryologerRaid = true
+		#Whether Rippers appear in Raids. They do not count as part of the Raid bar, Default: true
+		ripperRaid = true
 
 [Villagers]
 	#Wearing a Dark Robe, along with variants, causes Villagers around the Player to have a negative Reputation unless said Player has 25 or more reputation among them, Default: false

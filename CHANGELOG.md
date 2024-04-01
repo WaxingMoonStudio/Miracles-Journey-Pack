@@ -205,7 +205,11 @@
 - 修复了信息显示与 F3 文本冲突的问题
 - 修复了游戏启动时模组未加载但代码注入存在时的崩溃问题
 
-### SimpleVoiceChat --- V2.5.8 -> V2.5.10
+### SimpleVoiceChat --- V2.5.8 -> V2.5.11
+
+**V2.5.11**
+
+- Fixed lock icon resolution
 
 **V2.5.10**
 
@@ -302,7 +306,31 @@
 
 - 修复了玻璃/玻璃板批量染色配方的问题
 
-### Goety --- V2.30.1 -> V2.31.1
+### Goety --- V2.30.1 -> V2.31.2
+
+**V2.31.2**
+
+- Wild Robes no longer make Arthopods neutral to the wearer. The functionality is given to Warlock Robes.
+- Fixed Insect Swarm sounds playing everywhere.
+- Changed Overgrown Roots recipes to use 4 Saplings and 4 Vines instead of Mangrove Roots and Jungle Logs.
+- Replaced Jungle Leaves with Overgrown Roots for making a permanent Whisperer.
+- Jungle Zombie Servants are no longer immune to Sunlight.
+- Leapleaves will only perform a leap if they're on the ground.
+- Leapleaves and Whisperers have loot tables.
+- Apostles will have a 45 second cooldown before they can summon another Inferno.
+- Rippers can now participate in Raids and are considered raiders.
+- Cryologers can now only perform spells if they can see their target.
+- Inquillagers takes longer and have longer cooldown from healing to full health.
+- Slime and Magma Cube Servants now share the same loot table as their hostile counterparts.
+- Improved Tormentor clothing texture.
+- Removed Vizier's dying textures.
+- Improved Totemic Bomb explosion shockwave particle.
+- Tweaked Storm Staff texture once more.
+- Research Scrolls now tell the player that they had read them already.
+- Blink Spell no longer teleport the caster in the middle of the air. The spell will instead teleports the caster to the ground.
+- Crouch casting the Blink Spell will teleport the caster to random location in range much like Enderman.
+- Tunnel hole can no longer be overridden by flowing fluids.
+- Added more advancements.
 
 **V2.31.1**
 
@@ -562,6 +590,49 @@
 **V0.1.8.5**
 
 - fixed some bugs and adjust something
+
+### CreateUtilities --- V0.2.0 -> V0.3.0
+
+**V0.3.0**
+
+- New Features
+  - Added Void Steel Block
+  - Added Void Steel Ladder
+  - Added Void Steel Bars
+  - Added Void Steel Scaffolding
+  - Added Amethyst Tiles
+  - Added Small Amethyst Tiles
+- Tweaks
+  - Changed some textures
+
+### CreateCentralKitchen --- V1.3.10 -> V1.3.11
+
+**V1.3.11**
+
+- CCK now has its own Creative tab.
+- Untranslated text will be displayed in English instead of "UNLOCALIZED: ..."
+
+### Tectonic --- V2.2.1 -> V2.3
+
+**V2.3**
+
+- The Config Update
+  - Added a proper config to the mod version at , with three categories to play around with. `config/tectonic.json`
+    - Legacy: Controls the legacy mode, which was introduced earlier in v2.1 to allow safe upgrading of Tectonic v1 worlds.
+    - Features: Allows some features of the mod to be toggled on and off. This includes deeper oceans, underground rivers, lava rivers, and desert dunes.
+    - Experimental: Adds some extra configuration options just for fun. It includes the following:
+      - An increased height setting, which will increase the overworld's build and generation limits to y640.
+      - A terrain scale setting, which will vertically scale the terrain by a given factor. Combined with the increased height setting, you can make mountains stretch to over 500 blocks tall.
+      - A horizontal mountain scale setting, which horizontally scales mountains (how shocking). This can make mountains thicker and more spread out.
+    - On top of these three categories, there's a setting for if the mod is enabled. Tectonic will lie dormant and not affect the game if this is turned on.
+
+There's been a lot of backend work going on to make the update possible. As a result, there's been some merges and splits of mod jars.
+
+- The multi-loader 1.20.1 and 1.19.2 versions have been split into separate Fabric and Forge versions.
+- The Fabric 1.19.3-1.20.1 and Fabric 1.20.2+ versions have been merged into a single version.
+- When deeper oceans are enabled, ocean monuments will generate 30 blocks lower than in vanilla.
+- Fixed an issue where Badlands biomes above y256 were covered in Orange Terracotta.
+- Reworked desert dune generation to be a lot more common and more "dune-y".
 
 ## 资源包更新
 
