@@ -27,7 +27,32 @@
 
 > 下面的内容为 AI 翻译, 可能存在翻译错误, 请理性阅读
 
-### TheAetherRedux --- V1.3.4 -> V2.0.7d
+### TheAetherRedux --- V1.3.4 -> V2.0.8
+
+**V2.0.8**
+
+- Improved Glacia Leaves texture
+- Increased 'Crazy Cow' easter egg chance slightly (1/100 -> 1/20)
+- Removed soon-to-be-removed flowers from Ancient Aether grass tint support
+- Fixed a creative tab issue
+- Improved Grass placement logic
+
+**V2.0.7d**
+
+- 移除了未完成且默认禁用的肾上腺素着色器效果, 即使禁用它们也会导致崩溃, 未来可能会重新启用
+- 为带有云层的生物群系添加了标签
+
+**V2.0.7c**
+
+- 提高了 Flareblossom 的粒子半径
+- 云层配置现在应该更好地实现了
+- Sentrite 现在应该正确生成了
+- 修复了由于 Enchanted Aether Grass mixin 导致的崩溃
+- 修复了由于错误的 MixinExtras 版本导致的崩溃
+
+**V2.0.7b**
+
+- 修复了创意模式标签页中缺失的船和标志
 
 **V2.0.7**
 
@@ -52,23 +77,6 @@
 - 修正了 Sentrite Brick Wall 模型问题
 - 使用 Solar Emblem 时, 手臂现在可以正确挥动
 - 让一些方块可以用锄头采矿
-
-**V2.0.7b**
-
-- 修复了创意模式标签页中缺失的船和标志
-
-**V2.0.7c**
-
-- 提高了 Flareblossom 的粒子半径
-- 云层配置现在应该更好地实现了
-- Sentrite 现在应该正确生成了
-- 修复了由于 Enchanted Aether Grass mixin 导致的崩溃
-- 修复了由于错误的 MixinExtras 版本导致的崩溃
-
-**V2.0.7d**
-
-- 移除了未完成且默认禁用的肾上腺素着色器效果, 即使禁用它们也会导致崩溃, 未来可能会重新启用
-- 为带有云层的生物群系添加了标签
 
 ### SophisticatedStorage --- V0.9.7.743 -> V0.9.7.765
 
@@ -221,7 +229,12 @@
 - 修复了启动游戏时可能发生的崩溃
 - 更新了墨西哥西班牙语翻译
 
-### SeasonHUD --- V1.7.14 -> V1.7.16
+### SeasonHUD --- V1.7.14 -> V1.7.17
+
+**V1.7.17**
+
+- Added
+  - Added local time season support from FabricSeasons (via @Piecuuu)
 
 **V1.7.16**
 
@@ -306,7 +319,31 @@
 
 - 修复了玻璃/玻璃板批量染色配方的问题
 
-### Goety --- V2.30.1 -> V2.31.2
+### Goety --- V2.30.1 -> V2.31.3
+
+**V2.31.3**
+
+- Fixes & Changes:
+  - Fixed Server Crash.
+  - Fixed players can't jump when dying while Tangled.
+  - Magic Ritual bookshelf requirement is changed to blocks that have enchant power. The higher enchant power, the less blocks needed, which means having 8 Crypt Bookshelves fills the ritual requirement the same way as 16 regular Bookshelves does.
+  - Apostle's Arrows are no longer blocked by Soul Shield Amulet
+  - Hellfire now deals 2 damage instead of 5% of the entity's max health, which would equal to 1 damage for entities with the max health of 20.
+  - Insects Swarms attack slower if they take damage.
+  - Conquillagers no longer pick up melee weapons.
+  - Necromancers have a 60% resistance to knockback
+  - Barricade Spell's cooldown is increased by 2 seconds if it summons a Totemic Bomb. 3 if it summons 4 Totemic Bombs.
+  - Tormentors no longer start dying of if spawned without Envioker.
+  - Hail Clouds summoned using Frost Staff will follow the non-allied entity the caster is looking at. If not looking at entity, the cloud will go towards any nearby non-allied targets.
+  - Ice Chunks have lower hovering time when summoned with Frost Staff.
+  - Ice Chunks no longer give Slowness for 5 seconds.
+  - Ice Spikes are turned into Ice Spears when shot from Frost Staff. Ice Spears have bigger hit box and can pierce through multiple targets depending on Potency Enchantment.
+  - Ice Spike Focus now uses Velocity Enchantment instead of Potency Enchantment for how far it can go.
+  - Moved Frost Staff first person holding position a higher.
+  - Reduce Corruption Beam distance to 64 from 256 blocks due to lag and performance issues.
+- Additions:
+  - Velocity Enchantment, increases the speed of projectiles like Soul Bolts and Necro Bolts.
+  - Ice Storm Focus. Based of Skyrim's Ice Storm and brought back from Goety 1, Ice Storm is a slow projectile that passes through block, damaging all nearby non-allied entities and giving them Freezing for 1 second. The projectile increases its size and range slightly the further it goes.
 
 **V2.31.2**
 
@@ -605,14 +642,26 @@
 - Tweaks
   - Changed some textures
 
-### CreateCentralKitchen --- V1.3.10 -> V1.3.11
+### CreateCentralKitchen --- V1.3.10 -> V1.3.11b
+
+**V1.3.11b**
+
+- Update
+  - Support Atmospheric 5.1.1.
+- Bugfix
+  - Fix Miner's Delight Sticky Basket crash issue
+  - Fix incorrect localization files
 
 **V1.3.11**
 
 - CCK now has its own Creative tab.
 - Untranslated text will be displayed in English instead of "UNLOCALIZED: ..."
 
-### Tectonic --- V2.2.1 -> V2.3
+### Tectonic --- V2.2.1 -> V2.3.1
+
+**V2.3.1**
+
+- Large Biomes now uses the newer Tectonic mountain peak generation.
 
 **V2.3**
 
@@ -633,6 +682,76 @@ There's been a lot of backend work going on to make the update possible. As a re
 - When deeper oceans are enabled, ocean monuments will generate 30 blocks lower than in vanilla.
 - Fixed an issue where Badlands biomes above y256 were covered in Orange Terracotta.
 - Reworked desert dune generation to be a lot more common and more "dune-y".
+
+### ArmourersWorkshop --- V2.1.0 -> V2.1.1
+
+**V2.1.1**
+
+- Add new options to disable permission check. (1.16-1.20)
+- Fix manifold extensions method conflict issue #459. (1.16-1.20)
+- Fix ftb library screen compatibility issue. (1.16-1.20)
+- Fix typo in lang files. (1.16-1.20)
+
+### ModernUI --- V3.10.0.2 -> V3.10.1.2
+
+**V3.10.1.2**
+
+- Forge Extension 1.19.2
+  - Do not use new word breaker in command mode
+  - Add preferences navigation to mods config button
+  - Improve PreferencesFragment
+  - Add API to allow back to previous screen, allow passing a ScreenCallback
+  - Add API to create MuiScreen
+  - Add Segoe UI Symbol to default fallback list
+  - Fix issue with TrueType Collection registration
+  - Add font registration config to register additional fonts
+  - Add modifiers to ACTION_SCROLL event
+  - Add showing layout bounds
+  - Add adaptive tooltip colors
+  - Renew tooltip rendering
+    - Create rendertype_modern_tooltip shader
+    - Interpolate color bilinearly in sRGB space
+    - Better shadow effect, add shadow opacity
+    - Add corner radius config
+    - Adjust auto scrolling velocity
+  - Remove tooltip fade-in animation
+  - Fix a rare crash on config reloading due to thread-safety
+  - Apply blur effect only to screens that have default background (configurable)
+  - Do not use Overwrite for calculateScale
+  - Fix startup crash on server and datagen
+  - Remove ScreenCallback capability
+- Modern Text Engine 1.19.2
+  - Change logging level for font loading, enhance onFontRegistered thread-safety
+  - Add new default font behaviors and rule set, allowing regexes to match fonts
+  - Adjust text renderer alpha threshold from 1 to 2 (0-255)
+  - Fix only a very small set of characters can be used for obfuscated rendering
+  - Use Latin1 for FastCharSet
+  - Fix a rare crash on text engine due to batch rendering and display mode changes
+- Core Framework 3.10.1
+  - Update typecast checks, add ArrayMap.forEach
+  - Make FontFamily.createFamily throw Exception
+  - Add FontFamily.createFamilies for TrueType Collection
+  - Add HorizontalScrollView, update ScrollView
+  - Add debug layout to show layout bounds
+  - Optimize Color.parseColor
+  - Add Animatable and Animatable2
+  - Add some missing javadoc
+  - Use UTF-16 for TextUtils read/write
+  - Add TextPaint.baselineShift and Subscript/SuperscriptSpan
+  - Disable pooling of Message objects
+  - Build against a copy of Arc3D, instead of composite build
+  - Add Canvas.shear / skew, deprecate Canvas.getMatrix
+  - Add TextUtils.concat and TextUtils.join methods
+  - Make use of Java 20 float/half convert instruction
+  - Add CharBuffer support for TextUtils.getChars()
+- Core Framework - Kotlin Extension 3.10.1
+  - No changes
+- Markdown 3.10.1
+  - No changes
+- Arc 3D Graphics Engine 3.10.1
+  - Add 3D shearing transform methods
+  - Improve GL_TEXTURE_SWIZZLE_RGBA compatibility
+  - Tons of updates on DSL shader compiler, including new grammar parsing and SPIR-V generation, no detailed information provided
 
 ## 资源包更新
 

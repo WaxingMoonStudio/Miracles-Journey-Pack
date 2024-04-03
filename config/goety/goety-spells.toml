@@ -273,7 +273,7 @@
 		#Ice Spike Spell Cooldown, Default: 20
 		#Range: > 0
 		iceSpikeCoolDown = 20
-		#How much base damage Ice Spike deals, Default: 4.0
+		#How much base damage Ice Spike deals, Default: 3.0
 		#Range: 1.0 ~ 1.7976931348623157E308
 		iceSpikeDamage = 4.0
 
@@ -754,6 +754,20 @@
 		#Range: > 1
 		whisperLimit = 4
 
+	[Spells."Ice Storm Spell"]
+		#Ice Storm Spell Cost, Default: 16
+		#Range: > 0
+		iceStormCost = 16
+		#Time to cast Ice Storm Spell, Default: 40
+		#Range: 0 ~ 72000
+		iceStormTime = 40
+		#Ice Storm Spell Cooldown, Default: 100
+		#Range: > 0
+		iceStormCoolDown = 100
+		#How much base damage Ice Storm deals, Default: 5.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		iceStormDamage = 5.0
+
 ["Servant Limits"]
 	#Number of Skeleton/Vanguard/Necromancer Servants that can exist around the player without instantly dying, Default: 32
 	#Range: > 1
@@ -775,7 +789,7 @@
 	#Wanting Maximum Enchantment Level, Default: 3
 	#Range: 1 ~ 10
 	maxWantingLevel = 3
-	#Potency Maximum Enchantment Level, Default: 5
+	#Velocity Maximum Enchantment Level, Default: 5
 	#Range: 1 ~ 10
 	maxPotencyLevel = 5
 	#Radius Maximum Enchantment Level, Default: 2
