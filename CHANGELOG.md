@@ -7,6 +7,9 @@
 - 添加原版生物的幼年变种 --- TinyFoes
 - 添加两架机械动力风格的飞机 --- ManOfManyPlanes
 - 添加了 24w11a 引入的重锤及相关进度 --- Maced
+- 改善原版游戏主世界群系 --- GeophilicReforgedBiomeAdditions
+- 增加终末之诗可自定义性 --- CustomCredits
+- 
 
 ## 修改内容
 
@@ -17,7 +20,8 @@
 ## 删除内容
 
 - 删除部分无用但频繁更新的配置文件 --- BetterVillage / ExtendedNoteblock / LibraryFerret / Reforgium
-- 移除部分体验较差 / 存在 Bug / 效果不大的模组 --- RageMod / GreenDelight / ModernWorldCreation / NetherPortalFix / VVAddon
+- 移除部分体验较差 / 存在 Bug / 效果不大的模组 --- RageMod / GreenDelight / ModernWorldCreation / NetherPortalFix / VVAddon / Terralith / AmbientSounds
+- 移除多余的数据包 --- TheGraveyardTerralithCompatability
 
 ## 错误修复
 
@@ -31,11 +35,11 @@
 
 **V2.0.8**
 
-- Improved Glacia Leaves texture
-- Increased 'Crazy Cow' easter egg chance slightly (1/100 -> 1/20)
-- Removed soon-to-be-removed flowers from Ancient Aether grass tint support
-- Fixed a creative tab issue
-- Improved Grass placement logic
+- 改进了Glacia Leaves（冰川树叶）的纹理
+- 略微提高了“Crazy Cow”（疯狂牛）复活节彩蛋的出现几率（从1/100提高到1/20）
+- 移除了即将被删除的花卉，这些花卉原本支持古代以太草的颜色调整
+- 修复了一个创造模式标签的问题
+- 改进了草的放置逻辑
 
 **V2.0.7d**
 
@@ -116,7 +120,11 @@
 - 当从装置中拆解 Item Silo 时, 其内容会丢失 (#57)
 - 在 Brass 和 Parallel Gearboxes 上的纹理 uv 旋转错误 (#55)
 
-### IronsSpellsNSpellbooks --- V3.0.1 -> V3.1.1
+### IronsSpellsNSpellbooks --- V3.0.1 -> V3.1.2
+
+**V3.1.2**
+
+- 暂无, 待更新
 
 **V3.1.1**
 
@@ -217,7 +225,7 @@
 
 **V2.5.11**
 
-- Fixed lock icon resolution
+- 修复了锁定图标的分辨率问题。
 
 **V2.5.10**
 
@@ -233,8 +241,8 @@
 
 **V1.7.17**
 
-- Added
-  - Added local time season support from FabricSeasons (via @Piecuuu)
+- 新增
+  - 添加了对FabricSeasons的本地时间季节支持（通过@Piecuuu）
 
 **V1.7.16**
 
@@ -274,7 +282,11 @@
 - 发布 1.19.4-3.1.0.4 版本
 - 更新 SpectreLib 修复了#4 和#6 问题
 
-### TowersOfTheWildModded --- V1.0.1 -> V1.0.4
+### TowersOfTheWildModded --- V1.0.1 -> V1.0.5
+
+**V1.0.5**
+
+- 新增海洋塔
 
 **V1.0.4**
 
@@ -319,55 +331,61 @@
 
 - 修复了玻璃/玻璃板批量染色配方的问题
 
-### Goety --- V2.30.1 -> V2.31.3
+### Goety --- V2.30.1 -> V2.31.4
+
+**V2.31.4**
+
+- 修复和变更：
+  - 修复了季风/冰雹云导致的崩溃问题。
+  - 通过Frost Staff（霜冻法杖）召唤时，Ice Storm（冰风暴）生成的尺寸更大。
 
 **V2.31.3**
 
-- Fixes & Changes:
-  - Fixed Server Crash.
-  - Fixed players can't jump when dying while Tangled.
-  - Magic Ritual bookshelf requirement is changed to blocks that have enchant power. The higher enchant power, the less blocks needed, which means having 8 Crypt Bookshelves fills the ritual requirement the same way as 16 regular Bookshelves does.
-  - Apostle's Arrows are no longer blocked by Soul Shield Amulet
-  - Hellfire now deals 2 damage instead of 5% of the entity's max health, which would equal to 1 damage for entities with the max health of 20.
-  - Insects Swarms attack slower if they take damage.
-  - Conquillagers no longer pick up melee weapons.
-  - Necromancers have a 60% resistance to knockback
-  - Barricade Spell's cooldown is increased by 2 seconds if it summons a Totemic Bomb. 3 if it summons 4 Totemic Bombs.
-  - Tormentors no longer start dying of if spawned without Envioker.
-  - Hail Clouds summoned using Frost Staff will follow the non-allied entity the caster is looking at. If not looking at entity, the cloud will go towards any nearby non-allied targets.
-  - Ice Chunks have lower hovering time when summoned with Frost Staff.
-  - Ice Chunks no longer give Slowness for 5 seconds.
-  - Ice Spikes are turned into Ice Spears when shot from Frost Staff. Ice Spears have bigger hit box and can pierce through multiple targets depending on Potency Enchantment.
-  - Ice Spike Focus now uses Velocity Enchantment instead of Potency Enchantment for how far it can go.
-  - Moved Frost Staff first person holding position a higher.
-  - Reduce Corruption Beam distance to 64 from 256 blocks due to lag and performance issues.
-- Additions:
-  - Velocity Enchantment, increases the speed of projectiles like Soul Bolts and Necro Bolts.
-  - Ice Storm Focus. Based of Skyrim's Ice Storm and brought back from Goety 1, Ice Storm is a slow projectile that passes through block, damaging all nearby non-allied entities and giving them Freezing for 1 second. The projectile increases its size and range slightly the further it goes.
+- 修复和变更：
+  - 修复了服务器崩溃问题。
+  - 修复了玩家在Tangled（缠绕状态）死亡时无法跳跃的问题。
+  - 魔法仪式对书架的需求改为对有附魔力量的方块。附魔力量越高，所需方块越少，这意味着拥有8个Crypt Bookshelves（地穴书架）可以像16个普通书架一样满足仪式的需求。
+  - Apostle's Arrows（使徒之箭）不再被Soul Shield Amulet（灵魂护盾护符）阻挡。
+  - Hellfire（地狱之火）现在造成2点伤害，而不是实体最大生命值的5%，对于最大生命值为20的实体，这相当于1点伤害。
+  - 如果Insects Swarms（昆虫群）受到伤害，它们的攻击速度会变慢。
+  - Conquillagers（征服者村民）不再拾取近战武器。
+  - Necromancers（死灵法师）有60%的击退抗性。
+  - 如果Barricade Spell（屏障咒语）召唤了一个Totemic Bomb（图腾炸弹），冷却时间增加2秒。如果召唤了4个Totemic Bombs，增加3秒。
+  - Tormentors（折磨者）如果没有Envioker（唤魔者）的情况下生成，不会立即死亡。
+  - 使用Frost Staff召唤的Hail Clouds（冰雹云）会跟随施法者所看的非盟友实体。如果没有看着实体，云会向附近的非盟友目标移动。
+  - 当使用Frost Staff召唤时，Ice Chunks（冰块）的悬停时间降低。
+  - Ice Chunks不再造成5秒钟的缓慢效果。
+  - 从Frost Staff射出的Ice Spikes（冰刺）会变成Ice Spears（冰矛）。Ice Spears有更大的碰撞盒，并且可以根据Potency Enchantment（效能附魔）穿透多个目标。
+  - Ice Spike Focus（冰刺聚焦）现在使用Velocity Enchantment（速度附魔）而不是Potency Enchantment来决定它的射程。
+  - 提高了Frost Staff第一人称持握位置。
+  - 由于延迟和性能问题，将Corruption Beam（腐化光束）的距离从256个方块缩短至64个方块。
+- 新增：
+  - Velocity Enchantment（速度附魔），增加像Soul Bolts（灵魂箭）和Necro Bolts（死灵箭）这样的投射物速度。
+  - Ice Storm Focus（冰风暴聚焦）。基于Skyrim中的Ice Storm并从Goety 1中带回，Ice Storm是一个缓慢的投射物，可以穿过方块，伤害所有附近的非盟友实体，并使它们冻结1秒钟。投射物在飞行过程中会稍微增大尺寸和范围。
 
 **V2.31.2**
 
-- Wild Robes no longer make Arthopods neutral to the wearer. The functionality is given to Warlock Robes.
-- Fixed Insect Swarm sounds playing everywhere.
-- Changed Overgrown Roots recipes to use 4 Saplings and 4 Vines instead of Mangrove Roots and Jungle Logs.
-- Replaced Jungle Leaves with Overgrown Roots for making a permanent Whisperer.
-- Jungle Zombie Servants are no longer immune to Sunlight.
-- Leapleaves will only perform a leap if they're on the ground.
-- Leapleaves and Whisperers have loot tables.
-- Apostles will have a 45 second cooldown before they can summon another Inferno.
-- Rippers can now participate in Raids and are considered raiders.
-- Cryologers can now only perform spells if they can see their target.
-- Inquillagers takes longer and have longer cooldown from healing to full health.
-- Slime and Magma Cube Servants now share the same loot table as their hostile counterparts.
-- Improved Tormentor clothing texture.
-- Removed Vizier's dying textures.
-- Improved Totemic Bomb explosion shockwave particle.
-- Tweaked Storm Staff texture once more.
-- Research Scrolls now tell the player that they had read them already.
-- Blink Spell no longer teleport the caster in the middle of the air. The spell will instead teleports the caster to the ground.
-- Crouch casting the Blink Spell will teleport the caster to random location in range much like Enderman.
-- Tunnel hole can no longer be overridden by flowing fluids.
-- Added more advancements.
+- Wild Robes（野性长袍）不再使Arthopods（节肢动物）对穿戴者中立。这个功能给予了Warlock Robes（巫师长袍）。
+- 修复了Insect Swarm（昆虫群）的声音在到处播放的问题。
+- 更改了Overgrown Roots（过度生长的根）的配方，使用4个树苗和4个藤蔓而不是红树根和丛林原木。
+- 用Overgrown Roots代替丛林树叶制作永久的Whisperer（耳语者）。
+- Jungle Zombie Servants（丛林僵尸仆从）不再对日光免疫。
+- Leapleaves（跳跃树叶）只在地面上时才会跳跃。
+- Leapleaves和Whisperers有战利品表。
+- Apostles（使徒）在召唤另一个Inferno（地狱火）之前有45秒的冷却时间。
+- Rippers（撕裂者）现在可以参与Raids（袭击）并被视为袭击者。
+- Cryologers（冰霜法师）现在只有在看到目标时才能施放法术。
+- Inquillagers（寻问者村民）治疗到满血需要更长时间，冷却时间也更长。
+- Slime和Magma Cube Servants（史莱姆和岩浆立方体仆从）现在与它们的敌对对应物共享同一战利品表。
+- 改进了Tormentor的衣服纹理。
+- 移除了Vizier的死亡纹理。
+- 改进了Totemic Bomb爆炸冲击波粒子效果。
+- 再次调整了Storm Staff（风暴法杖）的纹理。
+- Research Scrolls（研究卷轴）现在会告诉玩家他们已经阅读过它们。
+- Blink Spell（闪现咒语）不再将施法者传送到半空中。这个咒语现在会将施法者传送到地面。
+- 下蹲施放Blink Spell会将施法者像末影人一样传送到范围内的随机位置。
+- 通道洞口不再能被流动的液体覆盖。
+- 添加了更多的进展。
 
 **V2.31.1**
 
@@ -570,188 +588,243 @@
 
 **V2.0.5**
 
-- fix recipe detection on mechanical mana pool - MelanX
+- 修复了机械魔力池配方检测问题 - MelanX
 
 ### ImmersiveEngineering --- V9.2.3 -> V9.2.4
 
 **V9.2.4**
 
-- Add new excavator veins for decoration blocks (voidsong-dragonfly)
-  - Amethyst Crevasse, a geode vein
-  - Hardened Claypan, a red sand & terracotta vein
-  - Ancient Seabed, a dead coral & dripstone vein
-- Add cloche recipes to grow flowers (voidsong-dragonfly)
-- Add crusher recipes to make dyes (voidsong-dragonfly)
-- Add items directly to inventory when: (voidsong-dragonfly)
-  - Cutting wires
-  - Picking up fluorescent tubes, core samples or the toolbox
-- Add the plated shield to the "forge:tools/shields" tag (BluSunrize)
-- Change turrets to accept generic entity terms like "Villager" for their black/whitelist (BluSunrize)
-- Change text rendering in GUIs to be more readable (BluSunrize)
-- Change assembler to handle buckets in recipes better (BluSunrize)
-- Fix issues with multiblocks being accessed before being full formed (Malte)
-- Fix items with obj renders breaking in the AE2 inscriber
-- Fix drill overlay highlighting too many blocks (Malte)
-- Fix external heater breaking when dealing with faster furnace recipes (TeamSpen210)
-- Fix stairs and slabs not receiving item tags (BluSunrize)
-- Fix potential crash with the accumulator backpack (BluSunrize)
-- Fix output positions on the improved blastfurnace being swapped around (BluSunrize)
-- Fix synchronization errors in the garden clocke (voidsong-dragonfly, Malte)
-- Fix induction charging on the accumulator backpack not working (BluSunrize)
-- Fix multiblock sounds not triggering subtitles continuously (BluSunrize)
-- Fix hemp seeds being tagged as "rods" (BluSunrize)
-- Fix railgun rods applying damage like a normal arrow (BluSunrize)
-- Fix villager houses for structural engineer and machinist having the wrong workstation (BluSunrize)
-- Fix blueprint crafting with split up ingredients (BluSunrize)
-- Translations Added/Updated: cs_cz (RomanPlayer22)
+- 为装饰块添加新的挖掘机矿脉 (voidsong-dragonfly)
+  - 紫水晶裂痕，一种晶洞矿脉
+  - 硬化粘土盘，一种红沙与陶土矿脉
+  - 古老海床，一种死珊瑚与滴水石矿脉
+- 添加培养皿配方以种植花卉 (voidsong-dragonfly)
+- 添加粉碎机配方以制作染料 (voidsong-dragonfly)
+- 添加物品直接进入库存的功能，当：(voidsong-dragonfly)
+  - 剪切电线
+  - 拾起荧光管、核心样品或工具箱
+- 将镀层盾牌添加至 "forge:tools/shields" 标签 (BluSunrize)
+- 更改炮塔，使其接受通用实体术语，如“Villager”，用于它们的黑/白名单 (BluSunrize)
+- 改变GUI中文本渲染，使之更易阅读 (BluSunrize)
+- 改进装配机处理配方中桶的方式 (BluSunrize)
+- 修复多方块结构在完全形成前就被访问的问题 (Malte)
+- 修复在AE2印刷机中具有obj渲染的物品出现问题
+- 修复钻头覆盖层高亮太多方块的问题 (Malte)
+- 修复处理更快的炉子配方时外部加热器出现故障 (TeamSpen210)
+- 修复楼梯和板没有接收到物品标签 (BluSunrize)
+- 修复蓄电背包可能导致的崩溃 (BluSunrize)
+- 修复改进型高炉的输出位置被错置 (BluSunrize)
+- 修复花园时钟的同步错误 (voidsong-dragonfly, Malte)
+- 修复蓄电背包的感应充电不工作的问题 (BluSunrize)
+- 修复多方块结构的声音未持续触发字幕的问题 (BluSunrize)
+- 修复大麻种子被错误标记为“杆” (BluSunrize)
+- 修复轨道炮发射杆像普通箭一样造成伤害的问题 (BluSunrize)
+- 修复结构工程师和机械师的村民房屋有错误的工作站 (BluSunrize)
+- 修复蓝图合成中分散的原料问题 (BluSunrize)
+- 添加/更新翻译：cs_cz (RomanPlayer22)
 
 ### Polymorph --- V0.46.5 -> V0.46.6
 
 **V0.46.6**
 
-- Changed
-  - Updated to SpectreLib 0.12.8
-- [Forge] Fixed mouse click events that caused click-through behavior on the Polymorph output selections
-- Fixed batch crafting not working properly when crafting remainders exist
-- Fixed duplicate outputs appearing in selections #240
+- 更改
+  - 更新至SpectreLib 0.12.8
+- [Forge] 修复了点击Polymorph输出选择时导致的穿透点击行为
+- 修复了批量合成在存在剩余物品时无法正常工作的问题
+- 修复了在选择中出现重复输出的问题 #240
 
 ### AbnormalsDelight --- V4.1.1 -> V4.1.2
 
 **V4.1.2**
 
-- Fixed Pine Cabinet recipe not working
-- Fixed recipes with Passion Fruit not working
+- 修复了松木橱柜配方无法工作的问题
+- 修复了含有热情果的配方无法工作的问题
 
-### IllagerAdditions --- V0.1.8 -> V0.1.8.5
+### IllagerAdditions --- V0.1.8 -> V0.1.8.5rel
 
-**V0.1.8.5**
+**V0.1.8.5rel**
 
-- fixed some bugs and adjust something
+- 重做了皇家卫队盔甲图标并做了一些调整
+
+**V0.1.8.5beta**
+
+- 修复了一些bug并做了一些调整
 
 ### CreateUtilities --- V0.2.0 -> V0.3.0
 
 **V0.3.0**
 
-- New Features
-  - Added Void Steel Block
-  - Added Void Steel Ladder
-  - Added Void Steel Bars
-  - Added Void Steel Scaffolding
-  - Added Amethyst Tiles
-  - Added Small Amethyst Tiles
-- Tweaks
-  - Changed some textures
+- 新特性
+  - 添加了虚空钢块
+  - 添加了虚空钢梯
+  - 添加了虚空钢栏杆
+  - 添加了虚空钢脚手架
+  - 添加了紫水晶瓦片
+  - 添加了小紫水晶瓦片
+- 调整
+  - 更改了一些纹理
 
-### CreateCentralKitchen --- V1.3.10 -> V1.3.11b
+### CreateCentralKitchen --- V1.3.10 -> V1.3.11c
+
+**V1.3.11c**
+
+- 更新
+  - 创意标签页中增加了流体桶
 
 **V1.3.11b**
 
-- Update
-  - Support Atmospheric 5.1.1.
-- Bugfix
-  - Fix Miner's Delight Sticky Basket crash issue
-  - Fix incorrect localization files
+- 更新
+  - 支持Atmospheric 5.1.1。
+- Bug修复
+  - 修复了矿工的喜悦粘性篮子崩溃问题
+  - 修复了错误的本地化文件问题
 
 **V1.3.11**
 
-- CCK now has its own Creative tab.
-- Untranslated text will be displayed in English instead of "UNLOCALIZED: ..."
+- CCK现在有了自己的创意标签页。
+- 未翻译的文本将用英语显示，而不是“UNLOCALIZED: ...”
 
-### Tectonic --- V2.2.1 -> V2.3.1
+### Tectonic --- V2.2.1 -> V2.3.3
+
+**V2.3.3**
+
+- 修复了使用增加高度设置与Terratonic一起使用时崩溃的问题。
+- 在配置中添加了关于terrain_scale设置的信息。
+
+**V2.3.2**
+
+- 地形深度的最小值被限制在大约y-32。这应该防止海洋与增加的地形尺度值时的熔岩层发生碰撞。
 
 **V2.3.1**
 
-- Large Biomes now uses the newer Tectonic mountain peak generation.
+- 大型生物群系现在使用Tectonic较新的山峰生成方式。
 
 **V2.3**
 
-- The Config Update
-  - Added a proper config to the mod version at , with three categories to play around with. `config/tectonic.json`
-    - Legacy: Controls the legacy mode, which was introduced earlier in v2.1 to allow safe upgrading of Tectonic v1 worlds.
-    - Features: Allows some features of the mod to be toggled on and off. This includes deeper oceans, underground rivers, lava rivers, and desert dunes.
-    - Experimental: Adds some extra configuration options just for fun. It includes the following:
-      - An increased height setting, which will increase the overworld's build and generation limits to y640.
-      - A terrain scale setting, which will vertically scale the terrain by a given factor. Combined with the increased height setting, you can make mountains stretch to over 500 blocks tall.
-      - A horizontal mountain scale setting, which horizontally scales mountains (how shocking). This can make mountains thicker and more spread out.
-    - On top of these three categories, there's a setting for if the mod is enabled. Tectonic will lie dormant and not affect the game if this is turned on.
+- 配置更新
+  - 在`config/tectonic.json`中为模组版本添加了一个适当的配置，有三个类别可以玩耍。
+    - Legacy（遗留）: 控制之前在v2.1中引入的遗留模式，以允许安全升级Tectonic v1世界。
+    - Features（功能）: 允许打开或关闭模组的某些功能。这包括更深的海洋、地下河流、熔岩河和沙漠沙丘。
+    - Experimental（实验）: 添加了一些仅供娱乐的额外配置选项。其中包括：
+      - 增加高度设置，将主世界的建造和生成限制提高到y640。
+      - 地形尺度设置，将地形垂直按给定因子缩放。与增加高度设置结合，你可以使山峰高出500多个方块。
+      - 水平山脉尺度设置，水平缩放山脉（多么震惊）。这可以使山脉变得更厚、更分散。
+    - 除了这三个类别外，还有一个用于启用模组的设置。如果这个开启，Tectonic将处于休眠状态，不会影响游戏。
 
-There's been a lot of backend work going on to make the update possible. As a result, there's been some merges and splits of mod jars.
+为了使更新成为可能，进行了大量的后端工作。结果是一些模组jar的合并和分离。
 
-- The multi-loader 1.20.1 and 1.19.2 versions have been split into separate Fabric and Forge versions.
-- The Fabric 1.19.3-1.20.1 and Fabric 1.20.2+ versions have been merged into a single version.
-- When deeper oceans are enabled, ocean monuments will generate 30 blocks lower than in vanilla.
-- Fixed an issue where Badlands biomes above y256 were covered in Orange Terracotta.
-- Reworked desert dune generation to be a lot more common and more "dune-y".
+- 多加载器1.20.1和1.19.2版本已分为单独的Fabric和Forge版本。
+- Fabric 1.19.3-1.20.1和Fabric 1.20.2+版本已合并为一个版本。
+- 当启用更深的海洋时，海洋纪念碑会比原版低30个方块生成。
+- 修复了Badlands生物群系在y256以上被覆盖在橙色陶土上的问题。
+- 重做沙漠沙丘生成，使其更常见且更“沙丘化”。
 
 ### ArmourersWorkshop --- V2.1.0 -> V2.1.1
 
 **V2.1.1**
 
-- Add new options to disable permission check. (1.16-1.20)
-- Fix manifold extensions method conflict issue #459. (1.16-1.20)
-- Fix ftb library screen compatibility issue. (1.16-1.20)
-- Fix typo in lang files. (1.16-1.20)
+- 添加新选项以禁用权限检查。（1.16-1.20）
+- 修复manifold extensions方法冲突问题#459。（1.16-1.20）
+- 修复ftb library界面兼容性问题。（1.16-1.20）
+- 修复语言文件中的拼写错误。（1.16-1.20）
 
 ### ModernUI --- V3.10.0.2 -> V3.10.1.2
 
 **V3.10.1.2**
 
-- Forge Extension 1.19.2
-  - Do not use new word breaker in command mode
-  - Add preferences navigation to mods config button
-  - Improve PreferencesFragment
-  - Add API to allow back to previous screen, allow passing a ScreenCallback
-  - Add API to create MuiScreen
-  - Add Segoe UI Symbol to default fallback list
-  - Fix issue with TrueType Collection registration
-  - Add font registration config to register additional fonts
-  - Add modifiers to ACTION_SCROLL event
-  - Add showing layout bounds
-  - Add adaptive tooltip colors
-  - Renew tooltip rendering
-    - Create rendertype_modern_tooltip shader
-    - Interpolate color bilinearly in sRGB space
-    - Better shadow effect, add shadow opacity
-    - Add corner radius config
-    - Adjust auto scrolling velocity
-  - Remove tooltip fade-in animation
-  - Fix a rare crash on config reloading due to thread-safety
-  - Apply blur effect only to screens that have default background (configurable)
-  - Do not use Overwrite for calculateScale
-  - Fix startup crash on server and datagen
-  - Remove ScreenCallback capability
+- Forge扩展1.19.2
+  - 命令模式下不使用新的单词分割器
+  - 在mods配置按钮中添加首选项导航
+  - 改进PreferencesFragment
+  - 添加API以允许返回上一个屏幕，并允许传递ScreenCallback
+  - 添加API以创建MuiScreen
+  - 将Segoe UI Symbol添加到默认后备列表中
+  - 修复TrueType Collection注册问题
+  - 添加字体注册配置以注册额外的字体
+  - 添加修饰符到ACTION_SCROLL事件
+  - 显示布局边界
+  - 添加自适应工具提示颜色
+  - 更新工具提示渲染
+    - 创建rendertype_modern_tooltip着色器
+    - 在sRGB空间双线性插值颜色
+    - 更好的阴影效果，添加阴影不透明度
+    - 添加角半径配置
+    - 调整自动滚动速度
+  - 移除工具提示淡入动画
+  - 修复因线程安全而导致的配置重新加载时罕见崩溃问题
+  - 仅将模糊效果应用于有默认背景的屏幕（可配置）
+  - 不在calculateScale中使用Overwrite
+  - 修复服务器和数据生成时的启动崩溃
+  - 移除ScreenCallback功能
 - Modern Text Engine 1.19.2
-  - Change logging level for font loading, enhance onFontRegistered thread-safety
-  - Add new default font behaviors and rule set, allowing regexes to match fonts
-  - Adjust text renderer alpha threshold from 1 to 2 (0-255)
-  - Fix only a very small set of characters can be used for obfuscated rendering
-  - Use Latin1 for FastCharSet
-  - Fix a rare crash on text engine due to batch rendering and display mode changes
-- Core Framework 3.10.1
-  - Update typecast checks, add ArrayMap.forEach
-  - Make FontFamily.createFamily throw Exception
-  - Add FontFamily.createFamilies for TrueType Collection
-  - Add HorizontalScrollView, update ScrollView
-  - Add debug layout to show layout bounds
-  - Optimize Color.parseColor
-  - Add Animatable and Animatable2
-  - Add some missing javadoc
-  - Use UTF-16 for TextUtils read/write
-  - Add TextPaint.baselineShift and Subscript/SuperscriptSpan
-  - Disable pooling of Message objects
-  - Build against a copy of Arc3D, instead of composite build
-  - Add Canvas.shear / skew, deprecate Canvas.getMatrix
-  - Add TextUtils.concat and TextUtils.join methods
-  - Make use of Java 20 float/half convert instruction
-  - Add CharBuffer support for TextUtils.getChars()
-- Core Framework - Kotlin Extension 3.10.1
-  - No changes
+  - 更改字体加载的日志级别，增强onFontRegistered线程安全性
+  - 添加新的默认字体行为和规则集，允许正则表达式匹配字体
+  - 将文本渲染器的alpha阈值从1调整到2（0-255）
+  - 修复仅能使用非常少量字符进行混淆渲染的问题
+  - 对于FastCharSet使用Latin1
+  - 修复文本引擎由于批渲染和显示模式变化导致的罕见崩溃问题
+- 核心框架3.10.1
+  - 更新类型转换检查，添加ArrayMap.forEach
+  - 使FontFamily.createFamily抛出异常
+  - 添加FontFamily.createFamilies用于TrueType Collection
+  - 添加HorizontalScrollView，更新ScrollView
+  - 添加调试布局以显示布局边界
+  - 优化Color.parseColor
+  - 添加Animatable和Animatable2
+  - 添加一些缺失的javadoc
+  - 使用UTF-16进行TextUtils读写
+  - 添加TextPaint.baselineShift和Subscript/SuperscriptSpan
+  - 禁用Message对象的池化
+  - 针对Arc3D的副本构建，而不是复合构建
+  - 添加Canvas.shear / skew，弃用Canvas.getMatrix
+  - 添加TextUtils.concat和TextUtils.join方法
+  - 使用Java 20 float/half转换指令
+  - 为TextUtils.getChars()添加CharBuffer支持
+- 核心框架 - Kotlin扩展3.10.1
+  - 无变化
 - Markdown 3.10.1
-  - No changes
-- Arc 3D Graphics Engine 3.10.1
-  - Add 3D shearing transform methods
-  - Improve GL_TEXTURE_SWIZZLE_RGBA compatibility
-  - Tons of updates on DSL shader compiler, including new grammar parsing and SPIR-V generation, no detailed information provided
+  - 无变化
+- Arc 3D图形引擎3.10.1
+  - 添加3D剪切变换方法
+  - 提高GL_TEXTURE_SWIZZLE_RGBA兼容性
+  - 在DSL着色器编译器上进行大量更新，包括新的语法解析和SPIR-V生成，没有提供详细信息
+
+### Exposure --- V1.4.1 -> V1.5.1
+
+**V1.5.1**
+
+- 添加了使用Chromatic过程创建Photograph的进度。
+- 修复了Chromatic Photograph在打印后过快渲染（通常是鼠标悬停在结果槽上时）而未正确显示的问题。
+- 更新了一个本地化文件。
+
+### ArtOfForging --- V1.7.3 -> V1.7.4
+
+**V1.7.4**
+
+- 减弱了Annihilator Axe的伤害
+- 增强了Crucible和Architect's Crucible
+- 重新设计了Disorienting效果（现在仅在一定百分比时触发，且效果持续5秒）
+- 使Flamberge卷轴更便宜且可在下界之前获取
+- 重新设计了Goliath Slayer，使其对健康值超过80的怪物也造成额外伤害
+- 使Nano Hone与长矛和巨剑兼容
+- 重新设计了Hubris效果，在健康值较低时更具惩罚性（进一步降低伤害）
+- 稍微增强了生命纤维
+- 削弱了Rending scissors（独特刀片）
+- 使所有可制作的卷轴使用书和羽毛笔
+- 使Resolve效果也适用于Curios
+- 对Rapiers进行了重新淬火，使其不再那么糟糕
+- 减少了TCN上的Devouring
+- 使Scissor blades拥有切割等级
+- 增强了Eerie fuller音爆伤害
+- 移除了关于curios的不必要和无关的语言信息
+
+### SecretsOfForgingRevelations --- V1.3.2 -> V1.3.3
+
+**V1.3.3**
+
+- 使AC与常规AoF AC保持一致
+- 使木材和杆的长矛柄更慢，而不是不自然地快
+- 使镰刀具有斩首效果
 
 ## 资源包更新
 
@@ -842,4 +915,3 @@ Assorted Allays V.5.0, 水生与混沌更新到来了, 带来了一大波新的 
 
 - 织布机的纹理和模型更改
 - 使其兼容最新快照版本中的 GUI 套装
-
