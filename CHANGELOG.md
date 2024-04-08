@@ -120,7 +120,12 @@
 - 当从装置中拆解 Item Silo 时, 其内容会丢失 (#57)
 - 在 Brass 和 Parallel Gearboxes 上的纹理 uv 旋转错误 (#55)
 
-### IronsSpellsNSpellbooks --- V3.0.1 -> V3.1.2
+### IronsSpellsNSpellbooks --- V3.0.1 -> V3.1.3
+
+**V3.1.3**
+
+- Fixes
+  - Fixed new SpellOnCastEvent returning the wrong level, which impacted the effectiveness of many spells
 
 **V3.1.2**
 
@@ -221,7 +226,11 @@
 - 修复了信息显示与 F3 文本冲突的问题
 - 修复了游戏启动时模组未加载但代码注入存在时的崩溃问题
 
-### SimpleVoiceChat --- V2.5.8 -> V2.5.11
+### SimpleVoiceChat --- V2.5.8 -> V2.5.12
+
+**V2.5.12**
+
+- Improved cloth config GUI translations
 
 **V2.5.11**
 
@@ -237,7 +246,12 @@
 - 修复了启动游戏时可能发生的崩溃
 - 更新了墨西哥西班牙语翻译
 
-### SeasonHUD --- V1.7.14 -> V1.7.17
+### SeasonHUD --- V1.7.14 -> V1.7.18
+
+**V1.7.18**
+
+- Changed
+  - (Fabric) Changed the hud to show up in other dimensions if they are whitelisted in the FabricSeasons config file.
 
 **V1.7.17**
 
@@ -684,7 +698,11 @@
 - CCK现在有了自己的创意标签页。
 - 未翻译的文本将用英语显示，而不是“UNLOCALIZED: ...”
 
-### Tectonic --- V2.2.1 -> V2.3.3
+### Tectonic --- V2.2.1 -> V2.3.4
+
+**V2.3.4**
+
+- Fixed `desert_dunes` and `deeper_ocean` toggles in the config swapping values upon loading the game
 
 **V2.3.3**
 
@@ -719,7 +737,12 @@
 - 修复了Badlands生物群系在y256以上被覆盖在橙色陶土上的问题。
 - 重做沙漠沙丘生成，使其更常见且更“沙丘化”。
 
-### ArmourersWorkshop --- V2.1.0 -> V2.1.1
+### ArmourersWorkshop --- V2.1.0 -> V2.1.2
+
+**V2.1.2**
+
+- Add skin file manager api (1.16-1.20)
+- Fix crash when save skin packet decoding (1.16-1.20)
 
 **V2.1.1**
 
@@ -825,6 +848,116 @@
 - 使AC与常规AoF AC保持一致
 - 使木材和杆的长矛柄更慢，而不是不自然地快
 - 使镰刀具有斩首效果
+
+### RedstonePen --- V1.2.20 -> V1.2.32
+
+**V1.2.32**
+
+- Back-Port Release.
+- Basic Lever, Button, and Pulse Button added.
+- TICKRATE=t now ignores signal interrupts (makes closed loop control simpler, issue #41).
+- Added RLC interval timer instance `TIV3`.
+- Added RLC TIVx enable signal (2nd argument).
+- Redstone Track colour brightness adapted.
+- Redstone Relay stone texture edited.
+
+### CasinoCraft --- V21 -> V22
+
+**V22**
+
+- Fixed Slot Machine Screen not showing up
+- Fixed Bug where the Slot Machine was not paying out sometimes when it showed a winning line
+- Fixed some typos
+
+### TouhouLittleMaid --- V1.1.7 -> V1.1.8
+
+**V1.1.8**
+
+- 暂无
+
+### MediaWorks --- V1.0.6 -> V1.0.7
+
+- Fixes
+  - Fix astral projection sound playing after death unconditionally (reported by miyucomics).
+
+### StorageDelight --- V1.0.1 -> V1.0.2
+
+**V1.0.2**
+
+- Bug Fixes:
+  - Fixed a critical bug that was preventing Storage Delight from being played alongside the Crate Delight mod. Thanks to CattsyTheKitty for reporting it.
+
+### FancyMenu --- V3.1.2 -> V3.1.4
+
+**V3.1.4**
+
+- Fixed GIF images still ignoring their loop count (please work, I beg you)
+
+**V3.1.3**
+
+- Added "Music Controller" element to control Vanilla music that plays in menus
+  - Because it's an element, it works per-screen, not only globally like before
+  - Includes the world music that keeps playing in menus that don't pause the game
+  - Old global option in settings should still work normal and will not get removed
+- The mod should now respect the loop count of GIF images (like it already did with APNGs)
+- It is now possible to randomize slideshows
+- Removed "Loop Animated Textures" option for Button and Slider element background textures
+  - This feature was a forgotten v2-relic that did not work anymore in v3
+  - The mod now respects loop counts of both APNG and GIF textures, so you can simply "disable" looping by making a non-looping GIF/APNG
+- Most of FancyMenu's screens should now adjust their GUI scale if buttons get out of screen because the window is too small or the GUI scale too big
+- All of FancyMenu's commands are now normal server-side commands (like every Vanilla command)
+  - This means that you now need FancyMenu on the server if you plan to use FM commands in multiplayer
+  - Makes commands way more stable and fixes potential glitches and bugs caused by FM registering the same command twice (on client and server)
+- "Remove Reloading Screen" is now listed as incompatible for older Minecraft versions (before 1.20.4)
+  - The game will not start if RRLS is installed while having FancyMenu installed in MC versions before 1.20.4
+  - Both mods seem to work fine together in 1.20.4+, so RRLS is not listed as incompatible there
+- Fixed all custom window icon files showing as set, but still unable to enable custom window icon toggle
+- Fixed skin and cape textures of Player Entity elements not updating correctly (showing old, outdated textures) (thanks adamk33n3r!)
+- Fixed missing feedback when the mod failed to open a screen via the "Open Screen" action
+- Fixed missing feedback when the mod failed to mimic a button via the "Mimic Button" action
+- Fixed "Is Singleplayer" loading requirement returning true when Singleplayer world is "opened to LAN"
+- Fixed "/fmvariable" command not working when executed via "/execute as" Vanilla command
+- Fixed Markdown quote text formatting never ends quote
+- Fixed unable to connect to servers without FancyMenu installed on NeoForge
+- Fixed "/openguiscreen" command gets sent to chat instead of executing it as command in MC 1.18.2
+
+### RefinedPolymorphism --- V0.1.0 -> V0.1.1
+
+**V0.1.1**
+
+- Widget now re-adjusts its position when resizing grid menus.
+
+### Embeddium --- V0.3.5 -> V0.3.12
+
+**V0.3.12**
+
+- All versions - fix block entities sometimes being invisible with Valkyrien Skies installed
+- All versions - modify JSON models at launch time to reduce likelihood of z-fighting when Compact Vertex Format is on (this fixes some resource packs like Vanilla Tweaks connected textures)
+- 1.18+ - fix regression from 0.3.11 that caused barrier blocks/light blocks to render incorrectly
+- 1.19+ - optimize chunk render type set merging on Forge
+
+**V0.3.9**
+
+- 1.18+ - apply some general optimizations to the render pipeline which should reduce allocation rate a bit
+- All versions - prevent crash with excessive biome blend radii (values above 7 are now ignored)
+- 1.19+ - allow setting the biome blend radius to zero again
+- 1.19+ - fix crash with certain resource packs (fix ported from Sodium's dev branch)
+- 1.19+ - fix duplicate vertex data writes not being ignored (this caused the Cave Compendium from Alex's Caves to render incorrectly)
+- 1.19+ - optimize Forge's handling of vanilla multipart models (e.g. fences) to reduce overhead during chunk meshing
+- 1.19+ - improve efficiency of empty Forge model data
+- 1.19+ - fix potential issue with normal calculations when delegating to vanilla-like block renderers
+- 1.19+ - fix biome color optimization breaking some mods that try to modify grass color
+- 1.18-1.19 - allow Fabulous mode to be selected again (not recommended)
+
+### VillagerWorkers --- V1.7.6 -> V1.7.7
+
+**V1.7.7**
+
+- fixed sailor path navigation
+- exploit with merchants
+- fixed players wont get traded item when invenotry is full
+- fixed workers dont have access to double chest inventories
+- fixed chest lid not opening when taking food
 
 ## 资源包更新
 
