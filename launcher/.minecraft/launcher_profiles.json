@@ -1,13 +1,28 @@
 {
-    "profiles":  {
-        "PCL": {
-            "icon": "Grass",
-            "name": "PCL",
-            "lastVersionId": "latest-release",
-            "type": "latest-release",
-            "lastUsed": "2023-12-03T22:56:27.0000Z"
+  "profiles": {
+    "PCL": {
+      "icon": "Grass",
+      "name": "PCL",
+      "lastVersionId": "latest-release",
+      "type": "latest-release",
+      "lastUsed": "2024-04-10T02:04:48+08:00"
+    }
+  },
+  "selectedProfile": "PCL",
+  "clientToken": "e3dad091629f4e3cb43f2a7b0dc133e3",
+  "authenticationDatabase": {
+    "00000111112222233333444445555566": {
+      "accessToken": "eyJraWQiOiJhYzg0YSIsImFsZyI6IkhTMjU2In0.eyJ4dWlkIjoiMjUzNTQ3MDYzMTQ4MTA3NyIsImFnZyI6IkFkdWx0Iiwic3ViIjoiZGQxYWRhYTUtNGRkMC00MGM1LWJmODUtZjUzNjQyMTRhNTg2IiwiYXV0aCI6IlhCT1giLCJucyI6ImRlZmF1bHQiLCJyb2xlcyI6W10sImlzcyI6ImF1dGhlbnRpY2F0aW9uIiwiZmxhZ3MiOlsidHdvZmFjdG9yYXV0aCIsIm1zYW1pZ3JhdGlvbl9zdGFnZTQiLCJvcmRlcnNfMjAyMiIsIm11bHRpcGxheWVyIl0sInByb2ZpbGVzIjp7Im1jIjoiZTNkYWQwOTEtNjI5Zi00ZTNjLWI0M2YtMmE3YjBkYzEzM2UzIn0sInBsYXRmb3JtIjoiVU5LTk9XTiIsInl1aWQiOiI2YjhmODIzMTk1Yzc3OTU3MmUxNGRhMjg2Zjg2MzJlMyIsIm5iZiI6MTcxMjY2MTkwMSwiZXhwIjoxNzEyNzQ4MzAxLCJpYXQiOjE3MTI2NjE5MDF9.1IHL9B05u0OHiIpNdym1beL1rE6jm-0hWq4suFvM8Hk",
+      "username": "QianFuv",
+      "profiles": {
+        "66666555554444433333222221111100": {
+          "displayName": "QianFuv"
         }
-    },
-    "selectedProfile": "PCL",
-    "clientToken": "23323323323323323323323323323333"
+      }
+    }
+  },
+  "selectedUser": {
+    "account": "00000111112222233333444445555566",
+    "profile": "66666555554444433333222221111100"
+  }
 }
