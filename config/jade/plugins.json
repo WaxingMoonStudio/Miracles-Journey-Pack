@@ -82,7 +82,8 @@
     "crop_progress": true
   },
   "touhou_little_maid": {
-    "maid": true
+    "maid": true,
+    "shrine_lamp": true
   },
   "create": {
     "filter": true,

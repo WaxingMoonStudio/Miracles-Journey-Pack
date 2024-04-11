@@ -553,7 +553,7 @@
 	"Double Door Opening" = false
 	"Zombie Villagers On Normal" = false
 	"Hoe Harvesting" = false
-	Emotes = true
+	Emotes = false
 	"Slimes To Magma Cubes" = true
 	"Snow Golem Player Heads" = true
 	"Vexes Die With Their Masters" = true

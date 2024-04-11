@@ -104,6 +104,8 @@
 
 /XaeroWorldMap
 
+/.abnormal
+
 # /.gitignore
 
 /.qmenu_opened.marker
@@ -117,6 +119,8 @@
 # /Custom.xaml
 
 # /DISCLAIMER.md
+
+/log4j2.xml
 
 # /meta.json
 

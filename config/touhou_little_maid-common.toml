@@ -37,6 +37,12 @@
 	MaidBackpackBlackList = []
 	#The entity that the maid will not recognize as targets for attack
 	MaidAttackIgnore = []
+	#These items cannot be used as a maid's work meals
+	MaidWorkMealsBlockList = ["minecraft:pufferfish", "minecraft:poisonous_potato", "minecraft:rotten_flesh", "minecraft:spider_eye", "minecraft:chorus_fruit"]
+	#These items cannot be used as a maid's home meals
+	MaidHomeMealsBlockList = ["minecraft:pufferfish", "minecraft:poisonous_potato", "minecraft:rotten_flesh", "minecraft:spider_eye", "minecraft:chorus_fruit"]
+	#These items cannot be used as a maid's heal meals
+	MaidHealMealsBlockList = ["minecraft:pufferfish", "minecraft:poisonous_potato", "minecraft:rotten_flesh", "minecraft:spider_eye"]
 
 [chair]
 	#Chair can switch models freely
@@ -71,6 +77,8 @@
 	ShrineLampMaxRange = 6
 	#The following biome do not spawn maid fairy
 	MaidFairyBlacklistBiome = ["minecraft:the_void", "minecraft:mushroom_fields"]
+	#Whether to turn off the Optifine warning
+	CloseOptifineWarning = false
 
 [vanilla]
 	#Whether to replace the vanilla slime model with the yukkuri.

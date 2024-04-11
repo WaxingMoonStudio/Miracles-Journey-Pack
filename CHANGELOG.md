@@ -9,7 +9,7 @@
 - 添加了 24w11a 引入的重锤及相关进度 --- Maced
 - 改善原版游戏主世界群系 --- GeophilicReforgedBiomeAdditions
 - 增加终末之诗可自定义性 --- CustomCredits
-- 
+- 增强机械动力列车乘坐体验 --- CreateTrainPerspectiveFix
 
 ## 修改内容
 
@@ -20,7 +20,7 @@
 ## 删除内容
 
 - 删除部分无用但频繁更新的配置文件 --- BetterVillage / ExtendedNoteblock / LibraryFerret / Reforgium
-- 移除部分体验较差 / 存在 Bug / 效果不大的模组 --- RageMod / GreenDelight / ModernWorldCreation / NetherPortalFix / VVAddon / Terralith / AmbientSounds
+- 移除部分体验较差 / 存在 Bug / 效果不大的模组 --- RageMod / GreenDelight / ModernWorldCreation / NetherPortalFix / VVAddon / Terralith / AmbientSounds / ModernOnlinePictureFrame
 - 移除多余的数据包 --- TheGraveyardTerralithCompatability
 
 ## 错误修复
@@ -246,7 +246,13 @@
 - 修复了启动游戏时可能发生的崩溃
 - 更新了墨西哥西班牙语翻译
 
-### SeasonHUD --- V1.7.14 -> V1.7.18
+### SeasonHUD --- V1.7.14 -> V1.7.19
+
+**V1.7.19**
+
+- Fixed
+  - (Forge) Removed the "SHOW_WITH_MONTH" option from showing in the Forge versions config, since it is a feature of FabricSeasons.
+  - Fixed a typo in the config
 
 **V1.7.18**
 
@@ -869,7 +875,11 @@
 - Fixed Bug where the Slot Machine was not paying out sometimes when it showed a winning line
 - Fixed some typos
 
-### TouhouLittleMaid --- V1.1.7 -> V1.1.8
+### TouhouLittleMaid --- V1.1.7 -> V1.1.8hotfix
+
+**V1.1.8hotfix**
+
+- fix creative tab item issues
 
 **V1.1.8**
 
@@ -958,6 +968,96 @@
 - fixed players wont get traded item when invenotry is full
 - fixed workers dont have access to double chest inventories
 - fixed chest lid not opening when taking food
+
+### CreateSteamNRails --- V1.5.3 -> V1.6.1
+
+**V1.6.1**
+
+- Fix crash from fabric class on forge
+
+**V1.6.0**
+
+- Additions
+  - Create: Dreams and Desires compat Tracks
+  - Quark compat tracks
+  - Handcar: wrench to pick up
+  - Players can now click a station with a whistle to summon a train directly to that station
+  - A deployer using a whistle on air will clear the schedule of the bound train
+  - You can now whistle a dual-headed train while in motion and have it slow and reverse
+  - Config option to use old-style smoke (campfire particles) for smokestacks
+  - Locometal block series
+  - Buffer blocks
+  - Headstocks
+  - Decorative Couplers
+  - Crafting tables work on trains
+  - Hovering over a track-related block (couplers, signals, stations, etc.) with a wrench will highlight the track it is bound to and vice versa
+  - Fuel Tanks
+  - Fuel Interfaces
+  - Liquid Fuel System (liquid fuel can power trains)
+  - Tag to disable items from being used as train fuel
+  - Medium Standard, Single Wheel, Triple Wheel, Quadruple Wheel, Quintuple Wheel, 2-0-2 Trailing, 4-0-4 Trailing, 6-0-6 Trailing, 6-0-6 Tender, 8-0-8 Tender, 10-0-10 Tender Bogies
+  - Large Create Styled 0-4-0, 0-6-0, 0-8-0, 0-10-0, 0-12-0 Bogies
+- Changes
+  - Generic Crossing Tracks—any two tracks can now cross at a junction
+  - Decoupled trains' names will now stop at one "Split off from: ..."
+  - Trains will now approach nearby stations when they are the rear train in a decoupled set
+  - Trains relocated by a wrench will now try to approach nearby stations after relocation
+  - Decoupled trains will now move back and forth a little bit to prevent signal overruns
+  - Held conductor whistles will attempt to rebind after a conductor has moved to a new train (such as after coupling/decoupling)
+  - Reduce comparator output checking frequency for Track Coupler
+  - Couplers validate placement less frequently, improving performance
+  - Remote Conductor-controlled trains adjust speed based on signal strength
+  - Smoke rework 2.0: more minecraft-style smoke, with config for old smoke
+  - Train status messages now include coordinates
+  - Soul fire smoke in smoke stacks, clicking a smokestack with soul soil or soul sand will make it output soul fire themed smoke
+  - Smokestacks can be dyed via being clicked with dye
+  - Smokestacks show their dye color/style when wearing goggles
+  - Signals, stations, and other blocks with a 'track pad' do not render the pad on phantom tracks when the tracks are not visible
+  - Radiator fans can now be placed in any direction
+  - Creeper explosions and Ghast Fireballs no longer break tracks
+  - Remastered Monobogeys, Single Axle, Double Axle and Triple Axle Bogies
+  - Removed optifine warning screen
+  - New Bogey Menu for selecting bogies
+  - New model for brass switch
+- Fixes
+  - Mixin conflict with VS2
+  - Auto schedule application properly sets the schedule index on trains, increasing reliability in automated coupling systems
+  - Fix waypoint schedule items not showing up in the Station Summary (#329)
+  - Fix villagers opening sliding doors in the 'special' mode (#317)
+  - Fix normal nixie tube relays (#311)
+  - Fix signal debug line rendering for monorail tracks
+  - Change conductor cap offset on players to fix clipping with some skins
+  - Rework a conductor spy mixin for Tweakeroo freecam compat
+  - Offset train assembly overlay on encased tracks
+  - Made the mod work with optifine again
+
+### KubeJsIronsSpells --- V1.0.2 -> V2.0.0
+
+**V2.0.0**
+
+- Added SpellBookBuilderJS
+- Added StaffItemBuilderJS
+- Added MagicSwordItemBuilderJS
+- Added setUniqueInfo() method on CustomSpell
+- Added getMagicData() method on Player to allow easier access to mana outside of Iron's Spells events
+- Added custom spell projectiles for EntityJS compatibility
+- Patched new EntityJS version compatibility (thanks to Liopyu)
+- Fixed attributes being broken due to registry order
+- Updated Iron's Spells version to 3.1.3
+- ProbeJS compatibility for spells and spell schools
+
+### Embeddium++ --- V1.2.5 -> V1.2.6
+
+**V1.2.6**
+
+- Compat fix for zume 0.18 (nojil, please slowdown)
+  - Version was restricted to above 0.18 and below 0.19
+- Make static beds and chests models/textures as a integrated resourcepack
+  - This avoid invisible models/textures for mods with some weird reliance on MC resources.
+- Fix wrong AVG display on initial games
+  - AVG was also tweaked to store 18 values instead of 14
+- Added EMI/REI support for "Hide JEI until searching" feature
+- Revoked license (now is ARR)
 
 ## 资源包更新
 
