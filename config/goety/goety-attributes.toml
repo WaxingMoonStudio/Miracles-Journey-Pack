@@ -328,6 +328,14 @@
 			#Range: 1.0 ~ 1.7976931348623157E308
 			poisonQuillVineDamage = 2.5
 
+		[Attributes."Summoned Mobs"."Ice Golem"]
+			#How much Max Health Ice Golems have, Default: 60.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			iceGolemHealth = 60.0
+			#How much damage Ice Golems deals, Default: 7.5
+			#Range: 1.0 ~ 1.7976931348623157E308
+			iceGolemDamage = 7.5
+
 	[Attributes.Mini-Bosses]
 
 		[Attributes.Mini-Bosses.Crone]
