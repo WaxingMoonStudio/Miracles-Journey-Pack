@@ -4,6 +4,8 @@
 	[Flavors."Basic Flavors"]
 		#Whether to enable the Chorus Fruit flavor.
 		"Chorus Flavor" = true
+		#Whether to enable the Elmond flavor.
+		"Elmond Flavor" = true
 
 	[Flavors."Compatible Flavors"]
 
@@ -39,5 +41,9 @@
 		#Whether to enable the modifications for Unusual End.
 		"Unusual End Compatibility" = true
 		#Whether to enable the modifications for Oh The Biomes You'll Go.
-		"Oh The Biomes You'll Go Compatibility" = true
+		"Oh The Biomes You'll Go Modification" = true
+		#Whether to enable the modifications for Ender's Delight.
+		"Ender's Delight Compatibility" = true
+		#Whether to enable the modifications for Vanilla Cookbook.
+		"Vanilla Cookbook Compatibility" = true
 
