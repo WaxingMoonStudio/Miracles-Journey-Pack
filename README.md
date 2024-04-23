@@ -21,7 +21,6 @@
     <a href="https://github.com/Qian-F/Miracles-Journey/blob/home/LICENSE.md"><img alt="License" src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-blue.svg?style=for-the-badge" height="28"/></a>
 </div>
 
-
 ------
 
 <div align="center">
@@ -43,3 +42,12 @@
 
 ------
 
+<div align="center">
+    <a href="https://star-history.com/#Qian-F/Miracles-Journey&Date">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Qian-F/Miracles-Journey&type=Date&theme=dark" />
+            <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Qian-F/Miracles-Journey&type=Date" />
+            <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Qian-F/Miracles-Journey&type=Date" />
+        </picture>
+    </a>
+</div>
