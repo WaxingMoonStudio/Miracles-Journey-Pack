@@ -6,7 +6,8 @@
 
 <div align="center">
     <a href="https://github.com/Qian-F/Miracles-Journey/releases"><img alt="GitHub Release Date - Published_At" src="https://img.shields.io/github/release-date/Qian-F/Miracles-Journey?display_date=published_at&style=for-the-badge"></a>
-    <a href="https://github.com/Qian-F/Miracles-Journey/commits/main"><img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/Qian-F/Miracles-Journey?style=for-the-badge"></a>
+    <a href="https://github.com/Qian-F/Miracles-Journey/commits/main"><img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/Qian-F/Miracles-Journey/pack?style=for-the-badge
+"></a>
     <a href="https://github.com/Qian-F/Miracles-Journey/releases"><img alt="GitHub (Pre-)Release Date" src="https://img.shields.io/github/release-date-pre/Qian-F/Miracles-Journey?style=for-the-badge&label=PRE%20RELEASE%20DATE"></a>
 </div>
 <div align="center">
