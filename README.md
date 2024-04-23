@@ -5,20 +5,20 @@
 ------
 
 <div align="center">
-    <a href="https://github.com/Qian-F/Miracles-Journey/releases"><img alt="GitHub Release Date - Published_At" src="https://img.shields.io/github/release-date/Qian-F/Miracles-Journey?display_date=published_at&style=for-the-badge"></a>
-    <a href="https://github.com/Qian-F/Miracles-Journey/commits/pack"><img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/Qian-F/Miracles-Journey/pack?style=for-the-badge"></a>
-    <a href="https://github.com/Qian-F/Miracles-Journey/releases"><img alt="GitHub (Pre-)Release Date" src="https://img.shields.io/github/release-date-pre/Qian-F/Miracles-Journey?style=for-the-badge&label=PRE%20RELEASE%20DATE"></a>
+    <a href="https://github.com/Qian-F/Miracles-Journey/releases"><img alt="" src="https://img.shields.io/github/release-date/Qian-F/Miracles-Journey?display_date=published_at&style=for-the-badge"></a>
+    <a href="https://github.com/Qian-F/Miracles-Journey/commits/pack"><img alt="" src="https://img.shields.io/github/last-commit/Qian-F/Miracles-Journey/pack?style=for-the-badge"></a>
+    <a href="https://github.com/Qian-F/Miracles-Journey/releases"><img alt="" src="https://img.shields.io/github/release-date-pre/Qian-F/Miracles-Journey?style=for-the-badge&label=PRE%20RELEASE%20DATE"></a>
 </div>
 <div align="center">
-    <a href="https://github.com/Qian-F/Miracles-Journey/issues?q=is%3Aissue+is%3Aopen"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Qian-F/Miracles-Journey?style=for-the-badge"></a>
-    <a href="https://github.com/Qian-F/Miracles-Journey/issues?q=is%3Aissue+is%3Aclosed"><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/Qian-F/Miracles-Journey?style=for-the-badge"></a>
-    <a href="https://github.com/Qian-F/Miracles-Journey/pulls?q=is%3Apr+is%3Aopen"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Qian-F/Miracles-Journey?style=for-the-badge"></a>
-    <a href="https://github.com/Qian-F/Miracles-Journey/pulls?q=is%3Apr+is%3Aclosed"><img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/Qian-F/Miracles-Journey?style=for-the-badge"></a>
+    <a href="https://github.com/Qian-F/Miracles-Journey/issues?q=is%3Aissue+is%3Aopen"><img alt="" src="https://img.shields.io/github/issues/Qian-F/Miracles-Journey?style=for-the-badge"></a>
+    <a href="https://github.com/Qian-F/Miracles-Journey/issues?q=is%3Aissue+is%3Aclosed"><img alt="" src="https://img.shields.io/github/issues-closed/Qian-F/Miracles-Journey?style=for-the-badge"></a>
+    <a href="https://github.com/Qian-F/Miracles-Journey/pulls?q=is%3Apr+is%3Aopen"><img alt="" src="https://img.shields.io/github/issues-pr/Qian-F/Miracles-Journey?style=for-the-badge"></a>
+    <a href="https://github.com/Qian-F/Miracles-Journey/pulls?q=is%3Apr+is%3Aclosed"><img alt="" src="https://img.shields.io/github/issues-pr-closed/Qian-F/Miracles-Journey?style=for-the-badge"></a>
 </div>
 <div align="center">
-    <a href="https://github.com/Qian-F/Miracles-Journey/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Qian-F/Miracles-Journey?style=for-the-badge"></a>
-    <a href="https://github.com/Qian-F/Miracles-Journey"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Qian-F/Miracles-Journey?style=for-the-badge"></a>
-    <a href="https://github.com/Qian-F/Miracles-Journey/blob/home/LICENSE.md"><img alt="License" src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-blue.svg?style=for-the-badge" height="28"/></a>
+    <a href="https://github.com/Qian-F/Miracles-Journey/stargazers"><img alt="" src="https://img.shields.io/github/stars/Qian-F/Miracles-Journey?style=for-the-badge"></a>
+    <a href="https://github.com/Qian-F/Miracles-Journey"><img alt="" src="https://img.shields.io/github/repo-size/Qian-F/Miracles-Journey?style=for-the-badge"></a>
+    <a href="https://github.com/Qian-F/Miracles-Journey/blob/home/LICENSE.md"><img alt="" src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-blue.svg?style=for-the-badge" height="28"/></a>
 </div>
 
 ------
@@ -43,7 +43,7 @@
 ------
 
 <div align="center">
-    <a href="https://star-history.com/#Qian-F/Miracles-Journey&Date">
+    <a href="https://github.com/Qian-F/Miracles-Journey/stargazers">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Qian-F/Miracles-Journey&type=Date&theme=dark" />
             <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Qian-F/Miracles-Journey&type=Date" />
