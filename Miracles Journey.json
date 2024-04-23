@@ -53,7 +53,7 @@
       "--launchTarget",
       "forgeclient",
       "--fml.forgeVersion",
-      "43.3.9",
+      "43.3.13",
       "--fml.mcVersion",
       "1.19.2",
       "--fml.forgeGroup",
@@ -122,7 +122,7 @@
       "-DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar",
       "-DlibraryDirectory=${library_directory}",
       "-p",
-      "${library_directory}/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.6/asm-9.6.jar${classpath_separator}${library_directory}/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar",
+      "${library_directory}/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.7/asm-9.7.jar${classpath_separator}${library_directory}/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar",
       "--add-modules",
       "ALL-MODULE-PATH",
       "--add-opens",
@@ -1512,57 +1512,57 @@
       }
     },
     {
-      "name": "org.ow2.asm:asm:9.6",
+      "name": "org.ow2.asm:asm:9.7",
       "downloads": {
         "artifact": {
-          "path": "org/ow2/asm/asm/9.6/asm-9.6.jar",
-          "url": "https://maven.minecraftforge.net/org/ow2/asm/asm/9.6/asm-9.6.jar",
-          "sha1": "aa205cf0a06dbd8e04ece91c0b37c3f5d567546a",
-          "size": 123598
+          "path": "org/ow2/asm/asm/9.7/asm-9.7.jar",
+          "url": "https://maven.minecraftforge.net/org/ow2/asm/asm/9.7/asm-9.7.jar",
+          "sha1": "073d7b3086e14beb604ced229c302feff6449723",
+          "size": 125428
         }
       }
     },
     {
-      "name": "org.ow2.asm:asm-commons:9.6",
+      "name": "org.ow2.asm:asm-commons:9.7",
       "downloads": {
         "artifact": {
-          "path": "org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar",
-          "url": "https://maven.minecraftforge.net/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar",
-          "sha1": "f1a9e5508eff490744144565c47326c8648be309",
-          "size": 72194
+          "path": "org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar",
+          "url": "https://maven.minecraftforge.net/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar",
+          "sha1": "e86dda4696d3c185fcc95d8d311904e7ce38a53f",
+          "size": 73426
         }
       }
     },
     {
-      "name": "org.ow2.asm:asm-tree:9.6",
+      "name": "org.ow2.asm:asm-tree:9.7",
       "downloads": {
         "artifact": {
-          "path": "org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar",
-          "url": "https://maven.minecraftforge.net/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar",
-          "sha1": "c0cdda9d211e965d2a4448aa3fd86110f2f8c2de",
-          "size": 51935
+          "path": "org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar",
+          "url": "https://maven.minecraftforge.net/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar",
+          "sha1": "e446a17b175bfb733b87c5c2560ccb4e57d69f1a",
+          "size": 51934
         }
       }
     },
     {
-      "name": "org.ow2.asm:asm-util:9.6",
+      "name": "org.ow2.asm:asm-util:9.7",
       "downloads": {
         "artifact": {
-          "path": "org/ow2/asm/asm-util/9.6/asm-util-9.6.jar",
-          "url": "https://maven.minecraftforge.net/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar",
-          "sha1": "f77caf84eb93786a749b2baa40865b9613e3eaee",
-          "size": 91131
+          "path": "org/ow2/asm/asm-util/9.7/asm-util-9.7.jar",
+          "url": "https://maven.minecraftforge.net/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar",
+          "sha1": "c0655519f24d92af2202cb681cd7c1569df6ead6",
+          "size": 93784
         }
       }
     },
     {
-      "name": "org.ow2.asm:asm-analysis:9.6",
+      "name": "org.ow2.asm:asm-analysis:9.7",
       "downloads": {
         "artifact": {
-          "path": "org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar",
-          "url": "https://maven.minecraftforge.net/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar",
-          "sha1": "9ce6c7b174bd997fc2552dff47964546bd7a5ec3",
-          "size": 34041
+          "path": "org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar",
+          "url": "https://maven.minecraftforge.net/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar",
+          "sha1": "e4a258b7eb96107106c0599f0061cfc1832fe07a",
+          "size": 34776
         }
       }
     },
@@ -1611,13 +1611,13 @@
       }
     },
     {
-      "name": "net.minecraftforge:coremods:5.1.2",
+      "name": "net.minecraftforge:coremods:5.0.1",
       "downloads": {
         "artifact": {
-          "path": "net/minecraftforge/coremods/5.1.2/coremods-5.1.2.jar",
-          "url": "https://maven.minecraftforge.net/net/minecraftforge/coremods/5.1.2/coremods-5.1.2.jar",
-          "sha1": "ebf9e562b16ece69a0d07346b478bee0aa307a9a",
-          "size": 24281
+          "path": "net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar",
+          "url": "https://maven.minecraftforge.net/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar",
+          "sha1": "386b00279628b105b2d507539c46e134e96f6237",
+          "size": 24199
         }
       }
     },
@@ -1787,13 +1787,13 @@
       }
     },
     {
-      "name": "net.minecraftforge:fmlloader:1.19.2-43.3.9",
+      "name": "net.minecraftforge:fmlloader:1.19.2-43.3.13",
       "downloads": {
         "artifact": {
-          "path": "net/minecraftforge/fmlloader/1.19.2-43.3.9/fmlloader-1.19.2-43.3.9.jar",
-          "url": "https://maven.minecraftforge.net/net/minecraftforge/fmlloader/1.19.2-43.3.9/fmlloader-1.19.2-43.3.9.jar",
-          "sha1": "e2657d80d014922019a516e994631c5c8bb38615",
-          "size": 261211
+          "path": "net/minecraftforge/fmlloader/1.19.2-43.3.13/fmlloader-1.19.2-43.3.13.jar",
+          "url": "https://maven.minecraftforge.net/net/minecraftforge/fmlloader/1.19.2-43.3.13/fmlloader-1.19.2-43.3.13.jar",
+          "sha1": "90c73e5fc520cd044f126afdb2f90ff401352455",
+          "size": 261213
         }
       }
     }
