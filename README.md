@@ -32,7 +32,7 @@
 
 <div align="center">
     <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/pack/DISCLAIMER.md">免责声明</a> - </strong>
-    <strong><a href="https://miraclesjourney.qianf.fun/">帮助文档</a> - </strong>
+    <strong><a href="https://mjwiki.qianf.fun/">帮助文档</a> - </strong>
     <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/pack/CHANGELOG.md">更新日志</a> - </strong>
     <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/home/CONTRIBUTING.md">贡献列表</a> - </strong>
     <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/home/CODE_OF_CONDUCT.md">贡献者公约</a> - </strong>
