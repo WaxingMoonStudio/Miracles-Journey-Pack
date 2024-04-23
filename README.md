@@ -18,7 +18,7 @@
 <div align="center">
     <a href="https://github.com/Qian-F/Miracles-Journey/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Qian-F/Miracles-Journey?style=for-the-badge"></a>
     <a href="https://github.com/Qian-F/Miracles-Journey"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Qian-F/Miracles-Journey?style=for-the-badge"></a>
-    <a href="https://github.com/Qian-F/Miracles-Journey/blob/main/LICENSE.md"><img alt="License" src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-blue.svg?style=for-the-badge" height="28"/></a>
+    <a href="https://github.com/Qian-F/Miracles-Journey/blob/home/LICENSE.md"><img alt="License" src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-blue.svg?style=for-the-badge" height="28"/></a>
 </div>
 
 
@@ -34,10 +34,10 @@
     <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/pack/DISCLAIMER.md">免责声明</a> - </strong>
     <strong><a href="https://miraclesjourney.qianf.fun/">帮助文档</a> - </strong>
     <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/pack/CHANGELOG.md">更新日志</a> - </strong>
-    <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/main/CONTRIBUTING.md">贡献列表</a> - </strong>
-    <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/main/CODE_OF_CONDUCT.md">贡献者公约</a> - </strong>
-    <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/main/LICENSE.md">开放协议</a> - </strong>
-    <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/main/SECURITY.md">安全政策</a> - </strong>
+    <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/home/CONTRIBUTING.md">贡献列表</a> - </strong>
+    <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/home/CODE_OF_CONDUCT.md">贡献者公约</a> - </strong>
+    <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/home/LICENSE.md">开放协议</a> - </strong>
+    <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/home/SECURITY.md">安全政策</a> - </strong>
     <strong><a href="https://github.com/Qian-F/Miracles-Journey/blob/pack/TODO.md">待办事项</a></strong>
 </div>
 
