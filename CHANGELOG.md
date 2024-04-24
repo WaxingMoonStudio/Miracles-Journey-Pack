@@ -14,6 +14,7 @@
 - 优化 Xaero 系列地图模组性能并增添了一系列新功能 --- XaeroPlus
 - 提供了强大的 API，为其他 Mod 提供了多媒体输出支持 --- WATERMeDIA
 - 丰富末地交通方式 --- EnderRelay
+- 添加了一些可高度定制化的粒子法术 --- HexCircus
 
 ## 修改内容
 
@@ -33,6 +34,7 @@
 - 边缘放置功能与 BridgingMod 重复且无法被配置，本体效果也无必要 --- AccurateBlockPlacementReforged
 - 移除多余的数据包 --- TheGraveyardTerralithCompatability
 - 半成品，有显示 Bug --- WorldComment
+- 优化效果不明显，光影环境下可能掉帧 --- CullLessLeavesReforged
 
 ## 错误修复
 
@@ -99,6 +101,7 @@
 - TheAetherRedux --- V1.3.4 -> V2.0.11
 - TowersOfTheWildModded --- V1.0.1 -> V1.0.5
 - TouhouLittleMaid --- V1.1.7 -> V1.1.8hotfix
+- UpgradedMobs --- V1.3.1 -> V1.3.2
 - VillagerWorkers --- V1.7.6 -> V1.7.7
 - Wares --- V1.2.7 -> V1.2.8
 - XaerosMinimap --- V23.9.7 -> V24.1.1
