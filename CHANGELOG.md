@@ -21,6 +21,7 @@
 - 更新 Forge 版本到 43.3.13 --- Forge
 - 恢复自带启动器可用性 --- Launcher
 - 因为与 FancyMenu 依赖冲突，替换 ModernOnlinePictureFrame 为 LittlePictureFrames --- LittlePictureFrames
+- 替换 SpyglassOfCurios 为 SpyglassImprovements，因为 SpyglassImprovements 已经包含了 SpyglassOfCurios 制作的初衷的功能 --- SpyglassImprovements
 
 ## 删除内容
 
@@ -59,7 +60,7 @@
 - CreateSteamNRails --- V1.5.3 -> V1.6.2
 - CreateUtilities --- V0.2.0 -> V0.3.0
 - CreateVintageImprovements --- V0.1.3.1 -> V0.1.3.4
-- Collective --- V7.40 -> V7.49
+- Collective --- V7.40 -> V7.50
 - DoggyTalentsNext --- V1.18.8 -> V1.18.11
 - Embeddium --- V0.3.5 -> V0.3.14
 - Embeddium++ --- V1.2.5 -> V1.2.7
@@ -77,7 +78,7 @@
 - KubeJs --- V1902.6.2-build.63 -> 1902.6.2-build.69
 - KubeJsIronsSpells --- V1.0.2 -> V2.0.1
 - MediaWorks --- V1.0.6 -> V1.0.7
-- ModernFix --- V5.14.0 -> V5.16.1
+- ModernFix --- V5.14.0 -> V5.17.0
 - ModernUI --- V3.10.0.2 -> V3.10.1.2
 - ModpackUpdateChecker --- V0.12.1 -> V1.12.2
 - OnionOnion --- V1.0.2 -> V1.0.3
