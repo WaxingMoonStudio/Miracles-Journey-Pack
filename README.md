@@ -3,7 +3,7 @@
 <h1 align="center">Miracles Journey - 奇迹之旅</h1>
 <h2 align="center">Minecraft 1.19.2 Forge</h2>
 <h3 align="center">🎯积极维护 - 积极开发🥰</h3>
-<h3 align="center">DEV PEROID - 2023.09 -> Now</h3>
+<h3 align="center">开发周期 --- 2023.09 -> 现在</h3>
 
 ------
 
