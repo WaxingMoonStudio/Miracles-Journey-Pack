@@ -50,12 +50,13 @@
 - ArtOfForging --- V1.7.3 -> V1.7.4
 - BetterDays --- V3.1.0.3 -> V3.1.0.4
 - BotanicalMachinery --- V2.0.4 -> V2.0.5
-- CasinoCraft --- V21 -> V22
+- CasinoCraft --- V21 -> V23
 - CreateBigCannons --- V0.5.3b -> V0.5.4
 - CreateBitterballen --- V0.0.70B -> V0.0.80
 - CreateCentralKitchen --- V1.3.10 -> V1.3.11c
 - CreateConnected --- V0.7.3 -> V0.7.4
 - CreateCopycats+ --- V1.2.4 -> V1.2.5
+- CreateDesignNDecor --- V0.3 -> V0.4
 - CreateGarnished --- V1.7.2 -> V1.7.5
 - CreateSteamNRails --- V1.5.3 -> V1.6.2
 - CreateUtilities --- V0.2.0 -> V0.3.0
@@ -66,6 +67,7 @@
 - Embeddium++ --- V1.2.5 -> V1.2.7
 - EntityModelFeatures --- V1.3 -> V2.0
 - EntityTextureFeatures --- V5.2.3 -> V6.0.0
+- ExtraDelight --- V1.2.2 -> V1.3
 - ExtraSounds --- V1.2c -> V1.2c-HotFix
 - Exposure --- V1.4.1 -> V1.5.1
 - Exquisito --- V1.2.1 -> V1.3.0
@@ -81,6 +83,7 @@
 - ModernFix --- V5.14.0 -> V5.17.0
 - ModernUI --- V3.10.0.2 -> V3.10.1.2
 - ModpackUpdateChecker --- V0.12.1 -> V1.12.2
+- NotEnoughAnimations --- V1.7.1 -> V1.7.2
 - OnionOnion --- V1.0.2 -> V1.0.3
 - PacketFixer --- V1.2.8 -> V1.3.2
 - ParCool --- V3.1.0.6 -> V3.2.0.0
@@ -95,7 +98,7 @@
 - SophisticatedBackpacks --- V3.20.2.1025 -> V3.20.2.1035
 - SophisticatedCore --- V0.6.3.566 -> V0.6.4.587
 - SophisticatedStorage --- V0.9.7.743 -> V0.9.7.765
-- StorageDelight --- V1.0.1 -> V1.0.2
+- StorageDelight --- V1.0.1 -> V1.1.0
 - TaxFreeLevels --- V1.3.9 -> V1.3.10
 - Tectonic --- V2.2.1 -> V2.3.4
 - TheAether --- V1.2.0 -> V1.4.0
