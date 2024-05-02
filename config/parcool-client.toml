@@ -62,6 +62,8 @@
 	enable_camera_animation_h-wall-run = true
 	#Enable animation of camera by Hang-Down
 	enable_camera_animation_hang-down = true
+	#Enable lean animation while FastRun
+	enable_lean_animation_fast_run = true
 
 	[Animations.Animators]
 		enable_BackwardWallJumpAnimator = true

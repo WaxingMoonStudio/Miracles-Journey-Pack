@@ -20,7 +20,7 @@
 	#0 = easy, 1 = normal, 2 = hard, 3 = hardest
 	"Samurai ai strength" = 1
 	#Controls the Shogun Attack Damage Multiplier, usually set to 1 
-	#0 = easy, 1 = normal, 2 = hard, 3 = hardest
+	#0.4 = easy, 1.2 = normal, 1.8 = hard, 2.5 = hardest
 	"Shogun Attack Damage Multiplier" = 1
 	#Controls the Cowboy ai strength, usually set to 1 
 	#0 = easy, 1 = normal, 2 = hard, 3 = hardest

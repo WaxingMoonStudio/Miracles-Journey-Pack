@@ -461,10 +461,10 @@
 		windBlastCoolDown = 20
 
 	[Spells."Thunderbolt Spell"]
-		#Thunderbolt Spell Cost, Default: 8
+		#Thunderbolt Spell Cost, Default: 16
 		#Range: > 0
 		thunderboltCost = 8
-		#Time to cast Thunderbolt Spell, Default: 20
+		#Time to cast Thunderbolt Spell, Default: 40
 		#Range: 0 ~ 72000
 		thunderboltTime = 20
 		#Thunderbolt Spell Cooldown, Default: 0
@@ -813,6 +813,20 @@
 		#Range: > 0
 		grappleCoolDown = 20
 
+	[Spells."Electro Orb Spell"]
+		#Electro Orb Spell Cost, Default: 8
+		#Range: > 0
+		electroOrbCost = 8
+		#Time to cast Electro Orb Spell, Default: 0
+		#Range: 0 ~ 72000
+		electroOrbTime = 0
+		#Electro Orb Spell Cooldown, Default: 40
+		#Range: > 0
+		electroOrbCoolDown = 40
+		#How much base damage Electro Orbs deals, Default: 4.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		electroOrbDamage = 4.0
+
 ["Servant Limits"]
 	#Number of Skeleton/Vanguard/Necromancer Servants that can exist around the player without instantly dying, Default: 32
 	#Range: > 1
@@ -826,6 +840,12 @@
 	#Number of Bound Evoker Servants that can exist around the player without instantly dying, Default: 32
 	#Range: > 1
 	boundIllagerLimit = 2
+	#Total number of Redstone Monstrosities that can be summoned in total on a world, Default: 2
+	#Range: > 0
+	redstoneMonstrosityGlobalLimit = 2
+	#Total number of Redstone Monstrosities a player can summon, Default: 1
+	#Range: > 0
+	redstoneMonstrosityPlayerLimit = 1
 
 [Enchantments]
 	#Soul Eater Maximum Enchantment Level, Default: 5

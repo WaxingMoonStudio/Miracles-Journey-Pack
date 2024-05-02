@@ -42,6 +42,8 @@
 	specialBossBar = true
 	#Bosses from the Mod has custom Music Playing. Default: true
 	bossMusic = true
+	#Players camera can shake. Default: true
+	cameraShake = true
 
 [Blocks]
 	#Add mobs that Hook Bells don't work on. 

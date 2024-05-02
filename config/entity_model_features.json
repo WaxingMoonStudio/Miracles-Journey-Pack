@@ -14,5 +14,7 @@
   "allowEBEModConfigModify": true,
   "animationLODDistance": 20,
   "retainDetailOnLowFps": true,
-  "retainDetailOnLargerMobs": true
+  "retainDetailOnLargerMobs": true,
+  "preventFirstPersonHandAnimating": false,
+  "onlyClientPlayerModel": false
 }
