@@ -215,7 +215,9 @@
 ## 资源包更新
 
 - AssortedAllays --- V4.0 -> V5.0
-- CubicSun\&Moon --- V1.6.1 -> Vb1.7.4
-- Sparkles --- V1.0.3 -> V1.0.5
-- Yuushya --- V0.18.1 -> V0.18.2
 
+- CubicSun\&Moon --- V1.6.1 -> Vb1.7.4
+
+- Sparkles --- V1.0.3 -> V1.0.5
+
+- Yuushya --- V0.18.1 -> V0.18.2
