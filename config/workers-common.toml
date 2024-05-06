@@ -119,6 +119,6 @@ Version = 7
 	#
 	#----Should the profession tables drop when breaking?----
 	#	(takes effect after restart)
-	#	default: false
+	#	default: true
 	ProfessionBlocksDrop = false
 

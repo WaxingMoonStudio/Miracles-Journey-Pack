@@ -134,6 +134,10 @@
 
 /rhino.local.properties
 
+/servers.dat
+
+/servers.dat_old
+
 # /TODO.md
 
 # /TrashSlotSaveState.json

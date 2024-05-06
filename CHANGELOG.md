@@ -28,6 +28,16 @@
 
 - 添加了一些可高度定制化的粒子法术 --- HexCircus
 
+- 使机械动力列车支持查看与管理所有的列车站点之间的连接以及所有列车行进的时间点，还添加了一些周边方块 --- CreateRailwaysNavigator
+
+- 灾变模组前置 API --- LionfishAPI
+
+- 新增 AI 汉化资源包，感谢柠娜大佬提供的汉化工具包 --- I18n
+
+- 自定义首页更新，感谢图轨工坊的设计与绘画 --- FancyMenu / TuGui-Works
+
+- 当然......还有一点是——内测正式开始！！！
+
 ## 修改内容
 
 - 更新 Forge 版本到 43.3.13 --- Forge
@@ -36,31 +46,25 @@
 
 - 因为与 FancyMenu 依赖冲突，替换 ModernOnlinePictureFrame 为 LittlePictureFrames --- LittlePictureFrames
 
-- 替换 SpyglassOfCurios 为 SpyglassImprovements，因为 SpyglassImprovements 已经包含了 SpyglassOfCurios 制作的初衷的功能 --- SpyglassImprovements
+- 替换 SpyglassOfCurios 为 SpyglassImprovements，因为 SpyglassImprovements 已经包含了 SpyglassOfCurios 制作的初衷的功能且无 SpyglassOfCurios 现存的 Bug --- SpyglassImprovements
+
+- 暂时禁用 LetsDoCandlelight 和 LetsDoBeachparty，因为其导致的线程安全问题会导致随机崩溃，待作者更新后启用 --- LetsDoCandlelight / LetsDoBeachparty
 
 ## 删除内容
 
 - 删除部分无用但频繁更新的配置文件 --- BetterVillage / ExtendedNoteblock / LibraryFerret / Reforgium
-
 - 特效较差，机制较简单 --- RageMod
-
 - 兼容性差，有崩溃风险 --- GreenDelight
-
 - 影响世界创建布局，美化程度较低 --- ModernWorldCreation
-
 - 在单人游戏中意义不大 --- NetherPortalFix
-
 - 添加的属性较为超模 --- VVAddon
-
 - 环境音效太吵且不自然 --- AmbientSounds
-
 - 边缘放置功能与 BridgingMod 重复且无法被配置，本体效果也无必要 --- AccurateBlockPlacementReforged
-
 - 移除多余的数据包 --- TheGraveyardTerralithCompatability
-
 - 半成品，有显示 Bug --- WorldComment
-
 - 优化效果不明显，光影环境下可能掉帧 --- CullLessLeavesReforged
+- 功能非必须，在某些情况下有兼容性问题 --- EquipmentCompare
+- 会导致随机崩溃且无望修复 --- CreateAlloyed
 
 ## 错误修复
 
@@ -71,6 +75,8 @@
 - AbnormalsDelight --- V4.1.1 -> V4.1.2
 
 - AdvancedPeripherals --- V0.7.34 -> V0.7.35
+
+- Aquaculture2 --- V2.4.8 -> V2.4.17
 
 - ArmourersWorkshop --- V2.1.0 -> V3.0.0beta4
 
@@ -104,11 +110,13 @@
 
 - CreateVintageImprovements --- V0.1.3.1 -> V0.1.4.0
 
-- Collective --- V7.40 -> V7.54
+- Collective --- V7.40 -> V7.56
 
 - CuriosAPI --- V5.1.6.1 -> V5.1.6.2
 
 - DoggyTalentsNext --- V1.18.8 -> V1.18.11
+
+- DragonMountsLegacy --- V1.1.4a -> V1.2.2beta
 
 - Embeddium --- V0.3.5 -> V0.3.14
 
@@ -120,17 +128,17 @@
 
 - EntityTextureFeatures --- V5.2.3 -> V6.0.1
 
-- ExtraDelight --- V1.2.2 -> V1.3
+- ExtraDelight --- V1.2.2 -> V1.3.2
 
-- ExtraSounds --- V1.2c -> V1.3
+- ExtraSounds --- V1.2c -> V1.3hotfix
 
 - Exposure --- V1.4.1 -> V1.5.1
 
 - Exquisito --- V1.2.1 -> V1.3.0
 
-- FancyMenu --- V3.1.2 -> V3.1.7
+- FancyMenu --- V3.1.2 -> V3.2.0
 
-- Goety --- V2.30.1 -> V2.33.1
+- Goety --- V2.30.1 -> V2.33.2
 
 - HexCircus --- V1.0.0 -> V1.1.0
 
@@ -138,13 +146,15 @@
 
 - ImmersiveEngineering --- V9.2.3 -> V9.2.4
 
-- ImmediatelyFast --- V1.2.10 -> V1.2.12
+- ImmediatelyFast --- V1.2.10 -> V1.2.14
 
 - IronsSpellsNSpellbooks --- V3.0.1 -> V3.1.4
 
 - KubeJs --- V1902.6.2-build.63 -> 1902.6.2-build.69
 
 - KubeJsIronsSpells --- V1.0.2 -> V2.0.1
+
+- LEndersCataclysm --- V1.90.0 -> V1.99.2
 
 - MediaWorks --- V1.0.6 -> V1.0.7
 
@@ -156,13 +166,13 @@
 
 - MultiBeds --- V1.10.7 -> V1.10.8
 
-- NotEnoughAnimations --- V1.7.1 -> V1.7.2
+- NotEnoughAnimations --- V1.7.1 -> V1.7.3
 
 - OnionOnion --- V1.0.2 -> V1.0.3
 
 - PacketFixer --- V1.2.8 -> V1.3.2
 
-- ParCool --- V3.1.0.6 -> V3.2.1.0
+- ParCool --- V3.1.0.6 -> V3.2.1.1
 
 - Polymorph --- V0.46.5 -> V0.46.6
 
@@ -176,15 +186,17 @@
 
 - SimpleHats --- V0.1.6 -> V0.2.4
 
-- SimpleVoiceChat --- V2.5.8 -> V2.5.12
+- SimpleVoiceChat --- V2.5.8 -> V2.5.13
 
-- SkinLayers3D --- V1.6.2 -> V1.6.3
+- SkinLayers3D --- V1.6.2 -> V1.6.4
 
 - SophisticatedBackpacks --- V3.20.2.1025 -> V3.20.2.1035
 
 - SophisticatedCore --- V0.6.3.566 -> V0.6.4.605
 
 - SophisticatedStorage --- V0.9.7.743 -> V0.9.7.765
+
+- StarterKit --- V6.5 -> V6.7
 
 - StorageDelight --- V1.0.1 -> V1.1.1
 
@@ -194,17 +206,17 @@
 
 - TheAether --- V1.2.0 -> V1.4.2
 
-- TheAetherRedux --- V1.3.4 -> V2.0.11
+- TheAetherRedux --- V1.3.4 -> V2.0.12b
 
 - TowersOfTheWildModded --- V1.0.1 -> V1.0.5
 
-- TouhouLittleMaid --- V1.1.7 -> V1.1.8hotfix
+- TouhouLittleMaid --- V1.1.7 -> V1.1.9
 
 - UrkazMoonTools --- V2.0.31 -> V2.0.33
 
 - UpgradedMobs --- V1.3.1 -> V1.3.2
 
-- VillagerWorkers --- V1.7.6 -> V1.7.7
+- VillagerWorkers --- V1.7.6 -> V1.7.8
 
 - Wares --- V1.2.7 -> V1.2.8
 
