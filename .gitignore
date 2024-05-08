@@ -36,19 +36,19 @@
 
 /fancymenu_data
 
-# /GraalvmJDK17 - 部分
-/GraalvmJDK17/bin
-/GraalvmJDK17/conf
-/GraalvmJDK17/include
-/GraalvmJDK17/jmods
-/GraalvmJDK17/languages
-/GraalvmJDK17/legal
-/GraalvmJDK17/lib
-/GraalvmJDK17/tools
-/GraalvmJDK17/GRAALVM-README.md
-/GraalvmJDK17/license-information-user-manual.zip
-/GraalvmJDK17/LICENSE.txt
-/GraalvmJDK17/release
+# /GraalvmJDK21 - 部分
+/GraalvmJDK21/bin
+/GraalvmJDK21/conf
+/GraalvmJDK21/include
+/GraalvmJDK21/jmods
+/GraalvmJDK21/languages
+/GraalvmJDK21/legal
+/GraalvmJDK21/lib
+/GraalvmJDK21/tools
+/GraalvmJDK21/GRAALVM-README.md
+/GraalvmJDK21/license-information-user-manual.zip
+/GraalvmJDK21/LICENSE.txt
+/GraalvmJDK21/release
 
 # /kubejs - 部分
 /kubejs/probe
@@ -133,10 +133,6 @@
 /patchouli_data.json
 
 /rhino.local.properties
-
-/servers.dat
-
-/servers.dat_old
 
 # /TODO.md
 

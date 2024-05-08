@@ -54,6 +54,7 @@
 	Client = true
 	Experimental = true
 	Oddities = true
+	The_aether = true
 
 [automation]
 	"Pistons Move Tile Entities" = false
@@ -1894,4 +1895,39 @@
 		"Magnetic Whitelist" = ["minecraft:chipped_anvil", "minecraft:damaged_anvil"]
 		"Magnetic Blacklist" = ["minecraft:tripwire_hook"]
 		"Use Pre End Recipe" = false
+
+[the_aether]
+	"Skyroot Stool" = true
+	#Enables skyroot woodset blocks for quark blocks, such as skyroot post. Disable if another mod already adds compat blocks. 
+	"Skyroot Quark Blocks" = true
+	"More Aether Brick Types" = true
+	"Extra Slime And Swet In A Bucket" = true
+	"Blue Berry Crate" = true
+	"Ambrosium Torch Arrow" = true
+	"Ambrosium Lamp" = true
+	"Aether Variant Animal Textures" = true
+
+	[the_aether.skyroot_quark_blocks]
+		#This feature disables itself if any of the following mods are loaded: 
+		# - everycomp
+		#This is done to prevent content overlap.
+		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
+		"Ignore Anti Overlap" = false
+
+	[the_aether.more_aether_brick_types]
+		"Enable Quicksoil Bricks" = true
+		"Enable Aether Dirt Bricks" = true
+		"Enable  Polished Icestone and Icestone Bricks" = true
+
+	[the_aether.extra_slime_and_swet_in_a_bucket]
+		#Disables Swets from dancing in The Aether. Note that this config only affects the client.
+		"Are Swets Exited In The Aether" = true
+		#When disabled, disables all Ascended Quark bucket items except for the Slime in a Skyroot Bucket item. Disable if you find swet buckets unbalanced.
+		"Are Swet Buckets Enabled" = true
+
+	[the_aether.aether_variant_animal_textures]
+		"Enable Phyg" = true
+		"Enable Aerbunny" = true
+		"Enable Zephyr" = true
+		"Enable Cockatrice" = true
 
