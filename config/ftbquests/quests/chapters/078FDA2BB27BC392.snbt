@@ -7,6 +7,20 @@
 	id: "078FDA2BB27BC392"
 	order_index: 0
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		id: "739F117558475A48"
+		rewards: [{
+			id: "15F5863F9F9AAF6C"
+			item: "farmersrespite:blazing_chili"
+			type: "item"
+		}]
+		tasks: [{
+			id: "53F3A16CEF8F9021"
+			type: "checkmark"
+		}]
+		title: "敬请期待！"
+		x: 0.0d
+		y: 0.0d
+	}]
 	title: "欢迎页"
 }

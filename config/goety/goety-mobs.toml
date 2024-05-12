@@ -28,6 +28,8 @@
 			sunkenSkeletonServantTexture = true
 			#If Vanguard Servants have custom textures, Default: true
 			vanguardServantTexture = true
+			#If Necromancer Servants have custom textures, Default: true
+			necromancerServantTexture = true
 
 		[Textures."Summoned Mobs"."Wraith Servants"]
 			#If Wraith Servants have custom textures, Default: true

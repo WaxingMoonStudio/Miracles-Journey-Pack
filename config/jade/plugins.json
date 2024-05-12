@@ -61,10 +61,6 @@
     "registry_name": "OFF",
     "mod_name": false
   },
-  "uti": {
-    "entity_name": true,
-    "object_name": true
-  },
   "utilitix": {
     "experience_crystal": true,
     "linked_repeater": true,
@@ -76,6 +72,9 @@
   },
   "jadeaddons": {
     "equipment_requirement": ""
+  },
+  "exposure": {
+    "lightroom": true
   },
   "shetiphiancore": {
     "hud.rgb16": true,
