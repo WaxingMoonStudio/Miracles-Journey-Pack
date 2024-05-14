@@ -1,0 +1,21 @@
+{
+    "inventory.armourers_workshop.skin-library-global.join.message_1.text": "在这里，您可以加入时装工坊的全球皮肤库。加入全球库将使您能够：\n* 上传您的作品\n* 填写您的个人资料\n* 评价皮肤\n* 创建皮肤列表\n* 赢取徽章\n\n请仔细阅读规则的每一页。如果你被 ban，对规则的无知不是借口。\n\n单击右下角的箭头转到下一页。",
+    "inventory.armourers_workshop.skin-library-global.join.message_1.title": "欢迎",
+    "inventory.armourers_workshop.skin-library-global.join.message_2.text": "全球皮肤库有“事不过三”警告规则，如果您收到三次警告，您的帐户将被永久禁止上传到全球皮肤库。\n\n1.未经他人许可，请勿上传他人的作品。\n2.不要滥用举报系统。\n3.请勿上传大量相同型号的彩色版本。（使用染料）\n4.不要上传成人内容（色情、吸毒等）\n5.不要上传非法内容。\n",
+    "inventory.armourers_workshop.skin-library-global.join.message_2.title": "规则",
+    "inventory.armourers_workshop.skin-library-global.join.message_3.text": "全球皮肤库允许衍生作品。请确保您从其他人那里上传的任何皮肤都经过大量编辑并且经过原作者许可。\n\n不允许进行基本编辑，例如重新着色或更改设置。",
+    "inventory.armourers_workshop.skin-library-global.join.message_3.title": "衍生作品",
+    "inventory.armourers_workshop.skin-library-global.join.message_4.text": "请注意，您必须拥有合法的Minecraft帐户才能加入。这是为了帮助审核并防止垃圾邮件发送者。",
+    "inventory.armourers_workshop.skin-library-global.join.message_4.title": "账户要求",
+    "inventory.armourers_workshop.skin-library-global.join.message_5.text": "准备好加入了吗？点击下面的按钮加入社区！\n\n如果您在加入时遇到任何问题，请前往 Discord 服务器寻求帮助。\n",
+    "inventory.armourers_workshop.skin-library-global.join.message_5.title": "全部完成",
+    "inventory.armourers_workshop.skin-library-global.join.old_java": "§c您的 java 版本太旧，无法加入全局球皮肤库§r\n\n您的 java 版本 [Java %s Update %s] 太旧了。请更新至 [Java 8 Update 101] 或更新版本。\n\n请查看常见问题解答以获取解决此问题的帮助。\n%s\n\n还有一个视频指南可以帮助解决此问题。\n%s",
+    "inventory.armourers_workshop.skin-library-global.skinInfo.dialog.report_skin.label.report_warning": "！！！警告！！！如果您滥用举报系统，您的帐户可能会被永久禁止使用全球皮肤库。",
+    "inventory.armourers_workshop.skin-library-global.skinInfo.downloadFinished": "下载完成！",
+    "inventory.armourers_workshop.skin-library-global.upload.label.upload_warning": "！！！警告！！！如果您上传了违反规则的内容，您的帐户可能会被永久禁止使用全球皮肤库。",
+    "tooloption.armourers_workshop.mirrorMode": "镜像模式",
+    "tooloption.armourers_workshop.changeTexture": "复制材质",
+    "tooloption.armourers_workshop.changeScale": "复制比例",
+    "tooloption.armourers_workshop.changeRotation": "复制旋转角度",
+    "tooloption.armourers_workshop.changeOption": "复制设置"
+}

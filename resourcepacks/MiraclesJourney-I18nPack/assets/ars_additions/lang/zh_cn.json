@@ -1,0 +1,12 @@
+{
+    "chat.ars_additions.warp_index.bound": "绑定 %s",
+    "chat.ars_additions.warp_index.invalid_block": "无效 %s",
+    "chat.ars_additions.warp_index.no_activate": "您无法在此处访问 %s",
+    "chat.ars_additions.warp_index.out_of_range": "您的 %s 未加载",
+    "chat.ars_additions.warp_index.unbound": "%s + %s 来绑定一个 %s",
+    "item.ars_additions.stabilized_warp_index": "稳定传送索引",
+    "item.ars_additions.warp_index": "传送索引",
+    "key.ars_additions.open_lectern": "[Ars Additions] 激活传送索引",
+    "tooltip.ars_additions.warp_index.bound": "绑定到 %s 中的 （%s， %s， %s）",
+    "tooltip.ars_additions.warp_index.keybind": "按 %s 键打开"
+}

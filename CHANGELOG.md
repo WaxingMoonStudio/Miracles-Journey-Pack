@@ -23,39 +23,26 @@
 
 - 暂无
 
-
-## 汉化更新
-
-- \[Adventure\]\[AlexsMobs\]
-- \[Adventure\]\[AmplifiedNether\]
-- \[Adventure\]\[AquamiraeMod\]
-- \[Adventure\]\[BeneathTheSnow\]
-- \[Adventure\]\[BeStyleWither\]
-- \[Adventure\]\[BetterVillage\]
-- \[Adventure\]\[BlueSkies\]
-- \[Adventure\]\[BossesOfMassDestruction\]
-- \[Adventure\]\[BygoneNether\]
-- \[Adventure\]\[Celestisynth\]
-- \[Adventure\]\[CreeperOverhaul\]
-- \[Adventure\]\[DeepAether\]
-- \[Adventure\]\[DeeperAndDarker\]
-- \[Adventure\]\[DifficultRaids\]
-- \[Adventure\]\[DixtasArmory\]
-
 ## 模组更新
 
 - ArmourersWorkshop --- V3.0.0beta4 -> V2.1.3
+- ArsAdditions --- V1.0.1 -> V1.4.0
 - Collective --- V7.56 -> V7.57
 - CreateDreams&Desires --- V0.2.5b -> V0.1a
 - CreateRailwaysNavigator --- V0.5.1beta -> V0.5.2beta
 - CreateSteamNRails --- V1.6.2 -> V1.6.4
 - DragonMountsLegacy --- V1.2.2 -> V1.2.3
+- Embeddium++ --- V1.2.10 -> V1.2.11
 - Exposure --- V1.5.1 -> V1.6.0
+- FancyMenu --- V3.2.2 -> V3.2.3
 - FtbXModCompat --- V1.2.3 -> V1.2.4
-- Goety --- V2.34.0 -> V2.34.1
+- Goety --- V2.34.0 -> V2.34.2
 - I18nUpdateMod --- V3.5.3 -> V3.5.5
+- IronsSpellsNSpellbooks --- V3.1.4 -> V3.1.5
 - SimpleVoiceChat --- V2.5.13 -> V2.5.14
+- SuggestionTweaker --- V1.5.1 -> V1.5.2
 - TetraExtras --- V0.1.3 -> V0.1.4
+- TheAetherRedux --- V2.0.12b -> V2.0.13
 - XaeroPlus --- V2.9 -> V2.11
 
 ## 资源包更新
