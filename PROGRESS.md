@@ -1,0 +1,8 @@
+[Adventure][AlexsMobs]
+[Adventure][AmplifiedNether]
+[Adventure][AquamiraeMod]
+[Adventure][BeneathTheSnow]
+[Adventure][BeStyleWither]
+[Adventure][BetterVillage]
+[Adventure][BlueSkies]
+[Adventure][BossesOfMassDestruction]
