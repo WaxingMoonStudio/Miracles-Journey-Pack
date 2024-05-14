@@ -1,0 +1,37 @@
+{
+  "files": [
+    "CONTRIBUTING.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Qian-F",
+      "name": "Qian-F",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111696321?v=4",
+      "profile": "https://github.com/Qian-F",
+      "contributions": [
+        "maintenance",
+        "ideas",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "Environ936",
+      "name": "TuGui-Works",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64760882?v=4",
+      "profile": "https://github.com/Environ936",
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "Miracles-Journey",
+  "projectOwner": "Qian-F"
+}
