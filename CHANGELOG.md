@@ -32,7 +32,7 @@
 - CreateRailwaysNavigator --- V0.5.1beta -> V0.5.2beta
 - CreateSteamNRails --- V1.6.2 -> V1.6.4
 - DragonMountsLegacy --- V1.2.2 -> V1.2.3
-- Embeddium++ --- V1.2.10 -> V1.2.11
+- Embeddium++ --- V1.2.10 -> V1.2.13
 - Exposure --- V1.5.1 -> V1.6.0
 - FancyMenu --- V3.2.2 -> V3.2.3
 - FtbXModCompat --- V1.2.3 -> V1.2.4
