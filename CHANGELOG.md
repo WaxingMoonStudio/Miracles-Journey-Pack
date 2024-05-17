@@ -17,6 +17,7 @@
 - 整合包模组已基本确定，无需检测 --- Mcretector
 - 优化效果不明显且拖慢加载速度 --- Redirector
 - 内容杂乱且最新重构版本 Bug 奇多 --- CreateDream&Desires
+- 某些情况下与精致存储冲突导致崩溃 --- SmoothSwapping
 
 
 ## 错误修复
@@ -39,6 +40,7 @@
 - Goety --- V2.34.0 -> V2.34.2
 - I18nUpdateMod --- V3.5.3 -> V3.5.5
 - IronsSpellsNSpellbooks --- V3.1.4 -> V3.1.5
+- SimpleHats --- V0.2.4 -> V0.3.0
 - SimpleVoiceChat --- V2.5.13 -> V2.5.14
 - SuggestionTweaker --- V1.5.1 -> V1.5.2
 - TetraExtras --- V0.1.3 -> V0.1.4
