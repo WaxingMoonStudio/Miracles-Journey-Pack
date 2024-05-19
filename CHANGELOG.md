@@ -5,11 +5,13 @@
 - 加入了新的种子（橡子，松果，瓜子，玫瑰果和樱桃等）相关食物 --- SeedDelight
 - 添加了几种泰拉瑞亚风格的枪炮 --- GunsWithoutRoses
 - 增加了 GunsWithoutRoses 和其他模组的联动 --- GunsWithoutRosesAdditions
+- 新增了多种蔬菜，如黄瓜、大蒜、豆类、红甘蓝等，在很大程度上丰富了现有的制作配方 --- VegetablesDelight
+- 在玩家所发送的信息前显示其皮肤头像 --- ChatHeads
 
 
 ## 修改内容
 
-- 暂无
+- 关闭聊天泡泡信息前的名字显示 --- NotableBubbleText
 
 
 ## 删除内容
@@ -18,6 +20,7 @@
 - 优化效果不明显且拖慢加载速度 --- Redirector
 - 内容杂乱且最新重构版本 Bug 奇多 --- CreateDream&Desires
 - 某些情况下与精致存储冲突导致崩溃 --- SmoothSwapping
+- 影响性能，与部分模组渲染冲突 --- SkinLayers3D
 
 
 ## 错误修复
@@ -28,6 +31,7 @@
 
 - ArmourersWorkshop --- V3.0.0beta4 -> V2.1.3
 - ArsAdditions --- V1.0.1 -> V1.4.0
+- CasinoCraft --- V23 -> V24
 - Collective --- V7.56 -> V7.57
 - CreateDreams&Desires --- V0.2.5b -> V0.1a
 - CreateRailwaysNavigator --- V0.5.1beta -> V0.5.2beta
@@ -39,12 +43,15 @@
 - FtbXModCompat --- V1.2.3 -> V1.2.4
 - Goety --- V2.34.0 -> V2.34.2
 - I18nUpdateMod --- V3.5.3 -> V3.5.5
+- ImmediatelyFast --- V1.2.14 -> V1.2.15
 - IronsSpellsNSpellbooks --- V3.1.4 -> V3.1.5
+- NotableBubbleText --- V1.0.1 -> V1.0.2
 - SimpleHats --- V0.2.4 -> V0.3.0
 - SimpleVoiceChat --- V2.5.13 -> V2.5.14
 - SuggestionTweaker --- V1.5.1 -> V1.5.2
 - TetraExtras --- V0.1.3 -> V0.1.4
-- TheAetherRedux --- V2.0.12b -> V2.0.13
+- Titanium --- V3.7.4-30 -> V3.7.4-31
+- TheAetherRedux --- V2.0.12b -> V2.0.14b
 - XaeroPlus --- V2.9 -> V2.11
 
 ## 资源包更新

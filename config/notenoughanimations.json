@@ -10,7 +10,7 @@
     "minecraft:lantern",
     "minecraft:soul_torch"
   ],
-  "enableAnimationSmoothing": true,
+  "enableAnimationSmoothing": false,
   "enableInWorldMapRendering": true,
   "enableOffhandHiding": true,
   "enableRotationLocking": true,

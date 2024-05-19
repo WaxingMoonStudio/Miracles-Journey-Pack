@@ -51,9 +51,14 @@
 /GraalvmJDK21/release
 
 # /kubejs - 部分
+/kubejs/assets/ponderjs_generated
 /kubejs/probe
+/kubejs/README.txt
 
 # /launcher - 部分
+/launcher/PCL/Musics
+/launcher/PCL/PCL
+/launcher/PCL/Pictures
 /launcher/PCL/Log1.txt
 /launcher/PCL/Log2.txt
 /launcher/PCL/Log3.txt
