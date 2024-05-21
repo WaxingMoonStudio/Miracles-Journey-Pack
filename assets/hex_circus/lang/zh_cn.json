@@ -1,0 +1,19 @@
+{
+  "hexcasting.spell.hex_circus:straight_particle": "线性粒子",
+  "hexcasting.spell.hex_circus:Bezier_particle": "贝塞尔粒子",
+
+
+  "hexcasting.spell.hex_circus:linear_particle": "线性粒子",
+  "hexcasting.spell.hex_circus:bezier_particle": "贝塞尔粒子",
+
+  "hexcasting.entry.circus.particles": "粒子",
+
+  "hex_circus.page.particles.opening.0": "深入研习传说中幻术师的魔法之后，我终于找到了演艺视效的秘辛所在！$(br2)后续几页记载了如何操纵转瞬即逝的粒子，它们能为法术带来活力的色彩！",
+
+  "hex_circus.page.particles.linear.0": "召唤一个粒子，它会从第一向量直线移动至第二向量，粒子的颜色由第三向量决定，遵循的法则称作“RGB”，值在 0 到 1 之间。",
+  "hex_circus.page.particles.linear.1": "所给数控制粒子移动的速度，速度也会受移动距离的长短影响，速度为 1 的粒子似乎会在大约 1 秒后结束自己的旅程。消耗 1/10000 个紫水晶粉。",
+
+
+  "hex_circus.page.particles.bezier.0": "功能与线性粒子相同，但需要在结束点和颜色间额外传入一个向量。",
+  "hex_circus.page.particles.bezier.1": "这个新向量会吸引粒子，使得粒子的移动轨迹偏向第三向量。$(br2)消耗 1/2000 个紫水晶粉。$(br2)$(br2)需要注意：粒子永远不会到达第三向量处。"
+}
