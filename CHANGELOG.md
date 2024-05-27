@@ -7,6 +7,10 @@
 - 增加了 GunsWithoutRoses 和其他模组的联动 --- GunsWithoutRosesAdditions
 - 新增了多种蔬菜，如黄瓜、大蒜、豆类、红甘蓝等，在很大程度上丰富了现有的制作配方 --- VegetablesDelight
 - 在玩家所发送的信息前显示其皮肤头像 --- ChatHeads
+- 新增 IntegratedStronghold 联动数据包 --- IntegratedStrongholdEndRemasteredIntegration / IntegratedStrongholdTheGraveyardIntegration / IntegratedStrongholdAlexsMobsIntegration
+- 为天境系列材料提供 Tetra 支持 --- AethericTetranomicon
+- 加入了六种恐鸟护甲 --- ProtectYourMoa
+- 为农业种植、食品加工添加更多便利机器方块与物品拓展 --- [CreateRatatouille]
 
 
 ## 修改内容
@@ -21,6 +25,8 @@
 - 内容杂乱且最新重构版本 Bug 奇多 --- CreateDream&Desires
 - 某些情况下与精致存储冲突导致崩溃 --- SmoothSwapping
 - 影响性能，与部分模组渲染冲突 --- SkinLayers3D
+- 与 IntegratedStronghold 内容冲突且没有前者质量高 --- YUNGsBetterStrongholds
+- 功能鸡肋且兼容性极差 --- JustEnoughResources / JerIntegration
 
 
 ## 错误修复
