@@ -10,12 +10,13 @@
 - 新增 IntegratedStronghold 联动数据包 --- IntegratedStrongholdEndRemasteredIntegration / IntegratedStrongholdTheGraveyardIntegration / IntegratedStrongholdAlexsMobsIntegration
 - 为天境系列材料提供 Tetra 支持 --- AethericTetranomicon
 - 加入了六种恐鸟护甲 --- ProtectYourMoa
-- 为农业种植、食品加工添加更多便利机器方块与物品拓展 --- [CreateRatatouille]
+- 为农业种植、食品加工添加更多便利机器方块与物品拓展 --- CreateRatatouille
 
 
 ## 修改内容
 
 - 关闭聊天泡泡信息前的名字显示 --- NotableBubbleText
+- 删除冗余的配置文件 --- Config
 
 
 ## 删除内容
@@ -35,9 +36,10 @@
 
 ## 模组更新
 
-- ArmourersWorkshop --- V3.0.0beta4 -> V2.1.3
+- ArmourersWorkshop --- V3.0.0beta4 -> V2.1.4
 - ArsAdditions --- V1.0.1 -> V1.4.0
 - ArtOfForging --- V1.7.4 -> V1.7.5
+- BetterDogsXDoggyTalentsNext --- V1.2.1 -> V1.2.2
 - CasinoCraft --- V23 -> V24
 - Collective --- V7.56 -> V7.60
 - CreateDreams&Desires --- V0.2.5b -> V0.1a
@@ -52,11 +54,11 @@
 - Goety --- V2.34.0 -> V2.34.2
 - I18nUpdateMod --- V3.5.3 -> V3.5.5
 - ImmediatelyFast --- V1.2.14 -> V1.2.15
-- IronsSpellsNSpellbooks --- V3.1.4 -> V3.1.6
+- IronsSpellsNSpellbooks --- V3.1.4 -> V3.1.7
 - Neruina --- V1.3.0 -> V2.0.0beta10
 - NotableBubbleText --- V1.0.1 -> V1.0.3
 - PacketFixer --- V1.3.2 -> V1.4.0
-- SeasonHUD --- V1.7.19 -> V1.8.0
+- SeasonHUD --- V1.7.19 -> V1.8.1
 - SimpleHats --- V0.2.4 -> V0.3.0
 - SimpleVoiceChat --- V2.5.13 -> V2.5.15
 - SoundPhysicsRemastered --- V1.3.1 -> V1.4.2
