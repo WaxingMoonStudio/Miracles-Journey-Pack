@@ -8,7 +8,6 @@ migrateCopycatsOnInitialize = true
 #.
 #Enable/disable features. Values on server override clients
 [features]
-	#.
 	copycat_vertical_step = true
 	six_way_gearbox = true
 	encased_chain_cogwheel = true
@@ -33,4 +32,9 @@ migrateCopycatsOnInitialize = true
 	copycat_stairs = true
 	copycat_board = true
 	copycat_fence = true
+	#.
+	fluid_vessel = true
+	large_crank_wheel = true
+	crank_wheel = true
+	fan_freezing_catalyst = true
 

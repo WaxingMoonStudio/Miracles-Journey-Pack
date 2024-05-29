@@ -63,3 +63,39 @@
 			#Range: > -2147483648
 			maxHeight = 70
 
+		[worldgen.v2.gabbro_blob]
+			#.
+			#Range: > 0
+			clusterSize = 64
+			#.
+			#Amount of clusters generated per Chunk.
+			#  >1 to spawn multiple.
+			#  <1 to make it a chance.
+			#  0 to disable.
+			#Range: 0.0 ~ 512.0
+			frequency = 0.8500000238418579
+			#.
+			#Range: > -2147483648
+			minHeight = -64
+			#.
+			#Range: > -2147483648
+			maxHeight = 0
+
+		[worldgen.v2.dolomite_blob]
+			#.
+			#Range: > 0
+			clusterSize = 64
+			#.
+			#Amount of clusters generated per Chunk.
+			#  >1 to spawn multiple.
+			#  <1 to make it a chance.
+			#  0 to disable.
+			#Range: 0.0 ~ 512.0
+			frequency = 0.8500000238418579
+			#.
+			#Range: > -2147483648
+			minHeight = -64
+			#.
+			#Range: > -2147483648
+			maxHeight = 0
+
