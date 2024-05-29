@@ -5,7 +5,7 @@
 - 加入了新的种子（橡子，松果，瓜子，玫瑰果和樱桃等）相关食物 --- SeedDelight
 - 添加了几种泰拉瑞亚风格的枪炮 --- GunsWithoutRoses
 - 增加了 GunsWithoutRoses 和其他模组的联动 --- GunsWithoutRosesAdditions
-- 新增了多种蔬菜，如黄瓜、大蒜、豆类、红甘蓝等，在很大程度上丰富了现有的制作配方 --- VegetablesDelight
+- 加入了超可爱的小仓鼠 --- HamstersPlus
 - 在玩家所发送的信息前显示其皮肤头像 --- ChatHeads
 - 新增 IntegratedStronghold 联动数据包 --- IntegratedStrongholdEndRemasteredIntegration / IntegratedStrongholdTheGraveyardIntegration / IntegratedStrongholdAlexsMobsIntegration
 - 为天境系列材料提供 Tetra 支持 --- AethericTetranomicon
@@ -32,7 +32,7 @@
 
 ## 错误修复
 
-- 暂无
+- 修复了部分模组物品在物品栏中会导致物品栏材质丢失的 Bug --- ImmediatelyFast
 
 ## 模组更新
 
