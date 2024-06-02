@@ -152,4 +152,6 @@
 	lichEnable = true
 	#Enable Liches healing be stunted when hurt by Smite Enchantment, Default: true
 	lichSmite = true
+	#Whether the player in Lich Mode will emit Lich sounds, Default: true
+	lichModeSounds = true
 

@@ -51,6 +51,10 @@
 		#How much shock resistance Storm Robes provides by percent, Default: 85
 		#Range: 0 ~ 100
 		stormRobeResistance = 85
+		#Whether wearing Necro Crown while not being a Lich gives Weakness when in sunlight, Default: true
+		necroCrownWeakness = true
+		#Whether wearing Necro Cape while not being a Lich gives Hunger when in sunlight, Default: true
+		necroCapeHunger = true
 
 ["Tools & Weapons"]
 
@@ -76,6 +80,9 @@
 		#How much base damage Wild Staffs deals, Default: 4.0
 		#Range: 1.0 ~ 1.7976931348623157E308
 		wildStaffDamage = 4.0
+		#How much base damage Nether Staffs deals, Default: 4.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		netherStaffDamage = 4.0
 
 	["Tools & Weapons".Scythes]
 		#Amount of Soul Energy Dark Scythe gives when hitting mob(s), Default: 1

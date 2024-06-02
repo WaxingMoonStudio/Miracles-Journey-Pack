@@ -8,7 +8,7 @@
 
 		[Attributes.Cultists."Skeleton Villager Servant"]
 			#How much Max Health Skeleton Villager Servants have, Default: 20.0
-			#Range: 1.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 1.7976931348623157E308
 			skeletonVillagerServantHealth = 20.0
 			#How much damage Skeleton Villager Servants deals, Default: 2.0
 			#Range: 1.0 ~ 1.7976931348623157E308
@@ -19,7 +19,7 @@
 			#Range: 1.0 ~ 1.7976931348623157E308
 			zombifiedPiglinServantHealth = 20.0
 			#How much natural armor points Zombified Piglin Servants have, Default: 2.0
-			#Range: 1.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 1.7976931348623157E308
 			zombifiedPiglinServantArmor = 2.0
 			#How much damage Zombified Piglin Servants deals, Default: 5.0
 			#Range: 1.0 ~ 1.7976931348623157E308
@@ -30,11 +30,39 @@
 			#Range: 1.0 ~ 1.7976931348623157E308
 			zombifiedPiglinBruteServantHealth = 50.0
 			#How much natural armor points Zombified Piglin Brute Servants have, Default: 2.0
-			#Range: 1.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 1.7976931348623157E308
 			zombifiedPiglinBruteServantArmor = 2.0
 			#How much damage Zombified Piglin Brute Servants deals, Default: 7.0
 			#Range: 1.0 ~ 1.7976931348623157E308
 			zombifiedPiglinBruteServantDamage = 7.0
+
+		[Attributes.Cultists."Blaze Servant"]
+			#How much Max Health Blaze Servants have, Default: 20.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			blazeServantHealth = 20.0
+			#How much natural armor points Blaze Servants have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			blazeServantArmor = 0.0
+			#How much melee damage Blaze Servants deals, Default: 6.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			blazeServantMeleeDamage = 6.0
+			#How much ranged damage Blaze Servants deals, Default: 5.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			blazeServantRangeDamage = 5.0
+
+		[Attributes.Cultists.Inferno]
+			#How much Max Health Inferno have, Default: 20.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			infernoHealth = 20.0
+			#How much natural armor points Inferno have, Default: 5.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			infernoArmor = 5.0
+			#How much melee damage Inferno deals, Default: 6.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			infernoMeleeDamage = 6.0
+			#How much range damage Inferno deals, Default: 5.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			infernoRangeDamage = 5.0
 
 	[Attributes.Illagers]
 		#How much Max Health Conquillager have, Default: 24.0
@@ -80,7 +108,7 @@
 			#Range: 1.0 ~ 1.7976931348623157E308
 			pikerHealth = 24.0
 			#How much Armor Pikers have, Default: 4.0
-			#Range: 1.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 1.7976931348623157E308
 			pikerArmor = 4.0
 			#How much damage Pikers deals, Default: 9.0
 			#Range: 1.0 ~ 1.7976931348623157E308
@@ -146,7 +174,7 @@
 			#Range: 1.0 ~ 1.7976931348623157E308
 			ripperHealth = 16.0
 			#How much Armor Rippers have, Default: 2.0
-			#Range: 1.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 1.7976931348623157E308
 			ripperArmor = 2.0
 			#How much damage Rippers deals, Default: 2.0
 			#Range: 1.0 ~ 1.7976931348623157E308
@@ -175,11 +203,28 @@
 			#How much natural Armor Necromancers have, Default: 0.0
 			#Range: 0.0 ~ 1.7976931348623157E308
 			necromancerArmor = 0.0
+			#How much following/detection range Necromancers have, Default: 16.0
+			#Range: 1.0 ~ 2048.0
+			necromancerFollowRange = 16.0
 
 		[Attributes.General."Haunted Armor"]
 			#How much Max Health Haunted Armor have, Default: 25.0
 			#Range: 1.0 ~ 1.7976931348623157E308
 			hauntedArmorHealth = 25.0
+
+		[Attributes.General."Wither Necromancer"]
+			#How much Max Health Wither Necromancers have, Default: 220.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			witherNecromancerHealth = 220.0
+			#How much natural Armor Wither Necromancers have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			witherNecromancerArmor = 0.0
+			#How much following/detection range Wither Necromancers have, Default: 32.0
+			#Range: 1.0 ~ 2048.0
+			witherNecromancerFollowRange = 32.0
+			#How much damage Wither Necromancers deals, Default: 4.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			witherNecromancerDamage = 4.0
 
 	[Attributes."Summoned Mobs"]
 
@@ -188,7 +233,7 @@
 			#Range: 1.0 ~ 1.7976931348623157E308
 			zombieServantHealth = 20.0
 			#How much natural armor points Zombie Servants have, Default: 2.0
-			#Range: 1.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 1.7976931348623157E308
 			zombieServantArmor = 2.0
 			#How much damage Zombie Servants deals, Default: 3.0
 			#Range: 1.0 ~ 1.7976931348623157E308
@@ -199,7 +244,7 @@
 			#Range: 1.0 ~ 1.7976931348623157E308
 			huskServantHealth = 20.0
 			#How much natural armor points Husk Servants have, Default: 2.0
-			#Range: 1.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 1.7976931348623157E308
 			huskServantArmor = 2.0
 			#How much damage Husk Servants deals, Default: 3.0
 			#Range: 1.0 ~ 1.7976931348623157E308
@@ -210,7 +255,7 @@
 			#Range: 1.0 ~ 1.7976931348623157E308
 			drownedServantHealth = 20.0
 			#How much natural armor points Drowned Servants have, Default: 2.0
-			#Range: 1.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 1.7976931348623157E308
 			drownedServantArmor = 2.0
 			#How much damage Drowned Servants deals, Default: 3.0
 			#Range: 1.0 ~ 1.7976931348623157E308
@@ -221,7 +266,7 @@
 			#Range: 1.0 ~ 1.7976931348623157E308
 			frozenZombieServantHealth = 20.0
 			#How much natural armor points Frozen Zombie Servants have, Default: 2.0
-			#Range: 1.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 1.7976931348623157E308
 			frozenZombieServantArmor = 2.0
 			#How much damage Frozen Zombie Servants deals, Default: 3.0
 			#Range: 1.0 ~ 1.7976931348623157E308
@@ -232,7 +277,7 @@
 			#Range: 1.0 ~ 1.7976931348623157E308
 			jungleZombieServantHealth = 20.0
 			#How much natural armor points Jungle Zombie Servants have, Default: 2.0
-			#Range: 1.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 1.7976931348623157E308
 			jungleZombieServantArmor = 2.0
 			#How much damage Jungle Zombie Servants deals, Default: 3.0
 			#Range: 1.0 ~ 1.7976931348623157E308
@@ -287,7 +332,7 @@
 			#Range: 1.0 ~ 1.7976931348623157E308
 			vanguardServantHealth = 20.0
 			#How much Armor Vanguard Servants have, Default: 9.0
-			#Range: 1.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 1.7976931348623157E308
 			vanguardServantArmor = 9.0
 			#How much damage Vanguard Servants deals, Default: 7.0
 			#Range: 1.0 ~ 1.7976931348623157E308
@@ -309,7 +354,7 @@
 			#Range: 1.0 ~ 1.7976931348623157E308
 			zombieVindicatorHealth = 24.0
 			#How much natural armor points Zombie Vindicators have, Default: 2.0
-			#Range: 1.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 1.7976931348623157E308
 			zombieVindicatorArmor = 2.0
 			#How much damage Zombie Vindicators deals, Default: 5.0
 			#Range: 1.0 ~ 1.7976931348623157E308
@@ -392,6 +437,9 @@
 			#How much natural Armor Bound Evokers have, Default: 0.0
 			#Range: 0.0 ~ 1.7976931348623157E308
 			boundEvokerArmor = 0.0
+			#How much following/detection range Bound Evokers have, Default: 12.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			boundEvokerFollowRange = 12.0
 
 		[Attributes."Summoned Mobs".Whisperer]
 			#How much Max Health Whisperers have, Default: 20.0
@@ -486,6 +534,36 @@
 			#Range: 6.0 ~ 1.7976931348623157E308
 			redstoneMonstrosityHurtRange = 20.0
 
+		[Attributes."Summoned Mobs"."Wither Skeleton Servant"]
+			#How much Max Health Wither Skeleton Servants have, Default: 20.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			witherSkeletonServantHealth = 20.0
+			#How much natural Armor Wither Skeleton Servants have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			witherSkeletonServantArmor = 0.0
+			#How much damage Wither Skeleton Servants deals, Default: 4.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			witherSkeletonServantDamage = 4.0
+
+		[Attributes."Summoned Mobs"."Bound Iceologer"]
+			#How much Max Health Bound Iceologers have, Default: 20.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			boundIceologerHealth = 20.0
+			#How much natural Armor Bound Iceologers have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			boundIceologerArmor = 0.0
+			#How much following/detection range Bound Iceologers have, Default: 12.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			boundIceologerFollowRange = 12.0
+
+		[Attributes."Summoned Mobs"."Ghast Servant"]
+			#How much Max Health Ghast Servants have, Default: 10.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			ghastServantHealth = 10.0
+			#How much damage Ghast Servants' lavaballs deals, Default: 6.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			ghastServantDamage = 6.0
+
 	[Attributes.Mini-Bosses]
 
 		[Attributes.Mini-Bosses.Crone]
@@ -521,8 +599,8 @@
 			#How much Max Health Viziers have, Default: 200.0
 			#Range: 100.0 ~ 1.7976931348623157E308
 			vizierHealth = 200.0
-			#The maximum amount of damage a Vizier can attain per hit, Default: 20
-			#Range: > 1
+			#The maximum amount of damage a Vizier can attain per hit, Default: 20.0
+			#Range: 1.0 ~ 1.7976931348623157E308
 			vizierDamageCap = 20
 
 		[Attributes.Bosses.Apostle]
@@ -535,11 +613,11 @@
 			#How much natural Toughness Points Apostles have, Default: 6.0
 			#Range: 0.0 ~ 1.7976931348623157E308
 			apostleToughness = 6.0
-			#The maximum amount of damage an Apostle can attain per hit, Default: 20
-			#Range: > 1
+			#The maximum amount of damage an Apostle can attain per hit, Default: 20.0
+			#Range: 1.0 ~ 1.7976931348623157E308
 			apostleDamageCap = 20
 			#Multiplies Apostle's Bow damage, Default: 4
-			#Range: > 2
+			#Range: > 1
 			apostleBowDamage = 4
 			#Set Apostle's spell damage (ie, Fire Tornadoes, Fire Blasts, Roars), Default: 6.0
 			#Range: 6.0 ~ 1.7976931348623157E308

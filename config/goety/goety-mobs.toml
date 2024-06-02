@@ -30,6 +30,8 @@
 			vanguardServantTexture = true
 			#If Necromancer Servants have custom textures, Default: true
 			necromancerServantTexture = true
+			#If Wither Skeleton Servants have custom textures, Default: true
+			witherSkeletonServantTexture = true
 
 		[Textures."Summoned Mobs"."Wraith Servants"]
 			#If Wraith Servants have custom textures, Default: true
@@ -63,6 +65,14 @@
 			#If Leapleaf Servants have custom textures, Default: true
 			leapleafTexture = true
 
+		[Textures."Summoned Mobs"."Ghast Servants"]
+			#If Ghast Servants have custom textures, Default: true
+			ghastServantTexture = true
+
+		[Textures."Summoned Mobs"."Blaze Servants"]
+			#If Blaze Servants have custom textures, Default: true
+			blazeServantTexture = true
+
 [Servants]
 	#Whether creating a Redstone Golem causes the mold to change blocks, Default: true
 	redstoneGolemMold = true
@@ -86,6 +96,8 @@
 	redstoneMonstrosityLeafBreak = true
 	#Whether creating a Redstone Monstrosity causes the mold to change blocks, Default: true
 	redstoneMonstrosityMold = true
+	#Servants, when on staying mode, will load chunks around it, Default: true
+	stayingServantChunkLoad = true
 
 	[Servants."Undead Servants"]
 		#Whether Undead Servants can teleport to Players, Default: false
@@ -216,6 +228,8 @@
 		apocalypseMode = false
 		#Gives Apostle an even more fancier death animation, Default: false
 		fancierApostleDeath = false
+		#Whether Apostles causes entities within 32 blocks of itself to take damage when in water. Default: true
+		apostleBoilsWater = true
 
 	[Misc.Vizier]
 		#Viziers spawn Vexes instead of Irks, Default: false

@@ -10,12 +10,14 @@
 - 新增 IntegratedStronghold 联动数据包 --- IntegratedStrongholdEndRemasteredIntegration / IntegratedStrongholdTheGraveyardIntegration / IntegratedStrongholdAlexsMobsIntegration
 - 为天境系列材料提供 Tetra 支持 --- AethericTetranomicon
 - 加入了六种恐鸟护甲 --- ProtectYourMoa
+- HarvestWithEase 前置 Lib --- CobWeb
 
 
 ## 修改内容
 
 - 关闭聊天泡泡信息前的名字显示 --- NotableBubbleText
 - 删除冗余的配置文件 --- Config
+- 更新汉化 --- I18n
 
 
 ## 删除内容
@@ -26,6 +28,7 @@
 - 影响性能，与部分模组渲染冲突 --- SkinLayers3D
 - 与 IntegratedStronghold 内容冲突且没有前者质量高 --- YUNGsBetterStrongholds
 - 功能鸡肋且兼容性极差 --- JustEnoughResources / JerIntegration
+- 部分附魔不生效且有坏档恶性 Bug --- MaEnchants
 
 
 ## 错误修复
@@ -34,6 +37,7 @@
 
 ## 模组更新
 
+- Artifacts --- V5.0.5 -> V5.0.6
 - ArmourersWorkshop --- V3.0.0beta4 -> V2.1.4
 - ArsAdditions --- V1.0.1 -> V1.4.0
 - ArtOfForging --- V1.7.4 -> V1.7.5
@@ -42,19 +46,22 @@
 - Collective --- V7.56 -> V7.61
 - CreateConnected --- V0.7.4 -> V0.8.2
 - CreateDreams&Desires --- V0.2.5b -> V0.1b
-- CreateGarnished --- V1.7.5 -> V1.8.0
+- CreateEncased --- V1.6.0ht1 -> V1.6.0fix2
+- CreateGarnished --- V1.7.5 -> V1.8.1
 - CreatePowerLoader --- V1.4.0 -> V1.5.0
 - CreateRailwaysNavigator --- V0.5.1beta -> V0.5.3beta
 - CreateSteamNRails --- V1.6.2 -> V1.6.4
 - CreateVintageImprovements --- V0.1.4.0 -> V0.1.4.1
+- DoggyTalentsNext --- V1.18.11 -> V1.18.15
 - DragonMountsLegacy --- V1.2.2 -> V1.2.3
 - Embeddium++ --- V1.2.10 -> V1.2.13
 - Exposure --- V1.5.1 -> V1.6.0
 - FancyMenu --- V3.2.2 -> V3.2.3
 - FtbXModCompat --- V1.2.3 -> V1.2.4
-- Goety --- V2.34.0 -> V2.34.2
+- Goety --- V2.34.0 -> V2.35.1
+- HarvestWithEase --- V8.0.1.0 -> V9.0.0.3beta
 - I18nUpdateMod --- V3.5.3 -> V3.5.5
-- ImmediatelyFast --- V1.2.14 -> V1.2.15
+- ImmediatelyFast --- V1.2.14 -> V1.2.17
 - IronsSpellsNSpellbooks --- V3.1.4 -> V3.1.7
 - Neruina --- V1.3.0 -> V2.0.0beta10
 - NotableBubbleText --- V1.0.1 -> V1.0.3

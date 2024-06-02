@@ -7,6 +7,8 @@
 	ownerHitCommand = true
 	#Spells have their soul cost reduced or increased depending on the surroundings around the caster, Default: true
 	environmentalCost = true
+	#Certain spells that summons servants will give player Summon Down effect, Default: true
+	summonDown = true
 
 [Spells]
 
@@ -158,7 +160,7 @@
 		#Range: > 0
 		ghastCoolDown = 200
 		#Ghastly Spell Summon Down, Default: 300
-		#Range: 300 ~ 72000
+		#Range: 0 ~ 72000
 		ghastSummonDown = 300
 		#Number of Mini Ghasts that can exist around the player, Default: 8
 		#Range: > 1
@@ -196,7 +198,7 @@
 		#Time to cast Fireball Spell, Default: 0
 		#Range: 0 ~ 72000
 		fireballTime = 0
-		#Fireball Spell Cooldown, Default: 0
+		#Fireball Spell Cooldown, Default: 20
 		#Range: > 0
 		fireballCoolDown = 0
 		#How much base damage Fireballs deal when directly hitting a mob, Default: 5.0
@@ -228,7 +230,7 @@
 		#Time to cast Soul Bolt Spell, Default: 0
 		#Range: 0 ~ 72000
 		soulBoltTime = 0
-		#Soul Bolt Spell Cooldown, Default: 0
+		#Soul Bolt Spell Cooldown, Default: 20
 		#Range: > 0
 		soulBoltCoolDown = 0
 		#How much base damage Soul Bolts deals, Default: 4.0
@@ -412,7 +414,7 @@
 		#Time to cast Launching Spell, Default: 0
 		#Range: 0 ~ 72000
 		launchTime = 0
-		#Launch Spell Cooldown, Default: 0
+		#Launch Spell Cooldown, Default: 20
 		#Range: > 0
 		launchCoolDown = 0
 
@@ -511,7 +513,7 @@
 		recallCoolDown = 100
 
 	[Spells."Ender Chest Spell"]
-		#Ender Chest Spell Cost, Default: 16
+		#Ender Chest Spell Cost, Default: 8
 		#Range: > 0
 		enderChestCost = 16
 		#Time to cast Ender Chest Spell, Default: 0
@@ -868,23 +870,93 @@
 		#Range: > 0
 		cycloneCoolDown = 100
 
+	[Spells."Blazing Spell"]
+		#Blazing Spell Cost, Default: 16
+		#Range: > 0
+		blazeCost = 16
+		#Time to cast Blazing Spell, Default: 100
+		#Range: 0 ~ 72000
+		blazeDuration = 100
+		#Blazing Spell Cooldown, Default: 200
+		#Range: > 0
+		blazeCoolDown = 200
+		#Blazing Spell Summon Down, Default: 400
+		#Range: 0 ~ 72000
+		blazeSummonDown = 400
+		#Number of Blaze Servants that can exist around the player, Default: 16
+		#Range: > 1
+		blazeLimit = 16
+
+	[Spells."Magma Bomb Spell"]
+		#Magma Bomb Spell Cost, Default: 16
+		#Range: > 0
+		magmaBombCost = 16
+		#Time to cast Magma Bomb Spell, Default: 100
+		#Range: 0 ~ 72000
+		magmaBombTime = 100
+		#Magma Bomb Spell Cooldown, Default: 400
+		#Range: > 0
+		magmaBombCoolDown = 400
+
+	[Spells."Flame Strike Spell"]
+		#Flame Strike Spell Cost, Default: 32
+		#Range: > 0
+		flameStrikeCost = 32
+		#Time to cast Flame Strike Spell, Default: 120
+		#Range: 0 ~ 72000
+		flameStrikeTime = 120
+		#Flame Strike Spell Cooldown, Default: 200
+		#Range: > 0
+		flameStrikeCoolDown = 200
+		#How much base damage Flame Strike deals, Default: 4.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		flameStrikeDamage = 4.0
+
+	[Spells."Quaking Spell"]
+		#Quaking Spell Cost, Default: 8
+		#Range: > 0
+		quakingCost = 8
+		#Time to cast Quaking Spell, Default: 20
+		#Range: 0 ~ 72000
+		quakingTime = 20
+		#Quaking Spell Cooldown, Default: 0
+		#Range: > 0
+		quakingCoolDown = 0
+		#How much base damage Quaking Spell deals, Default: 4.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		quakingDamage = 4.0
+
+	[Spells."Banish Spell"]
+		#Banish Spell Cost, Default: 16
+		#Range: > 0
+		banishCost = 16
+		#Banish Spell Cooldown, Default: 400
+		#Range: > 0
+		banishCoolDown = 400
+		#The highest maximum health an entity can possess to be affected by Banish spell, Default: 100
+		#Range: > 1
+		banishMaxHealth = 100
+		#Add mobs that Banish Spell don't work on. 
+		#To do so, enter the namespace ID of the mob, like "minecraft:zombie, minecraft:skeleton".
+		banishBlackList = []
+
 ["Servant Limits"]
-	#Number of Skeleton/Vanguard/Necromancer Servants that can exist around the player without instantly dying, Default: 32
+	#Number of Skeleton/Vanguard/Necromancer Servants that an individual player can have in total, Default: 32
 	#Range: > 1
 	skeletonLimit = 32
-	#Total number of Redstone Golems a player can summon, Default: 2
+	#Total number of Redstone Golems an individual player can have, Default: 2
 	#Range: > 0
 	redstoneGolemLimit = 2
-	#Total number of Grave Golems a player can summon, Default: 2
+	#Total number of Grave Golems an individual player can have, Default: 2
 	#Range: > 0
 	graveGolemLimit = 2
-	#Number of Bound Evoker Servants that can exist around the player without instantly dying, Default: 32
+	#Number of Bound Illager Servants that an individual player can have in total, Default: 2
 	#Range: > 1
 	boundIllagerLimit = 2
 	#Total number of Redstone Monstrosities that can be summoned in total on a world, Default: 2
 	#Range: > 0
 	redstoneMonstrosityGlobalLimit = 2
-	#Total number of Redstone Monstrosities a player can summon, Default: 1
+	#Total number of Redstone Monstrosities an individual player can have, Default: 1
 	#Range: > 0
 	redstoneMonstrosityPlayerLimit = 1
 
