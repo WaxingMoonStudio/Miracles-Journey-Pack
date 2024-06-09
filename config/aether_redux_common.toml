@@ -59,8 +59,6 @@
 		"Wall Roots on Blightwillows and Large Cloudcaps" = true
 		#Uses an alternate Gilded Oak shape, more like vanilla Oak trees and Skyroots, for the Gilded biomes.
 		"Alternate Gilded Trees" = false
-		#Replaces chests in the dungeons with Skyroot Chests. Does not do anything when Ascended Quark is installed.
-		"Skyroot Dungeon Chests" = true
 
 		[Worldgen."Additional Features"."Cloud Layer"]
 			#Replaces the Aether's large cloud features with a new and improved noise-based cloud layer.
@@ -71,20 +69,6 @@
 			#Maximum value for the cloud layer's noise threshold
 			#Range: -4.0 ~ 4.0
 			"Cloud Layer Threshold Max" = 1.0
-
-	[Worldgen."Bronze Dungeon"]
-		#Adds dungeon mobs from the Aether: Genesis to the spawners added to the Bronze Dungeon if it is installed
-		#Allowed Values: sentry_only, all, no_golems
-		"Genesis Mobs in Spawners" = "all"
-		#Which type of Bronze Dungeon Boss Room to use
-		#Allowed Values: classic, catwalks, open, vault
-		"Bronze Boss Room Type" = "vault"
-		#Which type of Bronze Dungeon Chest Room to use
-		#Allowed Values: classic, genesis, open, pillars
-		"Bronze Chest Room Type" = "pillars"
-		#Which type of Bronze Dungeon Lobby Room to use
-		#Allowed Values: classic, doors, two_story
-		"Bronze Lobby Type" = "doors"
 
 	[Worldgen.Biomes]
 		#When enabled, any biome value config changes will be reset. It is recommended that you disable this if you want to keep any custom biome parameters you may have set.
@@ -107,8 +91,17 @@
 		"Enable Skyroot Shrublands" = true
 		#Uses Enchanted Aether Grass for the ground in the Gilded Groves. May require a Minecraft restart.
 		"Enchanted Gilded Grass" = true
-		#Changes the Aether's sky color to one slightly more consistent with the overworld, making the fog lighter than the rest of the sky
-		"Alternate Sky Color" = false
+		#Alters the sky colors of the Aether, to be a bit more in line with vanilla. Also adds some new unique colors as well to some of Redux's new biomes
+		"Alternate Sky Colors" = true
+
+	[Worldgen.Dungeon]
+		#Adds dungeon mobs from the Aether: Genesis to the spawners added to the Bronze Dungeon if it is installed
+		#Allowed Values: sentry_only, all, no_golems
+		"Genesis Mobs in Spawners" = "all"
+		#Upgrades the Bronze Dungeon structure with new blocks and more depth
+		"Bronze Dungeon Upgrade" = true
+		#Replaces chests in the dungeons with Skyroot Chests. Does not do anything when Ascended Quark is installed.
+		"Skyroot Dungeon Chests" = true
 
 [Internal]
 	#Internal value, used to decide if the Aeroblender configs should be changed
