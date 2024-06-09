@@ -18,6 +18,7 @@
 ## 错误修复
 
 - 修复了 Spirit 模组汉化不生效的问题 --- Spirit
+- 修复了灵魂绑定附魔 + 遗体刷物品的 Bug --- Ensorcellation
 
 ## 模组更新
 
