@@ -866,7 +866,7 @@
 		#Time to cast Cyclone Spell, Default: 0
 		#Range: 0 ~ 72000
 		cycloneTime = 0
-		#Cyclone Spell Cooldown, Default: 100
+		#Cyclone Spell Cooldown, Default: 300
 		#Range: > 0
 		cycloneCoolDown = 100
 
@@ -967,7 +967,7 @@
 	#Wanting Maximum Enchantment Level, Default: 3
 	#Range: 1 ~ 10
 	maxWantingLevel = 3
-	#Velocity Maximum Enchantment Level, Default: 5
+	#Potency Maximum Enchantment Level, Default: 3
 	#Range: 1 ~ 10
 	maxPotencyLevel = 5
 	#Radius Maximum Enchantment Level, Default: 2
@@ -982,4 +982,7 @@
 	#Burning Maximum Enchantment Level, Default: 3
 	#Range: 1 ~ 10
 	maxBurningLevel = 3
+	#Velocity Maximum Enchantment Level, Default: 5
+	#Range: 1 ~ 10
+	maxVelocityLevel = 5
 

@@ -44,6 +44,8 @@
 	bossMusic = true
 	#Players camera can shake. Default: true
 	cameraShake = true
+	#Using an item while holding a wand or staff on main/offhand will cause the wand or staff to be put on cooldown to prevent accidental spellcasting, Default: true
+	wandCoolItemUse = true
 
 [Blocks]
 	#Add mobs that Hook Bells don't work on. 
@@ -106,15 +108,9 @@
 	#Non-Undead Piglin Killed, Default: 10
 	#Range: > 0
 	piglinSouls = 10
-	#Ender Dragon Killed, Default: 1000
-	#Range: > 0
-	enderDragonSouls = 1000
 	#Enderman Killed, Default: 10
 	#Range: > 0
 	endermanSouls = 10
-	#Warden Killed, Default: 10000
-	#Range: > 0
-	wardenSouls = 10000
 	#Players Killed, Default: 100
 	#Range: > 0
 	playerSouls = 100

@@ -92,7 +92,7 @@
 	#Maximum size Slime and Magma Cube Servants can obtain through Slime/Magma Block, Default: 4
 	#Range: 1 ~ 127
 	maxSlimeSize = 4
-	#Whether Redstone Monstrosity breaks leaves if mob griefing is enabled, Default: true
+	#Whether Redstone Monstrosity breaks leaves and certain blocks if mob griefing is enabled, Default: true
 	redstoneMonstrosityLeafBreak = true
 	#Whether creating a Redstone Monstrosity causes the mold to change blocks, Default: true
 	redstoneMonstrosityMold = true
