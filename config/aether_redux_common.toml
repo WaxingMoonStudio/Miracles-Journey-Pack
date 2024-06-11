@@ -48,6 +48,10 @@
 		#Makes blockstate conversion sounds (ambrosium, swet ball) better
 		"Better Conversion Sounds" = true
 
+	["Gameplay Changes".Loot]
+		#Enables the Valkyrie Ring as a drop from Valkyries
+		"Valkyrie Ring" = true
+
 [Worldgen]
 
 	[Worldgen."Additional Features"]

@@ -1786,7 +1786,7 @@
 	Pipes = true
 	Backpack = false
 	"Tiny Potato" = true
-	"Matrix Enchanting" = true
+	"Matrix Enchanting" = false
 	"Totem Of Holding" = false
 	Crate = true
 	Magnets = true
