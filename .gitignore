@@ -16,6 +16,7 @@
 /config/jumpingnoteblock_1.properties
 /config/libraryferret_1.properties
 /config/reforgium-renderer.properties
+/config/simplehats_hatdl
 /config/towns_and_towers/resources
 
 
@@ -125,6 +126,8 @@
 # /Custom.xaml
 
 # /DISCLAIMER.md
+
+/file_diff.txt
 
 /log4j2.xml
 

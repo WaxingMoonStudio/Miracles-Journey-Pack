@@ -1,8 +1,11 @@
-# BetaV0.1.1 更新日志
+# BetaV0.1.1 开发日志
 
 ## 新增内容
 
 - 添加了提炼矿石的新方法，还可以通过使用新的原矿加工系统熔化来制造合金 --- CreateMetallurgy
+- 以用星宝石兽替代管道为目标，以新生魔艺的方式实现科技与魔法的融合 --- StarbuncleMania
+- 新增 AstraLexShaders、BSL、KappaShader、Lux、NostalgiaShader 等一系列光影 --- ShaderPacks
+- 新增 BeesReimagined、BetterMapItems、TorchesReimagined、VanillaTweaks、xalisPotions 等资源包丰富游戏体验 --- ResourcePacks
 
 
 ## 修改内容
@@ -11,16 +14,19 @@
 - 温泉水不能生成无限水 --- SimplyHotSprings
 - 禁用灵魂绑定附魔 --- Ensorcellation
 - 关闭 Quark 矩阵附魔 --- Quark
+- 关闭云影 --- ComplementaryShadersReimaginedEuphoriaPatches
 
 
 ## 删除内容
 
 - 多人游戏兼容性差，内容单一 --- Snowmancy
+- 声音炸裂，影响游玩体验 --- CrashPipe
 
 
 ## 错误修复
 
 - 修复了 Spirit 模组汉化不生效的问题 --- Spirit
+- 修复了远处闪电停滞导致的视觉错误 --- DoesPotatoTick
 
 ## 模组更新
 
@@ -85,4 +91,7 @@
 
 ## 光影包更新
 
-- ComplementaryShadersReimagined --- V5.1.1 -> V5.2.1
+- BlissShaders --- V0505 -> V0612
+- ComplementaryShadersReimaginedEuphoriaPatches --- V5.1.1+V1.2.1 -> V5.2.1+1.3.1
+- MakeUpUltraFast --- V8.9e -> V8.9f
+- PhotonShader --- V0422 -> V0529
