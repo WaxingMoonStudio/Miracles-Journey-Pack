@@ -62,7 +62,7 @@
 	"Redstone Randomizer" = true
 	"Feeding Trough" = true
 	"Metal Buttons" = true
-	"Iron Rod" = true
+	"Iron Rod" = false
 	"Obsidian Plate" = true
 	"Chains Connect Blocks" = false
 	Gravisand = true
@@ -133,7 +133,7 @@
 	"Vertical Slabs" = true
 	Shingles = true
 	"Sturdy Stone" = true
-	Stools = false
+	Stools = true
 	"Raw Metal Bricks" = true
 	"More Mud Blocks" = true
 	Grate = true
@@ -290,7 +290,7 @@
 	"Expanded Item Interactions" = true
 	"Inventory Sorting" = true
 	"Hotbar Changer" = false
-	"Easy Transfering" = true
+	"Easy Transfering" = false
 
 	[management.quick_armor_swapping]
 		"Swap Off Hand" = true
@@ -336,13 +336,13 @@
 [tools]
 	"Beacon Redirection" = true
 	"Ambient Discs" = true
-	"Pathfinder Maps" = true
-	"Color Runes" = true
+	"Pathfinder Maps" = false
+	"Color Runes" = false
 	Pickarang = true
 	"Parrot Eggs" = true
 	Trowel = true
 	Abacus = true
-	"Bottled Cloud" = false
+	"Bottled Cloud" = true
 	"Torch Arrow" = true
 	"Bundle Recipe" = true
 	"Ancient Tomes" = true
@@ -533,7 +533,7 @@
 		"Pike Range" = 5.0
 
 [tweaks]
-	"Gold Tools Have Fortune" = false
+	"Gold Tools Have Fortune" = true
 	"Automatic Recipe Unlock" = false
 	"Utility Recipes" = false
 	"Poison Potato Usage" = true
@@ -544,35 +544,35 @@
 	"Pig Litters" = true
 	"Campfires Boost Elytra" = true
 	"Dyeable Item Frames" = true
-	"Slabs To Blocks" = true
+	"Slabs To Blocks" = false
 	"Map Washing" = true
 	"Enhanced Ladders" = true
 	"Reacharound Placing" = false
 	"Horses Swim" = true
 	"Sponge On Water Placement" = true
 	"Armed Armor Stands" = false
-	"Double Door Opening" = false
+	"Double Door Opening" = true
 	"Zombie Villagers On Normal" = false
-	"Hoe Harvesting" = false
+	"Hoe Harvesting" = true
 	Emotes = false
 	"Slimes To Magma Cubes" = true
 	"Snow Golem Player Heads" = true
 	"Vexes Die With Their Masters" = true
-	"More Note Block Sounds" = true
-	"Pat The Dogs" = true
-	"Grab Chickens" = false
+	"More Note Block Sounds" = false
+	"Pat The Dogs" = false
+	"Grab Chickens" = true
 	"More Banner Layers" = true
 	"Replace Scaffolding" = true
-	"Diamond Repair" = true
+	"Diamond Repair" = false
 	"Safer Creatures" = true
 	"Lock Rotation" = false
-	"Villagers Follow Emeralds" = true
-	"Compasses Work Everywhere" = false
-	"No Durability On Cosmetics" = true
+	"Villagers Follow Emeralds" = false
+	"Compasses Work Everywhere" = true
+	"No Durability On Cosmetics" = false
 	"Sponges Better" = true
 	"Sign Editing" = true
 	"Simple Harvest" = false
-	"Dragon Scales" = true
+	"Dragon Scales" = false
 	"Shulker Packing" = true
 
 	[tweaks.gold_tools_have_fortune]
@@ -1527,7 +1527,7 @@
 					"Is Blacklist" = true
 
 [client]
-	Camera = false
+	Camera = true
 	"Elytra Indicator" = false
 	"Improved Tooltips" = true
 	"Greener Grass" = false
@@ -1535,12 +1535,12 @@
 	"Soul Candles" = true
 	"Auto Walk Keybind" = false
 	"Variant Animal Textures" = false
-	"Microcrafting Helper" = true
-	"Uses For Curses" = false
+	"Microcrafting Helper" = false
+	"Uses For Curses" = true
 	"Wool Shuts Up Minecarts" = true
-	"Back Button Keybind" = true
+	"Back Button Keybind" = false
 	"Chest Searching" = false
-	"Long Range Pick Block" = false
+	"Long Range Pick Block" = true
 	"Usage Ticker" = false
 
 	[client.camera]
@@ -1551,16 +1551,16 @@
 		"Attribute Tooltips" = true
 		"Food Tooltips" = false
 		"Shulker Tooltips" = true
-		"Map Tooltips" = false
+		"Map Tooltips" = true
 		"Enchanting Tooltips" = false
-		"Fuel Time Tooltips" = true
+		"Fuel Time Tooltips" = false
 		"Shulker Box Use Colors" = true
 		"Shulker Box Require Shift" = true
 		"Map Require Shift" = true
 		#The value of each shank of food.
 		#Tweak this when using mods like Hardcore Hunger which change that value.
 		"Food Divisor" = 2
-		"Show Saturation" = true
+		"Show Saturation" = false
 		"Food Compression Threshold" = 4
 		"Fuel Time Divisor" = 200
 		#Should item attributes be colored relative to your current equipped item?
@@ -1785,7 +1785,7 @@
 [oddities]
 	Pipes = true
 	Backpack = false
-	"Tiny Potato" = true
+	"Tiny Potato" = false
 	"Matrix Enchanting" = false
 	"Totem Of Holding" = false
 	Crate = true

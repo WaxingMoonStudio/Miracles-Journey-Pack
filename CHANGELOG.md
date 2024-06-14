@@ -7,6 +7,8 @@
 - 新增 AstraLexShaders、BSL、KappaShader、Lux、NostalgiaShader 等一系列光影 --- ShaderPacks
 - 新增 BeesReimagined、BetterMapItems、TorchesReimagined、VanillaTweaks 等资源包丰富游戏体验 --- ResourcePacks
 - 新增击杀生物后的血液粒子 --- ExtraGore
+- 优化服务端区块数据包的分发逻辑 --- ChunkSending
+- 新增截图查看器 --- ScreenshotViewer
 
 
 ## 修改内容
@@ -14,10 +16,12 @@
 - 修改默认字体为仓耳渔阳体，增强视觉效果 --- ModernUi
 - 温泉水不能生成无限水 --- SimplyHotSprings
 - 禁用灵魂绑定附魔 --- Ensorcellation
-- 关闭 Quark 矩阵附魔 --- Quark
+- 配置调整 --- Quark
 - 关闭云影 --- ComplementaryShadersReimaginedEuphoriaPatches
 - 关闭由季节影响的雨雪，降低雨雪频率 --- SereneSeasons
 - 降低怪物移动速度 --- UpgradedMobs
+- 优化按键绑定 --- KeyBind
+- 替换 Canary 为 RoadRunner --- RoadRunner
 
 
 ## 删除内容
@@ -25,12 +29,15 @@
 - 多人游戏兼容性差，内容单一 --- Snowmancy
 - 声音炸裂，影响游玩体验 --- CrashPipe
 - 对于局域网联机玩家有严重 Bug --- KryptonReforged
+- 生存用处小，建筑设计方式旧 --- TheMightyArchitectury
+- 用途单一，有更好替代品 --- Notes
 
 
 ## 错误修复
 
 - 修复了 Spirit 模组汉化不生效的问题 --- Spirit
 - 修复了远处闪电和幻翼停滞导致的错误 --- DoesPotatoTick
+- 修复了沉浸工程多方块结构和动态结构不可见的问题 --- ImmersiveEngineering
 
 ## 模组更新
 
