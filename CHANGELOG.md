@@ -22,6 +22,7 @@
 - 降低怪物移动速度 --- UpgradedMobs
 - 优化按键绑定 --- KeyBind
 - 替换 Canary 为 RoadRunner --- RoadRunner
+- 优化暂停界面布局 --- FancyMenu
 
 
 ## 删除内容
