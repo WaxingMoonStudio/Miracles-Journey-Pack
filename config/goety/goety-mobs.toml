@@ -48,6 +48,8 @@
 		[Textures."Summoned Mobs"."Redstone Golem"]
 			#If Redstone Golems show cracks when damaged sufficiently, Default: true
 			redstoneGolemCrack = false
+			#If Redstone Golems have custom textures, Default: true
+			redstoneGolemTexture = true
 
 		[Textures."Summoned Mobs"."Slime Servants"]
 			#If Slime Servants have custom textures, Default: true
@@ -72,6 +74,10 @@
 		[Textures."Summoned Mobs"."Blaze Servants"]
 			#If Blaze Servants have custom textures, Default: true
 			blazeServantTexture = true
+
+		[Textures."Summoned Mobs"."Redstone Monstrosity"]
+			#If Redstone Monstrosities have custom textures, Default: true
+			redstoneMonstrosityTexture = true
 
 [Servants]
 	#Whether creating a Redstone Golem causes the mold to change blocks, Default: true

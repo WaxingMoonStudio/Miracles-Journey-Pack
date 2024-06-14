@@ -46,6 +46,8 @@
 	cameraShake = true
 	#Using an item while holding a wand or staff on main/offhand will cause the wand or staff to be put on cooldown to prevent accidental spellcasting, Default: true
 	wandCoolItemUse = true
+	#Entities part of a Player's Book of Goodwill will not take most damage from said Player rather than just spells, Default: false
+	goodwillNoDamage = false
 
 [Blocks]
 	#Add mobs that Hook Bells don't work on. 

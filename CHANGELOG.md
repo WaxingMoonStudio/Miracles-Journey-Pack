@@ -5,28 +5,32 @@
 - 添加了提炼矿石的新方法，还可以通过使用新的原矿加工系统熔化来制造合金 --- CreateMetallurgy
 - 以用星宝石兽替代管道为目标，以新生魔艺的方式实现科技与魔法的融合 --- StarbuncleMania
 - 新增 AstraLexShaders、BSL、KappaShader、Lux、NostalgiaShader 等一系列光影 --- ShaderPacks
-- 新增 BeesReimagined、BetterMapItems、TorchesReimagined、VanillaTweaks、xalisPotions 等资源包丰富游戏体验 --- ResourcePacks
+- 新增 BeesReimagined、BetterMapItems、TorchesReimagined、VanillaTweaks 等资源包丰富游戏体验 --- ResourcePacks
+- 新增击杀生物后的血液粒子 --- ExtraGore
 
 
 ## 修改内容
 
-- 修改默认字体为 CangErYuYangTi（仓耳渔阳体 W03），增强视觉效果 --- ModernUi
+- 修改默认字体为仓耳渔阳体，增强视觉效果 --- ModernUi
 - 温泉水不能生成无限水 --- SimplyHotSprings
 - 禁用灵魂绑定附魔 --- Ensorcellation
 - 关闭 Quark 矩阵附魔 --- Quark
 - 关闭云影 --- ComplementaryShadersReimaginedEuphoriaPatches
+- 关闭由季节影响的雨雪，降低雨雪频率 --- SereneSeasons
+- 降低怪物移动速度 --- UpgradedMobs
 
 
 ## 删除内容
 
 - 多人游戏兼容性差，内容单一 --- Snowmancy
 - 声音炸裂，影响游玩体验 --- CrashPipe
+- 对于局域网联机玩家有严重 Bug --- KryptonReforged
 
 
 ## 错误修复
 
 - 修复了 Spirit 模组汉化不生效的问题 --- Spirit
-- 修复了远处闪电停滞导致的视觉错误 --- DoesPotatoTick
+- 修复了远处闪电和幻翼停滞导致的错误 --- DoesPotatoTick
 
 ## 模组更新
 
@@ -42,10 +46,12 @@
 
 **Assist | 辅助**
 
+- ChatHeads --- V0.12.2 -> V0.12.3
 - CuriousElytra --- V6.1.1 -> V6.1.2
 - FTBQuests --- V1902.5.8build345 -> V1902.5.9build399
 - ModernFix --- V5.17.0 -> V5.18.0
 - PacketFixer --- V1.4.0 -> V1.4.2
+- SeasonHUD --- V1.8.2 -> V1.8.3
 
 **Custom | 魔改**
 
@@ -65,7 +71,7 @@
 
 **Magic | 魔法**
 
-- Goety --- V2.35.1 -> V2.35.2
+- Goety --- V2.35.1 -> V2.35.3
 
 **Technology | 科技**
 
