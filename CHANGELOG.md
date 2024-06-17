@@ -9,6 +9,11 @@
 - 新增截图查看器 --- ScreenshotViewer
 - 缺少的前置 --- Pehkui
 - 优化局域网联机情况下的幽灵方块问题 --- AntiGhost
+- 增加了玩家在潜行状态下拾取方块的范围 --- SneakyLink
+- 提供可视化按键绑定 --- RawsVisualKeybinder
+- 增加退出确认 --- Quit
+- 添加了火锅，火锅配套的筷子，碟子与可以放在火锅中提供药水效果的香料包 --- EveryXHotpot
+- 添加了试验假人 --- MmmMmmMmmMmm
 - 新增 AstraLexShaders、BSL、KappaShader、Lux、NostalgiaShader 等一系列光影 --- ShaderPacks
 - 新增 BeesReimagined、BetterMapItems、TorchesReimagined、VanillaTweaks 等资源包丰富游戏体验 --- ResourcePacks
 
