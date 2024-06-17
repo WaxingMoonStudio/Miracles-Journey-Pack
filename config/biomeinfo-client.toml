@@ -29,5 +29,5 @@ textAlignment = "MIDDLE"
 #This lets BiomeInfo automatically determine the correct position of the text without needing to change the posX, posY, or textAlignment configuration settings manually.
 #If this is set to NONE, then BiomeInfo will use those configuration settings. If this is set to anything other than NONE, they will be ignored.
 #Allowed Values: NONE, TOP_LEFT, TOP_MIDDLE, TOP_RIGHT, MIDDLE_LEFT, MIDDLE, MIDDLE_RIGHT, BOTTOM_LEFT, BOTTOM_MIDDLE, BOTTOM_RIGHT, ABOVE_MIDDLE, ABOVE_HOTBAR, LEFT_OF_CROSSHAIR, RIGHT_OF_CROSSHAIR, ABOVE_CROSSHAIR, UNDER_CROSSHAIR_WITH_ATTACK_INDICATOR, UNDER_CROSSHAIR
-positionPreset = "ABOVE_MIDDLE"
+positionPreset = "ABOVE_HOTBAR"
 

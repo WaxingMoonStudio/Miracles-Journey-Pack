@@ -1,4 +1,4 @@
-# BetaV0.1.1 开发日志
+# BetaV0.1.1 更新日志
 
 ## 新增内容
 
@@ -25,7 +25,6 @@
 - 禁用灵魂绑定附魔 --- Ensorcellation
 - 配置调整 --- Quark
 - 关闭云影 --- ComplementaryShadersReimaginedEuphoriaPatches
-- 关闭由季节影响的雨雪，降低雨雪频率 --- SereneSeasons
 - 降低怪物移动速度 --- UpgradedMobs
 - 优化按键绑定 --- KeyBind
 - 替换 Canary 为 RoadRunner --- RoadRunner
@@ -114,11 +113,11 @@
 
 ## 资源包更新
 
-- 
+- 暂无
 
 ## 数据包更新
 
-- 
+- 暂无
 
 ## 光影包更新
 
