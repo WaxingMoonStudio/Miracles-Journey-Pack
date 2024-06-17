@@ -4,11 +4,13 @@
 
 - 添加了提炼矿石的新方法，还可以通过使用新的原矿加工系统熔化来制造合金 --- CreateMetallurgy
 - 以用星宝石兽替代管道为目标，以新生魔艺的方式实现科技与魔法的融合 --- StarbuncleMania
-- 新增 AstraLexShaders、BSL、KappaShader、Lux、NostalgiaShader 等一系列光影 --- ShaderPacks
-- 新增 BeesReimagined、BetterMapItems、TorchesReimagined、VanillaTweaks 等资源包丰富游戏体验 --- ResourcePacks
 - 新增击杀生物后的血液粒子 --- ExtraGore
 - 优化服务端区块数据包的分发逻辑 --- ChunkSending
 - 新增截图查看器 --- ScreenshotViewer
+- 缺少的前置 --- Pehkui
+- 优化局域网联机情况下的幽灵方块问题 --- AntiGhost
+- 新增 AstraLexShaders、BSL、KappaShader、Lux、NostalgiaShader 等一系列光影 --- ShaderPacks
+- 新增 BeesReimagined、BetterMapItems、TorchesReimagined、VanillaTweaks 等资源包丰富游戏体验 --- ResourcePacks
 
 
 ## 修改内容
@@ -23,6 +25,9 @@
 - 优化按键绑定 --- KeyBind
 - 替换 Canary 为 RoadRunner --- RoadRunner
 - 优化暂停界面布局 --- FancyMenu
+- 替换物品物理掉落模组为轻量版 --- ItemPhysicLite
+- 禁用复刻怪生成 --- AlexsMobs
+- 替换 TravelersTitles 为 BiomeInfo --- BiomeInfo
 
 
 ## 删除内容
@@ -32,6 +37,9 @@
 - 对于局域网联机玩家有严重 Bug --- KryptonReforged
 - 生存用处小，建筑设计方式旧 --- TheMightyArchitectury
 - 用途单一，有更好替代品 --- Notes
+- 优化效果不明显 --- WF's Cave Overhaul
+- 删除诅咒附魔 --- Cursery
+- 删除静谧四季系列模组 --- SereneSeasons / SereneSeasonsPamsHarvestCraft2CropsCompat / SeasonHUD / SeasonTweaks / SereneSeasonsFix
 
 
 ## 错误修复
@@ -57,9 +65,11 @@
 - ChatHeads --- V0.12.2 -> V0.12.3
 - CuriousElytra --- V6.1.1 -> V6.1.2
 - FTBQuests --- V1902.5.8build345 -> V1902.5.9build399
+- ImmediatelyFast --- V1.2.17 -> V1.2.18
 - ModernFix --- V5.17.0 -> V5.18.0
+- NotEnoughAnimations --- V1.7.3 -> V1.7.4
 - PacketFixer --- V1.4.0 -> V1.4.2
-- SeasonHUD --- V1.8.2 -> V1.8.3
+- SimpleVoiceChat --- V2.5.15 -> V2.5.16
 
 **Custom | 魔改**
 
@@ -69,6 +79,7 @@
 **Decoration | 装饰**
 
 - ArmourersWorkshop --- V2.1.4 -> V3.0.0beta7
+- CreateCopycats+ --- V1.2.5 -> V1.3.1
 - EuphoriaPatches --- V0.3.0 -> V0.3.3
 - Tectonic --- V2.3.4 -> V2.3.5a
 
