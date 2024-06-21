@@ -35,6 +35,7 @@
 - 替换 BeJs 为 BlockSwap --- BlockSwap
 - 替换 EnhancedBossBars 资源包为 SimpleBossBars --- SimpleBossBars
 - 禁用 MoreMinecartsAndRails 模组的区块加载器、区块加载器矿车及其产物 --- MoreMinecartsAndRails
+- 调整 MoreBowsRestrung 内各类型弓的伤害以平衡 --- MoreBowsRestrung
 - 更新至 Forge 43.4.0
 
 
