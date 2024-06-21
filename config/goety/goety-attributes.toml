@@ -527,9 +527,6 @@
 			#How much following/detection range Redstone Cubes have, Default: 16.0
 			#Range: 1.0 ~ 2048.0
 			redstoneCubeFollowRange = 16.0
-			#The furthest number of blocks or distance the target is at that Redstone Monstrosities can perform their spit attack, Default: 13.0
-			#Range: 4.0 ~ 2048.0
-			redstoneMonstrositySpitRange = 13.0
 			#How many blocks or distance away an attack can be from Redstone Monstrosities to damage them, Default: 20.0
 			#Range: 6.0 ~ 1.7976931348623157E308
 			redstoneMonstrosityHurtRange = 20.0

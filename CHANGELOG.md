@@ -15,7 +15,7 @@
 - 添加了火锅，火锅配套的筷子，碟子与可以放在火锅中提供药水效果的香料包 --- EveryXHotpot
 - 添加了试验假人 --- MmmMmmMmmMmm
 - 新增 AstraLexShaders、BSL、KappaShader、Lux、NostalgiaShader 等一系列光影 --- ShaderPacks
-- 新增 BeesReimagined、BetterMapItems、TorchesReimagined、VanillaTweaks 等资源包丰富游戏体验 --- ResourcePacks
+- 新增 BeesReimagined、BetterMapItems、TorchesReimagined、VanillaTweaks和FancyBeds 等资源包丰富游戏体验 --- ResourcePacks
 
 
 ## 修改内容
@@ -32,6 +32,9 @@
 - 替换物品物理掉落模组为轻量版 --- ItemPhysicLite
 - 禁用复刻怪生成 --- AlexsMobs
 - 替换 TravelersTitles 为 BiomeInfo --- BiomeInfo
+- 替换 BeJs 为 BlockSwap --- BlockSwap
+- 替换 EnhancedBossBars 资源包为 SimpleBossBars --- SimpleBossBars
+- 禁用 MoreMinecartsAndRails 模组的区块加载器、区块加载器矿车及其产物 --- MoreMinecartsAndRails
 - 更新至 Forge 43.4.0
 
 
@@ -50,8 +53,9 @@
 ## 错误修复
 
 - 修复了 Spirit 模组汉化不生效的问题 --- Spirit
-- 修复了远处闪电和幻翼停滞导致的错误 --- DoesPotatoTick
-- 修复了沉浸工程多方块结构和动态结构不可见的问题 --- ImmersiveEngineering
+- 修复了远处闪电和幻翼停滞的错误 --- DoesPotatoTick
+- 修复了单人模式下沉浸工程多方块结构和动态结构不可见的问题 --- ImmersiveEngineering
+- 修复了黄铜漏斗和溜槽在某些情况下可以刷物品的 Bug --- Create
 
 ## 模组更新
 
@@ -61,9 +65,9 @@
 
 **Agriculture | 农业**
 
-- CreateBitterballen --- V0.0.80 -> V0.0.85
+- CreateBitterballen --- V0.0.80 -> V0.0.86
 - CreateDeepfried --- V0.1.0 -> V0.1.1
-- CreateGarnished --- V1.8.1 -> V1.8.4
+- CreateGarnished --- V1.8.1 -> V1.8.6
 
 **Assist | 辅助**
 
@@ -71,10 +75,13 @@
 - CuriousElytra --- V6.1.1 -> V6.1.2
 - FTBQuests --- V1902.5.8build345 -> V1902.5.9build399
 - ImmediatelyFast --- V1.2.17 -> V1.2.18
+- JustEnoughItems --- V11.6.0.1019 -> V11.6.0.1020
 - ModernFix --- V5.17.0 -> V5.18.0
+- ModpackUpdateChecker --- V0.12.2 -> V0.13.0
 - NotEnoughAnimations --- V1.7.3 -> V1.7.4
 - PacketFixer --- V1.4.0 -> V1.4.2
-- SimpleVoiceChat --- V2.5.15 -> V2.5.16
+- SimpleVoiceChat --- V2.5.15 -> V2.5.17
+- XaeroPlus --- V2.13 -> V2.14
 
 **Custom | 魔改**
 
@@ -83,29 +90,32 @@
 
 **Decoration | 装饰**
 
-- ArmourersWorkshop --- V2.1.4 -> V3.0.0beta7
-- CreateCopycats+ --- V1.2.5 -> V1.3.1
+- ArmourersWorkshop --- V2.1.4 -> V3.0.0beta9
+- CreateCopycats+ --- V1.2.5 -> V1.3.4
+- CreateEncased --- V1.6.0fix2 -> V1.6.1
 - EuphoriaPatches --- V0.3.0 -> V0.3.3
 - Tectonic --- V2.3.4 -> V2.3.5a
 
 **Lib | 库**
 
-- CobWeb --- V0.0.3.7 -> V0.5.1
+- CobWeb --- V0.0.3.7 -> V1.0.0
 - PolyLib --- V1900.0.3build100 -> V1900.0.3build144
 
 **Magic | 魔法**
 
-- Goety --- V2.35.1 -> V2.35.3
+- Goety --- V2.35.1 -> V2.35.5
+- IronsSpellsNSpellbooks --- V3.1.7 -> V3.2.0
 
 **Technology | 科技**
 
 - AdvancedPeripherals --- V0.7.35r -> V0.7.36r
-- CreateVintageImprovements --- V0.1.4.1 -> V0.1.4.2
+- CreateMetallurgy --- V0.0.2 -> V0.0.3
+- CreateVintageImprovements --- V0.1.4.1 -> V0.1.5.0
 
 **Utility | 实用**
 
 - Chess --- V2.0 -> V3.1
-- SmallShips --- V2.0.0b1.2 -> V2.0.0b1.3
+- SmallShips --- V2.0.0b1.2 -> V2.0.0b1.3.1
 - TheAetherRedux --- V2.0.15 -> V2.0.16c
 - XaeroPlus --- V2.11 -> V2.13
 - XaerosMinimap --- V24.1.1 -> V24.2.0

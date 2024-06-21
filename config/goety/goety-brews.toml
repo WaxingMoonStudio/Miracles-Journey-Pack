@@ -170,6 +170,9 @@
 	#Fortunate Soul Cost, Default: 50
 	#Range: > 1
 	fortunateCost = 100
+	#Evil Eye Soul Cost, Default: 50
+	#Range: > 1
+	evilEyeCost = 50
 
 [Curable]
 	#Whether Nyctophobia is curable via Milk or Wartful Egg, Default: false
@@ -178,6 +181,10 @@
 	sunAllergyCurable = false
 	#Whether Snow Skin is curable via Milk or Wartful Egg, Default: false
 	snowSkinCurable = false
+	#Whether Pressure is curable via Milk or Wartful Egg, Default: false
+	pressureCurable = false
+	#Whether Evil Eye is curable via Milk or Wartful Egg, Default: false
+	evilEyeCurable = false
 
 ["Brew Bottling"]
 	#How many times the player must bottle a brew to increase Bottling level, Default: 20

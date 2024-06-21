@@ -9,6 +9,8 @@
 	environmentalCost = true
 	#Certain spells that summons servants will give player Summon Down effect, Default: true
 	summonDown = true
+	#Whether Servants are killed/dismissed by hitting them while crouching, put false to make them change by right-clicking on them while crouching, Default: true
+	ownerHitKill = true
 
 [Spells]
 
@@ -76,7 +78,7 @@
 		#Osseous Spell Cooldown, Default: 100
 		#Range: > 0
 		skeletonCoolDown = 100
-		#Osseous Spell Summon Down, Default: 280
+		#Osseous Spell Summon Down, Default: 120
 		#Range: 0 ~ 72000
 		skeletonSummonDown = 280
 
@@ -651,13 +653,13 @@
 		pyroclastGriefing = true
 
 	[Spells."End Walker Spell"]
-		#End Walk Spell Cost, Default: 8
+		#End Walk Spell Cost, Default: 48
 		#Range: > 0
 		endWalkCost = 8
 		#Time to cast End Walk Spell, Default: 60
 		#Range: 0 ~ 72000
 		endWalkDuration = 60
-		#End Walk Spell Cooldown, Default: 200
+		#End Walk Spell Cooldown, Default: 1200
 		#Range: > 0
 		endWalkCoolDown = 200
 		#How long the effect is applied from the spell, Default: 200

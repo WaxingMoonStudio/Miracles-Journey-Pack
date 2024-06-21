@@ -55,6 +55,8 @@
 		necroCrownWeakness = true
 		#Whether wearing Necro Cape while not being a Lich gives Hunger when in sunlight, Default: true
 		necroCapeHunger = true
+		#Necro Crown and Cape change textures when wearing a specific robe, Default: true
+		necroCapeChangeTexture = true
 
 ["Tools & Weapons"]
 

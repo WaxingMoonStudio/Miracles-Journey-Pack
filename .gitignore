@@ -9,9 +9,11 @@
 /backups
 
 # /config - 部分
+/config/blockswap/known_states
 /config/starterkit/starterkit-old*.txt
 /config/jei/world
 /config/spark/activity.json
+/config/voicechat/username-cache.json
 /config/bettervillage_1.properties
 /config/jumpingnoteblock_1.properties
 /config/libraryferret_1.properties
@@ -142,6 +144,10 @@
 /patchouli_data.json
 
 /rhino.local.properties
+
+/servers.dat
+
+/servers.dat_old
 
 # /TODO.md
 

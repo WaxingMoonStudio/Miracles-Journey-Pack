@@ -16,7 +16,9 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    "examplemod:example_item"
+    "moreminecarts:chunk_loader",
+    "moreminecarts:minecart_with_chunk_loader",
+    "moreminecarts:chunkrodite_block"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
