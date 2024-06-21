@@ -8,7 +8,7 @@
 - 优化服务端区块数据包的分发逻辑 --- ChunkSending
 - 新增截图查看器 --- ScreenshotViewer
 - 缺少的前置 --- Pehkui
-- 优化局域网联机情况下的幽灵方块问题 --- AntiGhost
+- 新增前置 --- CodeChickenLib
 - 增加了玩家在潜行状态下拾取方块的范围 --- SneakyLink
 - 提供可视化按键绑定 --- RawsVisualKeybinder
 - 增加退出确认 --- Quit
@@ -36,6 +36,7 @@
 - 替换 EnhancedBossBars 资源包为 SimpleBossBars --- SimpleBossBars
 - 禁用 MoreMinecartsAndRails 模组的区块加载器、区块加载器矿车及其产物 --- MoreMinecartsAndRails
 - 调整 MoreBowsRestrung 内各类型弓的伤害以平衡 --- MoreBowsRestrung
+- 替换 EnderChests 为 EnderStorage --- EnderStorage
 - 更新至 Forge 43.4.0
 
 
@@ -68,7 +69,7 @@
 
 - CreateBitterballen --- V0.0.80 -> V0.0.86
 - CreateDeepfried --- V0.1.0 -> V0.1.1
-- CreateGarnished --- V1.8.1 -> V1.8.6
+- CreateGarnished --- V1.8.1 -> V1.8.7
 
 **Assist | 辅助**
 
@@ -100,6 +101,7 @@
 **Lib | 库**
 
 - CobWeb --- V0.0.3.7 -> V1.0.0
+- Collective --- V7.61 -> V7.62
 - PolyLib --- V1900.0.3build100 -> V1900.0.3build144
 
 **Magic | 魔法**
@@ -110,6 +112,7 @@
 **Technology | 科技**
 
 - AdvancedPeripherals --- V0.7.35r -> V0.7.36r
+- CreateDreams&Desires --- V0.1b -> V0.1c
 - CreateMetallurgy --- V0.0.2 -> V0.0.3
 - CreateVintageImprovements --- V0.1.4.1 -> V0.1.5.0
 
