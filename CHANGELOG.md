@@ -14,6 +14,7 @@
 - 增加退出确认 --- Quit
 - 添加了火锅，火锅配套的筷子，碟子与可以放在火锅中提供药水效果的香料包 --- EveryXHotpot
 - 添加了试验假人 --- MmmMmmMmmMmm
+- 去除了方块状态数量限制 --- BlockLimitFix
 - 新增 AstraLexShaders、BSL、KappaShader、Lux、NostalgiaShader 等一系列光影 --- ShaderPacks
 - 新增 BeesReimagined、BetterMapItems、TorchesReimagined、VanillaTweaks和FancyBeds 等资源包丰富游戏体验 --- ResourcePacks
 
@@ -49,6 +50,7 @@
 - 用途单一，有更好替代品 --- Notes
 - 优化效果不明显 --- WF's Cave Overhaul
 - 删除诅咒附魔 --- Cursery
+- 有重复功能模组 --- KeyboardWizard
 - 删除静谧四季系列模组 --- SereneSeasons / SereneSeasonsPamsHarvestCraft2CropsCompat / SeasonHUD / SeasonTweaks / SereneSeasonsFix
 
 
@@ -56,7 +58,7 @@
 
 - 修复了 Spirit 模组汉化不生效的问题 --- Spirit
 - 修复了远处闪电和幻翼停滞的错误 --- DoesPotatoTick
-- 修复了单人模式下沉浸工程多方块结构和动态结构不可见的问题 --- ImmersiveEngineering
+- 修复了沉浸工程和机械动力的多方块结构以及动态结构不可见的问题 --- ImmersiveEngineering / Create
 - 修复了黄铜漏斗和溜槽在某些情况下可以刷物品的 Bug --- Create
 
 ## 模组更新
