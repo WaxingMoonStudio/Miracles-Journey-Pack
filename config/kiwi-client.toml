@@ -4,6 +4,6 @@ noMicrosoftTelemetry = true
 suppressExperimentalSettingsWarning = false
 
 [debug]
-tagsTooltip = true
+tagsTooltip = false
 debugTooltipMsg = false
-NBTTooltip = true
+NBTTooltip = false

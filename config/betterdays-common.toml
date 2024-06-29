@@ -1,12 +1,12 @@
 
 [time]
 	#The speed at which time passes during the day.
-	#Day is defined as any time between 23500 (middle of dawn) and 12500 (middle of dusk) the next day.
+	#Day is defined as any time between dayStart (see below) and nightStart (see below) the next day.
 	#Vanilla speed: 1.0
 	#Range: 0.0 ~ 24000.0
 	daySpeed = 0.5
 	#The speed at which time passes during the night.
-	#Night is defined as any time between 12500 (middle of dusk) and 23500 (middle of dawn).
+	#Night is defined as any time between dayStart (see below) and nightStart (see below).
 	#Vanilla speed: 1.0
 	#Range: 0.0 ~ 24000.0
 	nightSpeed = 1.0
@@ -14,6 +14,14 @@
 	#If using this, Serene Seasons config value day_duration is set to 24000
 	#Set to true to override.
 	sereneSeasonsFix = false
+	#The time to start day. This is configurable within the time the sun appears and day starts.
+	#Default: 23500
+	#Range: 22300.0 ~ 24000.0
+	dayStart = 23500.0
+	#The time to start night. This is configurable within the time sunset starts and night starts.
+	#Default: 12500
+	#Range: 12000.0 ~ 13000.0
+	nightStart = 12500.0
 
 	[time.effects]
 		#When applied, this effect syncs the passage of weather with the current speed of time.
