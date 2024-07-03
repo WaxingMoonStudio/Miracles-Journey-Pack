@@ -156,4 +156,6 @@
 ["Mod Compatibility"]
 	#If L_Ender Cataclysm is installed, certain loots are modified and change between this and the latter mod. Default: true
 	cataclysmLootCompat = true
+	#If Iron's Spells and Spellbooks is installed, certain robes provides Spell resistances. Default: true
+	robesIronResist = true
 

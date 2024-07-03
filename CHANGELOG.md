@@ -3,17 +3,24 @@
 ## 新增内容
 
 - 新增自动补货功能 --- StackRefill
+- 使玩家可以在游戏世界中发送评论 --- WorldComment
+- 提供更有趣的死亡消息 --- DeathQuotes
+- 取消了原版对玩家属性的限制 --- AttributeFix
+- 在使用鼠标拾取或放入物品时添加了一些动画 --- TinyItemAnimations
+- 新增 ComplementaryShadersUnboundEuphoriaPatches 光影包 --- ShaderPacks
 
 
 ## 修改内容
 
 - 再次调整按键绑定 --- KeyBind
 - 因线程安全问题暂时禁用 --- CreateMetallurgy
+- 替换 LittleFrames 为有更多功能的 WaterFrames --- WaterFrames
 
 
 ## 删除内容
 
 - 内容单一、不常用  --- TintedCampfires
+- 移除任务系统及附属 --- FTBQuests / QuestsAdditions / ItemFilters / FtbXModCompat
 
 
 ## 错误修复
@@ -34,7 +41,11 @@
 **Assist | 辅助**
 
 - BetterDays --- V3.1.0.4 -> V3.1.0.5
+- ChatHeads --- V0.12.3 -> V0.12.6
 - HarvestWithEase --- V9.0.0.3 -> V9.0.1.0
+- ItemPhysicLite --- V1.5.2 -> V1.5.3
+- Neruina --- V2.0.0beta10 -> V2.1.0
+- RawsVisualKeybinder --- V0.1.2 -> V0.1.3
 
 **Custom | 魔改**
 
@@ -47,9 +58,13 @@
 **Lib | 库**
 
 - Collective --- V7.62 -> V7.64
+- CreativeCore --- V2.9.4 -> V2.11.28
+- CuriosAPI --- V5.1.6.2 -> V5.1.6.3
+- WaterMedia --- V1.3.43 -> V2.0.65
 
 **Magic | 魔法**
 
+- Goety --- V2.35.5 -> V2.36.0
 - HexCircus --- V1.1.0 -> V1.1.1
 - HexKeys --- V0.1.1 -> V0.1.2
 - HextendedStaves --- V0.0.1 -> V0.2.0

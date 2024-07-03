@@ -38,7 +38,7 @@
 		#How much magic resistance Witches Robes provides by percent, Default: 85
 		#Range: 0 ~ 100
 		witchRobeResistance = 85
-		#How much explosive resistance Warlock Robes provides by percent, Default: 85
+		#How much magic resistance Warlock Robes provides by percent, Default: 85
 		#Range: 0 ~ 100
 		warlockRobeResistance = 85
 		#How much frost resistance Frost Robes provides by percent, Default: 85
@@ -57,6 +57,9 @@
 		necroCapeHunger = true
 		#Necro Crown and Cape change textures when wearing a specific robe, Default: true
 		necroCapeChangeTexture = true
+		#How much fire resistance Nether Robes provides by percent, Default: 85
+		#Range: 0 ~ 100
+		netherRobeResistance = 85
 
 ["Tools & Weapons"]
 

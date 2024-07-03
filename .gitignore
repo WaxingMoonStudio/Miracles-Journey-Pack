@@ -13,13 +13,14 @@
 /config/starterkit/starterkit-old*.txt
 /config/jei/world
 /config/spark/activity.json
+/config/towns_and_towers/resources
 /config/voicechat/username-cache.json
 /config/bettervillage_1.properties
 /config/jumpingnoteblock_1.properties
 /config/libraryferret_1.properties
 /config/reforgium-renderer.properties
 /config/simplehats_hatdl
-/config/towns_and_towers/resources
+/config/world-comment.json
 
 
 /crash-reports

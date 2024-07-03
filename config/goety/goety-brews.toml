@@ -173,6 +173,21 @@
 	#Evil Eye Soul Cost, Default: 50
 	#Range: > 1
 	evilEyeCost = 50
+	#Ender Flux Soul Cost, Default: 25
+	#Range: > 1
+	enderFluxCost = 25
+	#Snow Skin Soul Cost, Default: 50
+	#Range: > 1
+	snowSkinCost = 50
+	#Storm's Wrath Soul Cost, Default: 50
+	#Range: > 1
+	stormsWrathCost = 50
+	#Bottling Soul Cost, Default: 50
+	#Range: > 1
+	bottlingCost = 50
+	#Flimsy Soul Cost, Default: 50
+	#Range: > 1
+	flimsyCost = 50
 
 [Curable]
 	#Whether Nyctophobia is curable via Milk or Wartful Egg, Default: false

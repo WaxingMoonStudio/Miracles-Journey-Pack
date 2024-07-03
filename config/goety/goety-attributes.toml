@@ -561,6 +561,28 @@
 			#Range: 1.0 ~ 1.7976931348623157E308
 			ghastServantDamage = 6.0
 
+		[Attributes."Summoned Mobs"."Black Wolf"]
+			#How much Max Health Black Wolves have, Default: 10.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			blackWolfHealth = 10.0
+			#How much natural Armor Black Wolves have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			blackWolfArmor = 0.0
+			#How much damage Black Wolves melee attack deals, Default: 4.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			blackWolfDamage = 4.0
+
+		[Attributes."Summoned Mobs"."Bear Servant"]
+			#How much Max Health Bear Servants have, Default: 30.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			bearServantHealth = 30.0
+			#How much natural Armor Bear Servants have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			bearServantArmor = 0.0
+			#How much damage Bear Servants melee attack deals, Default: 6.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			bearServantDamage = 6.0
+
 	[Attributes.Mini-Bosses]
 
 		[Attributes.Mini-Bosses.Crone]
@@ -613,7 +635,7 @@
 			#The maximum amount of damage an Apostle can attain per hit, Default: 20.0
 			#Range: 1.0 ~ 1.7976931348623157E308
 			apostleDamageCap = 20
-			#Multiplies Apostle's Bow damage, Default: 4
+			#Multiplies Apostle's Bow damage, Default: 2
 			#Range: > 1
 			apostleBowDamage = 4
 			#Set Apostle's spell damage (ie, Fire Tornadoes, Fire Blasts, Roars), Default: 6.0

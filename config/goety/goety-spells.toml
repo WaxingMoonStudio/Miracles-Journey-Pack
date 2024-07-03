@@ -956,6 +956,40 @@
 		#Range: 1.0 ~ 1.7976931348623157E308
 		ruptureDamage = 2.0
 
+	[Spells."Hunting Spell"]
+		#Hunting Spell Cost, Default: 8
+		#Range: > 0
+		huntingCost = 8
+		#Time to cast Hunting Spell, Default: 20
+		#Range: 0 ~ 72000
+		huntingTime = 20
+		#Hunting Spell Cooldown, Default: 200
+		#Range: > 0
+		huntingCoolDown = 200
+		#Hunting Spell Summon Down, Default: 100
+		#Range: 0 ~ 72000
+		huntingSummonDown = 100
+		#Number of Black Wolves that can exist around the player, Default: 16
+		#Range: > 1
+		huntingLimit = 16
+
+	[Spells."Mauling Spell"]
+		#Mauling Spell Cost, Default: 16
+		#Range: > 0
+		maulingCost = 16
+		#Time to cast Mauling Spell, Default: 20
+		#Range: 0 ~ 72000
+		maulingTime = 20
+		#Mauling Spell Cooldown, Default: 600
+		#Range: > 0
+		maulingCoolDown = 600
+		#Mauling Spell Summon Down, Default: 150
+		#Range: 0 ~ 72000
+		maulingSummonDown = 150
+		#Number of Bear Servants that can exist around the player, Default: 8
+		#Range: > 1
+		maulingLimit = 8
+
 ["Servant Limits"]
 	#Number of Skeleton/Vanguard/Necromancer Servants that an individual player can have in total, Default: 32
 	#Range: > 1

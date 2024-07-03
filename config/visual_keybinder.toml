@@ -14,8 +14,6 @@
 	display_layout_button_tooltip = true
 	#Should a tooltip be displayed for the change and reset button.
 	display_button_tooltip = true
-	#Position the layout in the bottom half of the screen.
-	position_layout_in_bottom = true
 	#Reposition the menu button horizontally.
 	#Range: -10000 ~ 10000
 	menu_button_offset_x = 0
