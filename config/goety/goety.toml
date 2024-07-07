@@ -152,6 +152,8 @@
 	lichSmite = true
 	#Whether the player in Lich Mode will emit Lich sounds, Default: true
 	lichModeSounds = true
+	#If Liches bare-handed attacks inflicts negative effects, Default: true
+	lichTouch = true
 
 ["Mod Compatibility"]
 	#If L_Ender Cataclysm is installed, certain loots are modified and change between this and the latter mod. Default: true

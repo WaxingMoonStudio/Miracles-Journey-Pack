@@ -60,6 +60,12 @@
 		#How much fire resistance Nether Robes provides by percent, Default: 85
 		#Range: 0 ~ 100
 		netherRobeResistance = 85
+		#Whether wearing both Witch Robe and Hat will cause Witches and Warlocks to be neutral, Default: true
+		witchSetWitchNeutral = true
+		#Whether wearing a Warlock Robe will cause Witches and Warlocks to be neutral, Default: true
+		warlockRobeWitchNeutral = true
+		#Whether wearing a Nether Robe will cause Witches and Warlocks to be neutral, Default: true
+		netherRobeWitchNeutral = true
 
 ["Tools & Weapons"]
 

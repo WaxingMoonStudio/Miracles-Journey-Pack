@@ -14,6 +14,7 @@
 [XP] Roof Y Level:250.0
 [XP] Roof Obsidian Opacity:150.0
 [XP] Roof Snow Opacity:10.0
+[XP] Overlay Opacity Fix:true
 [XP] Min WorldMap Zoom:0.1
 [XP] Skip Background Render:true
 [XP] Prefer Overworld Waypoints:false
@@ -27,6 +28,8 @@
 [XP] Save/Load NewChunks to Disk:true
 [XP] New Chunks Opacity:100.0
 [XP] New Chunks Color:0
+[XP] New Chunks Render Inverse:false
+[XP] New Chunks Inverse Color:1
 [XP] OldChunks Highlighting:false
 [XP] OldChunks Inverse:false
 [XP] Save/Load OldChunks to Disk:true

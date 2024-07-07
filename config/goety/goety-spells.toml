@@ -200,7 +200,7 @@
 		#Time to cast Fireball Spell, Default: 0
 		#Range: 0 ~ 72000
 		fireballTime = 0
-		#Fireball Spell Cooldown, Default: 20
+		#Fireball Spell Cooldown, Default: 40
 		#Range: > 0
 		fireballCoolDown = 0
 		#How much base damage Fireballs deal when directly hitting a mob, Default: 5.0

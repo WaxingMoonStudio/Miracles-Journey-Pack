@@ -108,11 +108,13 @@
 	stayingServantChunkLoad = true
 	#Enable Redstone Cubes block detection mechanic, Default: true
 	RedstoneCubeBlockFind = true
+	#Whether Servants would naturally attack Witches or Warlocks if owner wears a full a robe that renders the former two neutral, Default: false
+	variousRobeWitch = false
 
 	[Servants."Undead Servants"]
 		#Whether Undead Servants can teleport to Players, Default: false
 		undeadTeleport = false
-		#Whether Servants can attack Undead mobs if owner wears a full Necro Set, Default: false
+		#Whether Servants would naturally attack Undead mobs if owner wears a full Necro Set, Default: false
 		necroRobeUndead = false
 		#Whether Undead Servants can heal if summoned while wearing Necro Cape, Default: true
 		undeadServantsHeal = true
@@ -162,6 +164,19 @@
 		#How much Health Nether Servants heal, numerically, Default: 0.5
 		#Range: 0.0 ~ 1.7976931348623157E308
 		netherMinionHealAmount = 0.5
+
+	[Servants."Frost Servants"]
+		#Whether Frost Servants can heal if summoned while wearing Frost Robe, Default: true
+		frostMinionHeal = true
+		#How much Soul Energy it cost per second for a Frost Servant to heal, Default: 5
+		#Range: > 0
+		frostMinionHealCost = 5
+		#How frequent Frost Servants heal, count seconds, Default: 1
+		#Range: > 0
+		frostMinionHealTime = 1
+		#How much Health Frost Servants heal, numerically, Default: 0.5
+		#Range: 0.0 ~ 1.7976931348623157E308
+		frostMinionHealAmount = 0.5
 
 [Illagers]
 	#Whether Illague Effect can spread from non Conquillagers that has the effect, Default: true
@@ -255,10 +270,16 @@
 		apocalypseMode = false
 		#Gives Apostle an even more fancier death animation, Default: false
 		fancierApostleDeath = false
-		#Whether Apostles causes entities within 32 blocks of itself to take damage when in water. Default: true
+		#Whether Apostles causes entities within 32 blocks of themselves to take damage when in water. Default: true
 		apostleBoilsWater = true
+		#Whether Apostles causes Villagers within 32 blocks of themselves to have a chance of converting into a Witch or Warlock. Default: true
+		apostleConvertsVillagers = true
+		#Whether Apostles are persistent and do not naturally despawn. Default: false
+		apostlePersistent = true
 
 	[Misc.Vizier]
 		#Viziers spawn Vexes instead of Irks, Default: false
 		vizierMinion = false
+		#Whether Viziers are persistent and do not naturally despawn. Default: false
+		vizierPersistent = false
 

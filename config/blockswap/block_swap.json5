@@ -93,6 +93,9 @@ to make editing this file much easier.
 		"galosphere:deepslate_silver_ore": "oreganized:deepslate_silver_ore",
 		"immersiveengineering:deepslate_ore_silver": "oreganized:deepslate_silver_ore",
 		// 铝土矿石生成统一
-		"immersiveengineering:ore_aluminum": "createindustry:bauxite"
+			// 铝土矿石
+		"immersiveengineering:ore_aluminum": "createindustry:bauxite",
+			// 深层铝土矿石
+		"immersiveengineering:deepslate_ore_aluminum": "minecraft:deepslate"
 	}
 }

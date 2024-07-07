@@ -8,6 +8,8 @@
 - 取消了原版对玩家属性的限制 --- AttributeFix
 - 在使用鼠标拾取或放入物品时添加了一些动画 --- TinyItemAnimations
 - 新增 ComplementaryShadersUnboundEuphoriaPatches 光影包 --- ShaderPacks
+- 统一矿石及产物 --- Almost Unified
+- 增加了种子市场 --- FarmingForBlockheads
 
 
 ## 修改内容
@@ -15,12 +17,14 @@
 - 再次调整按键绑定 --- KeyBind
 - 因线程安全问题暂时禁用 --- CreateMetallurgy
 - 替换 LittleFrames 为有更多功能的 WaterFrames --- WaterFrames
+- 调整末地建筑最大生成高度 --- 2032WorldHeightEdit
 
 
 ## 删除内容
 
 - 内容单一、不常用  --- TintedCampfires
 - 移除任务系统及附属 --- FTBQuests / QuestsAdditions / ItemFilters / FtbXModCompat
+- 暂时无用 --- Item Obliterator / PowerfulJs
 
 
 ## 错误修复
@@ -31,6 +35,7 @@
 
 **Adventure | 冒险**
 
+- Friends&Foes --- V2.0.10 -> V2.0.11
 - IllagerAdditions --- V0.1.10 -> V0.1.12beta
 - LEndersCataclysm --- V1.99.2 -> V1.99.6
 
@@ -46,6 +51,8 @@
 - ItemPhysicLite --- V1.5.2 -> V1.5.3
 - Neruina --- V2.0.0beta10 -> V2.1.0
 - RawsVisualKeybinder --- V0.1.2 -> V0.1.3
+- SimpleVoiceChat --- V2.5.17 -> V2.5.18
+- XaeroPlus --- V2.14 -> V2.15
 
 **Custom | 魔改**
 
@@ -64,18 +71,22 @@
 
 **Magic | 魔法**
 
-- Goety --- V2.35.5 -> V2.36.0
+- Goety --- V2.35.5 -> V2.36.2
 - HexCircus --- V1.1.0 -> V1.1.1
 - HexKeys --- V0.1.1 -> V0.1.2
 - HextendedStaves --- V0.0.1 -> V0.2.0
+- IronsSpellsNSpellbooks --- V3.2.0 -> V3.2.1
 
 **Technology | 科技**
 
+- CreateTheFactoryMustGrow --- V0.8.0b -> V0.9.0d
 - CreateVintageImprovements --- V0.1.5.0 -> V0.1.5.1
 
 **Utility | 实用**
 
 - CreateRailwaysNavigator --- V0.5.3beta -> V0.5.4
+- EnderRelay --- V1.0.0 -> V1.1.0
+- TouhouLittleMaid --- V1.1.9 -> V1.1.11
 
 ## 资源包更新
 
