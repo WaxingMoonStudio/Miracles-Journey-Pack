@@ -46,7 +46,7 @@
 **Assist | 辅助**
 
 - BetterDays --- V3.1.0.4 -> V3.1.0.5
-- ChatHeads --- V0.12.3 -> V0.12.6
+- ChatHeads --- V0.12.3 -> V0.12.7
 - HarvestWithEase --- V9.0.0.3 -> V9.0.1.0
 - ItemPhysicLite --- V1.5.2 -> V1.5.3
 - Neruina --- V2.0.0beta10 -> V2.1.0
@@ -61,13 +61,14 @@
 **Decoration | 装饰**
 
 - CreateCopycats+ --- V1.3.4 -> V1.3.8
+- EuphoriaPatches --- V0.3.3 -> V0.3.4
 
 **Lib | 库**
 
 - Collective --- V7.62 -> V7.64
 - CreativeCore --- V2.9.4 -> V2.11.28
 - CuriosAPI --- V5.1.6.2 -> V5.1.6.3
-- WaterMedia --- V1.3.43 -> V2.0.65
+- WaterMedia --- V1.3.43 -> V2.0.66
 
 **Magic | 魔法**
 
@@ -98,4 +99,8 @@
 
 ## 光影包更新
 
-- 
+- AstraLexShaders --- V92.1 -> V93.0
+- BlissShader --- V0612 -> V0708
+- ComplementaryShadersReimagined --- V5.2.1 -> V5.2.2
+- ComplementaryShadersUnbound --- V5.2.1 -> V5.2.2
+- Lux --- V1.1patch1 -> V1.1patch2
