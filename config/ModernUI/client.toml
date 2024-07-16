@@ -144,7 +144,7 @@
 	#Enable if on low-res monitor; disable for linear texts.
 	autoHinting = true
 	#The first font family to use. See fallbackFontFamilyList
-	firstFontFamily = "TsangerYuYangT W03"
+	firstFontFamily = ".\\resourcepacks\\MiraclesJourney-ResPack\\assets\\miraclesjourney\\font\\CangErYuYangTi.ttf"
 	#A set of fallback font families to determine the typeface to use.
 	#The order is first > fallbacks. TrueType & OpenType are supported.
 	#Each element can be one of the following two cases:

@@ -15,7 +15,6 @@ royal_guards_raid_Spawning = true
 cowboy_raid_Spawning = false
 
 [Config]
-	#Combat Configurations
 	#Controls the Samurai ai strength, usually set to 1 
 	#0 = easy, 1 = normal, 2 = hard, 3 = hardest
 	samurai_ai_strength = 1
@@ -28,6 +27,12 @@ cowboy_raid_Spawning = false
 	#Controls the Guard ai strength, usually set to 1 
 	#0 = easy, 1 = normal, 2 = hard, 3 = hardest
 	guard_ai_strength = 1
+	#Combat Configurations
+	#Controls whether the Shogun takes Griefing Action, usually set to false
+	shogun_griefing = false
+	#Controls the Shogun Attack Damage Multiplier, usually set to 1 
+	#0.35 = easy, 0.7 = normal, 1.5 = hard, 1.9 = hardest
+	shogun_attack_multiply = 0.625
 
 ["Raid Wave Member Configuration"]
 	#    Requires a list of no more and less than 8 integers, each corresponding to its respective wave.

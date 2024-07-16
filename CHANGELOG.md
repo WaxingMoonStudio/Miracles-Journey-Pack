@@ -10,21 +10,25 @@
 - 新增 ComplementaryShadersUnboundEuphoriaPatches 光影包 --- ShaderPacks
 - 统一矿石及产物 --- Almost Unified
 - 增加了种子市场 --- FarmingForBlockheads
+- 增加了一系列建筑方块和装饰 --- DawnOfTimeBuilderEdition
+- 添加了工具皮带以增加快捷性 --- ToolBelt
+- 增加了气动工艺以及与机械动力的联动内容 --- PneumaticCraftRepressurized / CompressedCreativity
 
 
 ## 修改内容
 
 - 再次调整按键绑定 --- KeyBind
-- 因线程安全问题暂时禁用 --- CreateMetallurgy
 - 替换 LittleFrames 为有更多功能的 WaterFrames --- WaterFrames
 - 调整末地建筑最大生成高度 --- 2032WorldHeightEdit
+- 使用 CreateTrainPerspective 替换 CreateTrainPerspectiveFix --- CreateTrainPerspective
+- 使用 OpenPartiesAndClaims 替换 FtbTeams --- OpenPartiesAndClaims
 
 
 ## 删除内容
 
 - 内容单一、不常用  --- TintedCampfires
 - 移除任务系统及附属 --- FTBQuests / QuestsAdditions / ItemFilters / FtbXModCompat
-- 暂时无用 --- Item Obliterator / PowerfulJs
+- 暂时无用、作用不大 --- Item Obliterator / PowerfulJs / SimpleVoiceChat / PetCemetery / SneakyLink
 
 
 ## 错误修复
@@ -35,24 +39,28 @@
 
 **Adventure | 冒险**
 
-- Friends&Foes --- V2.0.10 -> V2.0.11
-- IllagerAdditions --- V0.1.10 -> V0.1.12beta
+- Friends&Foes --- V2.0.10 -> V2.0.13
+- Friends&FoesBeekeeperHut --- V2.0.0 -> V2.0.1
+- Friends&FoesFloweryMooblooms --- V2.0.1 -> V2.0.2
+- IllagerAdditions --- V0.1.10 -> V0.1.12.5beta
 - LEndersCataclysm --- V1.99.2 -> V1.99.6
 
 **Agriculture | 农业**
 
-- 
+- ExtraDelight --- V1.3.2 -> V1.3.3
 
 **Assist | 辅助**
 
-- BetterDays --- V3.1.0.4 -> V3.1.0.5
-- ChatHeads --- V0.12.3 -> V0.12.7
+- BetterDays --- V3.1.0.4 -> V3.1.0.6
+- ChatHeads --- V0.12.3 -> V0.12.8
 - HarvestWithEase --- V9.0.0.3 -> V9.0.1.0
+- InventoryHUD+ --- V3.4.7 -> V3.4.23
 - ItemPhysicLite --- V1.5.2 -> V1.5.3
+- JustEnoughItems --- V11.6.0.1020 -> V11.6.0.1021
 - Neruina --- V2.0.0beta10 -> V2.1.0
 - RawsVisualKeybinder --- V0.1.2 -> V0.1.3
-- SimpleVoiceChat --- V2.5.17 -> V2.5.18
-- XaeroPlus --- V2.14 -> V2.15
+- SoundPhysicsRemastered --- V1.4.2 -> V1.4.5
+- XaeroPlus --- V2.14 -> V2.18
 
 **Custom | 魔改**
 
@@ -62,6 +70,8 @@
 
 - CreateCopycats+ --- V1.3.4 -> V1.3.8
 - EuphoriaPatches --- V0.3.3 -> V0.3.4
+- MakeBubblesPop --- V0.2.0 -> V0.3.0
+- WaterFrames --- V2.0.10 -> V2.0.11a
 
 **Lib | 库**
 
@@ -73,19 +83,21 @@
 **Magic | 魔法**
 
 - Goety --- V2.35.5 -> V2.36.2
-- HexCircus --- V1.1.0 -> V1.1.1
+- HexCircus --- V1.1.0 -> V1.1.2
 - HexKeys --- V0.1.1 -> V0.1.2
 - HextendedStaves --- V0.0.1 -> V0.2.0
 - IronsSpellsNSpellbooks --- V3.2.0 -> V3.2.1
 
 **Technology | 科技**
 
+- CreateMetallurgy --- V0.0.3 -> V0.0.5
 - CreateTheFactoryMustGrow --- V0.8.0b -> V0.9.0d
-- CreateVintageImprovements --- V0.1.5.0 -> V0.1.5.1
+- CreateVintageImprovements --- V0.1.5.0 -> V0.1.6.0
 
 **Utility | 实用**
 
 - CreateRailwaysNavigator --- V0.5.3beta -> V0.5.4
+- CreateSlice&Dice --- V2.3.2 -> V2.3.3
 - EnderRelay --- V1.0.0 -> V1.1.0
 - TouhouLittleMaid --- V1.1.9 -> V1.1.11
 
