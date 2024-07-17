@@ -1,8 +1,8 @@
 /.mixin.out
 
-/.vscode
-
 /.persistent
+
+/.vscode
 
 /armourers_workshop
 
@@ -76,7 +76,7 @@
 
 /logs
 
-/Miracles Journey-natives
+/Miracles-Journey-Pack-natives
 
 /modernfix
 
@@ -136,9 +136,9 @@
 
 # /meta.json
 
-# /Miracles Journey.jar
+# /Miracles-Journey-Pack.jar
 
-# /Miracles Journey.json
+# /Miracles-Journey-Pack.json
 
 # /options.txt
 

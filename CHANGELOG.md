@@ -3,7 +3,7 @@
 ## 新增内容
 
 - 新增自动补货功能 --- StackRefill
-- 使玩家可以在游戏世界中发送评论 --- WorldComment
+- 使玩家可以在游戏世界中发送评论（需配置） --- WorldComment
 - 提供更有趣的死亡消息 --- DeathQuotes
 - 取消了原版对玩家属性的限制 --- AttributeFix
 - 在使用鼠标拾取或放入物品时添加了一些动画 --- TinyItemAnimations
@@ -11,8 +11,9 @@
 - 统一矿石及产物 --- Almost Unified
 - 增加了种子市场 --- FarmingForBlockheads
 - 增加了一系列建筑方块和装饰 --- DawnOfTimeBuilderEdition
-- 添加了工具皮带以增加快捷性 --- ToolBelt
+- 添加了工具皮带以优化游玩体验 --- ToolBelt
 - 增加了气动工艺以及与机械动力的联动内容 --- PneumaticCraftRepressurized / CompressedCreativity
+- 新增 AnalogueWatchClock、FormidableFoxes、OsShulkers 和 RefinedStorageJappafied 等资源包丰富体验 --- AnalogueWatchClock / FormidableFoxes / OsShulkers / RefinedStorageJappafied
 
 
 ## 修改内容
@@ -22,6 +23,7 @@
 - 调整末地建筑最大生成高度 --- 2032WorldHeightEdit
 - 使用 CreateTrainPerspective 替换 CreateTrainPerspectiveFix --- CreateTrainPerspective
 - 使用 OpenPartiesAndClaims 替换 FtbTeams --- OpenPartiesAndClaims
+- 
 
 
 ## 删除内容
@@ -35,11 +37,15 @@
 
 - 
 
+## 已知问题
+
+- 放入物品展示框的物品取出后无法在物品栏和同类物品合为一组
+
 ## 模组更新
 
 **Adventure | 冒险**
 
-- Friends&Foes --- V2.0.10 -> V2.0.13
+- Friends&Foes --- V2.0.10 -> V2.0.14
 - Friends&FoesBeekeeperHut --- V2.0.0 -> V2.0.1
 - Friends&FoesFloweryMooblooms --- V2.0.1 -> V2.0.2
 - IllagerAdditions --- V0.1.10 -> V0.1.12.5beta
@@ -78,7 +84,7 @@
 - Collective --- V7.62 -> V7.64
 - CreativeCore --- V2.9.4 -> V2.11.28
 - CuriosAPI --- V5.1.6.2 -> V5.1.6.3
-- WaterMedia --- V1.3.43 -> V2.0.66
+- WaterMedia --- V1.3.43 -> V2.0.67
 
 **Magic | 魔法**
 
