@@ -24,7 +24,7 @@
 - 调整末地建筑最大生成高度 --- 2032WorldHeightEdit
 - 使用 CreateTrainPerspective 替换 CreateTrainPerspectiveFix --- CreateTrainPerspective
 - 使用 OpenPartiesAndClaims 替换 FtbTeams --- OpenPartiesAndClaims
-- 
+- 修改部分超模物品合成表 --- Recipes
 
 
 ## 删除内容
