@@ -2,6 +2,7 @@
 [XP] Fast Mapping Delay:250.0
 [XP] Fast Mapping Rate Limit:25.0
 [XP] Fast Zip Writes:true
+[XP] Region Writes While Dim Switched:false
 [XP] Baritone Goal Waypoint:true
 [XP] Disable Waypoint Sharing:false
 [XP] Disable Receiving Waypoints:false
@@ -28,6 +29,7 @@
 [XP] Save/Load Palette NewChunks to Disk:true
 [XP] Palette NewChunks Opacity:100.0
 [XP] Palette NewChunks Color:0
+[XP] Palette NewChunks Inverse:false
 [XP] NewChunks Highlighting:false
 [XP] Save/Load NewChunks to Disk:true
 [XP] New Chunks Opacity:100.0
@@ -53,6 +55,9 @@
 [XP] PortalSkip Search Delay:10.0
 [XP] PortalSkip NewChunks:true
 [XP] PortalSkip OldChunks Inverse:true
+[XP] 2b2t Highways:false
+[XP] 2b2t Highways Color:2
+[XP] 2b2t Highways Opacity:100.0
 [XP] Highlight Regions Without Textures:false
 [XP] Show Render Distance:false
 [XP] Show Render Distance WorldMap:false

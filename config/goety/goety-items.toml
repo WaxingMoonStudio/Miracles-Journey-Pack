@@ -66,6 +66,9 @@
 		warlockRobeWitchNeutral = true
 		#Whether wearing a Nether Robe will cause Witches and Warlocks to be neutral, Default: true
 		netherRobeWitchNeutral = true
+		#If 'necroSetUndeadNeutral' is enabled, the highest max health an Undead mob has to have to be neutral, Default: 50.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		necroSetUndeadNeutralHealth = 50.0
 
 ["Tools & Weapons"]
 

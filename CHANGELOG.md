@@ -13,6 +13,7 @@
 - 增加了一系列建筑方块和装饰 --- DawnOfTimeBuilderEdition
 - 添加了工具皮带以优化游玩体验 --- ToolBelt
 - 增加了气动工艺以及与机械动力的联动内容 --- PneumaticCraftRepressurized / CompressedCreativity
+- 丰富准星动画 --- CrosshairBobbing
 - 新增 AnalogueWatchClock、FormidableFoxes、OsShulkers 和 RefinedStorageJappafied 等资源包丰富体验 --- AnalogueWatchClock / FormidableFoxes / OsShulkers / RefinedStorageJappafied
 
 
@@ -31,6 +32,7 @@
 - 内容单一、不常用  --- TintedCampfires
 - 移除任务系统及附属 --- FTBQuests / QuestsAdditions / ItemFilters / FtbXModCompat
 - 暂时无用、作用不大 --- Item Obliterator / PowerfulJs / SimpleVoiceChat / PetCemetery / SneakyLink
+- 食之无味弃之可惜 --- DoesPotatoTick
 
 
 ## 错误修复
@@ -45,7 +47,7 @@
 
 **Adventure | 冒险**
 
-- Friends&Foes --- V2.0.10 -> V2.0.14
+- Friends&Foes --- V2.0.10 -> V2.0.15
 - Friends&FoesBeekeeperHut --- V2.0.0 -> V2.0.1
 - Friends&FoesFloweryMooblooms --- V2.0.1 -> V2.0.2
 - IllagerAdditions --- V0.1.10 -> V0.1.12.5beta
@@ -59,14 +61,15 @@
 
 - BetterDays --- V3.1.0.4 -> V3.1.0.6
 - ChatHeads --- V0.12.3 -> V0.12.8
+- Embeddium --- V0.3.18 -> V0.3.18.1
 - HarvestWithEase --- V9.0.0.3 -> V9.0.1.0
 - InventoryHUD+ --- V3.4.7 -> V3.4.23
 - ItemPhysicLite --- V1.5.2 -> V1.5.3
-- JustEnoughItems --- V11.6.0.1020 -> V11.6.0.1021
+- JustEnoughItems --- V11.6.0.1020 -> V11.6.0.1024
 - Neruina --- V2.0.0beta10 -> V2.1.0
 - RawsVisualKeybinder --- V0.1.2 -> V0.1.3
 - SoundPhysicsRemastered --- V1.4.2 -> V1.4.5
-- XaeroPlus --- V2.14 -> V2.18
+- XaeroPlus --- V2.14 -> V2.19
 
 **Custom | 魔改**
 
@@ -74,25 +77,25 @@
 
 **Decoration | 装饰**
 
-- CreateCopycats+ --- V1.3.4 -> V1.3.8
+- CreateCopycats+ --- V1.3.4 -> V2.0.2
 - EuphoriaPatches --- V0.3.3 -> V0.3.4
 - MakeBubblesPop --- V0.2.0 -> V0.3.0
-- WaterFrames --- V2.0.10 -> V2.0.11a
+- WaterFrames --- V2.0.10 -> V2.0.12
 
 **Lib | 库**
 
 - Collective --- V7.62 -> V7.64
 - CreativeCore --- V2.9.4 -> V2.11.28
 - CuriosAPI --- V5.1.6.2 -> V5.1.6.3
-- WaterMedia --- V1.3.43 -> V2.0.67
+- WaterMedia --- V1.3.43 -> V2.0.68
 
 **Magic | 魔法**
 
-- Goety --- V2.35.5 -> V2.36.2
+- Goety --- V2.35.5 -> V2.37.0
 - HexCircus --- V1.1.0 -> V1.1.2
-- HexKeys --- V0.1.1 -> V0.1.2
+- HexKeys --- V0.1.1 -> V0.1.3
 - HextendedStaves --- V0.0.1 -> V0.2.0
-- IronsSpellsNSpellbooks --- V3.2.0 -> V3.2.1
+- IronsSpellsNSpellbooks --- V3.2.0 -> V3.3.0
 
 **Technology | 科技**
 
@@ -105,6 +108,7 @@
 - CreateRailwaysNavigator --- V0.5.3beta -> V0.5.4
 - CreateSlice&Dice --- V2.3.2 -> V2.3.3
 - EnderRelay --- V1.0.0 -> V1.1.0
+- TheAetherRedux --- V2.0.16c -> V2.0.17
 - TouhouLittleMaid --- V1.1.9 -> V1.1.11
 
 ## 资源包更新

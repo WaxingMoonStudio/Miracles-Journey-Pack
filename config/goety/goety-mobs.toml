@@ -81,6 +81,14 @@
 			#If Redstone Monstrosities have custom textures, Default: true
 			redstoneMonstrosityTexture = true
 
+		[Textures."Summoned Mobs"."Spider Servants"]
+			#If Spiders Servants have custom textures, Default: true
+			spiderServantTexture = true
+			#If Cave Spiders Servants have custom textures, Default: true
+			caveSpiderServantTexture = true
+			#If Bone Spiders Servants have custom textures, Default: true
+			boneSpiderServantTexture = true
+
 [Servants]
 	#Whether creating a Redstone Golem causes the mold to change blocks, Default: true
 	redstoneGolemMold = true
@@ -203,6 +211,12 @@
 		illagerAssaultLimit = 30000
 		#Hitting the Illager Assault Limit of Soul Energy have a chance of giving Player Bad Omen effect, Default: true
 		soulEnergyBadOmen = true
+		#How many Minecraft days of rest from Illager Assaults are added to Players killed by an Illager, Default: 2
+		#Range: > 0
+		illagerAssaultRestDeath = 2
+		#How many Minecraft days of rest from Illager Assaults the Players have after killing a Minister, Default: 10
+		#Range: > 0
+		illagerAssaultRestMinister = 10
 
 	[Illagers.Raid]
 		#Whether Modded Illagers appears in Raids, Default: true

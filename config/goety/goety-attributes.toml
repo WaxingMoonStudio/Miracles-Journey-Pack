@@ -293,6 +293,9 @@
 			#How much natural Armor Skeleton Servants have, Default: 0.0
 			#Range: 0.0 ~ 1.7976931348623157E308
 			skeletonServantArmor = 0.0
+			#How much extra damage Skeleton Servants range attack deals, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			skeletonServantRangeDamage = 0.0
 
 		[Attributes."Summoned Mobs"."Stray Servant"]
 			#How much Max Health Stray Servants have, Default: 20.0
@@ -304,6 +307,9 @@
 			#How much natural Armor Stray Servants have, Default: 0.0
 			#Range: 0.0 ~ 1.7976931348623157E308
 			strayServantArmor = 0.0
+			#How much extra damage Stray Servants range attack deals, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			strayServantRangeDamage = 0.0
 
 		[Attributes."Summoned Mobs"."Mossy Skeleton Servant"]
 			#How much Max Health Mossy Skeleton Servants have, Default: 20.0
@@ -315,6 +321,9 @@
 			#How much natural Armor Mossy Skeleton Servants have, Default: 0.0
 			#Range: 0.0 ~ 1.7976931348623157E308
 			mossySkeletonServantArmor = 0.0
+			#How much extra damage Mossy Skeleton Servants range attack deals, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			mossySkeletonServantRangeDamage = 0.0
 
 		[Attributes."Summoned Mobs"."Sunken Skeleton Servant"]
 			#How much Max Health Sunken Skeleton Servants have, Default: 20.0
@@ -326,6 +335,9 @@
 			#How much natural Armor Sunken Skeleton Servants have, Default: 0.0
 			#Range: 0.0 ~ 1.7976931348623157E308
 			sunkenSkeletonServantArmor = 0.0
+			#How much extra damage Sunken Skeleton Servants range attack deals, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			sunkenSkeletonServantRangeDamage = 0.0
 
 		[Attributes."Summoned Mobs"."Vanguard Servant"]
 			#How much Max Health Vanguard Servants have, Default: 20.0
@@ -348,6 +360,9 @@
 			#How much natural Armor Skeleton Pillagers have, Default: 0.0
 			#Range: 0.0 ~ 1.7976931348623157E308
 			skeletonPillagerArmor = 0.0
+			#How much extra damage Skeleton Pillagers range attack deals, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			skeletonPillagerRangeDamage = 0.0
 
 		[Attributes."Summoned Mobs"."Zombie Vindicator"]
 			#How much Max Health Zombie Vindicators have, Default: 24.0
@@ -541,6 +556,9 @@
 			#How much damage Wither Skeleton Servants deals, Default: 4.0
 			#Range: 1.0 ~ 1.7976931348623157E308
 			witherSkeletonServantDamage = 4.0
+			#How much extra damage Wither Skeleton Servants range attack deals, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			witherSkeletonServantRangeDamage = 0.0
 
 		[Attributes."Summoned Mobs"."Bound Iceologer"]
 			#How much Max Health Bound Iceologers have, Default: 20.0
@@ -583,6 +601,60 @@
 			#Range: 1.0 ~ 1.7976931348623157E308
 			bearServantDamage = 6.0
 
+		[Attributes."Summoned Mobs"."Spider Servant"]
+			#How much Max Health Spider Servants have, Default: 16.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			spiderServantHealth = 16.0
+			#How much damage Spider Servants melee attack deals, Default: 2.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			spiderServantDamage = 2.0
+
+		[Attributes."Summoned Mobs"."Cave Spider Servant"]
+			#How much Max Health Cave Spider Servants have, Default: 12.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			caveSpiderServantHealth = 12.0
+			#How much damage Cave Spider Servants melee attack deals, Default: 2.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			caveSpiderServantDamage = 2.0
+
+		[Attributes."Summoned Mobs"."Web Spider Servant"]
+			#How much Max Health Web Spider Servants have, Default: 16.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			webSpiderServantHealth = 16.0
+			#How much damage Web Spider Servants melee attack deals, Default: 2.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			webSpiderServantDamage = 2.0
+
+		[Attributes."Summoned Mobs"."Icy Spider Servant"]
+			#How much Max Health Icy Spider Servants have, Default: 16.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			icySpiderServantHealth = 16.0
+			#How much damage Icy Spider Servants melee attack deals, Default: 2.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			icySpiderServantDamage = 2.0
+
+		[Attributes."Summoned Mobs"."Bone Spider Servant"]
+			#How much Max Health Bone Spider Servants have, Default: 32.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			boneSpiderServantHealth = 32.0
+			#How much damage Bone Spider Servants melee attack deals, Default: 3.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			boneSpiderServantDamage = 3.0
+			#How much extra damage Bone Spider Servants range attack deals, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			boneSpiderServantRangeDamage = 0.0
+
+		[Attributes."Summoned Mobs"."Hoglin Servant"]
+			#How much Max Health Hoglin Servants have, Default: 40.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			hoglinServantHealth = 40.0
+			#How much natural Armor Hoglin Servants have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			hoglinServantArmor = 0.0
+			#How much damage Hoglin Servants melee attack deals, Default: 6.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			hoglinServantDamage = 6.0
+
 	[Attributes.Mini-Bosses]
 
 		[Attributes.Mini-Bosses.Crone]
@@ -599,7 +671,7 @@
 			ministerDamage = 5.0
 
 		[Attributes.Mini-Bosses."Skull Lord"]
-			#How much Max Health Skull Lord have, Default: 100.0
+			#How much Max Health Skull Lord have, Default: 150.0
 			#Range: 1.0 ~ 1.7976931348623157E308
 			skullLordHealth = 100.0
 			#How much damage Skull Lord deals, Default: 6.0

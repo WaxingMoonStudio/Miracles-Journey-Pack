@@ -87,6 +87,8 @@
 	pithosRespawn = true
 	#Allow used Crystal Balls to spawn Crones again when right-clicked with respawn_boss tagged item, Default: true
 	crystalBallRespawn = true
+	#Whether enchanting through Rituals are enabled, Default: true
+	ritualEnchants = true
 
 ["Soul Taken"]
 	#Multiplies the amount of Souls taken by this amount, Default: 2
@@ -140,7 +142,7 @@
 	lichUndeadFriendly = true
 	#Enable to make Liches 85% more resistant to Magic Attacks, Default: false
 	lichMagicResist = false
-	#If Lich Undead Friendly is set to true, Only undead that have lower than 50 Hearts are friendly, Default: true
+	#If Lich Undead Friendly is set to true, Only undead that have lower than 'lichPowerfulFoesHealth' max health are friendly, Default: true
 	lichPowerfulHostile = true
 	#If Villagers provide negative Reputation to Liches and non-Player Iron Golems are automatically aggressive against them, Default: true
 	lichVillagerHate = true
@@ -154,10 +156,15 @@
 	lichModeSounds = true
 	#If Liches bare-handed attacks inflicts negative effects, Default: true
 	lichTouch = true
+	#If 'lichPowerfulHostile' is enabled, the highest max health an Undead mob can be without being hostile, Default: 100.0
+	#Range: 0.0 ~ 1.7976931348623157E308
+	lichPowerfulFoesHealth = 100.0
 
 ["Mod Compatibility"]
 	#If L_Ender Cataclysm is installed, certain loots are modified and change between this and the latter mod. Default: true
 	cataclysmLootCompat = true
 	#If Iron's Spells and Spellbooks is installed, certain robes provides Spell resistances. Default: true
 	robesIronResist = true
+	#If Iron's Spells and Spellbooks is installed, certain curios provides Spell buffs. Default: true
+	ironBuff = true
 
