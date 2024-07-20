@@ -14,6 +14,8 @@
 - 添加了工具皮带以优化游玩体验 --- ToolBelt
 - 增加了气动工艺以及与机械动力的联动内容 --- PneumaticCraftRepressurized / CompressedCreativity
 - 丰富准星动画 --- CrosshairBobbing
+- 新增建筑小帮手便利建筑玩家 --- BuildingGadgets
+- 新增休憩营火 --- CampfireResting
 - 新增 AnalogueWatchClock、FormidableFoxes、OsShulkers 和 RefinedStorageJappafied 等资源包丰富体验 --- AnalogueWatchClock / FormidableFoxes / OsShulkers / RefinedStorageJappafied
 
 
@@ -25,6 +27,7 @@
 - 使用 CreateTrainPerspective 替换 CreateTrainPerspectiveFix --- CreateTrainPerspective
 - 使用 OpenPartiesAndClaims 替换 FtbTeams --- OpenPartiesAndClaims
 - 修改部分超模物品合成表 --- Recipes
+- 默认开启，关闭玩家下落动画 --- ParCool
 
 
 ## 删除内容
@@ -33,15 +36,13 @@
 - 移除任务系统及附属 --- FTBQuests / QuestsAdditions / ItemFilters / FtbXModCompat
 - 暂时无用、作用不大 --- Item Obliterator / PowerfulJs / SimpleVoiceChat / PetCemetery / SneakyLink
 - 食之无味弃之可惜 --- DoesPotatoTick
+- 不符合植物魔法设计的初衷 --- BotanicalMachinery
+- 与 Armor&DamageScaling 功能重复 --- ArmorCurve
 
 
 ## 错误修复
 
-- 
-
-## 已知问题
-
-- 放入物品展示框的物品取出后无法在物品栏和同类物品合为一组
+- 睡觉时时钟不转动 --- BetterDays
 
 ## 模组更新
 
@@ -50,7 +51,7 @@
 - Friends&Foes --- V2.0.10 -> V2.0.15
 - Friends&FoesBeekeeperHut --- V2.0.0 -> V2.0.1
 - Friends&FoesFloweryMooblooms --- V2.0.1 -> V2.0.2
-- IllagerAdditions --- V0.1.10 -> V0.1.12.5beta
+- IllagerAdditions --- V0.1.10 -> V0.1.13.5fix
 - LEndersCataclysm --- V1.99.2 -> V1.99.6
 
 **Agriculture | 农业**
@@ -67,7 +68,7 @@
 - ItemPhysicLite --- V1.5.2 -> V1.5.3
 - JustEnoughItems --- V11.6.0.1020 -> V11.6.0.1024
 - Neruina --- V2.0.0beta10 -> V2.1.0
-- RawsVisualKeybinder --- V0.1.2 -> V0.1.3
+- RawsVisualKeybinder --- V0.1.2 -> V0.1.5
 - SoundPhysicsRemastered --- V1.4.2 -> V1.4.5
 - XaeroPlus --- V2.14 -> V2.19
 
@@ -77,10 +78,10 @@
 
 **Decoration | 装饰**
 
-- CreateCopycats+ --- V1.3.4 -> V2.0.2
+- CreateCopycats+ --- V1.3.4 -> V2.0.4
 - EuphoriaPatches --- V0.3.3 -> V0.3.4
 - MakeBubblesPop --- V0.2.0 -> V0.3.0
-- WaterFrames --- V2.0.10 -> V2.0.12
+- WaterFrames --- V2.0.10 -> V2.0.14
 
 **Lib | 库**
 

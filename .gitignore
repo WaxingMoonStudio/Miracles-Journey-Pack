@@ -55,6 +55,8 @@
 /GraalvmJDK21/LICENSE.txt
 /GraalvmJDK21/release
 
+/keybinding presets
+
 # /kubejs - 部分
 /kubejs/assets/ponderjs_generated
 /kubejs/probe
