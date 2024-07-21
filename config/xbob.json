@@ -5,6 +5,6 @@
   "aim": false,
   "eat": true,
   "atk": true,
-  "xbow": true,
+  "xbow": false,
   "sneak": true
 }

@@ -130,7 +130,7 @@
 	"Hollow Logs" = true
 	Midori = true
 	"Rainbow Lamps" = true
-	"Vertical Slabs" = true
+	"Vertical Slabs" = false
 	Shingles = true
 	"Sturdy Stone" = true
 	Stools = true
@@ -534,7 +534,7 @@
 
 [tweaks]
 	"Gold Tools Have Fortune" = true
-	"Automatic Recipe Unlock" = false
+	"Automatic Recipe Unlock" = true
 	"Utility Recipes" = false
 	"Poison Potato Usage" = true
 	"Better Elytra Rocket" = false
@@ -1341,7 +1341,7 @@
 	Wraith = true
 	Crabs = true
 	Forgotten = true
-	Shiba = true
+	Shiba = false
 	Stonelings = true
 	Toretoise = true
 

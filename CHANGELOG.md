@@ -15,7 +15,10 @@
 - 增加了气动工艺以及与机械动力的联动内容 --- PneumaticCraftRepressurized / CompressedCreativity
 - 丰富准星动画 --- CrosshairBobbing
 - 新增建筑小帮手便利建筑玩家 --- BuildingGadgets
-- 新增休憩营火 --- CampfireResting
+- 丰富半砖、楼梯放置逻辑 --- AdditionalPlacements
+- 新增冬季系列物品 --- SnowySpirit
+- 美化 F3 界面 --- BetterF3
+- 新增一系列兼容数据包丰富天空村庄 --- SkyVillagesFarmersDelightCompat / SkyVillagesLetsDoBakeryCompat / SkyVillagesLetsDoBeachpartyCompat / SkyVillagesLetsDoBreweryCompat / SkyVillagesLetsDoCandlelightCompat / SkyVillagesLetsDoVineryCompat / SkyVillagesSupplementariesCompat / SkyVillagesTheGraveyardCompat / SkyVillagesWaystonesCompat
 - 新增 AnalogueWatchClock、FormidableFoxes、OsShulkers 和 RefinedStorageJappafied 等资源包丰富体验 --- AnalogueWatchClock / FormidableFoxes / OsShulkers / RefinedStorageJappafied
 
 
@@ -28,6 +31,8 @@
 - 使用 OpenPartiesAndClaims 替换 FtbTeams --- OpenPartiesAndClaims
 - 修改部分超模物品合成表 --- Recipes
 - 默认开启，关闭玩家下落动画 --- ParCool
+- 调整自然罗盘 UI 位置 --- NaturesCompass
+- 禁用柴犬生成，有望恢复原版狼生成几率 --- Quark
 
 
 ## 删除内容
@@ -38,6 +43,7 @@
 - 食之无味弃之可惜 --- DoesPotatoTick
 - 不符合植物魔法设计的初衷 --- BotanicalMachinery
 - 与 Armor&DamageScaling 功能重复 --- ArmorCurve
+- 与 AdditionalPlacements 冲突 --- KleeSlabs / BridgingMod
 
 
 ## 错误修复
@@ -78,7 +84,7 @@
 
 **Decoration | 装饰**
 
-- CreateCopycats+ --- V1.3.4 -> V2.0.4
+- CreateCopycats+ --- V1.3.4 -> V2.0.5
 - EuphoriaPatches --- V0.3.3 -> V0.3.4
 - MakeBubblesPop --- V0.2.0 -> V0.3.0
 - WaterFrames --- V2.0.10 -> V2.0.14
