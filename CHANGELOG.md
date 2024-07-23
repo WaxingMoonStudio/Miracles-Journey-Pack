@@ -34,6 +34,7 @@
 - 调整自然罗盘 UI 位置 --- NaturesCompass
 - 禁用柴犬生成，有望恢复原版狼生成几率 --- Quark
 - 汉化、修改终末之诗 --- EndPoem
+- 升级 Forge 至最新版本 43.4.2 --- Forge
 
 
 ## 删除内容
