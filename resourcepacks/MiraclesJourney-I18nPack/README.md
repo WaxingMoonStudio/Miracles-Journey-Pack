@@ -26,13 +26,13 @@
 
 魔改类 --- 20 / 20 | ✅：20 / ❗：0 / ❕：0 | 汉化率：**100**%
 
-装饰类 --- 57 / 57 | ✅：53 / ❗：2 / ❕：2 | 汉化率：**92.98**%
+装饰类 --- 57 / 57 | ✅：55 / ❗：2 / ❕：0 | 汉化率：**96.49**%
 
 Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 
 魔法类 --- 28 / 28 | ✅：26 / ❗：2 / ❕：0 | 汉化率：**92.86**%
 
-科技类 --- 21 / 21 | ✅：16 / ❗：4 / ❕：1 | 汉化率：**76.19**%
+科技类 --- 21 / 21 | ✅：17 / ❗：4 / ❕：0 | 汉化率：**80.95**%
 
 实用类 --- 99 / 99 | ✅：81 / ❗：7 / ❕：11 | 汉化率：**81.82**%
 
@@ -380,7 +380,7 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Custom][StarterKit]✅
 ```
 
-装饰类 --- 57 / 57 | ✅：53 / ❗：2 / ❕：2 | 汉化率：**92.98**%
+装饰类 --- 57 / 57 | ✅：55 / ❗：2 / ❕：0 | 汉化率：**96.49**%
 
 ```
 [Decoration][AmbientEnvironment]✅
@@ -415,7 +415,7 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Decoration][MacawsWindows]✅
 [Decoration][MakeBubblesPop]✅
 [Decoration][MedievalPaintings]✅
-[Decoration][MoreAxolotlVariantsMod]❕
+[Decoration][MoreAxolotlVariantsMod]✅
 [Decoration][MrCrayfishsFurnitureMod]✅
 [Decoration][MultiBeds]❗
 [Decoration][Paintings++]✅
@@ -435,7 +435,7 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Decoration][VerdantVibes]✅
 [Decoration][VisualityReforged]✅
 [Decoration][Wabi-SabiStructures]✅
-[Decoration][YUNGsBetterMineshafts]❕
+[Decoration][YUNGsBetterMineshafts]✅
 [Decoration][YUNGsBridges]✅
 [Decoration][YuushyaModelling]✅
 [Decoration][YuushyaTownscape]✅
@@ -553,7 +553,7 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Magic][Vitalize]✅
 ```
 
-科技类 --- 21 / 21 | ✅：16 / ❗：4 / ❕：1 | 汉化率：**76.19**%
+科技类 --- 21 / 21 | ✅：17 / ❗：4 / ❕：0 | 汉化率：**80.95**%
 
 ```
 [Technology][AdvancedPeripherals]✅
@@ -573,7 +573,7 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Technology][ImmersiveEngineering]❗
 [Technology][ManOfManyPlanes]✅
 [Technology][MoreImmersiveWires]✅
-[Technology][MorePeripherals]❕
+[Technology][MorePeripherals]✅
 [Technology][RebornStorage]✅
 [Technology][RefinedStorage]✅
 [Technology][RefinedStorageAddons]✅

@@ -17,7 +17,7 @@ for /D %%i in (*) do (
 )
 
 REM 下载并解压缩文件
-SET URL=https://proxy.qianfuv.fun/proxy/https://github.com/QianFuv/Miracles-Journey/archive/refs/heads/i18n.zip
+SET URL=https://proxy.qianfuv.fun/proxy/https://github.com/WaxingMoonStudio/Miracles-Journey-I18n/archive/refs/heads/main.zip
 SET FILENAME=Miracles-Journey-i18n.zip
 SET FOLDER=Miracles-Journey-i18n-unzipped
 

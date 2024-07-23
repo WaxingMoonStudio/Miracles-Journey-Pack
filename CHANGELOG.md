@@ -1,4 +1,4 @@
-# BetaV0.1.2 开发日志
+# BetaV0.1.2 更新日志
 
 ## 新增内容
 
@@ -33,6 +33,7 @@
 - 默认开启，关闭玩家下落动画 --- ParCool
 - 调整自然罗盘 UI 位置 --- NaturesCompass
 - 禁用柴犬生成，有望恢复原版狼生成几率 --- Quark
+- 汉化、修改终末之诗 --- EndPoem
 
 
 ## 删除内容
@@ -68,9 +69,10 @@
 
 - BetterDays --- V3.1.0.4 -> V3.1.0.6
 - ChatHeads --- V0.12.3 -> V0.12.8
+- CustomSkinLoader --- V14.19.1 -> V14.20.0
 - Embeddium --- V0.3.18 -> V0.3.18.1
 - HarvestWithEase --- V9.0.0.3 -> V9.0.1.0
-- InventoryHUD+ --- V3.4.7 -> V3.4.23
+- InventoryHUD+ --- V3.4.7 -> V3.4.24
 - ItemPhysicLite --- V1.5.2 -> V1.5.3
 - JustEnoughItems --- V11.6.0.1020 -> V11.6.0.1024
 - Neruina --- V2.0.0beta10 -> V2.1.0
@@ -84,6 +86,7 @@
 
 **Decoration | 装饰**
 
+- ArmourersWorkshop --- V3.0.0beta9 -> V3.0.0beta10
 - CreateCopycats+ --- V1.3.4 -> V2.0.5
 - EuphoriaPatches --- V0.3.3 -> V0.3.4
 - MakeBubblesPop --- V0.2.0 -> V0.3.0
@@ -112,9 +115,11 @@
 
 **Utility | 实用**
 
+- CreateBigCannons --- V0.5.4 -> V5.5.0
 - CreateRailwaysNavigator --- V0.5.3beta -> V0.5.4
 - CreateSlice&Dice --- V2.3.2 -> V2.3.3
 - EnderRelay --- V1.0.0 -> V1.1.0
+- SimpleHats --- V0.3.0 -> V0.3.1
 - TheAetherRedux --- V2.0.16c -> V2.0.17
 - TouhouLittleMaid --- V1.1.9 -> V1.1.11
 
