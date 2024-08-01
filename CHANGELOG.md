@@ -3,7 +3,6 @@
 > Todo：
 >
 > - [ ] 编写各分类指导书
-> - [x] JVM 性能调优
 > - [ ] Complementary 矿石发光配置
 > - [x] 调整整合包加载页面和主页
 
@@ -16,7 +15,7 @@
 
 - 焕新加载页面和主页 --- FancyMenu
 - 更换游戏图标 --- FancyMenu
-- 优化 JVM 参数 --- Java
+- 更新启动器 --- PCL
 
 
 ## 删除内容
@@ -43,15 +42,19 @@
 **Assist | 辅助**
 
 - Iris&OculusFlywheelCompat --- V0.2.1 -> V1.0.0
+- Neruina --- V2.1.0 -> V2.1.1
 - XaeroPlus --- V2.19 -> V2.20
 
 **Custom | 魔改**
 
+- KubeJsDelight --- V1.1 -> V1.1.2
 - KubeJsIronsSpells --- V2.0.1 -> V3.0.0
 
 **Decoration | 装饰**
 
-- 
+- ArmourersWorkshop --- V3.0.0beta10 -> V3.0.0beta12
+- CreateEncased --- V1.6.1 -> V1.6.1fix1
+- StorageDelight --- V1.1.1 -> V24.8.1
 
 **Lib | 库**
 
@@ -67,7 +70,7 @@
 
 **Utility | 实用**
 
-- 
+- CreateBigCannons --- V5.5.0 -> V5.5.1build66
 
 ## 资源包更新
 

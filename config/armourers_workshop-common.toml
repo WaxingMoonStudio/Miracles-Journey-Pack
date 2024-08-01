@@ -118,8 +118,4 @@
 	#example1: "jdbc:mysql://<localhost>[:3306]/<database>[?user=<username>][&password=<password>]"
 	#example2: "jdbc:sqlite://</path/name.db>"
 	skin = ""
-	#Save/Load wardrobe data for the database.
-	#example1: "jdbc:mysql://<localhost>[:3306]/<database>[?user=<username>][&password=<password>]"
-	#example2: "jdbc:sqlite://</path/name.db>"
-	wardrobe = ""
 
