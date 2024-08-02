@@ -8,7 +8,8 @@
 
 ## 新增内容
 
-- 
+- 修复了 MC-251744，使数据包能够自定义配置幼苗和蘑菇的生长 --- ConfiguredFeatureSaplingsForgified
+- 增加了部分模组之间的联动性 --- BlendedCompat
 
 
 ## 修改内容
@@ -20,7 +21,8 @@
 
 ## 删除内容
 
-- 
+- 依赖关系导致崩溃 --- KubeJsIronsSpells
+- 用途较小 --- WaxableCoral
 
 
 ## 错误修复
@@ -43,7 +45,7 @@
 
 - Iris&OculusFlywheelCompat --- V0.2.1 -> V1.0.0
 - Neruina --- V2.1.0 -> V2.1.1
-- XaeroPlus --- V2.19 -> V2.20
+- XaeroPlus --- V2.19 -> V2.21.1
 
 **Custom | 魔改**
 
@@ -53,6 +55,7 @@
 **Decoration | 装饰**
 
 - ArmourersWorkshop --- V3.0.0beta10 -> V3.0.0beta12
+- CreateCopycats+ --- V2.0.5 -> V2.1.0
 - CreateEncased --- V1.6.1 -> V1.6.1fix1
 - StorageDelight --- V1.1.1 -> V24.8.1
 
@@ -66,7 +69,7 @@
 
 **Technology | 科技**
 
-- 
+- CreateVintageImprovements --- V0.1.6.0 -> V0.2.0.0
 
 **Utility | 实用**
 
