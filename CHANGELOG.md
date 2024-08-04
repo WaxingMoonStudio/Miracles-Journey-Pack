@@ -3,13 +3,13 @@
 > Todo：
 >
 > - [ ] 编写各分类指导书
-> - [ ] Complementary 矿石发光配置
 > - [x] 调整整合包加载页面和主页
 
 ## 新增内容
 
 - 修复了 MC-251744，使数据包能够自定义配置幼苗和蘑菇的生长 --- ConfiguredFeatureSaplingsForgified
 - 增加了部分模组之间的联动性 --- BlendedCompat
+- 美化原版花丛 --- BushierFlowers
 
 
 ## 修改内容
@@ -23,6 +23,7 @@
 
 - 依赖关系导致崩溃 --- KubeJsIronsSpells
 - 用途较小 --- WaxableCoral
+- 潜在的性能影响 --- AiImprovements
 
 
 ## 错误修复
@@ -43,8 +44,10 @@
 
 **Assist | 辅助**
 
-- Iris&OculusFlywheelCompat --- V0.2.1 -> V1.0.0
+- Iris&OculusFlywheelCompat --- V0.2.1 -> V1.0.1
+- ModpackUpdateChecker --- V0.13.0 -> V0.13.1
 - Neruina --- V2.1.0 -> V2.1.1
+- Raised --- V3.1.3 -> V4.0.0
 - XaeroPlus --- V2.19 -> V2.21.1
 
 **Custom | 魔改**
@@ -55,13 +58,15 @@
 **Decoration | 装饰**
 
 - ArmourersWorkshop --- V3.0.0beta10 -> V3.0.0beta12
-- CreateCopycats+ --- V2.0.5 -> V2.1.0
+- CreateCopycats+ --- V2.0.5 -> V2.1.2
 - CreateEncased --- V1.6.1 -> V1.6.1fix1
+- MacawsWindows --- V2.2.1 -> V2.3.0
 - StorageDelight --- V1.1.1 -> V24.8.1
 
 **Lib | 库**
 
 - MoonlightLib --- V2.3.6 -> V2.3.7
+- WaterMedia --- V2.0.68 -> V2.0.69
 
 **Magic | 魔法**
 
@@ -74,6 +79,7 @@
 **Utility | 实用**
 
 - CreateBigCannons --- V5.5.0 -> V5.5.1build66
+- MusicMakerMod --- V1.1.0 -> V1.1.1
 
 ## 资源包更新
 
