@@ -17,6 +17,7 @@
 - 焕新加载页面和主页 --- FancyMenu
 - 更换游戏图标 --- FancyMenu
 - 更新启动器 --- PCL
+- 使用 StardewFishing 替换钓鱼小游戏 FishingMinigame --- StardewFishing
 
 
 ## 删除内容
