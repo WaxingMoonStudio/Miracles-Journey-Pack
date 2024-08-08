@@ -11,6 +11,10 @@
 	summonDown = true
 	#Whether Servants are killed/dismissed by hitting them while crouching, put false to make them change by right-clicking on them while crouching, Default: true
 	ownerHitKill = true
+	#Spells cost double soul cost if enchanted, Default: true
+	enchantMultiCost = true
+	#Certain spells can damage the Ender Dragon, Default: true
+	spellDamageEnderDragon = true
 
 [Spells]
 
@@ -81,6 +85,9 @@
 		#Osseous Spell Summon Down, Default: 120
 		#Range: 0 ~ 72000
 		skeletonSummonDown = 280
+		#Number of Skeleton Servants that an individual player can have in total, Default: 32
+		#Range: > 1
+		skeletonLimit = 32
 
 	[Spells."Spooky Spell"]
 		#Spooky Spell Cost, Default: 24
@@ -112,6 +119,9 @@
 		#Vanguard Spell Summon Down, Default: 300
 		#Range: 0 ~ 72000
 		vanguardSummonDown = 300
+		#Number of Vanguard Servants that an individual player can have in total, Default: 16
+		#Range: > 1
+		vanguardLimit = 16
 
 	[Spells."Skull Spell"]
 		#Skull Spell Cost, Default: 16
@@ -990,10 +1000,18 @@
 		#Range: > 1
 		maulingLimit = 8
 
+	[Spells."Ignite Spell"]
+		#Ignite Spell Cost, Default: 2
+		#Range: > 0
+		igniteCost = 2
+		#Ignite Spell Cooldown, Default: 10
+		#Range: > 0
+		igniteCoolDown = 10
+		#How many seconds Ignite Spell sets target on fire unenchanted, Default: 5
+		#Range: > 1
+		igniteFireSeconds = 5
+
 ["Servant Limits"]
-	#Number of Skeleton/Vanguard/Necromancer Servants that an individual player can have in total, Default: 32
-	#Range: > 1
-	skeletonLimit = 32
 	#Total number of Redstone Golems an individual player can have, Default: 2
 	#Range: > 0
 	redstoneGolemLimit = 2
@@ -1009,6 +1027,12 @@
 	#Total number of Redstone Monstrosities an individual player can have, Default: 1
 	#Range: > 0
 	redstoneMonstrosityPlayerLimit = 1
+	#Number of Necromancer Servants that an individual player can have in total, Default: 8
+	#Range: > 1
+	necromancerLimit = 8
+	#Number of Black Beast Servants that an individual player can have in total, Default: 2
+	#Range: > 1
+	blackBeastLimit = 2
 
 [Enchantments]
 	#Soul Eater Maximum Enchantment Level, Default: 5

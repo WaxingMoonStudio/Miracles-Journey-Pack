@@ -2,7 +2,7 @@
 
 > Todo：
 >
-> - [ ] 编写各分类指导书
+> - [ ] 编写指引书
 > - [x] 调整整合包加载页面和主页
 
 ## 新增内容
@@ -40,13 +40,15 @@
 **Agriculture | 农业**
 
 - ChatHeads --- V0.12.8 -> V0.12.9
-- CreateGarnished --- V1.8.7 -> V1.9.5
+- CreateGarnished --- V1.8.7 -> V1.9.6
 - RavenCoffee --- V0.5.0 -> V0.5.1
 
 **Assist | 辅助**
 
-- Iris&OculusFlywheelCompat --- V0.2.1 -> V1.0.1
-- ModpackUpdateChecker --- V0.13.0 -> V0.13.1
+- ChatHeads --- V0.12.9 -> V0.12.10
+- CrosshairBobbing --- V1.7 -> V1
+- Iris&OculusFlywheelCompat --- V0.2.1 -> V1.0.2
+- ModpackUpdateChecker --- V0.13.0 -> V0.14.0
 - Neruina --- V2.1.0 -> V2.1.1
 - Raised --- V3.1.3 -> V4.0.0
 - XaeroPlus --- V2.19 -> V2.21.1
@@ -58,7 +60,7 @@
 
 **Decoration | 装饰**
 
-- ArmourersWorkshop --- V3.0.0beta10 -> V3.0.0beta12
+- ArmourersWorkshop --- V3.0.0beta10 -> V3.0.0beta13
 - CreateCopycats+ --- V2.0.5 -> V2.1.2
 - CreateEncased --- V1.6.1 -> V1.6.1fix1
 - MacawsWindows --- V2.2.1 -> V2.3.0
@@ -71,7 +73,7 @@
 
 **Magic | 魔法**
 
-- 
+- Goety --- V2.37.0 -> V2.38.0
 
 **Technology | 科技**
 
@@ -79,8 +81,9 @@
 
 **Utility | 实用**
 
-- CreateBigCannons --- V5.5.0 -> V5.5.1build66
+- CreateBigCannons --- V5.5.0 -> V5.5.1
 - MusicMakerMod --- V1.1.0 -> V1.1.1
+- SimpleHats --- V0.3.1 -> V0.3.2
 
 ## 资源包更新
 

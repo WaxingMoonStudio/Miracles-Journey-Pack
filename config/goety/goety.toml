@@ -89,6 +89,10 @@
 	crystalBallRespawn = true
 	#Whether enchanting through Rituals are enabled, Default: true
 	ritualEnchants = true
+	#Whether creating items through Rituals will transfer enchantments from the original item, Default: true
+	ritualCraftEnchant = true
+	#Whether creating items through Rituals will transfer damage from the original item, Default: false
+	ritualCraftDamage = false
 
 ["Soul Taken"]
 	#Multiplies the amount of Souls taken by this amount, Default: 2
@@ -159,6 +163,8 @@
 	#If 'lichPowerfulHostile' is enabled, the highest max health an Undead mob can be without being hostile, Default: 100.0
 	#Range: 0.0 ~ 1.7976931348623157E308
 	lichPowerfulFoesHealth = 100.0
+	#Whether players lose their lichdom if their Arca is removed, Default: true
+	lichArcaRemove = true
 
 ["Mod Compatibility"]
 	#If L_Ender Cataclysm is installed, certain loots are modified and change between this and the latter mod. Default: true
