@@ -1,10 +1,5 @@
 # BetaV0.1.3 开发日志
 
-> Todo：
->
-> - [ ] 编写指引书
-> - [x] 调整整合包加载页面和主页
-
 ## 新增内容
 
 - 修复了 MC-251744，使数据包能够自定义配置幼苗和蘑菇的生长 --- ConfiguredFeatureSaplingsForgified
@@ -35,7 +30,8 @@
 
 **Adventure | 冒险**
 
-- 
+- Friends&Foes --- V2.0.15 -> V2.0.16
+- Villages&Pillages --- V1.0.0 -> V1.0.1
 
 **Agriculture | 农业**
 
@@ -46,9 +42,11 @@
 **Assist | 辅助**
 
 - ChatHeads --- V0.12.9 -> V0.12.10
-- CrosshairBobbing --- V1.7 -> V1
+- CreateTrainPerspective --- V0.5.0 -> V0.6.1
+- CrosshairBobbing --- V1.7 -> V1.9
+- ImmediatelyFast --- V1.2.18 -> V1.2.20
 - Iris&OculusFlywheelCompat --- V0.2.1 -> V1.0.2
-- ModpackUpdateChecker --- V0.13.0 -> V0.14.0
+- ModpackUpdateChecker --- V0.13.0 -> V0.15.2
 - Neruina --- V2.1.0 -> V2.1.1
 - Raised --- V3.1.3 -> V4.0.0
 - XaeroPlus --- V2.19 -> V2.21.1
@@ -73,11 +71,13 @@
 
 **Magic | 魔法**
 
-- Goety --- V2.37.0 -> V2.38.0
+- Botania --- V440 -> V440.2
+- Goety --- V2.37.0 -> V2.38.1
+- IronsSpellsNSpellbooks --- V3.3.0 -> V3.4.0
 
 **Technology | 科技**
 
-- CreateVintageImprovements --- V0.1.6.0 -> V0.2.0.0
+- CreateVintageImprovements --- V0.1.6.0 -> V0.2.0.2
 
 **Utility | 实用**
 
