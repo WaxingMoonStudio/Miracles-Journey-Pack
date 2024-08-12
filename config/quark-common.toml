@@ -121,7 +121,7 @@
 	Rope = true
 	"Celebratory Lamps" = true
 	"Soul Sandstone" = true
-	"Variant Chests" = true
+	"Variant Chests" = false
 	"Leaf Carpet" = true
 	"Framed Glass" = true
 	"Vertical Planks" = true
