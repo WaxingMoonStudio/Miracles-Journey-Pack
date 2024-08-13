@@ -7,6 +7,7 @@
 - 美化原版花丛 --- BushierFlowers
 - 用机械动力的力量让玩家重返星空 --- CreateNorthstar
 - 以黑魔法、死灵法和灵魂操控为主题的魔法模组 --- EidolonRebrewed
+- 优化资源包重载逻辑 --- 0Pack2Reload
 
 
 ## 修改内容
@@ -26,6 +27,7 @@
 - 潜在的性能影响 --- AiImprovements
 - 现有附魔系统不需要祛魔方法 --- Disenchanting
 - 在游戏中展示面不大 --- VariantCraftingTables
+- 对于玩家无用 --- Spark
 
 
 ## 错误修复
