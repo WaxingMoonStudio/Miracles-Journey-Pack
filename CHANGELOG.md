@@ -8,6 +8,8 @@
 - 用机械动力的力量让玩家重返星空 --- CreateNorthstar
 - 以黑魔法、死灵法和灵魂操控为主题的魔法模组 --- EidolonRebrewed
 - 优化资源包重载逻辑 --- 0Pack2Reload
+- 优化按钮声音 --- SatisfyingButtons
+- 优化战斗方式 --- BetterCombat / TetraticCombat
 
 
 ## 修改内容
@@ -27,12 +29,14 @@
 - 潜在的性能影响 --- AiImprovements
 - 现有附魔系统不需要祛魔方法 --- Disenchanting
 - 在游戏中展示面不大 --- VariantCraftingTables
-- 对于玩家无用 --- Spark
+- 对于玩家无用 --- Spark / LogBegone
+- 导致玩家 GUI 物品错位 --- Raised
+- 与 ModernFix 部分功能重复 --- SmoothBootReloaded
 
 
 ## 错误修复
 
-- 
+- 暂无
 
 ## 模组更新
 
@@ -57,7 +61,7 @@
 - ModpackUpdateChecker --- V0.13.0 -> V0.15.2
 - Neruina --- V2.1.0 -> V2.1.1
 - Raised --- V3.1.3 -> V4.0.0
-- XaeroPlus --- V2.19 -> V2.21.1
+- XaeroPlus --- V2.19 -> V2.22
 
 **Custom | 魔改**
 
@@ -66,7 +70,7 @@
 
 **Decoration | 装饰**
 
-- ArmourersWorkshop --- V3.0.0beta10 -> V3.0.0beta13
+- ArmourersWorkshop --- V3.0.0beta10 -> V3.0.0beta14
 - CreateCopycats+ --- V2.0.5 -> V2.1.2
 - CreateEncased --- V1.6.1 -> V1.6.1fix1
 - LimitlessConcert --- V1.2.3 -> V1.9.1
@@ -75,6 +79,7 @@
 
 **Lib | 库**
 
+- Framework --- V0.6.16 -> V0.7.9
 - MoonlightLib --- V2.3.6 -> V2.3.7
 - WaterMedia --- V2.0.68 -> V2.0.70
 
@@ -93,15 +98,16 @@
 - CreateBigCannons --- V5.5.0 -> V5.5.1
 - MusicMakerMod --- V1.1.0 -> V1.1.1
 - SimpleHats --- V0.3.1 -> V0.3.2
+- StorageDrawers --- V11.1.2 -> V11.4.0
 
 ## 资源包更新
 
-- 
+- 暂无
 
 ## 数据包更新
 
-- 
+- 暂无
 
 ## 光影包更新
 
-- 
+- 暂无

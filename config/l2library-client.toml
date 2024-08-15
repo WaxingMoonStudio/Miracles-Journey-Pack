@@ -8,7 +8,7 @@ infoAnchor = 1
 #Range: 0.0 ~ 0.5
 infoMaxWidth = 0.3
 #Show inventory tabs
-showTabs = true
+showTabs = false
 #Show inventory tabs only in curio page. Only works when showTabs is true and curio is installed.
 showTabsOnlyCurio = false
 
