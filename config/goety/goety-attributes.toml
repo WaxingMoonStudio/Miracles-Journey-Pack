@@ -695,10 +695,18 @@
 			#Range: 1.0 ~ 1.7976931348623157E308
 			boneLordDamage = 3.0
 
+		[Attributes.Mini-Bosses.Wight]
+			#How much Max Health Wights have, Default: 200.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			wightHealth = 200.0
+			#How much damage Wights deals, Default: 12.5
+			#Range: 1.0 ~ 1.7976931348623157E308
+			wightDamage = 12.5
+
 	[Attributes.Bosses]
 
 		[Attributes.Bosses.Vizier]
-			#How much Max Health Viziers have, Default: 200.0
+			#How much Max Health Viziers have, Default: 300.0
 			#Range: 100.0 ~ 1.7976931348623157E308
 			vizierHealth = 200.0
 			#The maximum amount of damage a Vizier can attain per hit, Default: 20.0

@@ -10,6 +10,9 @@
 - 优化资源包重载逻辑 --- 0Pack2Reload
 - 优化按钮声音 --- SatisfyingButtons
 - 优化战斗方式 --- BetterCombat / TetraticCombat
+- 添加了具有完整生命周期的蝴蝶 --- BoksBangingButterflies
+- 增加了多种食物、补充额外刀具 --- MoreDelight
+- 为机械动力添加了更多玻璃 --- CreateFramed
 
 
 ## 修改内容
@@ -20,6 +23,10 @@
 - 使用 StardewFishing 替换钓鱼小游戏 FishingMinigame --- StardewFishing
 - 关闭视频流白名单 --- WaterFrames
 - 关闭各木材对应箱子变种 --- Quark
+- 更换建筑之杖模组 --- BuildingWands
+- 更换备份模组 --- AdvancedBackups
+- 更换主世界地形优化模组 --- Arboria
+- 优化树叶腐烂逻辑 --- SeparatedLeaves
 
 
 ## 删除内容
@@ -29,14 +36,16 @@
 - 潜在的性能影响 --- AiImprovements
 - 现有附魔系统不需要祛魔方法 --- Disenchanting
 - 在游戏中展示面不大 --- VariantCraftingTables
-- 对于玩家无用 --- Spark / LogBegone
+- 对于玩家无用 / 用途较小 --- Spark / LogBegone / ExtremeSoundMuffler
 - 导致玩家 GUI 物品错位 --- Raised
 - 与 ModernFix 部分功能重复 --- SmoothBootReloaded
+- 删除筛矿机制 --- CreateSifting
+- 使用 Mcreator 且影响世界生成 --- SeedDelight
 
 
 ## 错误修复
 
-- 暂无
+- 改善主世界深暗之域比例 --- Arboria
 
 ## 模组更新
 
@@ -53,7 +62,7 @@
 
 **Assist | 辅助**
 
-- ChatHeads --- V0.12.9 -> V0.12.10
+- ChatHeads --- V0.12.9 -> V0.12.13
 - CreateTrainPerspective --- V0.5.0 -> V0.6.1
 - CrosshairBobbing --- V1.7 -> V1.9
 - ImmediatelyFast --- V1.2.18 -> V1.2.20
@@ -86,7 +95,7 @@
 **Magic | 魔法**
 
 - Botania --- V440 -> V440.2
-- Goety --- V2.37.0 -> V2.38.1
+- Goety --- V2.37.0 -> V2.38.2
 - IronsSpellsNSpellbooks --- V3.3.0 -> V3.4.0
 
 **Technology | 科技**
