@@ -13,6 +13,7 @@
 - 添加了具有完整生命周期的蝴蝶 --- BoksBangingButterflies
 - 增加了多种食物、补充额外刀具 --- MoreDelight
 - 为机械动力添加了更多玻璃 --- CreateFramed
+- 添加了能够自动捕鱼的方块 --- FishermansTrap
 
 
 ## 修改内容
@@ -27,6 +28,7 @@
 - 更换备份模组 --- AdvancedBackups
 - 更换主世界地形优化模组 --- Arboria
 - 优化树叶腐烂逻辑 --- SeparatedLeaves
+- 替换 Armor&DamageScaling --- ArmorCurve
 
 
 ## 删除内容
@@ -41,36 +43,43 @@
 - 与 ModernFix 部分功能重复 --- SmoothBootReloaded
 - 删除筛矿机制 --- CreateSifting
 - 使用 Mcreator 且影响世界生成 --- SeedDelight
+- 内容与 Tetranomicon 重复 --- DimensionalAscensionBlueSkiesTetraCompatibility
 
 
 ## 错误修复
 
 - 改善主世界深暗之域比例 --- Arboria
+- 日月显示错误 --- ComplementaryReimaginedEuphoriaPatches
 
 ## 模组更新
 
 **Adventure | 冒险**
 
 - Friends&Foes --- V2.0.15 -> V2.0.16
+- RepurposedStructures --- V6.3.28 -> V6.3.29
 - Villages&Pillages --- V1.0.0 -> V1.0.1
 
 **Agriculture | 农业**
 
 - ChatHeads --- V0.12.8 -> V0.12.9
-- CreateGarnished --- V1.8.7 -> V1.9.6
+- CreateGarnished --- V1.8.7 -> V1.9.7
 - RavenCoffee --- V0.5.0 -> V0.5.1
 
 **Assist | 辅助**
 
+- AdvancedBackups --- V3.6 -> V3.6.3
 - ChatHeads --- V0.12.9 -> V0.12.13
 - CreateTrainPerspective --- V0.5.0 -> V0.6.1
 - CrosshairBobbing --- V1.7 -> V1.9
 - ImmediatelyFast --- V1.2.18 -> V1.2.20
-- Iris&OculusFlywheelCompat --- V0.2.1 -> V1.0.2
+- InventoryHUD+ --- V3.4.24 -> V3.4.26
+- Iris&OculusFlywheelCompat --- V0.2.1 -> V1.0.3
 - ModpackUpdateChecker --- V0.13.0 -> V0.15.2
 - Neruina --- V2.1.0 -> V2.1.1
+- NotEnoughAnimations --- V1.7.4 -> V1.7.5
 - Raised --- V3.1.3 -> V4.0.0
-- XaeroPlus --- V2.19 -> V2.22
+- XaerosMinimap --- V24.2.0 -> V24.3.0
+- XaeroPlus --- V2.19 -> V2.22.1
 
 **Custom | 魔改**
 
@@ -85,6 +94,7 @@
 - LimitlessConcert --- V1.2.3 -> V1.9.1
 - MacawsWindows --- V2.2.1 -> V2.3.0
 - StorageDelight --- V1.1.1 -> V24.8.1
+- WaterFrames --- V2.0.14 -> V2.1.2
 
 **Lib | 库**
 
@@ -107,7 +117,7 @@
 - CreateBigCannons --- V5.5.0 -> V5.5.1
 - MusicMakerMod --- V1.1.0 -> V1.1.1
 - SimpleHats --- V0.3.1 -> V0.3.2
-- StorageDrawers --- V11.1.2 -> V11.4.0
+- StorageDrawers --- V11.1.2 -> V11.4.1
 
 ## 资源包更新
 

@@ -22,7 +22,6 @@
 /config/simplehats_hatdl
 /config/world-comment.json
 
-
 /crash-reports
 
 /CustomSkinLoader
@@ -110,6 +109,8 @@
 
 # /versions
 
+/xaero
+
 /XaeroWaypoints
 
 /XaeroWaypoints_BACKUP*
@@ -131,8 +132,6 @@
 # /Custom.xaml
 
 # /DISCLAIMER.md
-
-/file_diff.txt
 
 /log4j2.xml
 
