@@ -2,7 +2,6 @@
 
 ## 新增内容
 
-- 修复了 MC-251744，使数据包能够自定义配置幼苗和蘑菇的生长 --- ConfiguredFeatureSaplingsForgified
 - 增加了部分模组之间的联动性 --- BlendedCompat
 - 美化原版花丛 --- BushierFlowers
 - 用机械动力的力量让玩家重返星空 --- CreateNorthstar
@@ -14,6 +13,9 @@
 - 增加了多种食物、补充额外刀具 --- MoreDelight
 - 为机械动力添加了更多玻璃 --- CreateFramed
 - 添加了能够自动捕鱼的方块 --- FishermansTrap
+- 增加了机械动力列车地图 --- CreateTrackMap
+- 添加了几个与鸡、鸡蛋相关的功能 --- Incubation
+- 优化实体在服务器中对性能的影响 --- Mobtimizations
 
 
 ## 修改内容
@@ -25,16 +27,16 @@
 - 关闭视频流白名单 --- WaterFrames
 - 关闭各木材对应箱子变种 --- Quark
 - 更换建筑之杖模组 --- BuildingWands
-- 更换备份模组 --- AdvancedBackups
 - 更换主世界地形优化模组 --- Arboria
 - 优化树叶腐烂逻辑 --- SeparatedLeaves
 - 替换 Armor&DamageScaling --- ArmorCurve
+- 替换旧版 MrCrayfishsFurnitureMod --- MrCrayfishsFurnitureModRefurbished
 
 
 ## 删除内容
 
 - 依赖关系导致崩溃 --- KubeJsIronsSpells
-- 用途较小 --- WaxableCoral
+- 用途较小 --- WaxableCoral / SwingThroughGrass
 - 潜在的性能影响 --- AiImprovements
 - 现有附魔系统不需要祛魔方法 --- Disenchanting
 - 在游戏中展示面不大 --- VariantCraftingTables
@@ -44,6 +46,7 @@
 - 删除筛矿机制 --- CreateSifting
 - 使用 Mcreator 且影响世界生成 --- SeedDelight
 - 内容与 Tetranomicon 重复 --- DimensionalAscensionBlueSkiesTetraCompatibility
+- 快捷键不灵敏 --- ToolBelt
 
 
 ## 错误修复
@@ -62,8 +65,8 @@
 **Agriculture | 农业**
 
 - ChatHeads --- V0.12.8 -> V0.12.9
-- CreateGarnished --- V1.8.7 -> V1.9.7
-- RavenCoffee --- V0.5.0 -> V0.5.1
+- CreateGarnished --- V1.8.7 -> V1.9.8
+- RavenCoffee --- V0.5.0 -> V0.5.2
 
 **Assist | 辅助**
 
@@ -79,7 +82,8 @@
 - NotEnoughAnimations --- V1.7.4 -> V1.7.5
 - Raised --- V3.1.3 -> V4.0.0
 - XaerosMinimap --- V24.2.0 -> V24.3.0
-- XaeroPlus --- V2.19 -> V2.22.1
+- XaerosWorldMap --- V1.38.8 -> V1.39.0
+- XaeroPlus --- V2.19 -> V2.22.3
 
 **Custom | 魔改**
 
@@ -94,7 +98,7 @@
 - LimitlessConcert --- V1.2.3 -> V1.9.1
 - MacawsWindows --- V2.2.1 -> V2.3.0
 - StorageDelight --- V1.1.1 -> V24.8.1
-- WaterFrames --- V2.0.14 -> V2.1.2
+- WaterFrames --- V2.0.14 -> V2.1.3
 
 **Lib | 库**
 
@@ -105,15 +109,17 @@
 **Magic | 魔法**
 
 - Botania --- V440 -> V440.2
-- Goety --- V2.37.0 -> V2.38.2
+- Goety --- V2.37.0 -> V2.39.0
 - IronsSpellsNSpellbooks --- V3.3.0 -> V3.4.0
 
 **Technology | 科技**
 
-- CreateVintageImprovements --- V0.1.6.0 -> V0.2.0.2
+- CreateTheFactoryMustGrow --- V0.9.0d -> V0.9.1b
+- CreateVintageImprovements --- V0.1.6.0 -> V0.2.0.3
 
 **Utility | 实用**
 
+- Corpse --- V1.0.12 -> V1.0.14
 - CreateBigCannons --- V5.5.0 -> V5.5.1
 - MusicMakerMod --- V1.1.0 -> V1.1.1
 - SimpleHats --- V0.3.1 -> V0.3.2

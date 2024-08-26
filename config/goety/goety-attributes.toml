@@ -702,6 +702,12 @@
 			#How much damage Wights deals, Default: 12.5
 			#Range: 1.0 ~ 1.7976931348623157E308
 			wightDamage = 12.5
+			#How much Soul Energy Wights absorb per attack, Default: 10
+			#Range: > 0
+			wightSoulAbsorb = 10
+			#How much health Wights can heal up per Soul Energy absorption, Default: 10
+			#Range: > 0
+			wightSoulHeal = 10
 
 	[Attributes.Bosses]
 

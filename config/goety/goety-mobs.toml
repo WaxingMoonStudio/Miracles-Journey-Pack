@@ -90,7 +90,7 @@
 			boneSpiderServantTexture = true
 
 [Servants]
-	#Whether creating a Redstone Golem causes the mold to change blocks, Default: true
+	#Whether creating a Redstone Golem causes the mold to change blocks, Default: false
 	redstoneGolemMold = true
 	#Whether Vex Servants can teleport to Players, Default: true
 	vexTeleport = true
@@ -252,9 +252,11 @@
 		cryologerRaid = true
 		#Whether Rippers appear in Raids. They do not count as part of the Raid bar, Default: true
 		ripperRaid = true
+		#Whether Hostile Redstone Monstrosities appear in Raids, Default: false
+		hostileRedstoneMonstrosityRaid = false
 
 [Villagers]
-	#Wearing a Dark Robe, along with variants, causes Villagers around the Player to have a negative Reputation unless said Player has 25 or more reputation among them, Default: false
+	#Wearing a Robe, along with variants, causes Villagers around the Player to have a negative Reputation unless said Player has 25 or more reputation among them, Default: false
 	villagerHate = false
 	#Having an owned Ravaged or Ravager, causes Villagers around the Player to have a negative Reputation, Default: false
 	villagerHateRavager = false
@@ -283,6 +285,14 @@
 	hellfireFireImmune = true
 	#Whether Hellfire damage is mitigated by Fire Protection enchantment, Default: true
 	hellfireFireProtection = true
+	#Whether Wights can spawn near players that have a high amount of Soul Energy, Default: true
+	wightSpawn = true
+	#How many ticks it takes for Wights to spawn, Default: 12000
+	#Range: > 0
+	wightSpawnFreq = 12000
+	#Spawn Chance for Wights spawning near the Player every Spawn Frequency, the lower the more likelier, Default: 5
+	#Range: > 0
+	wightSpawnChance = 5
 
 	[Misc.Apostle]
 		#Nether Meteors deals environmental damage. WARNING: Causes lots of lag. Default: false

@@ -23,9 +23,9 @@
 	#Range: > 1
 	pendantOfHungerLimit = 1024
 	#How much Charges the Sea Amulet needs to consume to function, Default: 1
-	#Range: > 1
+	#Range: > 0
 	seaAmuletChargeConsume = 1
-	#The total amount of Charges a Sea Amulet can hold, Default: 256
+	#The total amount of Charges a Sea Amulet can hold, Default: 1024
 	#Range: > 1
 	seaAmuletMax = 256
 
@@ -71,6 +71,9 @@
 		#If 'necroSetUndeadNeutral' is enabled, the highest max health an Undead mob has to have to be neutral, Default: 50.0
 		#Range: 1.0 ~ 1.7976931348623157E308
 		necroSetUndeadNeutralHealth = 50.0
+		#If 'namelessSetUndeadNeutral' is enabled, the highest max health an Undead mob has to have to be neutral, Default: 50.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		namelessSetUndeadNeutralHealth = 50.0
 
 ["Tools & Weapons"]
 
@@ -277,6 +280,10 @@
 		#Define how much knockback resistance each armor piece provides, Default: 0.3
 		#Range: 0.0 ~ 1.7976931348623157E308
 		darkArmorKnockResist = 0.3
+		#Whether Dark Helmets makes the wearer immune to Blindness, Default: true
+		darkHelmetBlindness = true
+		#Whether Dark Helmets makes the wearer immune to Darkness, Default: true
+		darkHelmetDarkness = true
 
 		[Armor."Dark Armor"."Armor Points"]
 			#Define how much armor points wearing the Boots provides, Default: 3

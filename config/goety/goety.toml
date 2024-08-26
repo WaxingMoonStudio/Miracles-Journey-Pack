@@ -93,6 +93,11 @@
 	ritualCraftEnchant = true
 	#Whether creating items through Rituals will transfer damage from the original item, Default: false
 	ritualCraftDamage = false
+	#The amount of Soul Energy used to power the Shrieking Obelisk, Default: 100
+	#Range: > 0
+	shriekObeliskCost = 100
+	#Whether Shrieking Obelisk can prevent or stop Raids, Default: true
+	ShriekObeliskRaid = true
 
 ["Soul Taken"]
 	#Multiplies the amount of Souls taken by this amount, Default: 2
@@ -173,4 +178,6 @@
 	robesIronResist = true
 	#If Iron's Spells and Spellbooks is installed, certain curios provides Spell buffs. Default: true
 	ironBuff = true
+	#If enabled, Ender Dragon's Fireballs will leave clouds that damages even undead and will not hit itself. Default: true
+	betterDragonFireball = true
 

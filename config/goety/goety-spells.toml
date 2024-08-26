@@ -717,6 +717,8 @@
 		#The initial distance of the Tunnel, Default: 8
 		#Range: > 0
 		tunnelDefaultDistance = 8
+		#Whether Tunnel Holes disallows certain mobs from falling or moving through it, Default: true
+		tunnelHaveBlacklist = true
 
 	[Spells."Swarm Spell"]
 		#Swarm Spell Cost per second, Default: 2
