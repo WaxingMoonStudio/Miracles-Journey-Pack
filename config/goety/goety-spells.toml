@@ -1013,6 +1013,23 @@
 		#Range: > 1
 		igniteFireSeconds = 5
 
+	[Spells."Blackguard Spell"]
+		#Blackguard Spell Cost, Default: 48
+		#Range: > 0
+		blackguardCost = 48
+		#Time to cast Blackguard Spell, Default: 180
+		#Range: 0 ~ 72000
+		blackguardTime = 180
+		#Blackguard Spell Cooldown, Default: 1200
+		#Range: > 0
+		blackguardCoolDown = 1200
+		#Blackguard Spell Summon Down, Default: 300
+		#Range: 0 ~ 72000
+		blackguardSummonDown = 300
+		#Number of Blackguard Servants that an individual player can have in total, Default: 16
+		#Range: > 1
+		blackguardLimit = 16
+
 ["Servant Limits"]
 	#Total number of Redstone Golems an individual player can have, Default: 2
 	#Range: > 0

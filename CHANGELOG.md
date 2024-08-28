@@ -52,7 +52,7 @@
 ## 错误修复
 
 - 改善主世界深暗之域比例 --- Arboria
-- 日月显示错误 --- ComplementaryReimaginedEuphoriaPatches
+- 日月显示错误 --- ComplementaryUnboundEuphoriaPatches
 
 ## 模组更新
 
@@ -78,7 +78,7 @@
 - InventoryHUD+ --- V3.4.24 -> V3.4.26
 - Iris&OculusFlywheelCompat --- V0.2.1 -> V1.0.3
 - ModpackUpdateChecker --- V0.13.0 -> V0.15.2
-- Neruina --- V2.1.0 -> V2.1.1
+- Neruina --- V2.1.0 -> V2.1.2
 - NotEnoughAnimations --- V1.7.4 -> V1.7.5
 - Raised --- V3.1.3 -> V4.0.0
 - XaerosMinimap --- V24.2.0 -> V24.3.0
@@ -104,12 +104,13 @@
 
 - Framework --- V0.6.16 -> V0.7.9
 - MoonlightLib --- V2.3.6 -> V2.3.7
+- SuperMartijn642sCoreLib --- V1.1.17 -> V1.1.17a
 - WaterMedia --- V2.0.68 -> V2.0.70
 
 **Magic | 魔法**
 
 - Botania --- V440 -> V440.2
-- Goety --- V2.37.0 -> V2.39.0
+- Goety --- V2.37.0 -> V2.39.2
 - IronsSpellsNSpellbooks --- V3.3.0 -> V3.4.0
 
 **Technology | 科技**
@@ -127,7 +128,9 @@
 
 ## 资源包更新
 
-- 暂无
+- CubicSun&Moon --- Vb1.7.4 -> V1.8
+- FancyBeds --- V3.1 -> V3.2
+- SpryzeensBetterGlint --- V1,5 -> V2.0
 
 ## 数据包更新
 
@@ -135,4 +138,7 @@
 
 ## 光影包更新
 
-- 暂无
+- BlissShaders --- V0708 -> V0827
+- BslShadersOriginal --- V8.2.09 -> V8.3
+- MakeUpUltraFast --- V8.9f -> V9.0a
+- Photon --- V0620 -> V0817

@@ -666,6 +666,20 @@
 			#Range: 1.0 ~ 1.7976931348623157E308
 			blackBeastDamage = 8.0
 
+		[Attributes."Summoned Mobs"."Blackguard Servant"]
+			#How much Max Health Blackguard Servants have, Default: 20.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			blackguardServantHealth = 20.0
+			#How much natural armor points Blackguard Servants have, Default: 20.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			blackguardServantArmor = 20.0
+			#How much natural armor toughness points Blackguard Servants have, Default: 8.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			blackguardServantToughness = 8.0
+			#How much damage Blackguard Servants deals, Default: 9.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			blackguardServantDamage = 9.0
+
 	[Attributes.Mini-Bosses]
 
 		[Attributes.Mini-Bosses.Crone]
