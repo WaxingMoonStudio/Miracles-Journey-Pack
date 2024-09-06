@@ -287,10 +287,10 @@
 	hellfireFireProtection = true
 	#Whether Wights can spawn near players that have a high amount of Soul Energy, Default: true
 	wightSpawn = true
-	#How many ticks it takes for Wights to spawn, Default: 12000
+	#How many ticks it takes for Wights to spawn, Default: 24000
 	#Range: > 0
 	wightSpawnFreq = 12000
-	#Spawn Chance for Wights spawning near the Player every Spawn Frequency, the lower the more likelier, Default: 5
+	#Spawn Chance for Wights spawning near the Player every Spawn Frequency, the lower the more likelier, Default: 10
 	#Range: > 0
 	wightSpawnChance = 5
 

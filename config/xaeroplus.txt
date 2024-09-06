@@ -7,6 +7,7 @@
 [XP] Waystones Sync:true
 [XP] Waystone Color:16
 [XP] Waystone Waypoint Set:false
+[XP] Waystone WP Visibility Type:0
 [XP] Persist Dim Switch:true
 [XP] Radar While Dim Switched:true
 [XP] Transparent Obsidian Roof:false

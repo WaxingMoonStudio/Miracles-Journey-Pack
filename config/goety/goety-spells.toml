@@ -68,7 +68,7 @@
 		#Rotting Spell Summon Down, Default: 120
 		#Range: 0 ~ 72000
 		zombieSummonDown = 120
-		#Number of Zombie Servants that can exist around the player without instantly dying, Default: 32
+		#Number of Zombie Servants that can a player can have, Default: 32
 		#Range: > 1
 		zombieLimit = 32
 
@@ -102,7 +102,7 @@
 		#Spooky Spell Summon Down, Default: 300
 		#Range: 0 ~ 72000
 		wraithSummonDown = 300
-		#Number of Wraith Servants that can exist around the player without instantly dying, Default: 6
+		#Number of Wraith Servants that a player can have, Default: 6
 		#Range: > 1
 		wraithLimit = 6
 
@@ -141,7 +141,7 @@
 		hauntedSkullDamage = 5.0
 		#Enable Haunted Skull projectile griefing, Default: true
 		hauntedSkullGriefing = true
-		#Number of Haunted Skulls that can exist around the player without instantly dying, Default: 8
+		#Number of Haunted Skulls that can a player can have, Default: 8
 		#Range: > 1
 		skullLimit = 8
 
@@ -1030,6 +1030,23 @@
 		#Range: > 1
 		blackguardLimit = 16
 
+	[Spells."Shredding Spell && Royal Spikes"]
+		#Shredding Spell Cost, Default: 16
+		#Range: > 0
+		spikeCost = 16
+		#Time to cast Shredding Spell, Default: 160
+		#Range: 0 ~ 72000
+		spikeTime = 160
+		#Shredding Spell Cooldown, Default: 100
+		#Range: > 0
+		spikeCoolDown = 100
+		#How much base damage Royal Spikes deals per second, Default: 1.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		spikeDamage = 1.0
+		#Amount of Soul Energy Royal Spikes gives when hitting mob(s), Default: 1
+		#Range: > 0
+		spikeGainSouls = 1
+
 ["Servant Limits"]
 	#Total number of Redstone Golems an individual player can have, Default: 2
 	#Range: > 0
@@ -1052,6 +1069,12 @@
 	#Number of Black Beast Servants that an individual player can have in total, Default: 2
 	#Range: > 1
 	blackBeastLimit = 2
+	#Number of Leapleaves that an individual player can have in total, Default: 16
+	#Range: > 1
+	leapleafLimit = 16
+	#Number of Spider Servants that an individual player can have in total, Default: 32
+	#Range: > 1
+	spiderLimit = 32
 
 [Enchantments]
 	#Soul Eater Maximum Enchantment Level, Default: 5

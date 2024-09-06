@@ -7,7 +7,6 @@
 - 用机械动力的力量让玩家重返星空 --- CreateNorthstar
 - 以黑魔法、死灵法和灵魂操控为主题的魔法模组 --- EidolonRebrewed
 - 优化资源包重载逻辑 --- 0Pack2Reload
-- 优化按钮声音 --- SatisfyingButtons
 - 优化战斗方式 --- BetterCombat / TetraticCombat
 - 添加了具有完整生命周期的蝴蝶 --- BoksBangingButterflies
 - 增加了多种食物、补充额外刀具 --- MoreDelight
@@ -31,6 +30,8 @@
 - 优化树叶腐烂逻辑 --- SeparatedLeaves
 - 替换 Armor&DamageScaling --- ArmorCurve
 - 替换旧版 MrCrayfishsFurnitureMod --- MrCrayfishsFurnitureModRefurbished
+- 更新游戏图标 --- FancyMenu
+- 更新启动器 --- PCL
 
 
 ## 删除内容
@@ -58,7 +59,7 @@
 
 **Adventure | 冒险**
 
-- Friends&Foes --- V2.0.15 -> V2.0.16
+- Friends&Foes --- V2.0.15 -> V2.0.17
 - RepurposedStructures --- V6.3.28 -> V6.3.29
 - Villages&Pillages --- V1.0.0 -> V1.0.1
 
@@ -66,24 +67,25 @@
 
 - ChatHeads --- V0.12.8 -> V0.12.9
 - CreateGarnished --- V1.8.7 -> V1.9.8
+- MyNethersDelight --- V1.7.5 -> V1.7.6
 - RavenCoffee --- V0.5.0 -> V0.5.2
 
 **Assist | 辅助**
 
 - AdvancedBackups --- V3.6 -> V3.6.3
 - ChatHeads --- V0.12.9 -> V0.12.13
-- CreateTrainPerspective --- V0.5.0 -> V0.6.1
+- CreateTrainPerspective --- V0.5.0 -> V1.0.0
 - CrosshairBobbing --- V1.7 -> V1.9
-- ImmediatelyFast --- V1.2.18 -> V1.2.20
+- ImmediatelyFast --- V1.2.18 -> V1.2.21
 - InventoryHUD+ --- V3.4.24 -> V3.4.26
 - Iris&OculusFlywheelCompat --- V0.2.1 -> V1.0.3
 - ModpackUpdateChecker --- V0.13.0 -> V0.15.2
 - Neruina --- V2.1.0 -> V2.1.2
 - NotEnoughAnimations --- V1.7.4 -> V1.7.5
 - Raised --- V3.1.3 -> V4.0.0
-- XaerosMinimap --- V24.2.0 -> V24.3.0
+- XaerosMinimap --- V24.2.0 -> V24.4.0
 - XaerosWorldMap --- V1.38.8 -> V1.39.0
-- XaeroPlus --- V2.19 -> V2.22.3
+- XaeroPlus --- V2.19 -> V2.23.1
 
 **Custom | 魔改**
 
@@ -94,7 +96,7 @@
 
 - ArmourersWorkshop --- V3.0.0beta10 -> V3.0.0beta14
 - CreateCopycats+ --- V2.0.5 -> V2.1.2
-- CreateEncased --- V1.6.1 -> V1.6.1fix1
+- CreateEncased --- V1.6.1 -> V1.6.1fix3
 - LimitlessConcert --- V1.2.3 -> V1.9.1
 - MacawsWindows --- V2.2.1 -> V2.3.0
 - StorageDelight --- V1.1.1 -> V24.8.1
@@ -102,7 +104,7 @@
 
 **Lib | 库**
 
-- Framework --- V0.6.16 -> V0.7.9
+- Framework --- V0.6.16 -> V0.7.12
 - MoonlightLib --- V2.3.6 -> V2.3.7
 - SuperMartijn642sCoreLib --- V1.1.17 -> V1.1.17a
 - WaterMedia --- V2.0.68 -> V2.0.70
@@ -110,18 +112,20 @@
 **Magic | 魔法**
 
 - Botania --- V440 -> V440.2
-- Goety --- V2.37.0 -> V2.39.2
+- Goety --- V2.37.0 -> V2.39.4
 - IronsSpellsNSpellbooks --- V3.3.0 -> V3.4.0
 
 **Technology | 科技**
 
-- CreateTheFactoryMustGrow --- V0.9.0d -> V0.9.1b
+- Create --- V0.5.1f -> V0.5.1h
+- CreateTheFactoryMustGrow --- V0.9.0d -> V0.9.1c
 - CreateVintageImprovements --- V0.1.6.0 -> V0.2.0.3
 
 **Utility | 实用**
 
 - Corpse --- V1.0.12 -> V1.0.14
 - CreateBigCannons --- V5.5.0 -> V5.5.1
+- CreateSteamNRails --- V1.6.4 -> V1.6.5
 - MusicMakerMod --- V1.1.0 -> V1.1.1
 - SimpleHats --- V0.3.1 -> V0.3.2
 - StorageDrawers --- V11.1.2 -> V11.4.1
