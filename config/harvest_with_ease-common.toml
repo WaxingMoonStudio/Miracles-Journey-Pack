@@ -33,4 +33,6 @@ blacklist = []
 # "large" - large increment, the size of the area, starting from [starting harvest area size], increases by 6 with each higher tier.E.g. 1x1 -> 7x7 -> 13x13 -> ...
 #Allowed Values: NONE, SMALL, MEDIUM, LARGE
 "area increment step" = "NONE"
+# Whether to use seeds from the player's inventory to replant crops if seeds are not dropped.
+"use seeds from inventory" = true
 

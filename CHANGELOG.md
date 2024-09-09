@@ -15,6 +15,7 @@
 - 增加了机械动力列车地图 --- CreateTrackMap
 - 添加了几个与鸡、鸡蛋相关的功能 --- Incubation
 - 优化实体在服务器中对性能的影响 --- Mobtimizations
+- 支持为某些机械动力的动力元件附魔 --- CreateEnchantableMachinery
 
 
 ## 修改内容
@@ -41,13 +42,14 @@
 - 潜在的性能影响 --- AiImprovements
 - 现有附魔系统不需要祛魔方法 --- Disenchanting
 - 在游戏中展示面不大 --- VariantCraftingTables
-- 对于玩家无用 / 用途较小 --- Spark / LogBegone / ExtremeSoundMuffler
+- 对于玩家无用 / 用途较小 --- Spark / LogBegone / ExtremeSoundMuffler / CreateBlueSkiesCompat
 - 导致玩家 GUI 物品错位 --- Raised
 - 与 ModernFix 部分功能重复 --- SmoothBootReloaded
 - 删除筛矿机制 --- CreateSifting
 - 使用 Mcreator 且影响世界生成 --- SeedDelight
 - 内容与 Tetranomicon 重复 --- DimensionalAscensionBlueSkiesTetraCompatibility
 - 快捷键不灵敏 --- ToolBelt
+- 机械动力最新版本已修复 --- CreateTrainPerspective
 
 
 ## 错误修复
@@ -59,6 +61,7 @@
 
 **Adventure | 冒险**
 
+- DoggyTalentsNext --- V1.18.18 -> V1.18.31
 - Friends&Foes --- V2.0.15 -> V2.0.17
 - RepurposedStructures --- V6.3.28 -> V6.3.29
 - Villages&Pillages --- V1.0.0 -> V1.0.1
@@ -76,12 +79,14 @@
 - ChatHeads --- V0.12.9 -> V0.12.13
 - CreateTrainPerspective --- V0.5.0 -> V1.0.0
 - CrosshairBobbing --- V1.7 -> V1.9
+- HarvestWithEase --- V9.0.1 -> V9.1.0
 - ImmediatelyFast --- V1.2.18 -> V1.2.21
 - InventoryHUD+ --- V3.4.24 -> V3.4.26
 - Iris&OculusFlywheelCompat --- V0.2.1 -> V1.0.3
 - ModpackUpdateChecker --- V0.13.0 -> V0.15.2
 - Neruina --- V2.1.0 -> V2.1.2
-- NotEnoughAnimations --- V1.7.4 -> V1.7.5
+- NotEnoughAnimations --- V1.7.4 -> V1.7.6
+- ParCool --- V3.2.1.2 -> V3.3.0.0
 - Raised --- V3.1.3 -> V4.0.0
 - XaerosMinimap --- V24.2.0 -> V24.4.0
 - XaerosWorldMap --- V1.38.8 -> V1.39.0
@@ -107,7 +112,7 @@
 - Framework --- V0.6.16 -> V0.7.12
 - MoonlightLib --- V2.3.6 -> V2.3.7
 - SuperMartijn642sCoreLib --- V1.1.17 -> V1.1.17a
-- WaterMedia --- V2.0.68 -> V2.0.70
+- WaterMedia --- V2.0.68 -> V2.0.71
 
 **Magic | 魔法**
 
@@ -118,7 +123,7 @@
 **Technology | 科技**
 
 - Create --- V0.5.1f -> V0.5.1h
-- CreateTheFactoryMustGrow --- V0.9.0d -> V0.9.1c
+- CreateTheFactoryMustGrow --- V0.9.0d -> V0.9.2
 - CreateVintageImprovements --- V0.1.6.0 -> V0.2.0.3
 
 **Utility | 实用**
@@ -129,6 +134,7 @@
 - MusicMakerMod --- V1.1.0 -> V1.1.1
 - SimpleHats --- V0.3.1 -> V0.3.2
 - StorageDrawers --- V11.1.2 -> V11.4.1
+- UtilitiX --- V0.7.15 -> V0.7.16
 
 ## 资源包更新
 
