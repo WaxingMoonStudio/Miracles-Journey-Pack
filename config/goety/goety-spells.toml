@@ -1047,6 +1047,31 @@
 		#Range: > 0
 		spikeGainSouls = 1
 
+	[Spells."Ghost Fire Spell"]
+		#Ghost Fire Spell Cost, Default: 16
+		#Range: > 0
+		ghostFireCost = 16
+		#Time to cast Ghost Fire Spell, Default: 40
+		#Range: 0 ~ 72000
+		ghostFireTime = 40
+		#Ghost Fire Spell Cooldown, Default: 200
+		#Range: > 0
+		ghostFireCoolDown = 200
+
+	[Spells."Poison Dart Spell"]
+		#Poison Dart Spell Cost, Default: 8
+		#Range: > 0
+		poisonDartCost = 8
+		#Time to cast Poison Dart Spell, Default: 0
+		#Range: 0 ~ 72000
+		poisonDartTime = 0
+		#Poison Dart Spell Cooldown, Default: 20
+		#Range: > 0
+		poisonDartCoolDown = 20
+		#How much base damage Poison Quills deals, Default: 2.5
+		#Range: 1.0 ~ 1.7976931348623157E308
+		poisonDartDamage = 2.5
+
 ["Servant Limits"]
 	#Total number of Redstone Golems an individual player can have, Default: 2
 	#Range: > 0
@@ -1075,6 +1100,9 @@
 	#Number of Spider Servants that an individual player can have in total, Default: 32
 	#Range: > 1
 	spiderLimit = 32
+	#Number of Wildfire Servants that an individual player can have in total, Default: 2
+	#Range: > 1
+	wildfireLimit = 2
 
 [Enchantments]
 	#Soul Eater Maximum Enchantment Level, Default: 5

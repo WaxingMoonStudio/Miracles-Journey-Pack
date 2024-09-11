@@ -64,6 +64,23 @@
 			#Range: 1.0 ~ 1.7976931348623157E308
 			infernoRangeDamage = 5.0
 
+		[Attributes.Cultists.Wildfire]
+			#How much Max Health Wildfires have, Default: 75.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			wildfireHealth = 75.0
+			#How much Health each Wildfire's shields have, Default: 12.5
+			#Range: 1.0 ~ 1.7976931348623157E308
+			wildfireShieldHealth = 12.5
+			#How much natural armor points Wildfires have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			wildfireArmor = 0.0
+			#How much melee damage Wildfires deals, Default: 6.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			wildfireMeleeDamage = 6.0
+			#How much ranged damage Wildfires deals, Default: 10.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			wildfireRangeDamage = 10.0
+
 	[Attributes.Illagers]
 		#How much Max Health Conquillager have, Default: 24.0
 		#Range: 1.0 ~ 1.7976931348623157E308

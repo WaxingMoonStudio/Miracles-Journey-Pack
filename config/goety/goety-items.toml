@@ -74,6 +74,21 @@
 		#If 'namelessSetUndeadNeutral' is enabled, the highest max health an Undead mob has to have to be neutral, Default: 50.0
 		#Range: 1.0 ~ 1.7976931348623157E308
 		namelessSetUndeadNeutralHealth = 50.0
+		#Whether wearing both Frost Robe and Crown will cause certain mobs to be neutral, Default: true
+		frostSetMobNeutral = true
+		#If 'frostSetMobNeutral' is enabled, the highest max health affected mobs has to have to be neutral, Default: 50.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		frostSetMobNeutralHealth = 50.0
+		#Whether wearing both Wild Robe and Crown will cause certain mobs to be neutral, Default: true
+		wildSetMobNeutral = true
+		#If 'wildSetMobNeutral' is enabled, the highest max health affected mobs has to have to be neutral, Default: 50.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		wildSetMobNeutralHealth = 50.0
+		#Whether wearing both Nether Robe and Crown will cause certain mobs to be neutral, Default: true
+		netherSetMobNeutral = true
+		#If 'netherSetMobNeutral' is enabled, the highest max health affected mobs has to have to be neutral, Default: 50.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		netherSetMobNeutralHealth = 50.0
 
 ["Tools & Weapons"]
 

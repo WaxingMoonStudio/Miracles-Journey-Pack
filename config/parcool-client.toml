@@ -226,5 +226,5 @@
 	#Enable sounds triggered by Action
 	enable_sounds = true
 	#Whether ParCool is active
-	parcool_activation = true
+	parcool_activation = false
 

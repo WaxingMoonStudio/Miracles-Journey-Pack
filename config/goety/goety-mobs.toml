@@ -76,6 +76,8 @@
 		[Textures."Summoned Mobs"."Blaze Servants"]
 			#If Blaze Servants have custom textures, Default: true
 			blazeServantTexture = true
+			#If Wildfires have custom textures, Default: true
+			wildfireTexture = true
 
 		[Textures."Summoned Mobs"."Redstone Monstrosity"]
 			#If Redstone Monstrosities have custom textures, Default: true
@@ -90,8 +92,6 @@
 			boneSpiderServantTexture = true
 
 [Servants]
-	#Whether creating a Redstone Golem causes the mold to change blocks, Default: false
-	redstoneGolemMold = true
 	#Whether Vex Servants can teleport to Players, Default: true
 	vexTeleport = true
 	#Whether Servants can attack Creepers if Mob Griefing Rule is False, Default: true
@@ -110,8 +110,6 @@
 	maxSlimeSize = 4
 	#Whether Redstone Monstrosity breaks leaves and certain blocks if mob griefing is enabled, Default: true
 	redstoneMonstrosityLeafBreak = true
-	#Whether creating a Redstone Monstrosity causes the mold to change blocks, Default: true
-	redstoneMonstrosityMold = true
 	#Servants, when on staying mode, will load chunks around it, Default: true
 	stayingServantChunkLoad = true
 	#Enable Redstone Cubes block detection mechanic, Default: true
@@ -164,6 +162,8 @@
 		naturalMinionHealAmount = 0.5
 		#Whether Black Beasts gain buffs if total game time has gone long enough, Default: true
 		blackBeastDayStrength = true
+		#Whether owned Black Beasts drop Howling Soul, Default: true
+		blackBeastHowlingSoul = true
 
 	[Servants."Nether Servants"]
 		#Whether Nether Servants can heal if summoned while wearing Nether Robe, Default: true
@@ -177,6 +177,8 @@
 		#How much Health Nether Servants heal, numerically, Default: 0.5
 		#Range: 0.0 ~ 1.7976931348623157E308
 		netherMinionHealAmount = 0.5
+		#Whether Wildfire's summons have limited lifespans, Default: true
+		wildfireSummonsLife = true
 
 	[Servants."Frost Servants"]
 		#Whether Frost Servants can heal if summoned while wearing Frost Robe, Default: true

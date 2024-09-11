@@ -16,6 +16,11 @@
 - 添加了几个与鸡、鸡蛋相关的功能 --- Incubation
 - 优化实体在服务器中对性能的影响 --- Mobtimizations
 - 支持为某些机械动力的动力元件附魔 --- CreateEnchantableMachinery
+- 添加了 8 余种与灾变 BOSS 相关的法术以及诸多通过灾变材料获得的法术书与法杖 --- CataclysmSpellbooks
+- 缺少的模组前置 --- AzureLib / ArcheologyApi
+- 丰富云层表现 --- SuperFancyCloudsRearchitected
+- 添加了水气球 --- WaterBalloon
+- 新增动态光源 --- DynamicLights
 
 
 ## 修改内容
@@ -33,6 +38,7 @@
 - 替换旧版 MrCrayfishsFurnitureMod --- MrCrayfishsFurnitureModRefurbished
 - 更新游戏图标 --- FancyMenu
 - 更新启动器 --- PCL
+- 将部分模组移至可选 --- EuphoriaPatches / Iris&OculusFlywheelCompat / Oculus / OculusParticleFix / DistantHorizons
 
 
 ## 删除内容
@@ -70,6 +76,7 @@
 
 - ChatHeads --- V0.12.8 -> V0.12.9
 - CreateGarnished --- V1.8.7 -> V1.9.8
+- MoreDelight --- V240630 -> V240910
 - MyNethersDelight --- V1.7.5 -> V1.7.6
 - RavenCoffee --- V0.5.0 -> V0.5.2
 
@@ -105,7 +112,7 @@
 - LimitlessConcert --- V1.2.3 -> V1.9.1
 - MacawsWindows --- V2.2.1 -> V2.3.0
 - StorageDelight --- V1.1.1 -> V24.8.1
-- WaterFrames --- V2.0.14 -> V2.1.3
+- WaterFrames --- V2.0.14 -> V2.1.5
 
 **Lib | 库**
 
@@ -117,12 +124,13 @@
 **Magic | 魔法**
 
 - Botania --- V440 -> V440.2
-- Goety --- V2.37.0 -> V2.39.4
+- Goety --- V2.37.0 -> V2.40.0
 - IronsSpellsNSpellbooks --- V3.3.0 -> V3.4.0
 
 **Technology | 科技**
 
 - Create --- V0.5.1f -> V0.5.1h
+- CreateJetpack --- V3.3.1 -> V3.4.0
 - CreateTheFactoryMustGrow --- V0.9.0d -> V0.9.2
 - CreateVintageImprovements --- V0.1.6.0 -> V0.2.0.3
 
@@ -134,6 +142,7 @@
 - MusicMakerMod --- V1.1.0 -> V1.1.1
 - SimpleHats --- V0.3.1 -> V0.3.2
 - StorageDrawers --- V11.1.2 -> V11.4.1
+- TouhouLittleMaid --- V1.1.11 -> V1.1.12hotfix
 - UtilitiX --- V0.7.15 -> V0.7.16
 
 ## 资源包更新

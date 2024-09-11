@@ -87,10 +87,13 @@
 	#Shrine Lamp Max Range Of Absorb Power Point
 	#Range: > 0
 	ShrineLampMaxRange = 6
-	#The following biome do not spawn maid fairy
-	MaidFairyBlacklistBiome = ["minecraft:the_void", "minecraft:mushroom_fields"]
 	#Whether to turn off the Optifine warning
 	CloseOptifineWarning = false
+	#The range of the scarecrow to prevent the fairy maid from spawning
+	#Range: > 0
+	ScarecrowRange = 48
+	#Whether to use the new version of the Fairy Maid model
+	UseNewMaidFairyModel = true
 
 [vanilla]
 	#Whether to replace the vanilla slime model with the yukkuri.
