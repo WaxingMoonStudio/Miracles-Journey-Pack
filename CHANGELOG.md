@@ -2,6 +2,8 @@
 
 ## 新增内容
 
+### 基础
+
 - 增加了部分模组之间的联动性 --- BlendedCompat
 - 美化原版花丛 --- BushierFlowers
 - 用机械动力的力量让玩家重返星空 --- CreateNorthstar
@@ -22,8 +24,13 @@
 - 添加了水气球 --- WaterBalloon
 - 新增动态光源 --- DynamicLights
 
+### 可选
+
+- 在 Minecraft 的默认视距之外添加简化过的地形 --- DistantHorizons
 
 ## 修改内容
+
+### 基础
 
 - 焕新加载页面和主页 --- FancyMenu
 - 更换游戏图标 --- FancyMenu
@@ -38,17 +45,20 @@
 - 替换旧版 MrCrayfishsFurnitureMod --- MrCrayfishsFurnitureModRefurbished
 - 更新游戏图标 --- FancyMenu
 - 更新启动器 --- PCL
-- 将部分模组移至可选 --- EuphoriaPatches / Iris&OculusFlywheelCompat / Oculus / OculusParticleFix / DistantHorizons
 
+### 可选
+
+- 将部分模组移至可选 --- EuphoriaPatches / Iris&OculusFlywheelCompat / Oculus / OculusParticleFix
 
 ## 删除内容
 
+### 基础
+
 - 依赖关系导致崩溃 --- KubeJsIronsSpells
-- 用途较小 --- WaxableCoral / SwingThroughGrass
 - 潜在的性能影响 --- AiImprovements
 - 现有附魔系统不需要祛魔方法 --- Disenchanting
 - 在游戏中展示面不大 --- VariantCraftingTables
-- 对于玩家无用 / 用途较小 --- Spark / LogBegone / ExtremeSoundMuffler / CreateBlueSkiesCompat
+- 对于玩家无用 / 用途较小 --- Spark / LogBegone / ExtremeSoundMuffler / CreateBlueSkiesCompat / WaxableCoral / SwingThroughGrass
 - 导致玩家 GUI 物品错位 --- Raised
 - 与 ModernFix 部分功能重复 --- SmoothBootReloaded
 - 删除筛矿机制 --- CreateSifting
@@ -57,13 +67,23 @@
 - 快捷键不灵敏 --- ToolBelt
 - 机械动力最新版本已修复 --- CreateTrainPerspective
 
+### 可选
+
+- 暂无
 
 ## 错误修复
 
+### 基础
+
 - 改善主世界深暗之域比例 --- Arboria
+
+### 可选
+
 - 日月显示错误 --- ComplementaryUnboundEuphoriaPatches
 
 ## 模组更新
+
+### 基础
 
 **Adventure | 冒险**
 
@@ -83,7 +103,7 @@
 **Assist | 辅助**
 
 - AdvancedBackups --- V3.6 -> V3.6.3
-- ChatHeads --- V0.12.9 -> V0.12.13
+- ChatHeads --- V0.12.9 -> V0.13.0
 - CreateTrainPerspective --- V0.5.0 -> V1.0.0
 - CrosshairBobbing --- V1.7 -> V1.9
 - HarvestWithEase --- V9.0.1 -> V9.1.0
@@ -93,11 +113,11 @@
 - ModpackUpdateChecker --- V0.13.0 -> V0.15.2
 - Neruina --- V2.1.0 -> V2.1.2
 - NotEnoughAnimations --- V1.7.4 -> V1.7.6
-- ParCool --- V3.2.1.2 -> V3.3.0.0
+- ParCool --- V3.2.1.2 -> V3.3.0.1
 - Raised --- V3.1.3 -> V4.0.0
 - XaerosMinimap --- V24.2.0 -> V24.4.0
 - XaerosWorldMap --- V1.38.8 -> V1.39.0
-- XaeroPlus --- V2.19 -> V2.23.1
+- XaeroPlus --- V2.19 -> V2.23.2
 
 **Custom | 魔改**
 
@@ -145,6 +165,10 @@
 - TouhouLittleMaid --- V1.1.11 -> V1.1.12hotfix
 - UtilitiX --- V0.7.15 -> V0.7.16
 
+### 可选
+
+- 暂无
+
 ## 资源包更新
 
 - CubicSun&Moon --- Vb1.7.4 -> V1.8
@@ -155,7 +179,7 @@
 
 - 暂无
 
-## 光影包更新
+## （可选）光影包更新
 
 - BlissShaders --- V0708 -> V0827
 - BslShadersOriginal --- V8.2.09 -> V8.3

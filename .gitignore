@@ -1,3 +1,7 @@
+# /.git
+
+# /.github
+
 /.mixin.out
 
 /.persistent
@@ -85,6 +89,8 @@
 
 /music_sheets
 
+# /optional
+
 /patchouli_books
 
 # /PCL
@@ -99,8 +105,6 @@
 
 /screenshots
 
-# /shaderpacks
-
 /thingpacks
 
 /thumbnails
@@ -111,11 +115,7 @@
 
 /xaero
 
-/XaeroWaypoints
-
 /XaeroWaypoints_BACKUP*
-
-/XaeroWorldMap
 
 /.abnormal
 
@@ -150,8 +150,6 @@
 /servers.dat
 
 /servers.dat_old
-
-# /TODO.md
 
 # /TrashSlotSaveState.json
 
