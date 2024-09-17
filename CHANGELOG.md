@@ -1,4 +1,4 @@
-# BetaV0.1.3 开发日志
+# BetaV0.1.3 更新日志
 
 ## 新增内容
 
@@ -96,7 +96,7 @@
 
 - ChatHeads --- V0.12.8 -> V0.12.9
 - CreateGarnished --- V1.8.7 -> V1.9.8
-- MoreDelight --- V240630 -> V240910
+- MoreDelight --- V240630 -> V240916
 - MyNethersDelight --- V1.7.5 -> V1.7.6
 - RavenCoffee --- V0.5.0 -> V0.5.2
 
@@ -106,7 +106,7 @@
 - ChatHeads --- V0.12.9 -> V0.13.0
 - CreateTrainPerspective --- V0.5.0 -> V1.0.0
 - CrosshairBobbing --- V1.7 -> V1.9
-- HarvestWithEase --- V9.0.1 -> V9.1.0
+- HarvestWithEase --- V9.0.1 -> V9.1.1
 - ImmediatelyFast --- V1.2.18 -> V1.2.21
 - InventoryHUD+ --- V3.4.24 -> V3.4.26
 - Iris&OculusFlywheelCompat --- V0.2.1 -> V1.0.3
@@ -126,8 +126,8 @@
 
 **Decoration | 装饰**
 
-- ArmourersWorkshop --- V3.0.0beta10 -> V3.0.0beta14
-- CreateCopycats+ --- V2.0.5 -> V2.1.2
+- ArmourersWorkshop --- V3.0.0beta10 -> V3.0.0beta16
+- CreateCopycats+ --- V2.0.5 -> V2.1.4
 - CreateEncased --- V1.6.1 -> V1.6.1fix3
 - LimitlessConcert --- V1.2.3 -> V1.9.1
 - MacawsWindows --- V2.2.1 -> V2.3.0
@@ -136,6 +136,8 @@
 
 **Lib | 库**
 
+- AzureLib --- V1.0.49 -> V1.0.50
+- ClothConfigApi --- V8.3.115 -> V8.3.134
 - Framework --- V0.6.16 -> V0.7.12
 - MoonlightLib --- V2.3.6 -> V2.3.7
 - SuperMartijn642sCoreLib --- V1.1.17 -> V1.1.17a
@@ -144,13 +146,13 @@
 **Magic | 魔法**
 
 - Botania --- V440 -> V440.2
-- Goety --- V2.37.0 -> V2.40.0
+- Goety --- V2.37.0 -> V2.40.1
 - IronsSpellsNSpellbooks --- V3.3.0 -> V3.4.0
 
 **Technology | 科技**
 
 - Create --- V0.5.1f -> V0.5.1h
-- CreateJetpack --- V3.3.1 -> V3.4.0
+- CreateJetpack --- V3.3.1 -> V3.4.1
 - CreateTheFactoryMustGrow --- V0.9.0d -> V0.9.2
 - CreateVintageImprovements --- V0.1.6.0 -> V0.2.0.3
 
@@ -164,6 +166,7 @@
 - StorageDrawers --- V11.1.2 -> V11.4.1
 - TouhouLittleMaid --- V1.1.11 -> V1.1.12hotfix
 - UtilitiX --- V0.7.15 -> V0.7.16
+- Wares --- V1.2.8 -> V1.2.9
 
 ### 可选
 

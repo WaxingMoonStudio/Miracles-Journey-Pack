@@ -118,4 +118,10 @@
 	#example1: "jdbc:mysql://<localhost>[:3306]/<database>[?user=<username>][&password=<password>]"
 	#example2: "jdbc:sqlite://</path/name.db>"
 	skin = ""
+	#Use fallback when database is specified.
+	fallback = true
+	#Keep alive time check when database is specified.
+	#the unit is seconds, 0 is disabled.
+	#Range: 0 ~ 86400
+	keepalive = 600
 

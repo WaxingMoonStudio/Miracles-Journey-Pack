@@ -24,17 +24,12 @@
 [XP] Nether Cave Fix:true
 [XP] Disable Xaero Internet Access:false
 [XP] Expanded Setting Entries:false
+[XP] Sodium/Embeddium Setting Integration:true
 [XP] Palette NewChunks:false
 [XP] Save/Load Palette NewChunks to Disk:true
 [XP] Palette NewChunks Opacity:100.0
 [XP] Palette NewChunks Color:0
 [XP] Palette NewChunks Inverse:false
-[XP] NewChunks Highlighting:false
-[XP] Save/Load NewChunks to Disk:true
-[XP] New Chunks Opacity:100.0
-[XP] New Chunks Color:0
-[XP] New Chunks Render Inverse:false
-[XP] New Chunks Inverse Color:1
 [XP] OldChunks Highlighting:false
 [XP] OldChunks Inverse:false
 [XP] Save/Load OldChunks to Disk:true
@@ -44,6 +39,13 @@
 [XP] Save/Load Portals to Disk:true
 [XP] Portal Highlights Opacity:100.0
 [XP] Portal Highlights Color:5
+[XP] NewChunks Highlighting:false
+[XP] Save/Load NewChunks to Disk:true
+[XP] New Chunks Opacity:100.0
+[XP] New Chunks Color:0
+[XP] New Chunks Render Inverse:false
+[XP] New Chunks Inverse Color:1
+[XP] Liquid NewChunks Only Y > 0:false
 [XP] WorldTools Highlights:true
 [XP] WorldTools Highlights Opacity:100.0
 [XP] WorldTools Highlights Color:1
