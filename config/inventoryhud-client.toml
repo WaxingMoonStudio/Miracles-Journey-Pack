@@ -77,7 +77,7 @@
 	#Show Potion HUD when debug menu is open
 	potWithDebug = true
 	#Show all levels of effects
-	potionLevels = false
+	potionLevels = true
 
 #DONT TOUCH THESE FIELDS!
 [positions]

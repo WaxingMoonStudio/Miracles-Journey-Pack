@@ -23,6 +23,7 @@
 - 丰富云层表现 --- SuperFancyCloudsRearchitected
 - 添加了水气球 --- WaterBalloon
 - 新增动态光源 --- DynamicLights
+- 使用新一代物品 / 配方管理器 --- Emi
 
 ### 可选
 
@@ -66,6 +67,7 @@
 - 内容与 Tetranomicon 重复 --- DimensionalAscensionBlueSkiesTetraCompatibility
 - 快捷键不灵敏 --- ToolBelt
 - 机械动力最新版本已修复 --- CreateTrainPerspective
+- 与 Emi 不兼容 --- ItemZoom
 
 ### 可选
 
@@ -126,7 +128,7 @@
 
 **Decoration | 装饰**
 
-- ArmourersWorkshop --- V3.0.0beta10 -> V3.0.0beta16
+- ArmourersWorkshop --- V3.0.0beta10 -> V3.0.0beta17
 - CreateCopycats+ --- V2.0.5 -> V2.1.4
 - CreateEncased --- V1.6.1 -> V1.6.1fix3
 - LimitlessConcert --- V1.2.3 -> V1.9.1
@@ -146,7 +148,7 @@
 **Magic | 魔法**
 
 - Botania --- V440 -> V440.2
-- Goety --- V2.37.0 -> V2.40.1
+- Goety --- V2.37.0 -> V2.40.2
 - IronsSpellsNSpellbooks --- V3.3.0 -> V3.4.0
 
 **Technology | 科技**
