@@ -105,6 +105,7 @@
 **Assist | 辅助**
 
 - AdvancedBackups --- V3.6 -> V3.6.3
+- AlmostUnified --- V0.8.1 -> V0.8.2
 - ChatHeads --- V0.12.9 -> V0.13.0
 - CreateTrainPerspective --- V0.5.0 -> V1.0.0
 - CrosshairBobbing --- V1.7 -> V1.9
@@ -112,6 +113,7 @@
 - ImmediatelyFast --- V1.2.18 -> V1.2.21
 - InventoryHUD+ --- V3.4.24 -> V3.4.26
 - Iris&OculusFlywheelCompat --- V0.2.1 -> V1.0.3
+- JustEnoughItems --- V11.6.0.1024 -> V11.8.0.1030
 - ModpackUpdateChecker --- V0.13.0 -> V0.15.2
 - Neruina --- V2.1.0 -> V2.1.2
 - NotEnoughAnimations --- V1.7.4 -> V1.7.6
@@ -135,6 +137,8 @@
 - MacawsWindows --- V2.2.1 -> V2.3.0
 - StorageDelight --- V1.1.1 -> V24.8.1
 - WaterFrames --- V2.0.14 -> V2.1.5
+- YuushyaModelling --- V2.0.0 -> V2.2.0
+- YuushyaTownscape --- V2.1.1 -> V2.2.0
 
 **Lib | 库**
 
@@ -154,7 +158,7 @@
 **Technology | 科技**
 
 - Create --- V0.5.1f -> V0.5.1h
-- CreateJetpack --- V3.3.1 -> V3.4.1
+- CreateJetpack --- V3.3.1 -> V3.4.2
 - CreateTheFactoryMustGrow --- V0.9.0d -> V0.9.2
 - CreateVintageImprovements --- V0.1.6.0 -> V0.2.0.3
 
@@ -162,11 +166,12 @@
 
 - Corpse --- V1.0.12 -> V1.0.14
 - CreateBigCannons --- V5.5.0 -> V5.5.1
+- CreateSlice&Dice --- V2.3.3 -> V2.4.0
 - CreateSteamNRails --- V1.6.4 -> V1.6.5
 - MusicMakerMod --- V1.1.0 -> V1.1.1
 - SimpleHats --- V0.3.1 -> V0.3.2
 - StorageDrawers --- V11.1.2 -> V11.4.1
-- TouhouLittleMaid --- V1.1.11 -> V1.1.12hotfix
+- TouhouLittleMaid --- V1.1.11 -> V1.1.12hotfix2
 - UtilitiX --- V0.7.15 -> V0.7.16
 - Wares --- V1.2.8 -> V1.2.9
 
