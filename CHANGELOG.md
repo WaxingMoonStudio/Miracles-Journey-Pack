@@ -181,8 +181,9 @@
 
 ## 资源包更新
 
+- AssortedAllays --- V5.0 -> V6.0
 - CubicSun&Moon --- Vb1.7.4 -> V1.8
-- FancyBeds --- V3.1 -> V3.2
+- FancyBeds --- V3.1 -> V3.3
 - SpryzeensBetterGlint --- V1,5 -> V2.0
 
 ## 数据包更新
