@@ -44,8 +44,7 @@
 - 优化树叶腐烂逻辑 --- SeparatedLeaves
 - 替换 Armor&DamageScaling --- ArmorCurve
 - 替换旧版 MrCrayfishsFurnitureMod --- MrCrayfishsFurnitureModRefurbished
-- 更新游戏图标 --- FancyMenu
-- 更新启动器 --- PCL
+- 更新 Forge 至 43.3.4 --- Forge
 
 ### 可选
 
@@ -106,10 +105,10 @@
 
 - AdvancedBackups --- V3.6 -> V3.6.3
 - AlmostUnified --- V0.8.1 -> V0.8.2
-- ChatHeads --- V0.12.9 -> V0.13.0
+- ChatHeads --- V0.12.9 -> V0.13.2
 - CreateTrainPerspective --- V0.5.0 -> V1.0.0
 - CrosshairBobbing --- V1.7 -> V1.9
-- HarvestWithEase --- V9.0.1 -> V9.1.1
+- HarvestWithEase --- V9.0.1 -> V9.2.0
 - ImmediatelyFast --- V1.2.18 -> V1.2.21
 - InventoryHUD+ --- V3.4.24 -> V3.4.26
 - Iris&OculusFlywheelCompat --- V0.2.1 -> V1.0.3
@@ -121,7 +120,7 @@
 - Raised --- V3.1.3 -> V4.0.0
 - XaerosMinimap --- V24.2.0 -> V24.4.0
 - XaerosWorldMap --- V1.38.8 -> V1.39.0
-- XaeroPlus --- V2.19 -> V2.23.2
+- XaeroPlus --- V2.19 -> V2.24
 
 **Custom | 魔改**
 
@@ -130,7 +129,7 @@
 
 **Decoration | 装饰**
 
-- ArmourersWorkshop --- V3.0.0beta10 -> V3.0.0beta17
+- ArmourersWorkshop --- V3.0.0beta10 -> V3.0.0beta18
 - CreateCopycats+ --- V2.0.5 -> V2.1.4
 - CreateEncased --- V1.6.1 -> V1.6.1fix3
 - LimitlessConcert --- V1.2.3 -> V1.9.1
@@ -142,7 +141,7 @@
 
 **Lib | 库**
 
-- AzureLib --- V1.0.49 -> V1.0.50
+- AzureLib --- V1.0.49 -> V1.0.52
 - ClothConfigApi --- V8.3.115 -> V8.3.134
 - Framework --- V0.6.16 -> V0.7.12
 - MoonlightLib --- V2.3.6 -> V2.3.7

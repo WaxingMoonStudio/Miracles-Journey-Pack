@@ -167,10 +167,10 @@
 			#Toggle Darkness on Nether dimension
 			enableOnNether = false
 			#Toggle darkness when dimension has no SkyLight
-			enableOnNoSkyLight = false
+			enableOnNoSkyLight = true
 			#Disables all bright sources of darkness like moon or fog
 			#Only affects darkness effect
 			enableBlockLightOnly = false
 			#Toggle Darkness on Overworld dimension
-			enableOnOverworld = false
+			enableOnOverworld = true
 

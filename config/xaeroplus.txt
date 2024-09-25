@@ -39,6 +39,10 @@
 [XP] Save/Load Portals to Disk:true
 [XP] Portal Highlights Opacity:100.0
 [XP] Portal Highlights Color:5
+[XP] Old Biomes:false
+[XP] Save/Load OldBiomes To Disk:true
+[XP] OldBiomes Opacity:100.0
+[XP] OldBiomes Color:1
 [XP] NewChunks Highlighting:false
 [XP] Save/Load NewChunks to Disk:true
 [XP] New Chunks Opacity:100.0
@@ -59,6 +63,7 @@
 [XP] 2b2t Highways:false
 [XP] 2b2t Highways Color:2
 [XP] 2b2t Highways Opacity:100.0
+[XP] Highlight Shader:true
 [XP] Show Render Distance:false
 [XP] Show Render Distance WorldMap:false
 [XP] Always Render Player Name:true

@@ -35,4 +35,6 @@ blacklist = []
 "area increment step" = "NONE"
 # Whether to use seeds from the player's inventory to replant crops if seeds are not dropped.
 "use seeds from inventory" = true
+# Whether to gather drops near the player when harvesting.
+"gather drops" = false
 
