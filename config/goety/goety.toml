@@ -98,6 +98,9 @@
 	shriekObeliskCost = 100
 	#Whether Shrieking Obelisk can prevent or stop Raids, Default: true
 	ShriekObeliskRaid = true
+	#The amount of Soul Energy used to power the Animator per block distance, Default: 10
+	#Range: > 0
+	animatorCost = 10
 
 ["Soul Taken"]
 	#Multiplies the amount of Souls taken by this amount, Default: 2

@@ -45,10 +45,12 @@
 - 替换 Armor&DamageScaling --- ArmorCurve
 - 替换旧版 MrCrayfishsFurnitureMod --- MrCrayfishsFurnitureModRefurbished
 - 更新 Forge 至 43.3.4 --- Forge
+- GUI 材质包适配 Curios --- GuiRetextures
+- 更改夜晚亮度并使其随月相变化 --- Embeddium++
 
 ### 可选
 
-- 将部分模组移至可选 --- EuphoriaPatches / Iris&OculusFlywheelCompat / Oculus / OculusParticleFix
+- 将部分模组移至可选 --- Iris&OculusFlywheelCompat / Oculus / OculusParticleFix
 
 ## 删除内容
 
@@ -89,15 +91,14 @@
 **Adventure | 冒险**
 
 - DoggyTalentsNext --- V1.18.18 -> V1.18.31
-- Friends&Foes --- V2.0.15 -> V2.0.17
+- Friends&Foes --- V2.0.15 -> V3.0.2
 - RepurposedStructures --- V6.3.28 -> V6.3.29
 - Villages&Pillages --- V1.0.0 -> V1.0.1
 
 **Agriculture | 农业**
 
-- ChatHeads --- V0.12.8 -> V0.12.9
 - CreateGarnished --- V1.8.7 -> V1.9.8
-- MoreDelight --- V240630 -> V240916
+- MoreDelight --- V240630 -> V240927
 - MyNethersDelight --- V1.7.5 -> V1.7.6
 - RavenCoffee --- V0.5.0 -> V0.5.2
 
@@ -105,7 +106,7 @@
 
 - AdvancedBackups --- V3.6 -> V3.6.3
 - AlmostUnified --- V0.8.1 -> V0.8.2
-- ChatHeads --- V0.12.9 -> V0.13.2
+- ChatHeads --- V0.12.8 -> V0.13.3
 - CreateTrainPerspective --- V0.5.0 -> V1.0.0
 - CrosshairBobbing --- V1.7 -> V1.9
 - HarvestWithEase --- V9.0.1 -> V9.2.0
@@ -151,7 +152,7 @@
 **Magic | 魔法**
 
 - Botania --- V440 -> V440.2
-- Goety --- V2.37.0 -> V2.40.2
+- Goety --- V2.37.0 -> V2.41.0
 - IronsSpellsNSpellbooks --- V3.3.0 -> V3.4.0
 
 **Technology | 科技**
@@ -193,5 +194,6 @@
 
 - BlissShaders --- V0708 -> V0827
 - BslShadersOriginal --- V8.2.09 -> V8.3
+- Complementary Reimagined / Unbound + EuphoriaPatches --- V5.2.2 + 1.3.2 -> V5.3 + 1.4.1
 - MakeUpUltraFast --- V8.9f -> V9.0a
 - Photon --- V0620 -> V0817
