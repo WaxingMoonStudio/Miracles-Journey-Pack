@@ -8,7 +8,7 @@
 
 ### 可选
 
-- 暂无
+- 新增 iterationT - 3.2.0 光影 --- Shaderpacks
 
 ## 修改内容
 
@@ -18,7 +18,7 @@
 
 ### 可选
 
-- 暂无
+- 优化布局 --- Optional
 
 ## 删除内容
 
@@ -57,6 +57,8 @@
 
 - CreateEnchantableMachinery --- V1.7.4 -> V1.8.4
 - Emi --- V1.1.13 --- V1.1.14
+- JustEnoughCharacters --- V4.5.9 -> V4.5.13
+- JustEnoughItems --- V11.8.0.1030 -> V11.8.1.1031
 - RawsVisualKeybinder --- V0.1.5 -> V0.1.6
 - XaeroPlus --- V2.24 -> V2.24.3
 - XaerosMinimap --- V24.4.0 -> V24.5.0
@@ -71,6 +73,7 @@
 
 **Lib | 库**
 
+- AzureLib --- V1.0.52 -> V1.0.54
 - WaterMedia --- V2.0.71 -> V2.0.72
 
 **Magic | 魔法**

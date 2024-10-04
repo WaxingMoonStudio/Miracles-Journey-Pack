@@ -1,0 +1,37 @@
+This project wouldn't have been possible without these awesome people:
+- isuewo - Former co-developer of Euphoria Patches
+- EminGT - The developer of Complementary Shaders, a very patient individual and is always willing to help. Plus he also made Complementary :p
+- Capt Tatsu - Screenspace Multi-Colored Blocklight
+- gri573 - End Crystal Vortex effect, Dragon Death Effect, End Portal Rays, Renko's Cut - Guidance and assistance in many areas! Has been a huge help.
+- SixthSurge, WoMspace (aka Sasha), Septonious, fayer3 - Always there to help
+- Xonk for the directional lightning bolts and being amazing!
+- Memokii - Euphoria Patches banner and watermark https://modrinth.com/user/swanslab
+- dragoncat - Overimagined logo and helpful suggestions
+- TheNukeLore - IntegratedPBR Normals Resolution
+- dbrighthd - Fresnel Multiplier
+- Chinese Translation by Surisen (Ruri) https://github.com/NakiriRuri/Minecraft-Shaders-zh_CN-Lang-Files. Translations might be outdated. Can't guaranteed.
+- Acer (Alex) - Polish Translation, a lot of suggestions and helpful feedback - Translations might be outdated. Can't be guaranteed.
+- Folox_ - Russian Translation - Translations might be outdated. Can't be guaranteed.
+- Helgust - Initial Code for Pixelated Procedural Water Option
+
+Properties Files:
+People who helped create the community made properties files can be found here: https://github.com/EuphoriaPatches/propertiesFiles/graphs/contributors
+Unfortunately this only includes those who made PR's, I can't track all people down who sent me the file another way but you are all still very much appreciated!
+
+Other honorable mentions:
+- IMS
+- sp614x
+- coderbot
+- motyl
+- TajemnikTV
+- Eclipse
+- Jeremy Elbertson
+- Chareflex77
+- Slooshie
+- Sulpherstaer
+- Tigerblood
+- Renko
+- Baconbacon123
+- LilyBot :ioa:
+
+And all the amazing people who are part of this community and helped with suggestions, bug reports or other ways!
