@@ -36,6 +36,8 @@
 	#If enabled the server will check permission node in the each operation.
 	#Highly recommended in the forge server.
 	enablePermissionCheck = true
+	#If enabled the server will allow client use server skins in the resource pack.
+	enableServerSkinsInResourcePack = false
 
 #Setting for the players wardrobe.
 [wardrobe]

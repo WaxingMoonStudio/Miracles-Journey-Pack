@@ -76,10 +76,12 @@
 [XP] Save/Load OldBiomes To Disk:true
 [XP] Always Render Player Name:true
 [XP] Waypoint Beacon Scale Min:0.0
+[XP] Show World Border:false
 [XP] Baritone Goal Waypoint:true
 [XP] Fix Main Entity Dot:true
 [XP] Liquid NewChunks Only Y > 0:false
 [XP] 2b2t Highways Opacity:100.0
+[XP] Show World Border WorldMap:false
 [XP] PortalSkip Portal Radius:15.0
 [XP] Save/Load OldChunks to Disk:true
 [XP] Always Render Player Icon:true

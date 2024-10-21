@@ -81,6 +81,14 @@
 			#Range: 1.0 ~ 1.7976931348623157E308
 			wildfireRangeDamage = 10.0
 
+		[Attributes.Cultists."Obsidian Monolith"]
+			#How much Max Health Obsidian Monolith have, Default: 50.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			obsidianMonolithHealth = 50.0
+			#How much natural armor points Obsidian Monolith have, Default: 12.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			obsidianMonolithArmor = 12.0
+
 	[Attributes.Illagers]
 		#How much Max Health Conquillager have, Default: 24.0
 		#Range: 1.0 ~ 1.7976931348623157E308

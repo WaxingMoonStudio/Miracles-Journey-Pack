@@ -15,6 +15,3 @@ com.jab125.mpuc.client.gui.screen.changelog.NewChangelogScreen {
 net.minecraft.client.gui.screens.PauseScreen {
 }
 
-net.minecraft.client.gui.screens.packs.PackSelectionScreen {
-}
-

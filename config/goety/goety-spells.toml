@@ -933,7 +933,7 @@
 		#Time to cast Quaking Spell, Default: 20
 		#Range: 0 ~ 72000
 		quakingTime = 20
-		#Quaking Spell Cooldown, Default: 0
+		#Quaking Spell Cooldown, Default: 100
 		#Range: > 0
 		quakingCoolDown = 0
 		#How much base damage Quaking Spell deals, Default: 4.0
@@ -1071,6 +1071,64 @@
 		#How much base damage Poison Quills deals, Default: 2.5
 		#Range: 1.0 ~ 1.7976931348623157E308
 		poisonDartDamage = 2.5
+
+	[Spells."Burrowing Spell"]
+		#Burrowing Spell Cost per second, Default: 4
+		#Range: > 0
+		burrowingCost = 4
+		#How many ticks the Burrowing Spell much charge before casting, Default: 0
+		#Range: > 0
+		burrowingCoolDown = 0
+		#The initial breaking speed of the Burrowing spell, the lower the value the quicker, Default: 4
+		#Range: > 0
+		burrowingInitialSpeed = 4
+
+	[Spells."Trembling Spell"]
+		#Trembling Spell Cost, Default: 8
+		#Range: > 0
+		tremblingCost = 8
+		#Time to cast Trembling Spell, Default: 0
+		#Range: 0 ~ 72000
+		tremblingTime = 0
+		#Trembling Spell Cooldown, Default: 200
+		#Range: > 0
+		tremblingCoolDown = 200
+
+	[Spells."Blossoming Spell"]
+		#Blossoming Spell Cost, Default: 32
+		#Range: > 0
+		blossomCost = 32
+		#Time to cast Blossoming Spell, Default: 40
+		#Range: 0 ~ 72000
+		blossomTime = 40
+		#Blossoming Spell Cooldown, Default: 200
+		#Range: > 0
+		blossomCoolDown = 200
+		#How much base damage Blossoming Balls and Thorns deals, Default: 6.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		blossomDamage = 6.0
+
+	[Spells."Troop Spell"]
+		#Troop Spell Cost, Default: 32
+		#Range: > 0
+		troopCost = 32
+		#Time to cast Troop Spell, Default: 100
+		#Range: 0 ~ 72000
+		troopTime = 100
+		#Troop Spell Cooldown, Default: 20
+		#Range: > 0
+		troopCoolDown = 20
+
+	[Spells."Crafting Spell"]
+		#Crafting Spell Cost, Default: 2
+		#Range: > 0
+		craftingCost = 2
+		#Time to cast Crafting Spell, Default: 0
+		#Range: 0 ~ 72000
+		craftingDuration = 0
+		#Crafting Spell Cooldown, Default: 20
+		#Range: > 0
+		craftingCoolDown = 20
 
 ["Servant Limits"]
 	#Total number of Redstone Golems an individual player can have, Default: 2

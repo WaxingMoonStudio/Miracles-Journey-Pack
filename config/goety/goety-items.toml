@@ -195,6 +195,9 @@
 		#How fast it takes to fully swing a Hammers. The lower the number the slower it takes to recharge, Default: 0.5
 		#Range: 0.0 ~ 1.7976931348623157E308
 		hammerAttackSpeed = 0.6
+		#How many uses before Hammers breaks, Default: 2500
+		#Range: > 1
+		hammerDurability = 2500
 
 [Armor]
 

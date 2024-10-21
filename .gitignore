@@ -12,6 +12,8 @@
 
 /backups
 
+/caxton_cache
+
 # /config - 部分
 /config/blockswap/known_states
 /config/starterkit/starterkit-old*.txt
@@ -122,6 +124,8 @@
 # /.gitignore
 
 /.qmenu_opened.marker
+
+/caxton_impl.dll
 
 # /CHANGELOG.md
 
