@@ -583,6 +583,17 @@
         "value": 100
       }
     },
+    "forge:block_reach": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "astral:generic.astral_attack_damage": {
       "enabled": false,
       "min": {
@@ -647,6 +658,17 @@
       "max": {
         "default": 2048,
         "value": 1000000
+      }
+    },
+    "forge:attack_reach": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "irons_spellbooks:ender_magic_resist": {
