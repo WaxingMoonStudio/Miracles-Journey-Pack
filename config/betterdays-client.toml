@@ -14,4 +14,6 @@
 	#As a side-effect, the clock won't wobble when first viewed as it does in vanilla. This setting is
 	#unused if displayBedClock is false.
 	preventClockWobble = true
+	#This setting blacklists the sky rendering for specific dimensions. Like in the Aether if using /time set command, the sky jitters. Adding to the blacklist will prevent this behavior.
+	blacklistDimensions = ["aether:the_aether"]
 

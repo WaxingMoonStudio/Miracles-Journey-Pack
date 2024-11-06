@@ -16,10 +16,29 @@
 - 尝试修复假死实体 --- PotatoNaNHealthFix
 - 提供用于标记存储类型的标签 --- StorageLabels
 - 添加了可以立即使植物成熟的高级骨粉 --- Growmeal
-- 优化世界加载页面 --- SeamlessLoadingScreen
 - 优化世界选择界面 --- ModernWorldCreation
+- 给稀有物品添加彩色边框 --- ItemBorders
+- 增加了一套增益性潜水装备 --- ScubaGear
+- 便利备份管理 --- BackupManager
+- 通过绕过反向 DNS 检查加快约 1 秒至 5 秒的服务器 IP 解析时间 --- FastIpPing
+- 添加音量控制功能 --- ExtremeSoundMuffler
+- 添加界面进入提醒 --- Ding
+- 添加界面背景模糊 --- Blur
+- 可以在聊天栏用鼠标悬浮显示图片 --- ChatImage
+- 允许玩家便捷地将屏幕截图通过 ChatImage 分享到聊天栏 --- ScreenshotSharing
+- 为超多生物群系添加了对于其他模组的兼容 --- CompatOPlenty
+- 添加了大量专为建筑玩家打造的全新建材 --- Twigs
+- 添加了多个新的生物变体 --- Variants&Ventures
+- 丰富机械动力的内饰方块 --- CreateInteriors
+- 添加了一座来自原末地：创世的宏伟的城堡 --- TheLostCastle
+- 使玩家能够用紫水晶升级自己的装备，并赋予这种资源新生 --- AmethystToolsMod
+- 加入了下界合金增强中的下界合金物品 --- UpgradedNetheriteItems
+- 添加两个友好的幽灵 --- Ghost
+- 以可信的方式添加许多与 Meme 相关的元素 --- Yippee
+- 新前置 --- iChunUtil
 - 优化 MeetYourFight 贴图 --- EnhancedMeetYourFight
 - 优化结构内战利品表 --- LootIntegrations / DungeonsEnhancedLootintegrationsAddon / YungStructuresAddonforLootIntegrations
+- 优化 BetterVillages 和 MoreVillagers & ImmersiveEngineering 的兼容性 --- BetterVillagesMoreVillagersCompatibility / BetterVillagesImmersiveEngineeringCompatibility
 
 ## 修改内容
 
@@ -29,7 +48,7 @@
 
 ## 删除内容
 
-- 删除 Emi --- Emi
+- 删除 Emi，额外的功能不值得更多的内存牺牲 --- Emi
 - 删除动态光源，推荐使用光影自带的动态光源效果 --- DynamicLights
 
 ## 错误修复
@@ -51,10 +70,13 @@
 
 **Assist | 辅助**
 
+- AdditionalPlacements --- V1.8.0 -> V2.0.8
+- BetterDays --- V3.1.0.6 -> V3.1.1.0
 - ChatHeads --- V0.13.3 -> V0.13.4
 - CreateEnchantableMachinery --- V1.7.4 -> V1.8.4
+- CustomSkinLoader --- V14.20 -> V14.21
 - DrippyLoadingScreen --- V3.0.1 -> V3.0.9
-- ImmediatelyFast --- V1.2.21 -> V1.3.0
+- ImmediatelyFast --- V1.2.21 -> V1.3.1
 - Iris&OculusFlywheelCompat --- V1.0.3 -> V1.0.3b
 - I18nUpdateMod --- V3.3.5 -> V3.6.0
 - JustEnoughCharacters --- V4.5.9 -> V4.5.13
@@ -63,8 +85,8 @@
 - ParCool --- V3.3.0.1 -> V3.3.0.2
 - RawsVisualKeybinder --- V0.1.5 -> V0.1.6
 - TaxFreeLevels --- V1.3.13 -> V1.4.1
-- XaeroPlus --- V2.24 -> V2.24.4
-- XaerosMinimap --- V24.4.0 -> V24.5.0
+- XaeroPlus --- V2.24 -> V2.24.5
+- XaerosMinimap --- V24.4.0 -> V24.6.1
 
 **Custom | 魔改**
 
@@ -74,13 +96,14 @@
 **Decoration | 装饰**
 
 - ArmourersWorkshop --- V3.0.0beta18 -> V3.0.0beta23
-- EuphoriaPatches --- V0.3.4 -> V1.4.1r5.3
+- EuphoriaPatches --- V0.3.4 -> V1.4.3r5.3
 - YuushyaTownscape --- V2.2.0 -> V2.2.2
 
 **Lib | 库**
 
 - AzureLib --- V1.0.52 -> V1.0.54
 - CuriosAPI --- V5.1.6.3 -> V5.1.6.4
+- SophisticatedCore --- V0.6.4.605 -> V0.6.4.730
 - WaterMedia --- V2.0.71 -> V2.0.75
 
 **Magic | 魔法**

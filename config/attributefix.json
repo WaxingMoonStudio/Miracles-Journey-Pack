@@ -363,6 +363,17 @@
         "value": 100
       }
     },
+    "feathers:feathers.feather_regen": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "paraglider:max_stamina": {
       "enabled": false,
       "min": {
@@ -691,6 +702,17 @@
       "max": {
         "default": 1,
         "value": 1
+      }
+    },
+    "feathers:feathers.max_feathers": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "minecraft:generic.armor": {

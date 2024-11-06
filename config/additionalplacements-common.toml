@@ -1,26 +1,6 @@
 
 #Common settings
 [common]
-	#Automatically generate vertical slabs
-	automatic_slabs = true
-	#Automatically generate vertical stairs
-	automatic_stairs = true
-	#Automatically generate wall and ceiling carpets
-	automatic_carpets = true
-	#Automatically generate wall and ceiling pressure plates
-	automatic_pressure_plates = true
-	#Automatically generate wall and ceiling weighted pressure plates
-	automatic_weighted_pressure_plates = true
-	#Disable automatic vertical slab placement. Use if a mod E.G. DoubleSlabs is conflicting.
-	disable_slab_placement = false
-	#Disable automatic vertical stair placement. Use if a mod is conflicting.
-	disable_stair_placement = false
-	#Disable automatic wall and ceiling carpet placement. Use if a mod is conflicting.
-	disable_carpet_placement = false
-	#Disable automatic wall and ceiling pressure plate placement. Use if a mod is conflicting.
-	disable_pressure_plate_placement = false
-	#Disable automatic wall and ceiling weighted pressure plate placement. Use if a mod is conflicting.
-	disable_weighted_pressure_plate_placement = false
 	#Show tooltip when a block has additional placements
 	tooltip = false
 	#Check for and notify of mismatching tags. Only works when the same option in the server/world config is true.
@@ -32,10 +12,34 @@
 	#The thread priority of the mismatched tag checker. 1 is lowest, 10 is highest, 5 is normal.
 	#Range: 1 ~ 10
 	checker_priority = 1
-	#Blacklist for blocks to not have generated placement variants
-	blacklist = []
-	#Blacklist for mods to not have generated placement variants
-	mod_blacklist = []
-	#Whitelist for blocks from blacklisted mods to still have generated placement variants
-	mod_block_whitelist = []
+
+	#Options for registered block types for additional placement generation.
+	[common.types]
+
+		[common.types.additionalplacements]
+
+			#Slabs
+			[common.types.additionalplacements.slab]
+				#Whether or not to allow for manual placement of the additional placement variants of this block type.
+				enable_placement = true
+
+			#Stairs
+			[common.types.additionalplacements.stairs]
+				#Whether or not to allow for manual placement of the additional placement variants of this block type.
+				enable_placement = true
+
+			#Carpets
+			[common.types.additionalplacements.carpet]
+				#Whether or not to allow for manual placement of the additional placement variants of this block type.
+				enable_placement = true
+
+			#Regular pressure plates
+			[common.types.additionalplacements.pressure_plate]
+				#Whether or not to allow for manual placement of the additional placement variants of this block type.
+				enable_placement = true
+
+			#Weighted pressure plates
+			[common.types.additionalplacements.weighted_pressure_plate]
+				#Whether or not to allow for manual placement of the additional placement variants of this block type.
+				enable_placement = true
 
