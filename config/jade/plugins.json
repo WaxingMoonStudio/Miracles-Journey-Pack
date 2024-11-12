@@ -66,6 +66,9 @@
     "registry_name": "OFF",
     "mod_name": false
   },
+  "platforms": {
+    "hud": true
+  },
   "utilitix": {
     "experience_crystal": true,
     "linked_repeater": true,

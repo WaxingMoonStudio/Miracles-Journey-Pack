@@ -35,7 +35,33 @@
 - 加入了下界合金增强中的下界合金物品 --- UpgradedNetheriteItems
 - 添加两个友好的幽灵 --- Ghost
 - 以可信的方式添加许多与 Meme 相关的元素 --- Yippee
-- 新前置 --- iChunUtil
+- 扩展 Minecraft 中经典C418风格的音乐 --- Anchor
+- 增加了海龟装备，包括胸甲、护腿、靴子 --- FullTurtleArmor
+- 日志管理 --- LogBegone
+- 添加了可以自定义功能的平台 --- Platforms
+- 沉浸工程的一个附属，专注于红石控制和自动化 --- ControlEngineering
+- 添加了火枪 --- EwewukeksMusketMod
+- 一个好看的流体存储替代品 --- ITank
+- 对原版进行了许多微调并增加了一些小特性 --- Forgery
+- 对搬家友好的打包方式 --- PackingTape
+- 添加了蓬松蒲公英 --- JustDandy
+- 在RS终端里添加了一个可以打开合成监控处理器界面的按钮 --- RSCraftingMonitorInGrid
+- 添加了类似基岩版在方块边缘放置方块的功能 --- BridgingMod
+- 为矿石和生物掉落等自然资源添加了 JEI 集成 --- JustEnoughResources
+- 增强 JER 对更多模组的兼容性 --- JerIntegration
+- 优化了原版的经验修补附魔的生效机制 --- BetterThanMending
+- 通过调用 Windows 系统中超级任务栏的相关 API 来达成适配系统超级任务栏的目的 --- BetterTaskbar
+- 在游戏中添加八种强大的僵尸变种 --- RottenCreatures
+- 添加更多需要玩家亲自去寻找的物品和像原版的三叉戟一样具有独特噱头的强大战利品 --- Omnis
+- 为农夫乐事和沉浸工程当中的内容进行了一些兼容性调整 --- EngineersDelight
+- 添加了自动合成器 --- CraftingAutomat
+- 添加了行李箱 --- Luggage
+- 可使你安全地存储大量物品 --- Monobank
+- 允许你通过特殊的画作来穿梭到不同的维度 --- DimensionalPaintings
+- 允许玩家通过简单的配置项将物品附魔排序，以符合个人的阅读习惯 --- EnchantmentSort
+- 让火焰附加附魔支持横扫攻击 --- FlameSweepingPotatoEdition
+- 让 TP 更加符合原版玩法，不用依赖插件来给玩家提供 TP / TPA 命令 --- Telepass
+- 新前置 --- iChunUtil / LodestoneLib
 - 优化 MeetYourFight 贴图 --- EnhancedMeetYourFight
 - 优化结构内战利品表 --- LootIntegrations / DungeonsEnhancedLootintegrationsAddon / YungStructuresAddonforLootIntegrations
 - 优化 BetterVillages 和 MoreVillagers & ImmersiveEngineering 的兼容性 --- BetterVillagesMoreVillagersCompatibility / BetterVillagesImmersiveEngineeringCompatibility
@@ -50,6 +76,7 @@
 
 - 删除 Emi，额外的功能不值得更多的内存牺牲 --- Emi
 - 删除动态光源，推荐使用光影自带的动态光源效果 --- DynamicLights
+- 删除 AdditionalPlacements，与机械动力伪装板功能冲突 --- AdditionalPlacements
 
 ## 错误修复
 
@@ -74,14 +101,15 @@
 - BetterDays --- V3.1.0.6 -> V3.1.1.0
 - ChatHeads --- V0.13.3 -> V0.13.4
 - CreateEnchantableMachinery --- V1.7.4 -> V1.8.4
-- CustomSkinLoader --- V14.20 -> V14.21
+- CustomSkinLoader --- V14.20 -> V14.21.1
 - DrippyLoadingScreen --- V3.0.1 -> V3.0.9
-- ImmediatelyFast --- V1.2.21 -> V1.3.1
+- ImmediatelyFast --- V1.2.21 -> V1.3.2
 - Iris&OculusFlywheelCompat --- V1.0.3 -> V1.0.3b
 - I18nUpdateMod --- V3.3.5 -> V3.6.0
 - JustEnoughCharacters --- V4.5.9 -> V4.5.13
 - JustEnoughItems --- V11.8.0.1030 -> V11.8.1.1034
 - ModernFix --- V5.18.0 -> V5.18.1
+- NotEnoughAnimations --- V1.7.6 -> V1.8.1
 - ParCool --- V3.3.0.1 -> V3.3.0.2
 - RawsVisualKeybinder --- V0.1.5 -> V0.1.6
 - TaxFreeLevels --- V1.3.13 -> V1.4.1
@@ -97,6 +125,7 @@
 
 - ArmourersWorkshop --- V3.0.0beta18 -> V3.0.0beta23
 - EuphoriaPatches --- V0.3.4 -> V1.4.3r5.3
+- MrCrayfishsFurnitureModRefurbished --- V1.0.6 -> V1.0.8
 - YuushyaTownscape --- V2.2.0 -> V2.2.2
 
 **Lib | 库**
